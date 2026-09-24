@@ -1,0 +1,16 @@
+﻿.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+
+data/raw/*.pdf
+data/processed/vector_db/
+data/processed/vector_db_backup/
+
+data/raw/*.pdf
+data/processed/vector_db/
+data/processed/vector_db_backup/

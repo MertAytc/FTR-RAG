@@ -1,0 +1,339 @@
+{
+  "benchmark_name": "FTR-RAG 33 Soruluk Yeni Tek-Gold Retrieval Benchmark",
+  "version": "1.0",
+  "purpose": "Chunking ve retrieval karşılaştırmalarında cevap içeriği tek bir açık gold chunk tarafından doğrudan desteklenen sorularla kontrollü test.",
+  "total_questions": 33,
+  "gold_policy": "Her soru tam olarak bir gold chunk içerir. Gold chunk, sorunun cevabını doğrudan ve açık biçimde içeren chunk olarak seçilmiştir.",
+  "questions": [
+    {
+      "id": "NEW-001",
+      "category": "Low Back Pain",
+      "question": "WHO'nun kronik primer bel ağrısı için rehabilitasyon paketinin hedef popülasyonu nasıl tanımlanmaktadır?",
+      "gold_chunk_ids": [
+        "02_WHO_PIR_Module2_Musculoskeletal_chunk_0010"
+      ],
+      "answer": "Kronik primer bel ağrısı olan yetişkinler; bacak ağrısı eşlik edebilir veya etmeyebilir.",
+      "source": "02_WHO_PIR_Module2_Musculoskeletal"
+    },
+    {
+      "id": "NEW-002",
+      "category": "Low Back Pain",
+      "question": "Kronik bel ağrısında öz-yönetimi desteklemek için WHO paketinde hangi iki eğitim yaklaşımı açıkça listelenmektedir?",
+      "gold_chunk_ids": [
+        "02_WHO_PIR_Module2_Musculoskeletal_chunk_0016"
+      ],
+      "answer": "Sağlık durumunun öz-yönetimi için eğitim, öneri ve destek ile kendi kendine yönlendirilen egzersiz konusunda eğitim ve öneri.",
+      "source": "02_WHO_PIR_Module2_Musculoskeletal"
+    },
+    {
+      "id": "NEW-003",
+      "category": "Low Back Pain",
+      "question": "Bel ağrısı rehabilitasyonunda kendi kendine yönlendirilen egzersiz eğitimi hangi rehabilitasyon alanı altında yer almaktadır?",
+      "gold_chunk_ids": [
+        "02_WHO_PIR_Module2_Musculoskeletal_chunk_0027"
+      ],
+      "answer": "Self-management (öz-yönetim) alanı altında.",
+      "source": "02_WHO_PIR_Module2_Musculoskeletal"
+    },
+    {
+      "id": "NEW-004",
+      "category": "Low Back Pain",
+      "question": "Kronik bel ağrısına bağlı ikincil durumların önlenmesi ve tedavisinde mental sağlık için hangi temel değerlendirme önerilmektedir?",
+      "gold_chunk_ids": [
+        "02_WHO_PIR_Module2_Musculoskeletal_chunk_0029"
+      ],
+      "answer": "Mental sağlığın değerlendirilmesi; özellikle depresyon, anksiyete ve duygusal sıkıntı açısından.",
+      "source": "02_WHO_PIR_Module2_Musculoskeletal"
+    },
+    {
+      "id": "NEW-005",
+      "category": "Osteoarthritis",
+      "question": "WHO'nun osteoartrit rehabilitasyon paketinin hedef popülasyonu nasıl tanımlanmaktadır?",
+      "gold_chunk_ids": [
+        "02_WHO_PIR_Module2_Musculoskeletal_chunk_0038"
+      ],
+      "answer": "Her şiddet ve her eklem bölgesindeki osteoartriti olan yetişkinler; özellikle kalça, diz ve el/bilek osteoartritine odaklanılır.",
+      "source": "02_WHO_PIR_Module2_Musculoskeletal"
+    },
+    {
+      "id": "NEW-006",
+      "category": "Stroke Rehabilitation",
+      "question": "WHO'nun inme rehabilitasyon paketinde hedeflenen yetişkin hasta grubunda hangi üç inme tipi açıkça sayılmaktadır?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0011"
+      ],
+      "answer": "Serebral iskemik inme, intraserebral hemoraji ve subaraknoid hemoraji.",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-007",
+      "category": "Stroke Rehabilitation",
+      "question": "İnme sonrası bilişsel işlevler için değerlendirme ve müdahale olarak hangi uygulamalar listelenmektedir?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0013"
+      ],
+      "answer": "Bilişsel işlev değerlendirmesi, bilişsel eğitim, algısal işlev değerlendirmesi ve biliş için yardımcı ürünlerin kullanımı konusunda eğitim.",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-008",
+      "category": "Stroke Rehabilitation",
+      "question": "İnme sonrası konuşma, dil ve iletişim alanında dil ve konuşmaya yönelik hangi iki terapi türü listelenmektedir?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0014"
+      ],
+      "answer": "Dil terapisi ve konuşma terapisi.",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-009",
+      "category": "Stroke Rehabilitation",
+      "question": "İnme sonrası disfaji yönetiminde temel olarak hangi değerlendirme ve terapi birlikte listelenmektedir?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0015"
+      ],
+      "answer": "Yutmanın değerlendirilmesi ve yutma terapisi.",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-010",
+      "category": "Stroke Rehabilitation",
+      "question": "İnme sonrası motor fonksiyon ve mobilite paketinde denge ve yürüme için hangi eğitimler önerilen müdahaleler arasında yer almaktadır?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0021"
+      ],
+      "answer": "Denge eğitimi ve yürüme eğitimi; ayrıca hareketlilik değerlendirmesi ve mobilite eğitimi de listelenmektedir.",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-011",
+      "category": "Stroke Rehabilitation",
+      "question": "İnme rehabilitasyonunda egzersiz ve fitness alanında hangi iki temel müdahale/evaluasyon çifti bulunmaktadır?",
+      "gold_chunk_ids": [
+        "03_WHO_PIR_Module3_Neurological_chunk_0022"
+      ],
+      "answer": "Egzersiz kapasitesinin değerlendirilmesi ve fitness eğitimi (yürümeyi içerecek şekilde).",
+      "source": "03_WHO_PIR_Module3_Neurological"
+    },
+    {
+      "id": "NEW-012",
+      "category": "Stroke Motor Therapy",
+      "question": "VA/DoD 2024 inme rehabilitasyonu kılavuzunda rhythmic auditory stimulation için önerinin yönü ve amacı nedir?",
+      "gold_chunk_ids": [
+        "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508_chunk_0060"
+      ],
+      "answer": "Motor sonuçları iyileştirmek için yardımcı müdahale olarak önerilmektedir; öneri düzeyi 'weak for' şeklindedir.",
+      "source": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508"
+    },
+    {
+      "id": "NEW-013",
+      "category": "Stroke Motor Therapy",
+      "question": "VA/DoD 2024 kılavuzunda task-specific practice için hasta değerleri ve tercihleri açısından hangi gerekçe vurgulanmaktadır?",
+      "gold_chunk_ids": [
+        "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508_chunk_0092"
+      ],
+      "answer": "Tekniğin bireyselleştirilebilir olması ve hastanın özgül hedeflerine uyarlanabilmesi nedeniyle hastaların genel olarak bu tekniği tercih etmesi vurgulanmaktadır.",
+      "source": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508"
+    },
+    {
+      "id": "NEW-014",
+      "category": "Stroke Motor Therapy",
+      "question": "VA/DoD 2024 kılavuzunda mirror therapy motor sonuçlar ve günlük yaşam aktiviteleri açısından nasıl konumlandırılmıştır?",
+      "gold_chunk_ids": [
+        "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508_chunk_0098"
+      ],
+      "answer": "Motor sonuçları ve günlük yaşam aktivitelerini iyileştirmek için önerilmektedir.",
+      "source": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508"
+    },
+    {
+      "id": "NEW-015",
+      "category": "Stroke Motor Therapy",
+      "question": "VA/DoD 2024 kılavuzunda mirror therapy'nin unilateral spatial neglect üzerindeki amacı nedir?",
+      "gold_chunk_ids": [
+        "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508_chunk_0099"
+      ],
+      "answer": "Unilateral spatial neglect'i iyileştirmek için önerilmektedir.",
+      "source": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508"
+    },
+    {
+      "id": "NEW-016",
+      "category": "Stroke Dysphagia",
+      "question": "İnme sonrası disfajide Shaker veya chin tuck against resistance egzersizleri kılavuzda nasıl önerilmektedir?",
+      "gold_chunk_ids": [
+        "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508_chunk_0422"
+      ],
+      "answer": "Konvansiyonel disfaji tedavisine ek olarak sunulması önerilmektedir; öneri gücü 'weak for'dur.",
+      "source": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508"
+    },
+    {
+      "id": "NEW-017",
+      "category": "Parkinson Disease",
+      "question": "Parkinson hastalığına yönelik fizik tedavi kılavuzu hangi hasta grubuna odaklanmaktadır ve hangi Parkinsonizm gruplarını kapsamamaktadır?",
+      "gold_chunk_ids": [
+        "Physical Therapist Management of Parkinson Disease_chunk_0007"
+      ],
+      "answer": "Erişkin idiopatik, tipik Parkinson hastalığına odaklanır; atipik Parkinsonizm ve diğer nörodejeneratif durumları hedeflemez.",
+      "source": "Physical Therapist Management of Parkinson Disease"
+    },
+    {
+      "id": "NEW-018",
+      "category": "Parkinson Disease",
+      "question": "Parkinson hastalığında dışsal ipuçları (external cueing) hangi iki temel klinik sonucun iyileştirilmesi için önerilmektedir?",
+      "gold_chunk_ids": [
+        "Physical Therapist Management of Parkinson Disease_chunk_0009"
+      ],
+      "answer": "Motor hastalık şiddetini ve freezing of gait'i azaltmak, ayrıca yürüme sonuçlarını iyileştirmek için.",
+      "source": "Physical Therapist Management of Parkinson Disease"
+    },
+    {
+      "id": "NEW-019",
+      "category": "Multiple Sclerosis",
+      "question": "MS ile ilişkili yorgunluğun değerlendirilmesinde yorgunluğun her zaman MS kaynaklı olduğu varsayılmaması neden önemlidir?",
+      "gold_chunk_ids": [
+        "multiple-sclerosis-in-adults-management-pdf-66143828948677_chunk_0022"
+      ],
+      "answer": "Uyku sorunları, ağrı/spastisite/mesane sorunları, ilaç yan etkileri, enfeksiyon/anemi/tiroid bozuklukları ile anksiyete ve depresyon gibi başka nedenler bulunabileceği için.",
+      "source": "multiple-sclerosis-in-adults-management"
+    },
+    {
+      "id": "NEW-020",
+      "category": "Multiple Sclerosis",
+      "question": "MS'ye bağlı yorgunlukta yararlı olabileceği belirtilen egzersiz türleri hangileridir?",
+      "gold_chunk_ids": [
+        "multiple-sclerosis-in-adults-management-pdf-66143828948677_chunk_0023"
+      ],
+      "answer": "Aerobik, direnç ve denge egzersizleri; yoga ve pilates de dahil.",
+      "source": "multiple-sclerosis-in-adults-management"
+    },
+    {
+      "id": "NEW-021",
+      "category": "Multiple Sclerosis",
+      "question": "MS ve orta derecede bozulmuş mobilitesi olan kişilerde (EDSS ≥4) yorgunluk için hangi egzersiz ve davranışsal yaklaşım kombinasyonu düşünülebilir?",
+      "gold_chunk_ids": [
+        "multiple-sclerosis-in-adults-management-pdf-66143828948677_chunk_0023"
+      ],
+      "answer": "Gözetimli aerobik ve orta düzey progresif direnç aktivitesi ile bilişsel davranışçı tekniklerin kombinasyonu.",
+      "source": "multiple-sclerosis-in-adults-management"
+    },
+    {
+      "id": "NEW-022",
+      "category": "Developmental Coordination Disorder",
+      "question": "DCD riski olan veya DCD tanısı bulunan çocuklarda task-oriented müdahaleler hangi temel ilkeye göre uygulanmalıdır?",
+      "gold_chunk_ids": [
+        "physical-therapy-management-of-children-with-developmental_chunk_0027"
+      ],
+      "answer": "Çocuğun hedefleri ve anlamlı aktiviteleri tarafından yönlendirilmelidir; vücut işlevleri/yapılarına yönelik müdahaleler yalnızca bu hedefleri doğrudan destekliyorsa kullanılmalıdır.",
+      "source": "physical-therapy-management-of-children-with-developmental"
+    },
+    {
+      "id": "NEW-023",
+      "category": "Developmental Coordination Disorder",
+      "question": "DCD değerlendirmesinde aktivite sınırlılıkları ve fiziksel performans incelenirken hangi değerlendirme alanlarından en az ikisi açıkça önerilmektedir?",
+      "gold_chunk_ids": [
+        "physical-therapy-management-of-children-with-developmental_chunk_0029"
+      ],
+      "answer": "Katılım ölçümleri, aktivite ölçümleri, hareket analizi/gözlemi; gerektiğinde ekolojik değerlendirme ve vücut işlevleri/yapıları değerlendirmesi.",
+      "source": "physical-therapy-management-of-children-with-developmental"
+    },
+    {
+      "id": "NEW-024",
+      "category": "Developmental Coordination Disorder",
+      "question": "DCD için formal tanıya yönlendirmede DSM-5-TR kriterlerini desteklemek üzere motor performans eksiklikleri için hangi araç önerilmektedir?",
+      "gold_chunk_ids": [
+        "physical-therapy-management-of-children-with-developmental_chunk_0054"
+      ],
+      "answer": "MABC-3.",
+      "source": "physical-therapy-management-of-children-with-developmental"
+    },
+    {
+      "id": "NEW-025",
+      "category": "Developmental Coordination Disorder",
+      "question": "DCD müdahale dozajı konusunda kılavuz tek bir kesin reçete vermek yerine hangi genel uygulama yaklaşımını desteklemektedir?",
+      "gold_chunk_ids": [
+        "physical-therapy-management-of-children-with-developmental_chunk_0085"
+      ],
+      "answer": "Birkaç hafta boyunca sık uygulama yapılmasını veya hedefle ilişkili sonuçlara ulaşılana kadar düzenli pratik planlanmasını; ortalama olarak yaklaşık 100 dakika/hafta ve 9 hafta civarı birikimli pratiğin hedeflenmesini destekler.",
+      "source": "physical-therapy-management-of-children-with-developmental"
+    },
+    {
+      "id": "NEW-026",
+      "category": "Physical Activity – Children",
+      "question": "WHO'ya göre 5–17 yaş çocuk ve ergenlerde haftalık fiziksel aktivite için temel günlük hedef nedir?",
+      "gold_chunk_ids": [
+        "16_WHO_Physical_Activity_Guidelines_2020_chunk_0020"
+      ],
+      "answer": "Hafta boyunca günde ortalama en az 60 dakika orta-yüksek şiddette, çoğunlukla aerobik fiziksel aktivite.",
+      "source": "16_WHO_Physical_Activity_Guidelines_2020"
+    },
+    {
+      "id": "NEW-027",
+      "category": "Physical Activity – Children",
+      "question": "WHO'ya göre çocuk ve ergenlerde sedanter davranış açısından temel öneri nedir?",
+      "gold_chunk_ids": [
+        "16_WHO_Physical_Activity_Guidelines_2020_chunk_0021"
+      ],
+      "answer": "Sedanter geçirilen süre, özellikle rekreasyonel ekran süresi sınırlandırılmalıdır.",
+      "source": "16_WHO_Physical_Activity_Guidelines_2020"
+    },
+    {
+      "id": "NEW-028",
+      "category": "Physical Activity – Adults",
+      "question": "WHO'ya göre 18–64 yaş yetişkinlerde kas güçlendirme aktiviteleri haftada en az kaç gün yapılmalıdır?",
+      "gold_chunk_ids": [
+        "16_WHO_Physical_Activity_Guidelines_2020_chunk_0099"
+      ],
+      "answer": "Haftada en az 2 gün; tüm büyük kas gruplarını içerecek şekilde orta veya daha yüksek şiddette.",
+      "source": "16_WHO_Physical_Activity_Guidelines_2020"
+    },
+    {
+      "id": "NEW-029",
+      "category": "TKA",
+      "question": "Primer, komplikasyonsuz TKA sonrası diz ROM'unu optimize etmek için hangi egzersiz türlerinin birlikte uygulanması önerilmektedir?",
+      "gold_chunk_ids": [
+        "Clinical practice guideline for physical therapist_chunk_0011"
+      ],
+      "answer": "Pasif, aktif-yardımlı ve aktif ROM egzersizleri.",
+      "source": "Clinical practice guideline for physical therapist"
+    },
+    {
+      "id": "NEW-030",
+      "category": "TKA",
+      "question": "Primer, komplikasyonsuz TKA sonrası erken dönemde diz ROM'unu artırmak amacıyla rutin olarak hangi iki uygulamanın kullanılmaması önerilmektedir?",
+      "gold_chunk_ids": [
+        "Clinical practice guideline for physical therapist_chunk_0011"
+      ],
+      "answer": "Continuous passive motion (CPM) ve rutin bracing/splinting.",
+      "source": "Clinical practice guideline for physical therapist"
+    },
+    {
+      "id": "NEW-031",
+      "category": "TKA",
+      "question": "TKA sonrası direnç egzersizinin ilerlemesini yönlendirmek için hangi klinik göstergeler izlenmiştir?",
+      "gold_chunk_ids": [
+        "Clinical practice guideline for physical therapist_chunk_0032"
+      ],
+      "answer": "Ağrı, kasılma/soreness, ROM, şişlik/ödem ve hastanın bildirdiği fonksiyon.",
+      "source": "Clinical practice guideline for physical therapist"
+    },
+    {
+      "id": "NEW-032",
+      "category": "Traumatic Injury",
+      "question": "Uzuv kaybı veya amputasyon sonrası hareket açıklığı ve kuvveti korumak/geliştirmek için rehabilitasyona hangi üç bileşenin dahil edilmesi önerilmektedir?",
+      "gold_chunk_ids": [
+        "rehabilitation-after-traumatic-injury-pdf-66143770162117_chunk_0083"
+      ],
+      "answer": "Egzersiz, mobilite (ameliyat sonrası yara iyileştiğinde erken yürüme yardımcıları dahil) ve pozisyonlama.",
+      "source": "rehabilitation-after-traumatic-injury"
+    },
+    {
+      "id": "NEW-033",
+      "category": "Spinal Cord Injury",
+      "question": "Omurilik yaralanmasında paralize olmayan ve kısmen paralize kasların kuvvetini artırmak için hangi müdahale desteklenmektedir?",
+      "gold_chunk_ids": [
+        "An Australian and New Zealand clinical practice guideline for_chunk_0016"
+      ],
+      "answer": "Kuvvet antrenmanı; hem tamamen innervasyonlu hem de kısmen paralize kaslarda kuvveti artırmak için zayıf kanıt temelli öneri lehinedir.",
+      "source": "An Australian and New Zealand clinical practice guideline"
+    }
+  ]
+}

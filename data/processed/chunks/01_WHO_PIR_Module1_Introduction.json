@@ -1,0 +1,1573 @@
+{
+  "chunker_version": "3.4",
+  "strategy": "structure-aware hierarchical + paragraph/sentence boundaries + fixed-size cap + overlap + context metadata + table-aware",
+  "document": "01_WHO_PIR_Module1_Introduction.pdf",
+  "chunk_count": 52,
+  "toc_pages": 0,
+  "repeated_layout_lines": [],
+  "repaired_word_per_line_pages": [
+    5
+  ],
+  "reclassified_tables": [],
+  "skipped_tiny_tables": [
+    {
+      "page": 16,
+      "table_index": 1,
+      "reason": "below_min_table_chars",
+      "characters": 31
+    },
+    {
+      "page": 18,
+      "table_index": 1,
+      "reason": "below_min_table_chars",
+      "characters": 51
+    }
+  ],
+  "suspicious_headings": [],
+  "orphan_candidates": [
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0001",
+      "page": 1,
+      "estimated_tokens": 13,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0002",
+      "page": 3,
+      "estimated_tokens": 13,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0004",
+      "page": 5,
+      "estimated_tokens": 87,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0006",
+      "page": 8,
+      "estimated_tokens": 712,
+      "local_heading": null,
+      "reason": "semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0008",
+      "page": 9,
+      "estimated_tokens": 118,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0011",
+      "page": 13,
+      "estimated_tokens": 98,
+      "local_heading": "1 Background",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0014",
+      "page": 14,
+      "estimated_tokens": 146,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0017",
+      "page": 16,
+      "estimated_tokens": 114,
+      "local_heading": "2.1 Health conditions",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0019",
+      "page": 17,
+      "estimated_tokens": 127,
+      "local_heading": "2.2 Description of interventions in the Package of",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0022",
+      "page": 19,
+      "estimated_tokens": 138,
+      "local_heading": "2.3 Time required to deliver the intervention",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0026",
+      "page": 21,
+      "estimated_tokens": 116,
+      "local_heading": "3 How to use the Package of",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0028",
+      "page": 21,
+      "estimated_tokens": 80,
+      "local_heading": "3.2 Planning of integration of interventions for",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0030",
+      "page": 22,
+      "estimated_tokens": 77,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0033",
+      "page": 23,
+      "estimated_tokens": 117,
+      "local_heading": "3.3 Workforce training and education",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0035",
+      "page": 24,
+      "estimated_tokens": 43,
+      "local_heading": "4 Methods",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": []
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0038",
+      "page": 27,
+      "estimated_tokens": 42,
+      "local_heading": null,
+      "reason": "very_small_chunk;semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0039",
+      "page": 27,
+      "estimated_tokens": 146,
+      "local_heading": "3 Making fair choices on the path to universal health coverage: final report of the WHO consultative",
+      "reason": "very_small_chunk;semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0040",
+      "page": 27,
+      "estimated_tokens": 40,
+      "local_heading": "11 UHC Compendium. Health interventions for universal health coverage. Geneva: World Health",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0041",
+      "page": 27,
+      "estimated_tokens": 4,
+      "local_heading": "14 Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0042",
+      "page": 28,
+      "estimated_tokens": 37,
+      "local_heading": "16 WHO list of priority medical devices for management of cardiovascular diseases and diabetes. WHO",
+      "reason": "very_small_chunk;semantic_incomplete",
+      "semantic_completeness": "incomplete",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "ends_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0043",
+      "page": 28,
+      "estimated_tokens": 89,
+      "local_heading": "18 Operational framework for primary health care: transforming vision into action. Geneva: World Health",
+      "reason": "very_small_chunk;semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0044",
+      "page": 28,
+      "estimated_tokens": 27,
+      "local_heading": "20 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+      "reason": "very_small_chunk;semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0051",
+      "page": 34,
+      "estimated_tokens": 116,
+      "local_heading": null,
+      "reason": "very_small_chunk",
+      "semantic_completeness": "complete",
+      "semantic_completeness_issues": [
+        "unbalanced_delimiters"
+      ]
+    },
+    {
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0052",
+      "page": 34,
+      "estimated_tokens": 77,
+      "local_heading": "1 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+      "reason": "very_small_chunk;semantic_warning",
+      "semantic_completeness": "warning",
+      "semantic_completeness_issues": [
+        "starts_mid_sentence",
+        "unbalanced_delimiters"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "text": "Package of interventions for\nrehabilitation\nModule 1",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: Package of interventions for\nrehabilitation\nModule 1",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 1,
+        "source_type": "text",
+        "estimated_tokens": 13,
+        "small_chunk": true,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0001"
+    },
+    {
+      "text": "Package of interventions for\n\u0003rehabilitation\nModule 1",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: Package of interventions for\n\u0003rehabilitation\nModule 1",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 3,
+        "source_type": "text",
+        "estimated_tokens": 13,
+        "small_chunk": true,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0002"
+    },
+    {
+      "text": "Package of interventions for rehabilitation. Module 1. Introduction\n(Package of interventions for rehabilitation. Module 1. Introduction – Module 2. Musculoskeletal conditions –\nModule 3. Neurological conditions – Module 4. Cardiopulmonary conditions – Module 5. Neurodevelopmental\ndisorders – Module 6. Sensory conditions – Module 7. Malignant neoplasm – Module 8. Mental health conditions)\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercialUnder the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes,\nprovided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion\nthat WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If\nyou adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If\nyou create a translation of this work, you should add the following disclaimer along with the suggested citation:\n“This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content\nor accuracy of this translation. The original English edition shall be the binding and authentic edition”.\nAny mediation relating to disputes arising under the licence shall be conducted in accordance with the\nSuggested citation. Package of interventions for rehabilitation. Module 1. Introduction. Geneva: World\nHealth Organization; 2023 (Package of interventions for rehabilitation). Licence: CC BY-NC-SA 3.0 IGO.\nThird-party materials. If you wish to reuse material from this work that is attributed to a third party, such as\ntables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and\nparty-owned component in the work rests solely with the user.\nGeneral disclaimers. The designations employed and the presentation of the material in this publication do\nnot imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any\ncountry, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or\nboundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not\nyet be full agreement.\nThe mention of specific companies or of certain manufacturers’ products does not imply that they are\nendorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and\nomissions excepted, the names of proprietary products are distinguished by initial capital letters.\nAll reasonable precautions have been taken by WHO to verify the information contained in this publication.\nHowever, the published material is being distributed without warranty of any kind, either expressed or implied. The\nresponsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for\ndamages arising from its use.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: Package of interventions for rehabilitation. Module 1. Introduction\n(Package of interventions for rehabilitation. Module 1. Introduction – Module 2. Musculoskeletal conditions –\nModule 3. Neurological conditions – Module 4. Cardiopulmonary conditions – Module 5. Neurodevelopmental\ndisorders – Module 6. Sensory conditions – Module 7. Malignant neoplasm – Module 8. Mental health conditions)\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercialUnder the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes,\nprovided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion\nthat WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If\nyou adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If\nyou create a translation of this work, you should add the following disclaimer along with the suggested citation:\n“This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content\nor accuracy of this translation. The original English edition shall be the binding and authentic edition”.\nAny mediation relating to disputes arising under the licence shall be conducted in accordance with the\nSuggested citation. Package of interventions for rehabilitation. Module 1. Introduction. Geneva: World\nHealth Organization; 2023 (Package of interventions for rehabilitation). Licence: CC BY-NC-SA 3.0 IGO.\nThird-party materials. If you wish to reuse material from this work that is attributed to a third party, such as\ntables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and\nparty-owned component in the work rests solely with the user.\nGeneral disclaimers. The designations employed and the presentation of the material in this publication do\nnot imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any\ncountry, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or\nboundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not\nyet be full agreement.\nThe mention of specific companies or of certain manufacturers’ products does not imply that they are\nendorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and\nomissions excepted, the names of proprietary products are distinguished by initial capital letters.\nAll reasonable precautions have been taken by WHO to verify the information contained in this publication.\nHowever, the published material is being distributed without warranty of any kind, either expressed or implied. The\nresponsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for\ndamages arising from its use.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 4,
+        "source_type": "text",
+        "estimated_tokens": 749,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0003"
+    },
+    {
+      "text": "iii Contents Preface\b v Acknowledgements\b vi Executive summary\b viii 1.\nBackground\b 1 2.\nScope of the Package of interventions for rehabilitation\b 4 3.\nHow to use the Package of interventions for rehabilitation\b 9 4.\nMethods\b 12 References\b 15 Annex.\nSelection of guidelines and systematic reviews, data extraction and selection of interventions\b 17",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: iii Contents Preface\b v Acknowledgements\b vi Executive summary\b viii 1.\nBackground\b 1 2.\nScope of the Package of interventions for rehabilitation\b 4 3.\nHow to use the Package of interventions for rehabilitation\b 9 4.\nMethods\b 12 References\b 15 Annex.\nSelection of guidelines and systematic reviews, data extraction and selection of interventions\b 17",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 5,
+        "source_type": "text",
+        "estimated_tokens": 87,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0004"
+    },
+    {
+      "text": "v\nRehabilitation is one of the essential health services included in WHO’s definition of universal\nhealth coverage. It is effective in shortening recovery time, preventing complications related to\nacute and chronic conditions, and improving physical and mental functioning and well-being.\nRehabilitation can enable people to return to and engage in work, community and family life,\nand help to reduce social isolation. Furthermore, rehabilitation empowers people to manage\ntheir health conditions.\nGlobally, one in three people need rehabilitation at some point in their lives, as the result of\ncongenital, acute or chronic health conditions. With the rising prevalence of noncommunicable\ndiseases, ageing populations, and improved survival from injuries, the need for rehabilitation\nservices is expected to increase significantly.\nAlthough WHO recognized rehabilitation as an essential health service more than four decades\nago, there continues to be a large unmet need for rehabilitation, particular in many lowand middle-income countries. Low investment and awareness persist, driven by pervasive\nmisconceptions that rehabilitation is too costly, or simply unfeasible to deliver in low-resource\nsettings. As this document shows, a number of effective interventions for a range of health\nconditions can be applied in such settings.\nThe WHO Package of interventions for rehabilitation outlines the most essential rehabilitation\ninterventions for 20 health conditions that have high prevalence and high levels of associated\ndisability. It also includes information on the workforce needs, and the assistive products,\nequipment and consumables required to deliver these interventions. As such, this document\npresents an indispensable resource for countries when planning for and budgeting the\nintegration of rehabilitation services into their health systems.\nMore than 700 rehabilitation experts, drawn from 90 countries, contributed to the development\nof this resource. The large and enthusiastic participation from experts from around the world\nunderscores the urgent need to enable people to access rehabilitation as quickly as possible.\nThe WHO Package of interventions for rehabilitation marks an important step towards including\nrehabilitation in packages of care as part of universal health coverage, and in realizing the\nvision of the Rehabilitation 2030 Initiative, where every individual has access to the quality\nrehabilitation they need.\nDr Tedros Adhanom Ghebreyesus\nDirector-General\nWorld Health Organization\nPreface",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: v\nRehabilitation is one of the essential health services included in WHO’s definition of universal\nhealth coverage. It is effective in shortening recovery time, preventing complications related to\nacute and chronic conditions, and improving physical and mental functioning and well-being.\nRehabilitation can enable people to return to and engage in work, community and family life,\nand help to reduce social isolation. Furthermore, rehabilitation empowers people to manage\ntheir health conditions.\nGlobally, one in three people need rehabilitation at some point in their lives, as the result of\ncongenital, acute or chronic health conditions. With the rising prevalence of noncommunicable\ndiseases, ageing populations, and improved survival from injuries, the need for rehabilitation\nservices is expected to increase significantly.\nAlthough WHO recognized rehabilitation as an essential health service more than four decades\nago, there continues to be a large unmet need for rehabilitation, particular in many lowand middle-income countries. Low investment and awareness persist, driven by pervasive\nmisconceptions that rehabilitation is too costly, or simply unfeasible to deliver in low-resource\nsettings. As this document shows, a number of effective interventions for a range of health\nconditions can be applied in such settings.\nThe WHO Package of interventions for rehabilitation outlines the most essential rehabilitation\ninterventions for 20 health conditions that have high prevalence and high levels of associated\ndisability. It also includes information on the workforce needs, and the assistive products,\nequipment and consumables required to deliver these interventions. As such, this document\npresents an indispensable resource for countries when planning for and budgeting the\nintegration of rehabilitation services into their health systems.\nMore than 700 rehabilitation experts, drawn from 90 countries, contributed to the development\nof this resource. The large and enthusiastic participation from experts from around the world\nunderscores the urgent need to enable people to access rehabilitation as quickly as possible.\nThe WHO Package of interventions for rehabilitation marks an important step towards including\nrehabilitation in packages of care as part of universal health coverage, and in realizing the\nvision of the Rehabilitation 2030 Initiative, where every individual has access to the quality\nrehabilitation they need.\nDr Tedros Adhanom Ghebreyesus\nDirector-General\nWorld Health Organization\nPreface",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 7,
+        "source_type": "text",
+        "estimated_tokens": 632,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0005"
+    },
+    {
+      "text": "vi\nAcknowledgements\nThe Package of interventions for rehabilitation was developed with the oversight of Alarcos\nCieza, Unit Head, Sensory Functions, Disability and Rehabilitation Unit, WHO Department of\nNoncommunicable Diseases and support from Bente Mikkelsen, Director, WHO Department\nof Noncommunicable Diseases, and Minghui Ren, Assistant Director-General, WHO. The\ndevelopment of the Package of interventions for rehabilitation was coordinated by Alexandra\nRauch, Rehabilitation Programme, Sensory Functions, Disability and Rehabilitation Unit, WHO\nDepartment of Noncommunicable Diseases. The coordination, data preparation and writing\nteam included Zelalem Dessalegn Demeke, Yasaman Etemadi, and Vanessa Seijas of the\nRehabilitation Programme.\nTechnical contribution and review\nThe World Health Organization (WHO) extends its gratitude to all those whose dedicated\nefforts and expertise contributed to this resource. The following WHO staff at headquarters\nand in regional offices, as well as many stakeholder organizations and experts in rehabilitation\nprovided valuable input to its development:\nWHO headquarters\nFrom WHO Sensory Functions, Disability and Rehabilitation Unit: Shelly Chadha (Hearing\nprogramme), Wouter de Groote (Rehabilitation programme, Kaloyan Kamenov (Disability\nprogramme), Stuart Keel (Vision programme), Pauline Kleinitz (Rehabilitation programme),\nQhayiya Magaqa (Rehabilitation programme), Elanie Marks (Rehabilitation programme), JodyAnne Mills (Rehabilitation programme), Pete Skelton (Rehabilitation programme), and Abena\nTannor (Rehabilitation programme). From WHO Health Product Policy and Standards Unit:\nBernadette Capello (Essential Medicine List Team), Benedikt Huttner (Essential Medicine List\nTeam), Lorenzo Moja (Essential Medicine List Team), Giulia Oggero (Assistive technology),\nLouise Puli (Assistive technology), Emma Tebbutt (Assistive technology). From WHO Mental\nHealth and Substance Use Department: Devorah Kestel, Chiara Servili (Brain Health Unit),\nVanessa Cavallera (Brain Health Unit), Tarun Dua (Brain Health Unit), Fahmy Hanna (Mental\nHealth Unit), Nicoline Schiess (Brain Health Unit), Katrin Seeher (Brain Health Unit), Mark van\nOmmeren (Mental Health Unit), Marieke van Regteren Altena (Brain Health Unit). From WHO\nAgeing and Health Unit: Andrew Briggs, Matteo Cessari, Yuka Sumi. From WHO ManagementScreening, Diagnosis and Treatment of Noncommunicable Disease Unit: Andre Ilbawi, Elena\nFidarova, Taskeen Khan, Sarah Rylance, and Slim Slama; From WHO Quality Assurance,\nNorms and Standard Unit: Susan Norris, Rebecca Thomas Bosco. From WHO Classification\nand Terminologies Unit: Robert Jakob, Nenad Konstanjsek. From WHO Clinical Services and\nSystems Unit: John Fogarty, Teri Reynolds. From WHO Analytics and Delivery for Impact Unit:\nMelanie Bertram, Robert Jakob, Nenad Kostanjsek.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: vi\nAcknowledgements\nThe Package of interventions for rehabilitation was developed with the oversight of Alarcos\nCieza, Unit Head, Sensory Functions, Disability and Rehabilitation Unit, WHO Department of\nNoncommunicable Diseases and support from Bente Mikkelsen, Director, WHO Department\nof Noncommunicable Diseases, and Minghui Ren, Assistant Director-General, WHO. The\ndevelopment of the Package of interventions for rehabilitation was coordinated by Alexandra\nRauch, Rehabilitation Programme, Sensory Functions, Disability and Rehabilitation Unit, WHO\nDepartment of Noncommunicable Diseases. The coordination, data preparation and writing\nteam included Zelalem Dessalegn Demeke, Yasaman Etemadi, and Vanessa Seijas of the\nRehabilitation Programme.\nTechnical contribution and review\nThe World Health Organization (WHO) extends its gratitude to all those whose dedicated\nefforts and expertise contributed to this resource. The following WHO staff at headquarters\nand in regional offices, as well as many stakeholder organizations and experts in rehabilitation\nprovided valuable input to its development:\nWHO headquarters\nFrom WHO Sensory Functions, Disability and Rehabilitation Unit: Shelly Chadha (Hearing\nprogramme), Wouter de Groote (Rehabilitation programme, Kaloyan Kamenov (Disability\nprogramme), Stuart Keel (Vision programme), Pauline Kleinitz (Rehabilitation programme),\nQhayiya Magaqa (Rehabilitation programme), Elanie Marks (Rehabilitation programme), JodyAnne Mills (Rehabilitation programme), Pete Skelton (Rehabilitation programme), and Abena\nTannor (Rehabilitation programme). From WHO Health Product Policy and Standards Unit:\nBernadette Capello (Essential Medicine List Team), Benedikt Huttner (Essential Medicine List\nTeam), Lorenzo Moja (Essential Medicine List Team), Giulia Oggero (Assistive technology),\nLouise Puli (Assistive technology), Emma Tebbutt (Assistive technology). From WHO Mental\nHealth and Substance Use Department: Devorah Kestel, Chiara Servili (Brain Health Unit),\nVanessa Cavallera (Brain Health Unit), Tarun Dua (Brain Health Unit), Fahmy Hanna (Mental\nHealth Unit), Nicoline Schiess (Brain Health Unit), Katrin Seeher (Brain Health Unit), Mark van\nOmmeren (Mental Health Unit), Marieke van Regteren Altena (Brain Health Unit). From WHO\nAgeing and Health Unit: Andrew Briggs, Matteo Cessari, Yuka Sumi. From WHO ManagementScreening, Diagnosis and Treatment of Noncommunicable Disease Unit: Andre Ilbawi, Elena\nFidarova, Taskeen Khan, Sarah Rylance, and Slim Slama; From WHO Quality Assurance,\nNorms and Standard Unit: Susan Norris, Rebecca Thomas Bosco. From WHO Classification\nand Terminologies Unit: Robert Jakob, Nenad Konstanjsek. From WHO Clinical Services and\nSystems Unit: John Fogarty, Teri Reynolds. From WHO Analytics and Delivery for Impact Unit:\nMelanie Bertram, Robert Jakob, Nenad Kostanjsek.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 8,
+        "source_type": "text",
+        "estimated_tokens": 712,
+        "small_chunk": false,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0006"
+    },
+    {
+      "text": "vii\nWHO regional offices\nWHO Regional Office for Africa: Binta Sako; WHO Regional Office for the Americas: Antony\nDuttine; WHO Regional Office for South-East Asia: Jagdish Kaur and Tashi Tobgay; WHO\nRegional Office for Europe: Satish Mishra and Cathal Morgan; WHO Regional Office for the\nEastern Mediterranean: Hala Sakr; WHO Regional Office for the Western Pacific: Nathalie\nMaggay and Masahiro Zakoji. Stakeholder organizations\nThe following international associations provided valuable support in identifying members for\nthe development groups and peer review groups for specific health conditions:\nProfessional associations\nAmerican Speech–Language–Hearing Association (ASHA); Association of Rehabilitation Nurses\n(ARN); International Association of Logopedics and Phoniatrics (IALP); International Council of\nNurses (ICN); International Council of Psychologists (ICP); International Society for Prosthetics\nand Orthotics (ISPO); International Society of Nurses on Cancer Care (ISNCC); International\nSociety of Physical and Rehabilitation Medicine (ISPRM); World Federation of Chiropractic\n(WFC); World Federation of Occupational Therapists (WFOT); World Physiotherapy. Nongovernmental organizations\nThe Christoffel-Blindenmission (CBM) International; Humanity & Inclusion (HI); International\nCommittee of the Red Cross (ICRC); International Disability and Development Consortium\n(IDDC); Italian Association Amici di Raoul Follereau (AIFO); Rehabilitation International (RI). Disease-specific associations\nAfrican Spinal Cord Injury Network (AFSCIN); Alzheimer’s Disease International (ADI); Childhood\nCancer International (CCI); Dementia Alliance International (DAI); European Federation of\nNeurological Associations (EFNA); European Respiratory Society (ERS); European Society\nof Gynaecological Oncology (ESGO); Global Alliance for Musculoskeletal Health (G-MUSC);\nInternational Alliance of Academics of Childhood Disability (IAACD); International Association\nfor Child and Adolescent Psychiatry and Allied Professions (IACAPAP); International Association\nfor the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD); International\nCouncil of Cardiovascular Prevention and Rehabilitation (ICCPR); International PsychoOncology Society (IPOS); International Spinal Cord Society (ISCoS); Multinational Association\nof Supportive Care in Cancer (MASCC); Union for International Cancer Control (UICC); World\nAssociation for Psychosocial Rehabilitation (WAPR); World Federation for Neurorehabilitation\n(WFNR); World Psychiatric Association (WPA); World Stroke Organization (WSO). WHO would like to thank Cochrane Rehabilitation for providing considerable support to\nthis project, particularly with regard to the work of the technical working groups. Special\nconsideration goes to Carlotte Kiekens, Stefano Negrini and Michele Patrini.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: vii\nWHO regional offices\nWHO Regional Office for Africa: Binta Sako; WHO Regional Office for the Americas: Antony\nDuttine; WHO Regional Office for South-East Asia: Jagdish Kaur and Tashi Tobgay; WHO\nRegional Office for Europe: Satish Mishra and Cathal Morgan; WHO Regional Office for the\nEastern Mediterranean: Hala Sakr; WHO Regional Office for the Western Pacific: Nathalie\nMaggay and Masahiro Zakoji. Stakeholder organizations\nThe following international associations provided valuable support in identifying members for\nthe development groups and peer review groups for specific health conditions:\nProfessional associations\nAmerican Speech–Language–Hearing Association (ASHA); Association of Rehabilitation Nurses\n(ARN); International Association of Logopedics and Phoniatrics (IALP); International Council of\nNurses (ICN); International Council of Psychologists (ICP); International Society for Prosthetics\nand Orthotics (ISPO); International Society of Nurses on Cancer Care (ISNCC); International\nSociety of Physical and Rehabilitation Medicine (ISPRM); World Federation of Chiropractic\n(WFC); World Federation of Occupational Therapists (WFOT); World Physiotherapy. Nongovernmental organizations\nThe Christoffel-Blindenmission (CBM) International; Humanity & Inclusion (HI); International\nCommittee of the Red Cross (ICRC); International Disability and Development Consortium\n(IDDC); Italian Association Amici di Raoul Follereau (AIFO); Rehabilitation International (RI). Disease-specific associations\nAfrican Spinal Cord Injury Network (AFSCIN); Alzheimer’s Disease International (ADI); Childhood\nCancer International (CCI); Dementia Alliance International (DAI); European Federation of\nNeurological Associations (EFNA); European Respiratory Society (ERS); European Society\nof Gynaecological Oncology (ESGO); Global Alliance for Musculoskeletal Health (G-MUSC);\nInternational Alliance of Academics of Childhood Disability (IAACD); International Association\nfor Child and Adolescent Psychiatry and Allied Professions (IACAPAP); International Association\nfor the Scientific Study of Intellectual and Developmental Disabilities (IASSIDD); International\nCouncil of Cardiovascular Prevention and Rehabilitation (ICCPR); International PsychoOncology Society (IPOS); International Spinal Cord Society (ISCoS); Multinational Association\nof Supportive Care in Cancer (MASCC); Union for International Cancer Control (UICC); World\nAssociation for Psychosocial Rehabilitation (WAPR); World Federation for Neurorehabilitation\n(WFNR); World Psychiatric Association (WPA); World Stroke Organization (WSO). WHO would like to thank Cochrane Rehabilitation for providing considerable support to\nthis project, particularly with regard to the work of the technical working groups. Special\nconsideration goes to Carlotte Kiekens, Stefano Negrini and Michele Patrini.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 9,
+        "source_type": "text",
+        "estimated_tokens": 714,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0007"
+    },
+    {
+      "text": "The development of the Package of interventions for rehabilitation was made possible through\nthe support of the United States Agency for International Development (USAID); the National\nCenter for Medical Rehabilitation Research; Eunice Kennedy Shriver National Institute of Child\nHealth and Human Development, the Institutes of Health, United States of America; the Ministry\nof Health and Welfare, the Republic of Korea; and Christoffel-Blindenmission (CBM) International.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: The development of the Package of interventions for rehabilitation was made possible through\nthe support of the United States Agency for International Development (USAID); the National\nCenter for Medical Rehabilitation Research; Eunice Kennedy Shriver National Institute of Child\nHealth and Human Development, the Institutes of Health, United States of America; the Ministry\nof Health and Welfare, the Republic of Korea; and Christoffel-Blindenmission (CBM) International.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 9,
+        "source_type": "text",
+        "estimated_tokens": 118,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0008"
+    },
+    {
+      "text": "viii\nExecutive summary\nIn its Thirteenth General Programme of Work 2019–2023, the World Health Organization (WHO)\ndefines the achievement of universal health coverage as a strategic priority goal to address\nSustainable Development Goal 3. Rehabilitation is an essential health strategy to which people\nin need should have access without being exposed to financial hardship. It is a fundamental\nhealth service for people with a wide range of health conditions, throughout all stages of the\nlife course, and during all phases of acute, subacute and long-term care. However, despite the\ngrowing need for rehabilitation, there remains a lack of awareness about its role and importance\nwithin health services and the magnitude of unmet needs, particularly in low- and middleincome countries.\nWHO’s Rehabilitation 2030 Initiative identified 10 areas for concerted action to reduce the\nunmet needs for rehabilitation. Incorporating rehabilitation into universal health coverage is one\nof the areas targeted to increase access to rehabilitation for all people in need. The Package of\ninterventions for rehabilitation is a resource developed to support ministries of health and other\ntarget users, such as service planners, service providers, academics and researchers. It provides\ninformation on essential interventions for people with health conditions requiring the highest\nneeds for rehabilitation across different disease areas. It further describes the required time for\nthe delivery of interventions, the required related materials (e.g. assistive products, equipment,\nconsumables), and human (workforce) resources. Interventions selected for inclusion address\nproblems in functioning relevant to many people living with a health condition; they were\nconsidered cost–effective, and feasible to deliver in low- and middle-resource contexts, even\nif implementation requires strengthening the rehabilitation workforce in these countries. The\nPackage of interventions for rehabilitation can be used for the planning and budgeting of\nrehabilitation services, developing curricula and training materials, and identifying research\ngaps for defining research agendas.\nThe Package of interventions for rehabilitation was developed for 20 health conditions which\nare categorized under seven disease areas:\nMusculoskeletal conditions: low back pain, osteoarthritis, rheumatoid arthritis, sarcopenia,\nfractures of the extremities, amputations.\nNeurological conditions: stroke, Parkinson disease, cerebral palsy, traumatic brain injury,\nspinal cord injury, dementia.\nCardiopulmonary conditions: ischaemic heart disease, chronic obstructive\npulmonary disease.\nNeurodevelopmental disorders: autism spectrum disorder, disorders of\nintellectual development.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: viii\nExecutive summary\nIn its Thirteenth General Programme of Work 2019–2023, the World Health Organization (WHO)\ndefines the achievement of universal health coverage as a strategic priority goal to address\nSustainable Development Goal 3. Rehabilitation is an essential health strategy to which people\nin need should have access without being exposed to financial hardship. It is a fundamental\nhealth service for people with a wide range of health conditions, throughout all stages of the\nlife course, and during all phases of acute, subacute and long-term care. However, despite the\ngrowing need for rehabilitation, there remains a lack of awareness about its role and importance\nwithin health services and the magnitude of unmet needs, particularly in low- and middleincome countries.\nWHO’s Rehabilitation 2030 Initiative identified 10 areas for concerted action to reduce the\nunmet needs for rehabilitation. Incorporating rehabilitation into universal health coverage is one\nof the areas targeted to increase access to rehabilitation for all people in need. The Package of\ninterventions for rehabilitation is a resource developed to support ministries of health and other\ntarget users, such as service planners, service providers, academics and researchers. It provides\ninformation on essential interventions for people with health conditions requiring the highest\nneeds for rehabilitation across different disease areas. It further describes the required time for\nthe delivery of interventions, the required related materials (e.g. assistive products, equipment,\nconsumables), and human (workforce) resources. Interventions selected for inclusion address\nproblems in functioning relevant to many people living with a health condition; they were\nconsidered cost–effective, and feasible to deliver in low- and middle-resource contexts, even\nif implementation requires strengthening the rehabilitation workforce in these countries. The\nPackage of interventions for rehabilitation can be used for the planning and budgeting of\nrehabilitation services, developing curricula and training materials, and identifying research\ngaps for defining research agendas.\nThe Package of interventions for rehabilitation was developed for 20 health conditions which\nare categorized under seven disease areas:\nMusculoskeletal conditions: low back pain, osteoarthritis, rheumatoid arthritis, sarcopenia,\nfractures of the extremities, amputations.\nNeurological conditions: stroke, Parkinson disease, cerebral palsy, traumatic brain injury,\nspinal cord injury, dementia.\nCardiopulmonary conditions: ischaemic heart disease, chronic obstructive\npulmonary disease.\nNeurodevelopmental disorders: autism spectrum disorder, disorders of\nintellectual development.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 10,
+        "source_type": "text",
+        "estimated_tokens": 684,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0009"
+    },
+    {
+      "text": "ix\nSensory conditions: vision impairment, hearing loss.\nMalignant neoplasm: cancers.\nMental health conditions: schizophrenia.\nThe health conditions included in the Package of interventions for rehabilitation correspond to\nthose in the International Classification of Diseases; the functioning domains to the International\nClassification of Functioning Disability and Health; and the interventions to the International\nClassification of Health Interventions.\nDevelopment of the Package of interventions for rehabilitation was supervised by WHO’s\nGuideline Review Committee. Technical working groups identified interventions from highquality clinical practice guidelines and Cochrane systematic reviews. Development groups\nselected the interventions to be included and the descriptions of related resources; a final\nreview was conducted by peer review groups. Members of the working groups represented a\nwide range of stakeholder organizations relevant to rehabilitation.\nThe Package of interventions for rehabilitation is an important tool for planning the implementation\nof rehabilitation in health systems and for strengthening the rehabilitation workforce. As such, it\ncomplements WHO’s Rehabilitation in health systems – guide for action and the Rehabilitation\ncompetency framework. For dissemination of the Package of interventions for rehabilitation,\nand to support its adaptation and implementation by WHO Member States, WHO will partner\nwith ministries of health, nongovernmental organizations, and professional associations for\nspecific health conditions.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSource type: text\nContent: ix\nSensory conditions: vision impairment, hearing loss.\nMalignant neoplasm: cancers.\nMental health conditions: schizophrenia.\nThe health conditions included in the Package of interventions for rehabilitation correspond to\nthose in the International Classification of Diseases; the functioning domains to the International\nClassification of Functioning Disability and Health; and the interventions to the International\nClassification of Health Interventions.\nDevelopment of the Package of interventions for rehabilitation was supervised by WHO’s\nGuideline Review Committee. Technical working groups identified interventions from highquality clinical practice guidelines and Cochrane systematic reviews. Development groups\nselected the interventions to be included and the descriptions of related resources; a final\nreview was conducted by peer review groups. Members of the working groups represented a\nwide range of stakeholder organizations relevant to rehabilitation.\nThe Package of interventions for rehabilitation is an important tool for planning the implementation\nof rehabilitation in health systems and for strengthening the rehabilitation workforce. As such, it\ncomplements WHO’s Rehabilitation in health systems – guide for action and the Rehabilitation\ncompetency framework. For dissemination of the Package of interventions for rehabilitation,\nand to support its adaptation and implementation by WHO Member States, WHO will partner\nwith ministries of health, nongovernmental organizations, and professional associations for\nspecific health conditions.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": null,
+        "subsection": null,
+        "page": 11,
+        "source_type": "text",
+        "estimated_tokens": 391,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0010"
+    },
+    {
+      "text": "Box 1. Universal health coverage\n“Universal health coverage (UHC) is defined as all people receiving quality health services that meet\ntheir needs without being exposed to financial hardship in paying for the services. UHC means every\nindividual and community receive the full spectrum of care they need, from health promotion to\nprevention, treatment, rehabilitation, and palliative care.”",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Background\nSubsection: Rehabilitation and universal health coverage\nLocal heading: 1 Background\nSource type: text\nContent: Box 1. Universal health coverage\n“Universal health coverage (UHC) is defined as all people receiving quality health services that meet\ntheir needs without being exposed to financial hardship in paying for the services. UHC means every\nindividual and community receive the full spectrum of care they need, from health promotion to\nprevention, treatment, rehabilitation, and palliative care.”",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Background",
+        "subsection": "Rehabilitation and universal health coverage",
+        "page": 13,
+        "source_type": "text",
+        "estimated_tokens": 98,
+        "local_heading": "1 Background",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0011"
+    },
+    {
+      "text": "In 2015, the 2030 Agenda for Sustainable Development was adopted by the United Nations\nGeneral Assembly with the overall goal to end poverty, protect the planet, and ensure prosperity\nfor all (1). Among the 17 Sustainable Development Goals (SDGs), SDG 3 specifically addresses\nhealth with the aim to “ensure healthy lives and promote well-being for all ages”. Actions\naddressing SDG3 should ensure that everyone, not only the wealthiest, has access to the\nhighest standard of health and health care (2). Furthermore, SDG3 calls for the achievement\nof universal health coverage (UHC), defined as “all people receiving quality health services\nthat meet their needs without being exposed to financial hardship in paying for the services”\n(Box 1) (3). Therefore, the range of services considered must extend beyond those addressing\ntreatment and cure to also include prevention, promotion, rehabilitation, and palliative care (3).\nIn its Thirteenth General Programme of Work 2019–2023 (GPW 13) (4), the World Health\nOrganization (WHO) defined the achievement of UHC as a strategic priority goal to address\nSDG3. Within GPW 13, WHO will support countries by providing evidence-based solutions to\nincrease access to health services while ensuring the highest possible quality and emphasizing\npatient safety.\nRehabilitation is an essential health strategy and, as such, is a fundamental health service for\npeople with a wide range of health conditions, throughout all stages of their life course, and\nduring all phases of acute, subacute and long-term care. Whereas conditions that are particularly\nrelevant to children with developmental issues (e.g. autism spectrum disorders, disorders\nof intellectual development, cerebral palsy) are referred to under the term “habilitation”,\n“rehabilitation” is used in the PIR to encompass both rehabilitation and habilitation.\nRehabilitation addresses the impact of a health condition on a person’s life by focusing primarily\non improving functioning and reducing disability. The core task of rehabilitation is to address the\nproblems in functioning that have arisen in relation to a disease, injury, or the ageing process, in\nthe context of the individual person. This can be achieved by providing interventions to support\nfunctioning and independence. These are referred to as functioning interventions and include",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Background\nSubsection: Rehabilitation and universal health coverage\nLocal heading: 1.1 Rehabilitation and universal health coverage\nSource type: text\nContent: In 2015, the 2030 Agenda for Sustainable Development was adopted by the United Nations\nGeneral Assembly with the overall goal to end poverty, protect the planet, and ensure prosperity\nfor all (1). Among the 17 Sustainable Development Goals (SDGs), SDG 3 specifically addresses\nhealth with the aim to “ensure healthy lives and promote well-being for all ages”. Actions\naddressing SDG3 should ensure that everyone, not only the wealthiest, has access to the\nhighest standard of health and health care (2). Furthermore, SDG3 calls for the achievement\nof universal health coverage (UHC), defined as “all people receiving quality health services\nthat meet their needs without being exposed to financial hardship in paying for the services”\n(Box 1) (3). Therefore, the range of services considered must extend beyond those addressing\ntreatment and cure to also include prevention, promotion, rehabilitation, and palliative care (3).\nIn its Thirteenth General Programme of Work 2019–2023 (GPW 13) (4), the World Health\nOrganization (WHO) defined the achievement of UHC as a strategic priority goal to address\nSDG3. Within GPW 13, WHO will support countries by providing evidence-based solutions to\nincrease access to health services while ensuring the highest possible quality and emphasizing\npatient safety.\nRehabilitation is an essential health strategy and, as such, is a fundamental health service for\npeople with a wide range of health conditions, throughout all stages of their life course, and\nduring all phases of acute, subacute and long-term care. Whereas conditions that are particularly\nrelevant to children with developmental issues (e.g. autism spectrum disorders, disorders\nof intellectual development, cerebral palsy) are referred to under the term “habilitation”,\n“rehabilitation” is used in the PIR to encompass both rehabilitation and habilitation.\nRehabilitation addresses the impact of a health condition on a person’s life by focusing primarily\non improving functioning and reducing disability. The core task of rehabilitation is to address the\nproblems in functioning that have arisen in relation to a disease, injury, or the ageing process, in\nthe context of the individual person. This can be achieved by providing interventions to support\nfunctioning and independence. These are referred to as functioning interventions and include",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Background",
+        "subsection": "Rehabilitation and universal health coverage",
+        "page": 13,
+        "source_type": "text",
+        "estimated_tokens": 588,
+        "local_heading": "1.1 Rehabilitation and universal health coverage",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0012"
+    },
+    {
+      "text": "interventions to educate and empower people to manage their own health conditions, adapt to\ntheir situation, and remain as independent and as active as possible. Functioning interventions\nfurther address the needs of carers and family members who play an essential role in helping\nto achieve and maintain optimal functioning levels in people with health conditions (Box 2). Through functioning interventions, rehabilitation enables people with health conditions to\nachieve and maintain greater participation in meaningful areas of life, such as education,\nemployment and social and community life, with far-reaching health, social and economic\nbenefits. Box 2. Interventions for rehabilitation\nRehabilitation provides sets of interventions designed to optimize functioning and reduce disability in\nindividuals with health conditions, in interaction with their environment. Interventions for rehabilitation\ncomprise those that target specific aspects of functioning (body functions, body structures, activities\nand participation) and aspects that have an impact of an individual’s functioning (environmental\nfunctions and personal factors). These are referred to as functioning interventions and include, for\nexample, muscle-strengthening exercises, language training, breathing exercises, training of activities\nof daily living, social skills or communication skills, provision and training in the use of assistive products\nand environmental modifications. Functioning interventions also address the self-management skills\nof the people living with the health condition (e.g. education and advice on the self-management of\nthe health condition or self-directed exercises), and carer and family skills (e.g. carer and family training\non care-related techniques and tasks). However, despite the growing need for rehabilitation, there is still a lack of awareness about its\nrole and the magnitude of unmet needs, particularly in low- and middle-income countries (5). To catalyse action for rehabilitation, WHO launched the Rehabilitation 2030 Initiative in 2017. Rehabilitation 2030 draws attention to the increasing need for rehabilitation, highlights the\nrole of rehabilitation in achieving the SDGs and UHC, and calls for coordinated and concerted\nglobal action towards strengthening rehabilitation in health systems (6). 1.2 Responding to Rehabilitation 2030: a call for action\nWHO’s Rehabilitation 2030 Initiative identified 10 areas for concerted action to reduce the unmet\nneeds for rehabilitation. Some of the actions outlined target specifically the strengthening of\nrehabilitation leadership, planning and integration across health sectors; developing a strong\nand multidisciplinary rehabilitation workforce; and incorporating rehabilitation into UHC.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Background\nSubsection: Rehabilitation and universal health coverage\nSource type: text\nContent: interventions to educate and empower people to manage their own health conditions, adapt to\ntheir situation, and remain as independent and as active as possible. Functioning interventions\nfurther address the needs of carers and family members who play an essential role in helping\nto achieve and maintain optimal functioning levels in people with health conditions (Box 2). Through functioning interventions, rehabilitation enables people with health conditions to\nachieve and maintain greater participation in meaningful areas of life, such as education,\nemployment and social and community life, with far-reaching health, social and economic\nbenefits. Box 2. Interventions for rehabilitation\nRehabilitation provides sets of interventions designed to optimize functioning and reduce disability in\nindividuals with health conditions, in interaction with their environment. Interventions for rehabilitation\ncomprise those that target specific aspects of functioning (body functions, body structures, activities\nand participation) and aspects that have an impact of an individual’s functioning (environmental\nfunctions and personal factors). These are referred to as functioning interventions and include, for\nexample, muscle-strengthening exercises, language training, breathing exercises, training of activities\nof daily living, social skills or communication skills, provision and training in the use of assistive products\nand environmental modifications. Functioning interventions also address the self-management skills\nof the people living with the health condition (e.g. education and advice on the self-management of\nthe health condition or self-directed exercises), and carer and family skills (e.g. carer and family training\non care-related techniques and tasks). However, despite the growing need for rehabilitation, there is still a lack of awareness about its\nrole and the magnitude of unmet needs, particularly in low- and middle-income countries (5). To catalyse action for rehabilitation, WHO launched the Rehabilitation 2030 Initiative in 2017. Rehabilitation 2030 draws attention to the increasing need for rehabilitation, highlights the\nrole of rehabilitation in achieving the SDGs and UHC, and calls for coordinated and concerted\nglobal action towards strengthening rehabilitation in health systems (6). 1.2 Responding to Rehabilitation 2030: a call for action\nWHO’s Rehabilitation 2030 Initiative identified 10 areas for concerted action to reduce the unmet\nneeds for rehabilitation. Some of the actions outlined target specifically the strengthening of\nrehabilitation leadership, planning and integration across health sectors; developing a strong\nand multidisciplinary rehabilitation workforce; and incorporating rehabilitation into UHC.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Background",
+        "subsection": "Rehabilitation and universal health coverage",
+        "page": 14,
+        "source_type": "text",
+        "estimated_tokens": 690,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0013"
+    },
+    {
+      "text": "Prior\nto the Package of interventions for rehabilitation (PIR), WHO’s Rehabilitation in health systems –\nguide for action (7) assists governments in situation assessment and strategic planning, and\nthe Rehabilitation competency framework (8) helps countries ensure that rehabilitation workers\nhave the necessary competencies to deliver the quality rehabilitation services needed by the\npopulation. Furthermore, the Routine health information systems – rehabilitation toolkit (9) guides\nthe data collection and supports the integration of rehabilitation into facility-level reporting.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Background\nSubsection: Rehabilitation and universal health coverage\nSource type: text\nContent: Prior\nto the Package of interventions for rehabilitation (PIR), WHO’s Rehabilitation in health systems –\nguide for action (7) assists governments in situation assessment and strategic planning, and\nthe Rehabilitation competency framework (8) helps countries ensure that rehabilitation workers\nhave the necessary competencies to deliver the quality rehabilitation services needed by the\npopulation. Furthermore, the Routine health information systems – rehabilitation toolkit (9) guides\nthe data collection and supports the integration of rehabilitation into facility-level reporting.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Background",
+        "subsection": "Rehabilitation and universal health coverage",
+        "page": 14,
+        "source_type": "text",
+        "estimated_tokens": 146,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0014"
+    },
+    {
+      "text": "The PIR was developed to support countries in planning, budgeting, and integrating\nrehabilitation into their health system by providing information on essential interventions,\ntheir availability at service delivery levels, and the materials and human resources required for\ndelivery. The PIR complements the Rehabilitation in health systems: guide for action and the\nRehabilitation competency framework (7, 8) and thereby contributes to supporting countries\nin strengthening rehabilitation in their health systems.\nThe primary audience for the PIR is ministries of health and other relevant ministries involved in\nplanning and budgeting health services. Other potential end-users of the PIR include service\nplanners and providers, academics, researchers, and donors and development agencies.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Background\nSubsection: Purpose and target audience\nLocal heading: 1.3 Purpose and target audience\nSource type: text\nContent: The PIR was developed to support countries in planning, budgeting, and integrating\nrehabilitation into their health system by providing information on essential interventions,\ntheir availability at service delivery levels, and the materials and human resources required for\ndelivery. The PIR complements the Rehabilitation in health systems: guide for action and the\nRehabilitation competency framework (7, 8) and thereby contributes to supporting countries\nin strengthening rehabilitation in their health systems.\nThe primary audience for the PIR is ministries of health and other relevant ministries involved in\nplanning and budgeting health services. Other potential end-users of the PIR include service\nplanners and providers, academics, researchers, and donors and development agencies.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Background",
+        "subsection": "Purpose and target audience",
+        "page": 15,
+        "source_type": "text",
+        "estimated_tokens": 198,
+        "local_heading": "1.3 Purpose and target audience",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0015"
+    },
+    {
+      "text": "interventions for rehabilitation\nBox 3. Health conditions included in the\nPackage of interventions for rehabilitation\nDisease area\nHealth condition\nMusculoskeletal\nconditions\nLow back pain\nOsteoarthritis\nRheumatoid arthritis\nSarcopenia\nFractures\nAmputation\nNeurological\nconditions\nStroke\nParkinson disease\nDementia\nCerebral palsy\nTraumatic brain injury\nSpinal cord injury\nCardiopulmonary\nconditions\nIschemic heart disease\nChronic obstructive\npulmonary disease\nNeurodevelopmental\ndisorders\nAutism spectrum disorder\nDisorders of intellectual\ndevelopment\nSensory impairments\nVision impairment\nHearing loss\nMalignant neoplasm\nCancer\nMental health\nSchizophrenia\nThe PIR addresses 20 health conditions categorized under different disease areas (Box 3).\nFor each of the 20 health conditions, information is provided in seven disease-area-specific\nmodules on:\n• essential interventions for rehabilitation;\n• time required to deliver an intervention session;\n• material resources required for the delivery of the interventions;\n• the rehabilitation workers best suited to provide the interventions.\nInformation on the underlying evidence that has informed the selection of interventions is\navailable with supplementary files for each of the modules.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Health conditions\nLocal heading: 2 Scope of the Package of\nSource type: text\nContent: interventions for rehabilitation\nBox 3. Health conditions included in the\nPackage of interventions for rehabilitation\nDisease area\nHealth condition\nMusculoskeletal\nconditions\nLow back pain\nOsteoarthritis\nRheumatoid arthritis\nSarcopenia\nFractures\nAmputation\nNeurological\nconditions\nStroke\nParkinson disease\nDementia\nCerebral palsy\nTraumatic brain injury\nSpinal cord injury\nCardiopulmonary\nconditions\nIschemic heart disease\nChronic obstructive\npulmonary disease\nNeurodevelopmental\ndisorders\nAutism spectrum disorder\nDisorders of intellectual\ndevelopment\nSensory impairments\nVision impairment\nHearing loss\nMalignant neoplasm\nCancer\nMental health\nSchizophrenia\nThe PIR addresses 20 health conditions categorized under different disease areas (Box 3).\nFor each of the 20 health conditions, information is provided in seven disease-area-specific\nmodules on:\n• essential interventions for rehabilitation;\n• time required to deliver an intervention session;\n• material resources required for the delivery of the interventions;\n• the rehabilitation workers best suited to provide the interventions.\nInformation on the underlying evidence that has informed the selection of interventions is\navailable with supplementary files for each of the modules.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Health conditions",
+        "page": 16,
+        "source_type": "text",
+        "estimated_tokens": 310,
+        "local_heading": "2 Scope of the Package of",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0016"
+    },
+    {
+      "text": "While there are many health conditions\namenable to rehabilitation that have not\nbeen included in the PIR, those selected\nhave the highest needs for rehabilitation\nas they have the highest prevalence and/\nor are associated with the highest levels\nof disability.\nThe selection further considers the\nneed for rehabilitation at all stages of\nthe life course: from birth-related to agerelated diseases, and age-independent\nconditions, such as injuries or cancer.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Health conditions\nLocal heading: 2.1 Health conditions\nSource type: text\nContent: While there are many health conditions\namenable to rehabilitation that have not\nbeen included in the PIR, those selected\nhave the highest needs for rehabilitation\nas they have the highest prevalence and/\nor are associated with the highest levels\nof disability.\nThe selection further considers the\nneed for rehabilitation at all stages of\nthe life course: from birth-related to agerelated diseases, and age-independent\nconditions, such as injuries or cancer.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Health conditions",
+        "page": 16,
+        "source_type": "text",
+        "estimated_tokens": 114,
+        "local_heading": "2.1 Health conditions",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0017"
+    },
+    {
+      "text": "interventions for rehabilitation\nThe list of interventions available for the specific health conditions is not intended to be\nexhaustive or exclusive; rather it represents those that are considered essential and feasible to\nimplement in most low- and middle-resource settings. An intervention is defined as “essential” if:\n• it is supported by evidence (this includes expert opinion being accepted if evidence from\nthe clinical practice guidelines (CPGs) or Cochrane systematic reviews was not available but\nall other criteria were fulfilled);\n• it benefits many people (i.e. the intervention targets a problem in functioning frequently\nassociated with the health condition);\n• its effectiveness is considered as high; or\n• the cost–benefit ratio favours benefits above costs. Functioning interventions optimize aspects of functioning that are impaired (in the context\nof an individual’s body functions and body structures); limited (in the context of activities); or\nrestricted (in the context of participation). Other interventions included in the PIR aim to prevent\nsecondary conditions that are typically seen and that relate to an underlying health condition. These interventions are presented under Prevention and treatment of secondary conditions. Functioning interventions comprise those that are pharmacological (i.e. the intervention involves\nthe provision of medicines) or non-pharmacological (Box 4). Pharmacological interventions are\nconsidered for rehabilitation only when targeting impairments in functioning that are caused by\na health condition (e.g. spasticity in people with spinal cord injury, or pain with osteoarthritis). Medicines that target the cause, and aim to cure or modify the progression of a health condition,\nare not considered as interventions for rehabilitation. Some of the medicines included in the\nPIR have been evaluated and are listed in the WHO model list of essential medicines (10) for the\nindication(s) concerned. Others included in the PIR, but not listed in the model list (either due\nto pending evaluation or because listing was not recommended) were suggested for inclusion\nby the development groups according to the selection criteria. Non-pharmacological interventions are preventive, promotive, restorative or compensatory;\nthey can be further subdivided into the following categories:\n• therapeutic techniques and procedures, exercises and training\n• physical modalities\n• assistive products\n• environmental modifications\n• self-management interventions (for people living with a health condition and also for their\ncarers and family members). The selection of interventions to be delivered to an individual is based on initial assessment. Both the information on interventions and the related assessments are provided in the PIR.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Description of interventions in the Package of\nLocal heading: 2.2 Description of interventions in the Package of\nSource type: text\nContent: interventions for rehabilitation\nThe list of interventions available for the specific health conditions is not intended to be\nexhaustive or exclusive; rather it represents those that are considered essential and feasible to\nimplement in most low- and middle-resource settings. An intervention is defined as “essential” if:\n• it is supported by evidence (this includes expert opinion being accepted if evidence from\nthe clinical practice guidelines (CPGs) or Cochrane systematic reviews was not available but\nall other criteria were fulfilled);\n• it benefits many people (i.e. the intervention targets a problem in functioning frequently\nassociated with the health condition);\n• its effectiveness is considered as high; or\n• the cost–benefit ratio favours benefits above costs. Functioning interventions optimize aspects of functioning that are impaired (in the context\nof an individual’s body functions and body structures); limited (in the context of activities); or\nrestricted (in the context of participation). Other interventions included in the PIR aim to prevent\nsecondary conditions that are typically seen and that relate to an underlying health condition. These interventions are presented under Prevention and treatment of secondary conditions. Functioning interventions comprise those that are pharmacological (i.e. the intervention involves\nthe provision of medicines) or non-pharmacological (Box 4). Pharmacological interventions are\nconsidered for rehabilitation only when targeting impairments in functioning that are caused by\na health condition (e.g. spasticity in people with spinal cord injury, or pain with osteoarthritis). Medicines that target the cause, and aim to cure or modify the progression of a health condition,\nare not considered as interventions for rehabilitation. Some of the medicines included in the\nPIR have been evaluated and are listed in the WHO model list of essential medicines (10) for the\nindication(s) concerned. Others included in the PIR, but not listed in the model list (either due\nto pending evaluation or because listing was not recommended) were suggested for inclusion\nby the development groups according to the selection criteria. Non-pharmacological interventions are preventive, promotive, restorative or compensatory;\nthey can be further subdivided into the following categories:\n• therapeutic techniques and procedures, exercises and training\n• physical modalities\n• assistive products\n• environmental modifications\n• self-management interventions (for people living with a health condition and also for their\ncarers and family members). The selection of interventions to be delivered to an individual is based on initial assessment. Both the information on interventions and the related assessments are provided in the PIR.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Description of interventions in the Package of",
+        "page": 17,
+        "source_type": "text",
+        "estimated_tokens": 696,
+        "local_heading": "2.2 Description of interventions in the Package of",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0018"
+    },
+    {
+      "text": "While\nadditional information on pre-existing comorbidities or problems in functioning (e.g. physical,\ncognitive, hearing loss or visual impairment in older persons) is critical for the planning of an\nindividual’s rehabilitation programme, information on screening or assessment of particular\naspects is not provided. Although the PIR includes sets of essential interventions that should be available for persons\nrequiring rehabilitation, not everyone referred will need to always have access to the full set.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Description of interventions in the Package of\nLocal heading: 2.2 Description of interventions in the Package of\nSource type: text\nContent: While\nadditional information on pre-existing comorbidities or problems in functioning (e.g. physical,\ncognitive, hearing loss or visual impairment in older persons) is critical for the planning of an\nindividual’s rehabilitation programme, information on screening or assessment of particular\naspects is not provided. Although the PIR includes sets of essential interventions that should be available for persons\nrequiring rehabilitation, not everyone referred will need to always have access to the full set.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Description of interventions in the Package of",
+        "page": 17,
+        "source_type": "text",
+        "estimated_tokens": 127,
+        "local_heading": "2.2 Description of interventions in the Package of",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0019"
+    },
+    {
+      "text": "Rehabilitation plans are tailored to an individual’s needs and based on initial assessment, goals\nand preferences; they will therefore differ for each person and along their continuum of care. Ideally, and particularly for people with more complex health conditions, rehabilitation should\nbe delivered by multidisciplinary teams in appropriate facilities. However, the PIR provides\ninterventions that can be delivered in any setting, including primary care and community\nsettings; this facilitates their accessibility to all people in need when multidisciplinary\nrehabilitation is unavailable. The PIR organizes interventions according to functioning domains (Box 5) which combine the\nessential interventions that relate to a broader functioning domain, such as “Speech, language\nand communication” or “Motor functions and mobility”. Within these domains, specific\ninterventions are further organized according to their target, for example, “Provision and training\nin the use of assistive products for communication” to improve “Communication”; “Muscle\nstrengthening exercises” to improve “Muscle power functions”; or “Range of motion exercises”\nto improve “Joint mobility”. While the functioning domains that address body functions tend\nto relate to specific health conditions, and respectively to disease areas, those that address\nactivities and participation are relevant to most of the health conditions, respectively to most\nof the disease areas, included in the PIR. For example, limitations in performing activities of\ndaily living, vocational activities, or restrictions in participation in community and social life,\nare relevant to people living with stroke, as well as to people living with chronic obstructive\npulmonary conditions, sensory impairments, or schizophrenia. The domains “Self-management”\nand “Carer and family support” do not address aspects of functioning directly; however, they\nimpact functioning indirectly by improving the behaviours of the person with the health\ncondition, and the care and well-being of carers and family members and are therefore also\nconsidered functioning domains. The organization of interventions according to functioning domains may help service planners\nidentify “cross-cutting” functioning domains that are relevant to many people with different\nhealth conditions; they may also assist people from different occupations to find information\nrelating to their specific areas of work. Box 4.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Description of interventions in the Package of\nSource type: text\nContent: Rehabilitation plans are tailored to an individual’s needs and based on initial assessment, goals\nand preferences; they will therefore differ for each person and along their continuum of care. Ideally, and particularly for people with more complex health conditions, rehabilitation should\nbe delivered by multidisciplinary teams in appropriate facilities. However, the PIR provides\ninterventions that can be delivered in any setting, including primary care and community\nsettings; this facilitates their accessibility to all people in need when multidisciplinary\nrehabilitation is unavailable. The PIR organizes interventions according to functioning domains (Box 5) which combine the\nessential interventions that relate to a broader functioning domain, such as “Speech, language\nand communication” or “Motor functions and mobility”. Within these domains, specific\ninterventions are further organized according to their target, for example, “Provision and training\nin the use of assistive products for communication” to improve “Communication”; “Muscle\nstrengthening exercises” to improve “Muscle power functions”; or “Range of motion exercises”\nto improve “Joint mobility”. While the functioning domains that address body functions tend\nto relate to specific health conditions, and respectively to disease areas, those that address\nactivities and participation are relevant to most of the health conditions, respectively to most\nof the disease areas, included in the PIR. For example, limitations in performing activities of\ndaily living, vocational activities, or restrictions in participation in community and social life,\nare relevant to people living with stroke, as well as to people living with chronic obstructive\npulmonary conditions, sensory impairments, or schizophrenia. The domains “Self-management”\nand “Carer and family support” do not address aspects of functioning directly; however, they\nimpact functioning indirectly by improving the behaviours of the person with the health\ncondition, and the care and well-being of carers and family members and are therefore also\nconsidered functioning domains. The organization of interventions according to functioning domains may help service planners\nidentify “cross-cutting” functioning domains that are relevant to many people with different\nhealth conditions; they may also assist people from different occupations to find information\nrelating to their specific areas of work. Box 4.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Description of interventions in the Package of",
+        "page": 18,
+        "source_type": "text",
+        "estimated_tokens": 611,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0020"
+    },
+    {
+      "text": "Overview of functioning interventions\nIntervention type\nIntervention category\nExample\nPharmacological\nMedicines\nAnalgesics\nNon-Pharmacological\nTherapeutic techniques and\nprocedures, exercises and training\nManual therapy, cognitive behavioural\ntherapy, range of motion exercises,\ncommunication skills training\nPhysical modalities\nNeuromuscular electrical stimulation\nAssistive products\nProvision and training in the use of\nassistive products for self-care\nEnvironmental modifications\nInstallation of ramps, lighting control\nSelf-management interventions\nEducation and advice on self-directed\ntraining\nCarer and family training and support",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Description of interventions in the Package of\nSource type: text\nContent: Overview of functioning interventions\nIntervention type\nIntervention category\nExample\nPharmacological\nMedicines\nAnalgesics\nNon-Pharmacological\nTherapeutic techniques and\nprocedures, exercises and training\nManual therapy, cognitive behavioural\ntherapy, range of motion exercises,\ncommunication skills training\nPhysical modalities\nNeuromuscular electrical stimulation\nAssistive products\nProvision and training in the use of\nassistive products for self-care\nEnvironmental modifications\nInstallation of ramps, lighting control\nSelf-management interventions\nEducation and advice on self-directed\ntraining\nCarer and family training and support",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Description of interventions in the Package of",
+        "page": 18,
+        "source_type": "text",
+        "estimated_tokens": 159,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0021"
+    },
+    {
+      "text": "In addition to presenting the types of interventions described above, the PIR also considers the\ntime that is required to deliver the interventions. This “required time” is suggested as an average\ntime (in minutes) for the delivery of one unit of an intervention. In practice, the required time\nmay be less or more, depending on different factors, such as the specific needs of the person\nreceiving the intervention, the efficiency of the worker delivering it, and their environment (such\nas the availability and use of technology and service systems).",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Workforce in rehabilitation\nLocal heading: 2.3 Time required to deliver the intervention\nSource type: text\nContent: In addition to presenting the types of interventions described above, the PIR also considers the\ntime that is required to deliver the interventions. This “required time” is suggested as an average\ntime (in minutes) for the delivery of one unit of an intervention. In practice, the required time\nmay be less or more, depending on different factors, such as the specific needs of the person\nreceiving the intervention, the efficiency of the worker delivering it, and their environment (such\nas the availability and use of technology and service systems).",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Workforce in rehabilitation",
+        "page": 19,
+        "source_type": "text",
+        "estimated_tokens": 138,
+        "local_heading": "2.3 Time required to deliver the intervention",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0022"
+    },
+    {
+      "text": "The PIR provides information on material resources to be used for the planning and\nimplementation of rehabilitation services at health facilities and for the budgeting of rehabilitation\nbenefit packages. Material resources comprise assistive products, equipment and consumables.\nThe resources described for the selected interventions are not intended to be exhaustive. Rather\nthey should form a list of minimum essential items that should be available in settings that\nprovide rehabilitation services, and furthermore to provide information on assistive products\navailable for prescription to the people in need.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Workforce in rehabilitation\nLocal heading: 2.4 Material resources\nSource type: text\nContent: The PIR provides information on material resources to be used for the planning and\nimplementation of rehabilitation services at health facilities and for the budgeting of rehabilitation\nbenefit packages. Material resources comprise assistive products, equipment and consumables.\nThe resources described for the selected interventions are not intended to be exhaustive. Rather\nthey should form a list of minimum essential items that should be available in settings that\nprovide rehabilitation services, and furthermore to provide information on assistive products\navailable for prescription to the people in need.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Workforce in rehabilitation",
+        "page": 19,
+        "source_type": "text",
+        "estimated_tokens": 153,
+        "local_heading": "2.4 Material resources",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0023"
+    },
+    {
+      "text": "Along with providing details on the time and material resource requirements, the PIR also\nsuggests the rehabilitation specialists (Box 6) that would typically be considered best qualified\nto deliver each intervention. These rehabilitation specialists are usually university- or tertiaryqualified, practice autonomously (by international standards), and deliver care that aims to\noptimize functioning and reduce disability. They are also generally responsible for supervising,\ntraining, mentoring and supporting non-specialists in the delivery of rehabilitation when\nappropriate. While supporting the delivery of rehabilitation in many settings, non-specialists,\nnamely technicians, assistants, and other mid-level cadres, have not been included in the\nBox 5. Functioning domains in the Package of interventions for rehabilitation\n• Mental/Cognitive functions\n• Behaviours\n• Vision\n• Hearing and vestibular functions\n• Speech, language and communication\n• Dysphagia management\n• Nutrition\n• Pain management\n• Bowel and bladder management\n• Sexual functions and intimate relationships\n• Respiration functions\n• Skin care\n• Cardiovascular and immunological functions\n• Motor functions and mobility\n• Exercise and fitness\n• Activities of daily living\n• Interpersonal interactions and relationships\n• Education and vocation\n• Community and social life\n• Lifestyle modification\n• Self-management\n• Carer and family support",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Workforce in rehabilitation\nLocal heading: 2.5 Workforce in rehabilitation\nSource type: text\nContent: Along with providing details on the time and material resource requirements, the PIR also\nsuggests the rehabilitation specialists (Box 6) that would typically be considered best qualified\nto deliver each intervention. These rehabilitation specialists are usually university- or tertiaryqualified, practice autonomously (by international standards), and deliver care that aims to\noptimize functioning and reduce disability. They are also generally responsible for supervising,\ntraining, mentoring and supporting non-specialists in the delivery of rehabilitation when\nappropriate. While supporting the delivery of rehabilitation in many settings, non-specialists,\nnamely technicians, assistants, and other mid-level cadres, have not been included in the\nBox 5. Functioning domains in the Package of interventions for rehabilitation\n• Mental/Cognitive functions\n• Behaviours\n• Vision\n• Hearing and vestibular functions\n• Speech, language and communication\n• Dysphagia management\n• Nutrition\n• Pain management\n• Bowel and bladder management\n• Sexual functions and intimate relationships\n• Respiration functions\n• Skin care\n• Cardiovascular and immunological functions\n• Motor functions and mobility\n• Exercise and fitness\n• Activities of daily living\n• Interpersonal interactions and relationships\n• Education and vocation\n• Community and social life\n• Lifestyle modification\n• Self-management\n• Carer and family support",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Workforce in rehabilitation",
+        "page": 19,
+        "source_type": "text",
+        "estimated_tokens": 354,
+        "local_heading": "2.5 Workforce in rehabilitation",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0024"
+    },
+    {
+      "text": "PIR: the global diversity of their training and scopes of practice makes assignment to specific\ninterventions unfeasible.\nAs the availability and education of rehabilitation specialists may vary between countries, the\nPIR lists all specialists (occupations) that may be relevant to an intervention. This information is\nintended to be interpreted within each country context and, in countries where rehabilitation\nworkers are still emerging, to guide task allocation to ensure the greatest possible delivery of\nthe interventions. The list of occupations assigned to an intervention should not be viewed\nas prescriptive.\nBox 6. Rehabilitation specialists\n• Audiologist\n• Dietitian and nutritionist\n• Nursing professional (incl. psychiatric nurses)\n• Occupational therapist\n• Ophthalmologist\n• Optometrist\n• Physiotherapist\n• Psychologist\n• Prosthetist and orthotist\n• Social worker and counselling professional\n• Special educator\n• Specialist medical practitioner/physical and\nrehabilitation medicine (PRM) physician\n• Speech and language pathologist/therapist",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Scope of the Package of\nSubsection: Workforce in rehabilitation\nSource type: text\nContent: PIR: the global diversity of their training and scopes of practice makes assignment to specific\ninterventions unfeasible.\nAs the availability and education of rehabilitation specialists may vary between countries, the\nPIR lists all specialists (occupations) that may be relevant to an intervention. This information is\nintended to be interpreted within each country context and, in countries where rehabilitation\nworkers are still emerging, to guide task allocation to ensure the greatest possible delivery of\nthe interventions. The list of occupations assigned to an intervention should not be viewed\nas prescriptive.\nBox 6. Rehabilitation specialists\n• Audiologist\n• Dietitian and nutritionist\n• Nursing professional (incl. psychiatric nurses)\n• Occupational therapist\n• Ophthalmologist\n• Optometrist\n• Physiotherapist\n• Psychologist\n• Prosthetist and orthotist\n• Social worker and counselling professional\n• Special educator\n• Specialist medical practitioner/physical and\nrehabilitation medicine (PRM) physician\n• Speech and language pathologist/therapist",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Scope of the Package of",
+        "subsection": "Workforce in rehabilitation",
+        "page": 20,
+        "source_type": "text",
+        "estimated_tokens": 264,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0025"
+    },
+    {
+      "text": "interventions for rehabilitation\nThe PIR has been developed to support the implementation of rehabilitation in all resource\ncontexts, with a specific focus on low- and middle-income countries. The information provided\nin the PIR is intended to support not only different target users in planning, budgeting and\nintegrating rehabilitation into health systems, but also the strengthening of the rehabilitation\nworkforce, and the development of research strategies.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nLocal heading: 3 How to use the Package of\nSource type: text\nContent: interventions for rehabilitation\nThe PIR has been developed to support the implementation of rehabilitation in all resource\ncontexts, with a specific focus on low- and middle-income countries. The information provided\nin the PIR is intended to support not only different target users in planning, budgeting and\nintegrating rehabilitation into health systems, but also the strengthening of the rehabilitation\nworkforce, and the development of research strategies.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 21,
+        "source_type": "text",
+        "estimated_tokens": 116,
+        "local_heading": "3 How to use the Package of",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0026"
+    },
+    {
+      "text": "systems\nThe planning of rehabilitation services is relevant at different levels and for different stakeholders.\nAt the national level, the PIR can inform the development of rehabilitation benefit packages in\nthe context of a country’s strategic plan; it provides an overview of interventions which should\nbe made accessible to people living with specific health conditions. Decision-makers can use\nthe information provided together with the details on required material resources, workforce,\nand availability of service delivery levels, to design and develop rehabilitation benefit packages\naccording to a country’s needs and situation.\nAt the district level, service planners can use the PIR to guide decisions regarding which\ninterventions should be integrated into rehabilitation programmes at the different service\ndelivery levels. These programmes may vary in terms of the comprehensiveness of interventions.\nAt the facility level, the PIR can be used by programme managers and service providers to\nplan the delivery of the interventions within the facility, taking into account the information on\nrequired materials and human resources.\nUsing the PIR enables progressive realization. In less resourced settings, implementing\nrehabilitation into packages of care can start with the selection of a limited number of\ninterventions from the PIR. Over time, and when resources increase, the packages of care can\nbe complemented by the addition of further interventions.\nThe PIR provides information at all levels for calculating costs related to the interventions\nincluding for material resources and the workforce.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nLocal heading: 3.1 Planning of integrating rehabilitation into health\nSource type: text\nContent: systems\nThe planning of rehabilitation services is relevant at different levels and for different stakeholders.\nAt the national level, the PIR can inform the development of rehabilitation benefit packages in\nthe context of a country’s strategic plan; it provides an overview of interventions which should\nbe made accessible to people living with specific health conditions. Decision-makers can use\nthe information provided together with the details on required material resources, workforce,\nand availability of service delivery levels, to design and develop rehabilitation benefit packages\naccording to a country’s needs and situation.\nAt the district level, service planners can use the PIR to guide decisions regarding which\ninterventions should be integrated into rehabilitation programmes at the different service\ndelivery levels. These programmes may vary in terms of the comprehensiveness of interventions.\nAt the facility level, the PIR can be used by programme managers and service providers to\nplan the delivery of the interventions within the facility, taking into account the information on\nrequired materials and human resources.\nUsing the PIR enables progressive realization. In less resourced settings, implementing\nrehabilitation into packages of care can start with the selection of a limited number of\ninterventions from the PIR. Over time, and when resources increase, the packages of care can\nbe complemented by the addition of further interventions.\nThe PIR provides information at all levels for calculating costs related to the interventions\nincluding for material resources and the workforce.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 21,
+        "source_type": "text",
+        "estimated_tokens": 404,
+        "local_heading": "3.1 Planning of integrating rehabilitation into health",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0027"
+    },
+    {
+      "text": "rehabilitation at service delivery levels\nThe PIR does not provide recommendations on the availability of specific interventions at the\ndifferent service delivery levels as this might be very country and context specific. However,\nservice planners can use the PIR to guide decision-making regarding which interventions",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nLocal heading: 3.2 Planning of integration of interventions for\nSource type: text\nContent: rehabilitation at service delivery levels\nThe PIR does not provide recommendations on the availability of specific interventions at the\ndifferent service delivery levels as this might be very country and context specific. However,\nservice planners can use the PIR to guide decision-making regarding which interventions",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 21,
+        "source_type": "text",
+        "estimated_tokens": 80,
+        "local_heading": "3.2 Planning of integration of interventions for",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0028"
+    },
+    {
+      "text": "should be available at the different service delivery levels. For the same health conditions,\nthese packages may differ for the different service delivery levels and need to consider country\nand context specific considerations. The different levels of health service delivery are usually described as “primary”, “secondary”\nand “tertiary”. However, in accordance with other WHO service delivery guidance, and with\ncategories to be used in WHO’s UHC Compendium (11), the levels are described as “General\noutpatient services”, “First referral level”, and “Second referral level” (Box 7). A. General outpatient services: refers to rehabilitation services that are integrated into primary\nhealth care and include the services and professionals that act as a first point of contact in the\nhealth system. Importantly, interventions for rehabilitation delivered in the community (e.g.\nat a person’s home, in schools or care homes for older people) fall under general outpatient\nservices that include outreach services provided by the workforce of a general outpatient\nservice, such as a physiotherapy or occupational therapy practice. B. First referral level: refers to rehabilitation services integrated into medical specialties in\nsecondary health care where people with less complex needs may access rehabilitation\nfor a short period of time during an acute and subacute phase of care. C. Second referral level: refers to rehabilitation services at tertiary care that are multiprofessional,\nspecialized and of high intensity and are predominantly for people with complex rehabilitation\nneeds during the acute and subacute phases of care. Box 7. Rehabilitation at service delivery levels\nService delivery\nlevel\nRelevant description\nExamples for rehabilitation\nA. General outpatient\nservices (clinic\nsetting or outreach)\nGeneral outpatient services in clinic\nsetting\n• Outpatient physiotherapy,\noccupational therapy or speech\nand language therapy clinics\n• Occupational therapy service\nintegrated into e.g. general\npractitioner facility\nPeriodic schedulable services\ndelivered by skilled health worker in\nhome, schools, workplace, or public\nspace\nB. First referral level\n(district hospital)\nOutpatient services at first referral level\n• Physiotherapy services integrated\nin acute cardiac in-patient clinic\n• Outpatient prosthetic workshop\navailable at district hospital\nEmergency unit services at first referral\nlevel\nInpatient services at first referral level\nC. Second referral\nlevel and above\n(regional and\nnational hospitals)\nAdvanced outpatient services at\nsecond referral level and above\n• Specialized multiprofessional\ninpatient rehabilitation clinics for\ncomplex conditions\n• Specialized multiprofessional\noutpatient rehabilitation day clinic\nAdvanced emergency unit services at\nsecond referral level and above\nAdvanced inpatient services at second\nreferral level and above\nAccess to service delivery levels may vary along the continuum of care.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nSource type: text\nContent: should be available at the different service delivery levels. For the same health conditions,\nthese packages may differ for the different service delivery levels and need to consider country\nand context specific considerations. The different levels of health service delivery are usually described as “primary”, “secondary”\nand “tertiary”. However, in accordance with other WHO service delivery guidance, and with\ncategories to be used in WHO’s UHC Compendium (11), the levels are described as “General\noutpatient services”, “First referral level”, and “Second referral level” (Box 7). A. General outpatient services: refers to rehabilitation services that are integrated into primary\nhealth care and include the services and professionals that act as a first point of contact in the\nhealth system. Importantly, interventions for rehabilitation delivered in the community (e.g.\nat a person’s home, in schools or care homes for older people) fall under general outpatient\nservices that include outreach services provided by the workforce of a general outpatient\nservice, such as a physiotherapy or occupational therapy practice. B. First referral level: refers to rehabilitation services integrated into medical specialties in\nsecondary health care where people with less complex needs may access rehabilitation\nfor a short period of time during an acute and subacute phase of care. C. Second referral level: refers to rehabilitation services at tertiary care that are multiprofessional,\nspecialized and of high intensity and are predominantly for people with complex rehabilitation\nneeds during the acute and subacute phases of care. Box 7. Rehabilitation at service delivery levels\nService delivery\nlevel\nRelevant description\nExamples for rehabilitation\nA. General outpatient\nservices (clinic\nsetting or outreach)\nGeneral outpatient services in clinic\nsetting\n• Outpatient physiotherapy,\noccupational therapy or speech\nand language therapy clinics\n• Occupational therapy service\nintegrated into e.g. general\npractitioner facility\nPeriodic schedulable services\ndelivered by skilled health worker in\nhome, schools, workplace, or public\nspace\nB. First referral level\n(district hospital)\nOutpatient services at first referral level\n• Physiotherapy services integrated\nin acute cardiac in-patient clinic\n• Outpatient prosthetic workshop\navailable at district hospital\nEmergency unit services at first referral\nlevel\nInpatient services at first referral level\nC. Second referral\nlevel and above\n(regional and\nnational hospitals)\nAdvanced outpatient services at\nsecond referral level and above\n• Specialized multiprofessional\ninpatient rehabilitation clinics for\ncomplex conditions\n• Specialized multiprofessional\noutpatient rehabilitation day clinic\nAdvanced emergency unit services at\nsecond referral level and above\nAdvanced inpatient services at second\nreferral level and above\nAccess to service delivery levels may vary along the continuum of care.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 22,
+        "source_type": "text",
+        "estimated_tokens": 737,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0029"
+    },
+    {
+      "text": "For health conditions\nwith acute onset and severe decline in functioning, rehabilitation may start at the first referral\nlevel, followed by a specialized rehabilitation programme during subacute care at the second\nreferral level, and then out-patient rehabilitation in the more chronic and long-term phase at",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nSource type: text\nContent: For health conditions\nwith acute onset and severe decline in functioning, rehabilitation may start at the first referral\nlevel, followed by a specialized rehabilitation programme during subacute care at the second\nreferral level, and then out-patient rehabilitation in the more chronic and long-term phase at",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 22,
+        "source_type": "text",
+        "estimated_tokens": 77,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0030"
+    },
+    {
+      "text": "Service delivery\nlevel | Relevant description | Examples for rehabilitation",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Planning of integration of interventions for\nSource type: table\nContent: Service delivery\nlevel | Relevant description | Examples for rehabilitation",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Planning of integration of interventions for",
+        "page": 22,
+        "source_type": "table",
+        "table_index": 1,
+        "estimated_tokens": 19,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0031"
+    },
+    {
+      "text": "a general outpatient service. For more chronic health conditions with slower progression,\nrehabilitation will likely be delivered at general outpatient services (e.g. speech and language\ntherapy practice in a child with autism spectrum disorders), with sporadic referrals to first or\nsecond levels for highly specialized interventions or multidisciplinary programmes.\nAccess to rehabilitation at the general outpatient services level will facilitate rehabilitation\nclose to a person’s home or in their community; access at the first referral level will integrate\nrehabilitation into the acute care of people with more complex conditions that require in-patient\ncare; access at the second referral level may support intensive (multidisciplinary) inpatient or\noutpatient rehabilitation programmes that are useful for people with more complex conditions\nduring acute and subacute care.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Overview of other WHO products relevant to the\nSource type: text\nContent: a general outpatient service. For more chronic health conditions with slower progression,\nrehabilitation will likely be delivered at general outpatient services (e.g. speech and language\ntherapy practice in a child with autism spectrum disorders), with sporadic referrals to first or\nsecond levels for highly specialized interventions or multidisciplinary programmes.\nAccess to rehabilitation at the general outpatient services level will facilitate rehabilitation\nclose to a person’s home or in their community; access at the first referral level will integrate\nrehabilitation into the acute care of people with more complex conditions that require in-patient\ncare; access at the second referral level may support intensive (multidisciplinary) inpatient or\noutpatient rehabilitation programmes that are useful for people with more complex conditions\nduring acute and subacute care.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Overview of other WHO products relevant to the",
+        "page": 23,
+        "source_type": "text",
+        "estimated_tokens": 220,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0032"
+    },
+    {
+      "text": "The information provided in the PIR can be used for training and education, and to guide\nrehabilitation workers in the knowledge and skills needed to implement interventions efficiently\nand safely according to the needs of an individual (e.g. skills in applying specific techniques or\nphysical modalities). The materials for training and education used together with the Rehabilitation\ncompetency framework can contribute to strengthening the rehabilitation workforce.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Overview of other WHO products relevant to the\nLocal heading: 3.3 Workforce training and education\nSource type: text\nContent: The information provided in the PIR can be used for training and education, and to guide\nrehabilitation workers in the knowledge and skills needed to implement interventions efficiently\nand safely according to the needs of an individual (e.g. skills in applying specific techniques or\nphysical modalities). The materials for training and education used together with the Rehabilitation\ncompetency framework can contribute to strengthening the rehabilitation workforce.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Overview of other WHO products relevant to the",
+        "page": 23,
+        "source_type": "text",
+        "estimated_tokens": 117,
+        "local_heading": "3.3 Workforce training and education",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0033"
+    },
+    {
+      "text": "use of the Package of interventions for rehabilitation\nSeveral other WHO products and tools may be used together with the PIR. Products that are\nspecific to a health condition are listed in the relevant modules in the PIR. Examples of these\nWHO products include:\n• Rehabilitation in health systems: guide for action (7)\n• Rehabilitation competency framework (8)\n• Routine health information system – rehabilitation toolkit (9)\n• Assistive product specifications and how to use them (12)\n• WHO standards for prosthetics and orthotics (13)\n• WHO priority assistive products list (14)\n• Wheelchair service training of trainers package (15)\n• WHO model list of essential medicines (10)\n• WHO list of priority medical devices for management of cardiovascular diseases and diabetes\n(16)\n• Strategizing national health in the 21st century: a handbook (17)\n• Operational framework for primary health care (18)",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: How to use the Package of\nSubsection: Overview of other WHO products relevant to the\nLocal heading: 3.4 Overview of other WHO products relevant to the\nSource type: text\nContent: use of the Package of interventions for rehabilitation\nSeveral other WHO products and tools may be used together with the PIR. Products that are\nspecific to a health condition are listed in the relevant modules in the PIR. Examples of these\nWHO products include:\n• Rehabilitation in health systems: guide for action (7)\n• Rehabilitation competency framework (8)\n• Routine health information system – rehabilitation toolkit (9)\n• Assistive product specifications and how to use them (12)\n• WHO standards for prosthetics and orthotics (13)\n• WHO priority assistive products list (14)\n• Wheelchair service training of trainers package (15)\n• WHO model list of essential medicines (10)\n• WHO list of priority medical devices for management of cardiovascular diseases and diabetes\n(16)\n• Strategizing national health in the 21st century: a handbook (17)\n• Operational framework for primary health care (18)",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "How to use the Package of",
+        "subsection": "Overview of other WHO products relevant to the",
+        "page": 23,
+        "source_type": "text",
+        "estimated_tokens": 225,
+        "local_heading": "3.4 Overview of other WHO products relevant to the",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0034"
+    },
+    {
+      "text": "1. Selection\nof health\nconditions\n2. Identification\nof interventions\nfor rehabilitation\n3.1.\nSelection of\ninterventions\n3.2.\nDescription of\nrequired resources\n4. Peer\nreview",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Development of package\nLocal heading: 4 Methods\nSource type: text\nContent: 1. Selection\nof health\nconditions\n2. Identification\nof interventions\nfor rehabilitation\n3.1.\nSelection of\ninterventions\n3.2.\nDescription of\nrequired resources\n4. Peer\nreview",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Development of package",
+        "subsection": null,
+        "page": 24,
+        "source_type": "text",
+        "estimated_tokens": 43,
+        "local_heading": "4 Methods",
+        "small_chunk": true,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0035"
+    },
+    {
+      "text": "The methodology of the PIR was developed under the supervision of the WHO Guideline Review\nCommittee Secretariat. A stepwise approach was followed (see Fig. 1) with the involvement of a\nbroad range of stakeholder organizations and individual experts in rehabilitation from different\nworking groups. All members of the working groups declared potential conflicts of interest,\nwhich were evaluated by the WHO Rehabilitation Programme. Only candidates without an\nidentified conflict of interest were selected to become a working group member.\nFig. 1: Steps for the development of the Package of interventions for rehabilitation\nThe steps taken to develop the Package of interventions for rehabilitation involved the following:\nStep 1. Selecting the health conditions for the rehabilitation packages. The health conditions\nwere categorized under different disease areas (musculoskeletal, neurological, cardiopulmonary,\nneoplasm, mental health, neurodevelopmental and sensory impairments). Criteria for selection\nwere: i) prevalence rates; ii) associated levels of disability using information on disability weights\nfrom the Global Burden of Disease Study 2016 (19); iii) expert opinion; and iv) a limit of 20 health\nconditions.\nStep 2. Identifying the interventions for rehabilitation. Interventions were identified from\nhigh-quality CPGs as the primary source of evidence and Cochrane systematic reviews as the\nadditional source. Information on the quality of the evidence and strength of recommendations\nrelated to the interventions presented, among other factors, important information to inform\nthe selection of intervention in the next step. Data for specific health conditions were extracted\nby the technical working groups and Cochrane Rehabilitation.\nStep 3. Development of the package which involved:\nStep 3.1. Selecting the essential interventions to be included in the PIR, based on expert\nconsensus.\nStep 3.2. Agreeing a description of resources required for the provision of the selected\ninterventions by development groups for specific health conditions.\nStep 4. Peer review of the draft packages by peer review groups for specific health conditions.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Development of package\nLocal heading: 3 Development of package\nSource type: text\nContent: The methodology of the PIR was developed under the supervision of the WHO Guideline Review\nCommittee Secretariat. A stepwise approach was followed (see Fig. 1) with the involvement of a\nbroad range of stakeholder organizations and individual experts in rehabilitation from different\nworking groups. All members of the working groups declared potential conflicts of interest,\nwhich were evaluated by the WHO Rehabilitation Programme. Only candidates without an\nidentified conflict of interest were selected to become a working group member.\nFig. 1: Steps for the development of the Package of interventions for rehabilitation\nThe steps taken to develop the Package of interventions for rehabilitation involved the following:\nStep 1. Selecting the health conditions for the rehabilitation packages. The health conditions\nwere categorized under different disease areas (musculoskeletal, neurological, cardiopulmonary,\nneoplasm, mental health, neurodevelopmental and sensory impairments). Criteria for selection\nwere: i) prevalence rates; ii) associated levels of disability using information on disability weights\nfrom the Global Burden of Disease Study 2016 (19); iii) expert opinion; and iv) a limit of 20 health\nconditions.\nStep 2. Identifying the interventions for rehabilitation. Interventions were identified from\nhigh-quality CPGs as the primary source of evidence and Cochrane systematic reviews as the\nadditional source. Information on the quality of the evidence and strength of recommendations\nrelated to the interventions presented, among other factors, important information to inform\nthe selection of intervention in the next step. Data for specific health conditions were extracted\nby the technical working groups and Cochrane Rehabilitation.\nStep 3. Development of the package which involved:\nStep 3.1. Selecting the essential interventions to be included in the PIR, based on expert\nconsensus.\nStep 3.2. Agreeing a description of resources required for the provision of the selected\ninterventions by development groups for specific health conditions.\nStep 4. Peer review of the draft packages by peer review groups for specific health conditions.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Development of package",
+        "subsection": null,
+        "page": 24,
+        "source_type": "text",
+        "estimated_tokens": 540,
+        "local_heading": "3 Development of package",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0036"
+    },
+    {
+      "text": "In Step 2, the identification of high-quality CPGs was based on the quality evaluation of\nall CPGs that were identified through a systematic literature search. The AGREE II tool (20)\nwas used for the evaluation. For the CPGs to be considered of high quality, specific minimal\ncriteria for selected items had to be fulfilled. If more than five high-quality CPGs were identified,\nmembers of the development groups discussed reselection, taking into account timeliness,\ncomprehensiveness and multiprofessionalism.\nIn Step 3.1, selection of essential interventions to be included in the PIR was guided by the\nfollowing criteria: (i) evidence on the effectiveness of the intervention must be sufficient, based\non the quality of evidence and the strength of the recommendation or expert opinion of the\ndevelopment group; (ii) the intervention must be considered beneficial to many people with\na specific health condition; (iii) the benefit of the intervention must be considered as high and\nfavourable in terms of costs involved; and (iv) the delivery of the intervention must be considered\nas necessary and feasible in low- and middle-resource settings. Interventions were selected for\ninclusion in the PIR only when members of the development group had reached consensus\n(agreement among the majority of the members of the development group).\nIn Step 3.2, the development group agreed on the description of the additional information on\nmaterial resources and required time. Occupations in rehabilitation considered relevant to the\ninterventions were decided by the WHO Rehabilitation Programme team.\nIn Step 4, peer review groups reviewed the draft packages and provided feedback and\nrecommendations for potential revisions. Relevant topics were discussed among members\nof the development and peer review groups and final recommendations for revision agreed.\nAdditional details for Step 2 and Step 3 of the development process, can be found in Annex 1.\nThe final list of guidelines and systematic reviews used to inform the selection to be included\nin the PIR is available for each specific health condition in the supplementary materials of the\ndisease-specific modules.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Development of package\nSource type: text\nContent: In Step 2, the identification of high-quality CPGs was based on the quality evaluation of\nall CPGs that were identified through a systematic literature search. The AGREE II tool (20)\nwas used for the evaluation. For the CPGs to be considered of high quality, specific minimal\ncriteria for selected items had to be fulfilled. If more than five high-quality CPGs were identified,\nmembers of the development groups discussed reselection, taking into account timeliness,\ncomprehensiveness and multiprofessionalism.\nIn Step 3.1, selection of essential interventions to be included in the PIR was guided by the\nfollowing criteria: (i) evidence on the effectiveness of the intervention must be sufficient, based\non the quality of evidence and the strength of the recommendation or expert opinion of the\ndevelopment group; (ii) the intervention must be considered beneficial to many people with\na specific health condition; (iii) the benefit of the intervention must be considered as high and\nfavourable in terms of costs involved; and (iv) the delivery of the intervention must be considered\nas necessary and feasible in low- and middle-resource settings. Interventions were selected for\ninclusion in the PIR only when members of the development group had reached consensus\n(agreement among the majority of the members of the development group).\nIn Step 3.2, the development group agreed on the description of the additional information on\nmaterial resources and required time. Occupations in rehabilitation considered relevant to the\ninterventions were decided by the WHO Rehabilitation Programme team.\nIn Step 4, peer review groups reviewed the draft packages and provided feedback and\nrecommendations for potential revisions. Relevant topics were discussed among members\nof the development and peer review groups and final recommendations for revision agreed.\nAdditional details for Step 2 and Step 3 of the development process, can be found in Annex 1.\nThe final list of guidelines and systematic reviews used to inform the selection to be included\nin the PIR is available for each specific health condition in the supplementary materials of the\ndisease-specific modules.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Development of package",
+        "subsection": null,
+        "page": 25,
+        "source_type": "text",
+        "estimated_tokens": 542,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 1.0,
+        "semantic_completeness_issues": []
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0037"
+    },
+    {
+      "text": "sustainabledevelopment/development-agenda, accessed 16 August 2022).\nsustainabledevelopment/wp-content/uploads/2017/03/3_Why-It-Matters-2020.pdf, accessed 14\nJune 2023).",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Priority assistive products list: improving access to assistive technology for everyone, everywhere.\nSource type: text\nContent: sustainabledevelopment/development-agenda, accessed 16 August 2022).\nsustainabledevelopment/wp-content/uploads/2017/03/3_Why-It-Matters-2020.pdf, accessed 14\nJune 2023).",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+        "subsection": null,
+        "page": 27,
+        "source_type": "text",
+        "estimated_tokens": 42,
+        "small_chunk": true,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0038"
+    },
+    {
+      "text": "apps.who.int/iris/handle/10665/112671, accessed 16 August 2022).\nAugust 2022).\niris/handle/10665/331210, accessed 18 August 2022).\ninitiatives/rehabilitation-2030, accessed 16 August 2022).\napps.who.int/iris/handle/10665/325607, accessed 16 August 2022).\nint/iris/handle/10665/338782, accessed 16 August 2022).\n9. Routine health information systems – rehabilitation toolkit. Geneva: World Health Organization;\ninformation-systems---rehabilitation-toolkit, accessed 16 August 2022).\n10. WHO model list of essential medicines – 22nd List, 2021. Geneva: World Health Organization; 2021",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Priority assistive products list: improving access to assistive technology for everyone, everywhere.\nLocal heading: 3 Making fair choices on the path to universal health coverage: final report of the WHO consultative\nSource type: text\nContent: apps.who.int/iris/handle/10665/112671, accessed 16 August 2022).\nAugust 2022).\niris/handle/10665/331210, accessed 18 August 2022).\ninitiatives/rehabilitation-2030, accessed 16 August 2022).\napps.who.int/iris/handle/10665/325607, accessed 16 August 2022).\nint/iris/handle/10665/338782, accessed 16 August 2022).\n9. Routine health information systems – rehabilitation toolkit. Geneva: World Health Organization;\ninformation-systems---rehabilitation-toolkit, accessed 16 August 2022).\n10. WHO model list of essential medicines – 22nd List, 2021. Geneva: World Health Organization; 2021",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+        "subsection": null,
+        "page": 27,
+        "source_type": "text",
+        "estimated_tokens": 146,
+        "local_heading": "3 Making fair choices on the path to universal health coverage: final report of the WHO consultative",
+        "small_chunk": false,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0039"
+    },
+    {
+      "text": "12. Assistive product specifications and how to use them. Geneva: World Health Organization; 2021\napps.who.int/iris/handle/10665/259209, accessed 18 August 2022).",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Priority assistive products list: improving access to assistive technology for everyone, everywhere.\nLocal heading: 11 UHC Compendium. Health interventions for universal health coverage. Geneva: World Health\nSource type: text\nContent: 12. Assistive product specifications and how to use them. Geneva: World Health Organization; 2021\napps.who.int/iris/handle/10665/259209, accessed 18 August 2022).",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+        "subsection": null,
+        "page": 27,
+        "source_type": "text",
+        "estimated_tokens": 40,
+        "local_heading": "11 UHC Compendium. Health interventions for universal health coverage. Geneva: World Health",
+        "small_chunk": true,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0040"
+    },
+    {
+      "text": "18 August 2022).",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Priority assistive products list: improving access to assistive technology for everyone, everywhere.\nLocal heading: 14 Priority assistive products list: improving access to assistive technology for everyone, everywhere.\nSource type: text\nContent: 18 August 2022).",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+        "subsection": null,
+        "page": 27,
+        "source_type": "text",
+        "estimated_tokens": 4,
+        "local_heading": "14 Priority assistive products list: improving access to assistive technology for everyone, everywhere.",
+        "small_chunk": true,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0041"
+    },
+    {
+      "text": "handle/10665/341967, accessed 18 August 2022).\n17. Strategizing national health in the 21st century: a handbook. Geneva: World Health Organization;",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nLocal heading: 16 WHO list of priority medical devices for management of cardiovascular diseases and diabetes. WHO\nSource type: text\nContent: handle/10665/341967, accessed 18 August 2022).\n17. Strategizing national health in the 21st century: a handbook. Geneva: World Health Organization;",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 28,
+        "source_type": "text",
+        "estimated_tokens": 37,
+        "local_heading": "16 WHO list of priority medical devices for management of cardiovascular diseases and diabetes. WHO",
+        "small_chunk": true,
+        "semantic_completeness": "incomplete",
+        "semantic_completeness_score": 0.34,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "ends_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0042"
+    },
+    {
+      "text": "handle/10665/337641, accessed 18 August 2022).\n19. GBD 2016 Disease and Injury Incidence and Prevalence Collaborators. Global, regional, and national\nincidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries,\n1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet 2017;\n390:1211–59.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nLocal heading: 18 Operational framework for primary health care: transforming vision into action. Geneva: World Health\nSource type: text\nContent: handle/10665/337641, accessed 18 August 2022).\n19. GBD 2016 Disease and Injury Incidence and Prevalence Collaborators. Global, regional, and national\nincidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries,\n1990–2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet 2017;\n390:1211–59.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 28,
+        "source_type": "text",
+        "estimated_tokens": 89,
+        "local_heading": "18 Operational framework for primary health care: transforming vision into action. Geneva: World Health",
+        "small_chunk": false,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0043"
+    },
+    {
+      "text": "uploads/2017/12/AGREE-II-Users-Manual-and-23-item-Instrument-2009-Update-2017.pdf, accessed\n18 August 2022).",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nLocal heading: 20 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: uploads/2017/12/AGREE-II-Users-Manual-and-23-item-Instrument-2009-Update-2017.pdf, accessed\n18 August 2022).",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 28,
+        "source_type": "text",
+        "estimated_tokens": 27,
+        "local_heading": "20 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "small_chunk": true,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0044"
+    },
+    {
+      "text": "Annex. Selection of guidelines and\nsystematic reviews, data extraction and\nselection of interventions\nThis Annex outlines the methods used for identifying the clinical practice guidelines (CPGs)\nand Cochrane systematic reviews for the Package of interventions for rehabilitation (PIR), as\nwell as for agreeing the selection of interventions to be included.\n1) Search and selection strategy for, and data extraction\nfrom, high-quality clinical practice guidelines for\nspecific health conditions\nLiterature search\na) Academic databases\nSystematic literature searches were performed and search strategies defined according to\neach consulted database. The following general search terms were used: “Health condition”\nAND “Rehabilitation” AND “Guideline” (using MeSH terms for each health condition). If these\nwere unavailable, others were added so that a spectrum of commonly-used terms was covered.\nSearches were limited to guidelines published during the past 10 years and those written in\nthe English language. If a member of the technical working group was of a mother tongue\nother than English, this language may have also been included. As a minimum standard set,\nthe following databases were consulted:\n• PubMed\n• Embase",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: Annex. Selection of guidelines and\nsystematic reviews, data extraction and\nselection of interventions\nThis Annex outlines the methods used for identifying the clinical practice guidelines (CPGs)\nand Cochrane systematic reviews for the Package of interventions for rehabilitation (PIR), as\nwell as for agreeing the selection of interventions to be included.\n1) Search and selection strategy for, and data extraction\nfrom, high-quality clinical practice guidelines for\nspecific health conditions\nLiterature search\na) Academic databases\nSystematic literature searches were performed and search strategies defined according to\neach consulted database. The following general search terms were used: “Health condition”\nAND “Rehabilitation” AND “Guideline” (using MeSH terms for each health condition). If these\nwere unavailable, others were added so that a spectrum of commonly-used terms was covered.\nSearches were limited to guidelines published during the past 10 years and those written in\nthe English language. If a member of the technical working group was of a mother tongue\nother than English, this language may have also been included. As a minimum standard set,\nthe following databases were consulted:\n• PubMed\n• Embase",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 29,
+        "source_type": "text",
+        "estimated_tokens": 306,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0045"
+    },
+    {
+      "text": "• PEDro.\nWith academic databases, the following filters were defined for the search strategy:\n• Article type: Guidelines, Practice guidelines, Clinical guidelines\n• Language: English\n• Publication date: Guidelines not older than 10 years.\nb) Search engine\nThe internet engine “Google Scholar” was used systematically for the searches using the\nadvanced search option. The search terms and filters were the same as those used for the\nacademic databases. Screening for titles and abstracts was performed for the first 250 results\nonly; most of the relevant guidelines were expected to fall within this parameter.\nc) Guideline databases (the following list may be extended)",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nLocal heading: • CINAHL\nSource type: text\nContent: • PEDro.\nWith academic databases, the following filters were defined for the search strategy:\n• Article type: Guidelines, Practice guidelines, Clinical guidelines\n• Language: English\n• Publication date: Guidelines not older than 10 years.\nb) Search engine\nThe internet engine “Google Scholar” was used systematically for the searches using the\nadvanced search option. The search terms and filters were the same as those used for the\nacademic databases. Screening for titles and abstracts was performed for the first 250 results\nonly; most of the relevant guidelines were expected to fall within this parameter.\nc) Guideline databases (the following list may be extended)",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 29,
+        "source_type": "text",
+        "estimated_tokens": 168,
+        "local_heading": "• CINAHL",
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0046"
+    },
+    {
+      "text": "A hand search was performed in specific databases for guidelines:\n• Guidelines International Network\n• National Guideline Clearinghouse (United States of America)\n• National Institute for Clinical Excellence (NICE) (England and Wales)\n• Australian National Health and Medical Research Council clinical practice guidelines\n• Scottish Intercollegiate Guidelines Network (SIGN)\n• Canadian Medical Association Infobase of Clinical Practice Guidelines\n• Agence nationale d’accréditation et d’évaluation en santé (France)\n• New Zealand Guidelines Group\n• eGuidelines.\nSearch terms and filters were adapted according to the search options in the guideline databases.\nd) Professional rehabilitation society websites\nThe websites of professional rehabilitation societies were hand searched for guidelines on\nspecific health conditions. Search terms were adapted according to the search options.\nGuidelines selection strategy\nThe selection of CPGs followed a three-step process. In each step, criteria for inclusion or\nexclusion were applied.\ni) Title and abstract screening\nTwo researchers independently screened titles and abstracts. Guidelines for children, young\npeople and adults were included in the screening.\nThe following criteria were applied to identify guidelines for exclusion:\nThe identified literature:\n• was not a guideline;\n• did not report on rehabilitation;\n• was older than 10 years;\n• was developed for health conditions other than the targeted health condition.\nWHO provided a form for documenting the results of the screening of the title and abstracts\nto the technical working groups. Two researchers performed title and abstract screening\nindependently and determined the inclusion/exclusion of CPGs from the search results. The\ndecision to either include or exclude a CPG was made by both researchers after comparison. Any\ndifference in decisions was followed by further discussion to reach consensus. If this was not\npossible, a third member of the technical working group or the methods expert was consulted\nuntil consensus was achieved. All included CPGs were then subjected to full text screening.\nii) Full text screening\nThe same criteria as used for title and abstract screening were applied for the full text screening.\nTwo researchers independently screened the guidelines.\nA guideline was excluded if:\n• a conflict of interest was identified;\n• information on the strength of the recommendation was not provided; or\n• the quality of the guideline was not evaluated as “high”.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: A hand search was performed in specific databases for guidelines:\n• Guidelines International Network\n• National Guideline Clearinghouse (United States of America)\n• National Institute for Clinical Excellence (NICE) (England and Wales)\n• Australian National Health and Medical Research Council clinical practice guidelines\n• Scottish Intercollegiate Guidelines Network (SIGN)\n• Canadian Medical Association Infobase of Clinical Practice Guidelines\n• Agence nationale d’accréditation et d’évaluation en santé (France)\n• New Zealand Guidelines Group\n• eGuidelines.\nSearch terms and filters were adapted according to the search options in the guideline databases.\nd) Professional rehabilitation society websites\nThe websites of professional rehabilitation societies were hand searched for guidelines on\nspecific health conditions. Search terms were adapted according to the search options.\nGuidelines selection strategy\nThe selection of CPGs followed a three-step process. In each step, criteria for inclusion or\nexclusion were applied.\ni) Title and abstract screening\nTwo researchers independently screened titles and abstracts. Guidelines for children, young\npeople and adults were included in the screening.\nThe following criteria were applied to identify guidelines for exclusion:\nThe identified literature:\n• was not a guideline;\n• did not report on rehabilitation;\n• was older than 10 years;\n• was developed for health conditions other than the targeted health condition.\nWHO provided a form for documenting the results of the screening of the title and abstracts\nto the technical working groups. Two researchers performed title and abstract screening\nindependently and determined the inclusion/exclusion of CPGs from the search results. The\ndecision to either include or exclude a CPG was made by both researchers after comparison. Any\ndifference in decisions was followed by further discussion to reach consensus. If this was not\npossible, a third member of the technical working group or the methods expert was consulted\nuntil consensus was achieved. All included CPGs were then subjected to full text screening.\nii) Full text screening\nThe same criteria as used for title and abstract screening were applied for the full text screening.\nTwo researchers independently screened the guidelines.\nA guideline was excluded if:\n• a conflict of interest was identified;\n• information on the strength of the recommendation was not provided; or\n• the quality of the guideline was not evaluated as “high”.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 30,
+        "source_type": "text",
+        "estimated_tokens": 625,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0047"
+    },
+    {
+      "text": "The Appraisal of Guidelines for Research and Evaluation (AGREE II) tool (1) was used to evaluate\nthe quality of the CPGs. The AGREE tool consists of 23 items organized in six domains. Three\nresearchers selected nine items (4, 7, 8, 10, 12, 13, 15, 22 and 23) through a consensus-finding\nprocess that were considered most important to identify high-quality CPGs to be used for the\ndevelopment of the PIR.\nA guideline was excluded if:\n• the average score of the two researchers in any of item numbers: 4, 8, 12, or 22 was below 3; or\n• the sum of the average score of the two researchers for all nine items was less than 45.\nAfter evaluating the guideline using the AGREE II tool, if the rating of an item differed significantly\n(i.e. by more than 2 points) between the two researchers, consensus then had to be reached\nthrough discussion of the results. If no agreement could be found, the methods expert\nwas consulted.\nAll selected items that fulfilled the AGREE II criteria progressed to “c”, as set out below.\niii) Final selection of the clinical practice guidelines\nThe final selection of CPGs aimed to achieve a manageable number (e.g. 3–5) for data extraction.\nIf guidelines were identified for children, young people, adults, or subgroups of a specific health\ncondition, selection was performed for each group individually (the total number of included\nguidelines may then have exceeded five). The following criteria were applied for selection:\n• Multiprofessional CPGs (covering various rehabilitation professions) were preferred; however,\nif only profession-specific guidelines were available, these were considered.\n• General CPGs (addressing multiple rehabilitation topics) were preferred; however, if only\ntopic-specific guidelines (i.e. covering only one topic) were available, these were considered.\n• Quality of the guidelines: CPGs with a higher AGREE II score were preferred.\n• Timeliness of the CPGs: the most recent CPGs were preferred.\n• International perspective: CPGs that had been developed on an international level\nwere preferred.\nThe final number of CPGs to be included was decided based on the available information from\neach CPG and after discussion among members of the technical working groups.\nThe WHO Rehabilitation Programme provided the technical working groups with a form to\ndocument the selection of CPGs based on full text screening.\nData extraction\nData referring to the following domains were extracted:\n• information on the guideline;\n• reference to the recommendation;\n• content of the recommendation; and\n• strength of the recommendation and quality of the related evidence.\nThe WHO Rehabilitation Programme provided each technical working group with a form for\nthe data extraction to ensure a standardized data collection.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: The Appraisal of Guidelines for Research and Evaluation (AGREE II) tool (1) was used to evaluate\nthe quality of the CPGs. The AGREE tool consists of 23 items organized in six domains. Three\nresearchers selected nine items (4, 7, 8, 10, 12, 13, 15, 22 and 23) through a consensus-finding\nprocess that were considered most important to identify high-quality CPGs to be used for the\ndevelopment of the PIR.\nA guideline was excluded if:\n• the average score of the two researchers in any of item numbers: 4, 8, 12, or 22 was below 3; or\n• the sum of the average score of the two researchers for all nine items was less than 45.\nAfter evaluating the guideline using the AGREE II tool, if the rating of an item differed significantly\n(i.e. by more than 2 points) between the two researchers, consensus then had to be reached\nthrough discussion of the results. If no agreement could be found, the methods expert\nwas consulted.\nAll selected items that fulfilled the AGREE II criteria progressed to “c”, as set out below.\niii) Final selection of the clinical practice guidelines\nThe final selection of CPGs aimed to achieve a manageable number (e.g. 3–5) for data extraction.\nIf guidelines were identified for children, young people, adults, or subgroups of a specific health\ncondition, selection was performed for each group individually (the total number of included\nguidelines may then have exceeded five). The following criteria were applied for selection:\n• Multiprofessional CPGs (covering various rehabilitation professions) were preferred; however,\nif only profession-specific guidelines were available, these were considered.\n• General CPGs (addressing multiple rehabilitation topics) were preferred; however, if only\ntopic-specific guidelines (i.e. covering only one topic) were available, these were considered.\n• Quality of the guidelines: CPGs with a higher AGREE II score were preferred.\n• Timeliness of the CPGs: the most recent CPGs were preferred.\n• International perspective: CPGs that had been developed on an international level\nwere preferred.\nThe final number of CPGs to be included was decided based on the available information from\neach CPG and after discussion among members of the technical working groups.\nThe WHO Rehabilitation Programme provided the technical working groups with a form to\ndocument the selection of CPGs based on full text screening.\nData extraction\nData referring to the following domains were extracted:\n• information on the guideline;\n• reference to the recommendation;\n• content of the recommendation; and\n• strength of the recommendation and quality of the related evidence.\nThe WHO Rehabilitation Programme provided each technical working group with a form for\nthe data extraction to ensure a standardized data collection.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 31,
+        "source_type": "text",
+        "estimated_tokens": 691,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0048"
+    },
+    {
+      "text": "2) Search and selection strategy for, and data extraction\nfrom, Cochrane systematic reviews\nSearch strategy\nCochrane systematic reviews were identified using an “advanced search” of the Cochrane\nlibrary. The search terms “Health condition” AND “Rehabilitation” were searched under “Title,\nAbstract, Keyword”.\nThe following limits were defined for the search strategy in the Cochrane library:\n• Content type: Cochrane reviews\n• Cochrane Library publication date: any time during the past eight years\n• Search word variations: Yes.\nThe two researchers performed screening of titles and abstracts independently. The following\ncriteria for inclusion were applied:\n• The Cochrane systematic review was not more than eight years old.\n• The Cochrane systematic review was conducted specifically for the targeted health condition.\n• The interventions represented rehabilitation.\nThe results of the two researchers were compared and, where necessary, discussed so that\nconsensus on the selection was reached.\nThe WHO Rehabilitation Programme provided Cochrane Rehabilitation with a form to document\nthe selection process based on title and abstract and full text screening.\nData extraction\nThe following data were extracted from the Cochrane systematic reviews:\n• Population\n• Intervention and control\n• Setting\n• Outcome\n• Corresponding risk or relative effect (including 95% confidence interval)\n• Number of studies and participants included\n• Summary of main results/Implications for practice (text)\n• Quality of evidence (GRADE)\n• Adverse events.\nThe WHO Rehabilitation Programme provided Cochrane Rehabilitation with a form for the data\nextraction to ensure a standardized data collection.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: 2) Search and selection strategy for, and data extraction\nfrom, Cochrane systematic reviews\nSearch strategy\nCochrane systematic reviews were identified using an “advanced search” of the Cochrane\nlibrary. The search terms “Health condition” AND “Rehabilitation” were searched under “Title,\nAbstract, Keyword”.\nThe following limits were defined for the search strategy in the Cochrane library:\n• Content type: Cochrane reviews\n• Cochrane Library publication date: any time during the past eight years\n• Search word variations: Yes.\nThe two researchers performed screening of titles and abstracts independently. The following\ncriteria for inclusion were applied:\n• The Cochrane systematic review was not more than eight years old.\n• The Cochrane systematic review was conducted specifically for the targeted health condition.\n• The interventions represented rehabilitation.\nThe results of the two researchers were compared and, where necessary, discussed so that\nconsensus on the selection was reached.\nThe WHO Rehabilitation Programme provided Cochrane Rehabilitation with a form to document\nthe selection process based on title and abstract and full text screening.\nData extraction\nThe following data were extracted from the Cochrane systematic reviews:\n• Population\n• Intervention and control\n• Setting\n• Outcome\n• Corresponding risk or relative effect (including 95% confidence interval)\n• Number of studies and participants included\n• Summary of main results/Implications for practice (text)\n• Quality of evidence (GRADE)\n• Adverse events.\nThe WHO Rehabilitation Programme provided Cochrane Rehabilitation with a form for the data\nextraction to ensure a standardized data collection.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 32,
+        "source_type": "text",
+        "estimated_tokens": 421,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0049"
+    },
+    {
+      "text": "3) Synthesis of information identified from clinical\npractice guidelines and Cochrane systematic reviews\nThe WHO Rehabilitation Programme prepared the data for data synthesis from the different\nCPGs and Cochrane systematic reviews. Extracted intervention targets were therefore linked\nto International Classification of Functioning Disability and Health (ICF) categories by applying\nexisting linking rules (2). Targets, related interventions and additional information from all\nsources were then organized according to the ICF categories. This synthesis of all information\nprovided an overview on the following information:\n• Types of interventions addressing specific targets identified from the different sources.\n• Strength of recommendation and quality of evidence for interventions identified from CPGs.\n• Quality of evidence for interventions identified from Cochrane systematic reviews.\nThis overview summarized the available evidence on interventions and facilitated the\nidentification of matching and contradictory recommendations between the different CPGs\nand Cochrane systematic reviews. It further provided information for identifying the gaps in\navailable evidence. The overview was presented to the development groups for a final selection\nof interventions to be included in the PIR.\n4) Selection of interventions to be included in the\nPackage of interventions for rehabilitation\nTo decide on the interventions to be included in the PIR, a two-round Delphi process was\nconducted among the members of the development groups for specific health conditions. The\nfirst round was carried out electronically and anonymously. Each member of a development\ngroup individually evaluated the identified interventions based on the strength and quality\nof the recommendations and the comparison with evidence from the Cochrane systematic\nreviews (if applicable). The members then decided on which interventions to include in the PIR.\nFor the second round, the results were presented to and discussed among the members of the\ndevelopment groups during a web conference to achieve final consensus on the selection.\nConsensus was defined as an agreement among the majority of members of the development\ngroup. The WHO Rehabilitation Programme moderated the group discussion. The members of\nthe development groups then had to propose which essential interventions were lacking from\nthe selected list. The proposed “expert-opinion-based” interventions were again presented\nto and discussed among the development group and only included in the PIR if consensus\nwas achieved.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: 3) Synthesis of information identified from clinical\npractice guidelines and Cochrane systematic reviews\nThe WHO Rehabilitation Programme prepared the data for data synthesis from the different\nCPGs and Cochrane systematic reviews. Extracted intervention targets were therefore linked\nto International Classification of Functioning Disability and Health (ICF) categories by applying\nexisting linking rules (2). Targets, related interventions and additional information from all\nsources were then organized according to the ICF categories. This synthesis of all information\nprovided an overview on the following information:\n• Types of interventions addressing specific targets identified from the different sources.\n• Strength of recommendation and quality of evidence for interventions identified from CPGs.\n• Quality of evidence for interventions identified from Cochrane systematic reviews.\nThis overview summarized the available evidence on interventions and facilitated the\nidentification of matching and contradictory recommendations between the different CPGs\nand Cochrane systematic reviews. It further provided information for identifying the gaps in\navailable evidence. The overview was presented to the development groups for a final selection\nof interventions to be included in the PIR.\n4) Selection of interventions to be included in the\nPackage of interventions for rehabilitation\nTo decide on the interventions to be included in the PIR, a two-round Delphi process was\nconducted among the members of the development groups for specific health conditions. The\nfirst round was carried out electronically and anonymously. Each member of a development\ngroup individually evaluated the identified interventions based on the strength and quality\nof the recommendations and the comparison with evidence from the Cochrane systematic\nreviews (if applicable). The members then decided on which interventions to include in the PIR.\nFor the second round, the results were presented to and discussed among the members of the\ndevelopment groups during a web conference to achieve final consensus on the selection.\nConsensus was defined as an agreement among the majority of members of the development\ngroup. The WHO Rehabilitation Programme moderated the group discussion. The members of\nthe development groups then had to propose which essential interventions were lacking from\nthe selected list. The proposed “expert-opinion-based” interventions were again presented\nto and discussed among the development group and only included in the PIR if consensus\nwas achieved.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 33,
+        "source_type": "text",
+        "estimated_tokens": 642,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0050"
+    },
+    {
+      "text": "5) Description of information related to the selected\ninterventions\nAll interventions included in the PIR were compiled in a list. For each intervention, descriptions\nrelating to the following areas were created:\n• the assistive products (if required);\n• the equipment (if required);\n• the consumables (if required); and\n• the assignment to service delivery levels.\nThe WHO Rehabilitation Programme guided development group members in preparing the\ndescriptions.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: 5) Description of information related to the selected\ninterventions\nAll interventions included in the PIR were compiled in a list. For each intervention, descriptions\nrelating to the following areas were created:\n• the assistive products (if required);\n• the equipment (if required);\n• the consumables (if required); and\n• the assignment to service delivery levels.\nThe WHO Rehabilitation Programme guided development group members in preparing the\ndescriptions.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 34,
+        "source_type": "text",
+        "estimated_tokens": 116,
+        "small_chunk": false,
+        "semantic_completeness": "complete",
+        "semantic_completeness_score": 0.78,
+        "semantic_completeness_issues": [
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0051"
+    },
+    {
+      "text": "uploads/2017/12/AGREE-II-Users- Manual-and-23-item-Instrument-2009-Update-2017.pdf, accessed\n18 August 2022).\n2. Cieza A, Fayed N, Bickenbach J, Prodinger B. Refinements of the ICF Linking Rules to strengthen\ntheir potential for establishing comparability of health information. Disabil Rehabil. 2016;17:1–10.",
+      "retrieval_text": "Document: 01_WHO_PIR_Module1_Introduction.pdf\nSection: Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nLocal heading: 1 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE\nSource type: text\nContent: uploads/2017/12/AGREE-II-Users- Manual-and-23-item-Instrument-2009-Update-2017.pdf, accessed\n18 August 2022).\n2. Cieza A, Fayed N, Bickenbach J, Prodinger B. Refinements of the ICF Linking Rules to strengthen\ntheir potential for establishing comparability of health information. Disabil Rehabil. 2016;17:1–10.",
+      "metadata": {
+        "document_id": "01_WHO_PIR_Module1_Introduction",
+        "title": "01_WHO_PIR_Module1_Introduction.pdf",
+        "organization": null,
+        "year": null,
+        "domain": "physiotherapy",
+        "condition": null,
+        "population": null,
+        "section": "Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "subsection": null,
+        "page": 34,
+        "source_type": "text",
+        "estimated_tokens": 77,
+        "local_heading": "1 Appraisal of Guidelines for Research & Evaluation. The AGREE Next Steps Consortium. The AGREE",
+        "small_chunk": false,
+        "semantic_completeness": "warning",
+        "semantic_completeness_score": 0.56,
+        "semantic_completeness_issues": [
+          "starts_mid_sentence",
+          "unbalanced_delimiters"
+        ]
+      },
+      "chunk_id": "01_WHO_PIR_Module1_Introduction_chunk_0052"
+    }
+  ]
+}

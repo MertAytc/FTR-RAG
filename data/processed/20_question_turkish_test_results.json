@@ -1,0 +1,632 @@
+[
+  {
+    "test": 1,
+    "query": "DCD tanısı olan 10 yaşında bir çocuk için fizik tedavi planı hazırlanacak. Kaynaklara göre hangi fizik tedavi müdahaleleri ve egzersiz yaklaşımları değerlendirilebilir? Hedef belirleme ve aile katılımı nasıl ele alınmalıdır?",
+    "answer": "DCD tanısı olan 10 yaşındaki bir çocuğun fizik tedavi planı için aşağıdaki önerileri değerlendirebilirsiniz:\n\n- **Tarih ve Sistem Değerlendirme**: Hasta tarihi, geçmiş ve sistem değerlendirmesi yaparak hasta durumunu kapsamlı olarak anlayın. [SOURCE 1]\n  \n- **Etkinlik ve Fizik Performans Değerlendirme**: Çocuğun etkinlik sınırlamalarını ve fizik performansını kapsamlı bir şekilde değerlendirmeniz gerekecek. Bu değerlendirme, katılım önceliklerine odaklanmalıdır. [SOURCE 1]\n\n- **Paylaşılan Karar Verme ile Hedef Belirleme**: Çocuk ve ailenin katılım öncelikleri ve hedeflerine dayalı ölçülabilecek hedefler belirlemek için paylaşılan karar verme yaklaşımı kullanın. [SOURCE 1, SOURCE 2]\n\n- **Kooperatif Tedavi Planı**: Çocuk, aile ve diğer ilgili sağlık hizmet sağlayıcıları ile birlikte kooperatif bir tedavi planı oluşturun. Bu plan, gerekli olduğunda ana bakıcının başvurusuna yönelik başvuru da içerebilir. [SOURCE 1]\n\n- **Görev Önceliklerine Dayalı Yaklaşım**: Çocuğun hedeflerini ve anlamlı etkinlikleri destekleyen görev önceliklerine dayalı yaklaşımları kullanın. Sınırlar ve yapılar dahil olmak üzere hedeflerin gerçekleştirilmesi için gerekli olan fizik tedavi uygulamalarını belirleyin. [SOURCE 1]\n\n- **Toplu Grup veya Bireysel Oturumlar**: Çocuğun ihtiyaçlarına göre",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0024",
+        "page": 7,
+        "mmr_score": 0.9728785132816176,
+        "rrf_score": 0.03021353930031804
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0063",
+        "page": 24,
+        "mmr_score": 0.4814737284192764,
+        "rrf_score": 0.030158730158730156
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0080",
+        "page": 32,
+        "mmr_score": 0.4497819735415456,
+        "rrf_score": 0.02886002886002886
+      }
+    ]
+  },
+  {
+    "test": 2,
+    "query": "DCD tanısı olan bir çocuk günlük yaşam aktivitelerinde motor görevlerde zorlanıyor. Kaynaklara göre fizik tedavide task-oriented yaklaşım veya başka hangi müdahale türleri düşünülebilir?",
+    "answer": "DCD tanısı olan bir çocuk için fizik tedavide task-oriented yaklaşım uygulanabilir. Ayrıca, aşağıdaki müdahale türleri de düşünülebilir:\n\n- Task-oriented yaklaşımlar: Motor becerilerini geliştirmek ve kişisel anlamda önemli aktivitelerde katılımı artırmak için önerilmiştir.\n- Impairment-based müdahaleler: Rehberli motor öğretim stratejileri, kafa-bacak hareketleri gibi belirli motor becerilerine odaklanarak uygulanabilir. [SOURCE 2]\n- Topluluk fizik aktiviteleri: Evidens-informed fizik aktiviteleri, aile ve arkadaşlarla fiziksel faaliyetlerde katılımını teşvik etmek için önerilmiştir. [SOURCE 2]\n\nCONTEXT'te belirtilmemiş: set, tekrar, süre, sıklık ve yoğunluk değerleri.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0043",
+        "page": 14,
+        "mmr_score": 0.9529646284023466,
+        "rrf_score": 0.032266458495966696
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0068",
+        "page": 26,
+        "mmr_score": 0.4907304475648617,
+        "rrf_score": 0.03128054740957967
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0089",
+        "page": 34,
+        "mmr_score": 0.41439444602775616,
+        "rrf_score": 0.03057889822595705
+      }
+    ]
+  },
+  {
+    "test": 3,
+    "query": "DCD olan bir çocuk için evde uygulanabilecek fiziksel aktivite veya egzersiz yaklaşımı planlanırken hangi unsurlar dikkate alınmalıdır?",
+    "answer": "DCD olan bir çocuk için evde uygulanabilecek fiziksel aktivite veya egzersiz yaklaşımı planlanırken aşağıdaki unsurlar dikkate alınmalıdır:\n\n- **Tasarım ve Uygulama**: Egzersizlerin, çocukların hedefleri ve günlük aktivitelerine uygun olmaları gerekmektedir. [SOURCE 3]\n- **Sınırlamalar ve Performans Değerlendirme**: Çocukların fiziksel performans ve aktivite sınırlamalarının değerlendirilmesi önemlidir. [SOURCE 3]\n- **Paylaşılan Kararlar**: Hedeflerin belirlenmesinde çocuk ve ailesinin aktif katılımı sağlanmalıdır. [SOURCE 3]\n- **Etkinlik Önerileri**: Etkinlikler, çocukların hedefleri ve günlük aktivitelerine uygun olmalı ve evde, okulda veya toplumda uygulanabilir olmalıdır. [SOURCE 3]\n\nCONTEXT'te belirtilmemiş: egzersiz planının detayları, set sayısı, tekrar sayısını, süre, sıklık ve yoğunluğu.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0092",
+        "page": 35,
+        "mmr_score": 0.9425269882110832,
+        "rrf_score": 0.032018442622950824
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0090",
+        "page": 34,
+        "mmr_score": 0.40881209251861317,
+        "rrf_score": 0.03047794966520434
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0024",
+        "page": 7,
+        "mmr_score": 0.40579522599495277,
+        "rrf_score": 0.028991596638655463
+      }
+    ]
+  },
+  {
+    "test": 4,
+    "query": "DCD olan bir çocukta tedaviye başlanmış ancak hedeflere ilerleme sınırlı kalmış. Kaynaklara göre fizik terapisti müdahaleyi nasıl değerlendirmeli ve ne zaman değiştirmeyi düşünmelidir?",
+    "answer": "Fizik terapisti müdahalelerine bakış ve değiştirme zamanı hakkında aşağıdaki noktaları göz önünde bulundurabilir:\n\n- **Gözlem ve Değerlendirme:** Fizik terapevsi, hedeflere ulaşma durumunu düzenli olarak ölçmelidir. Bu ölçümler, aile ile birlikte gerçekleştirilerek, fizik tedavisi etkinliğini değerlendirebilir. [SOURCE 1]\n\n- **Değişikliklerin Zamanı:** Eğer hedeflere ilerleme sınırlı kalmışsa, yeni hedefler belirlemek veya direk müdahaleden yıllık veya yarıyıllık fizik terapisi değerlendirmelerine geçiş yapmak gibi değişiklikler düşünülebilir. [SOURCE 1]\n\n- **Kooperatif Plan:** Fizik terapisti, aile ve hasta ile birlikte hedef belirlemeyi önem vermelidir. Bu süreç, hedeflerin gerçekçiliğini ve ulaşılabilirliğini artırmaya yardımcı olabilir. [SOURCE 2]\n\n- **Değerlendirme Süreci:** Fizik terapisti, hedeflere ulaşma durumunu ölçerek, fizik tedavisi etkinliğini değerlendirebilir. Bu süreçte, aile ile düzenli olarak iletişim kurulmalıdır. [SOURCE 1]",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0025",
+        "page": 8,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0030",
+        "page": 10,
+        "mmr_score": 0.4461055255110857,
+        "rrf_score": 0.0315136476426799
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0003",
+        "page": 2,
+        "mmr_score": 0.4223684772794122,
+        "rrf_score": 0.031009615384615385
+      }
+    ]
+  },
+  {
+    "test": 5,
+    "query": "TKA sonrası erken postoperatif dönemde olan bir hastada kuvvet ve fonksiyonu geliştirmek isteniyor. Kaynaklara göre hangi progresif direnç egzersizi yaklaşımları değerlendirilebilir?",
+    "answer": "Erken postoperatif dönemde TKA sonrası kuvvet ve fonksiyon geliştirmek için aşağıdaki progresif direnç egzersiz yaklaşımları değerlendirilebilir:\n\n- Isotonic ve isokinetik direnç egzersizlerinin kullanılması [SOURCE 3].\n- Egzersiz bantlarının da kullanılabilirlik gösterdiği durumlarda [SOURCE 3].\n- Progressive direnç egzersizlerin erken postoperatif dönemde güvenli bir şekilde uygulanabileceği belirlenmiştir [SOURCE 3].\n\nBu yaklaşımların uygulanması sırasında, hastaların sıklıkla izlenmesi gereken parametreler arasında ağrı, hedeflenen hareket alanının genişlemesi ve edema bulunmaktadır. Bu durumların kontrolünde direnç egzersizlerin yoğunluğu ve tekrar sayısına müdahale yapılabilir [SOURCE 1].",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 1.0,
+        "rrf_score": 0.032266458495966696
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0030",
+        "page": 17,
+        "mmr_score": 0.42541816562276924,
+        "rrf_score": 0.032266458495966696
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0031",
+        "page": 18,
+        "mmr_score": 0.3961664834306273,
+        "rrf_score": 0.0304147465437788
+      }
+    ]
+  },
+  {
+    "test": 6,
+    "query": "TKA sonrası bir hastanın denge ve fonksiyonel hareketliliğini geliştirmek için kaynaklarda hangi egzersiz veya müdahale türleri incelenmiştir?",
+    "answer": "TKA sonrası denge ve fonksiyonel hareketliliğini geliştirmek için incelenen egzersiz veya müdahale türleri şunlardır:\n\n- Dinamik dengesel egzersizler: [SOURCE 1]\n- Computer veya uygulama destekli adımlaşma yeniden eğitimi: [SOURCE 1]\n- Hareket egzersizleri ile geri bildirim: [SOURCE 1]\n- Akvatisman: [SOURCE 2]\n- Tai chi chuan: [SOURCE 2]\n- Kontrollü yürüme programı: [SOURCE 2]\n- Denge egzersiz programı: [SOURCE 2]\n- Dış kaynaklı dengesel egzersiz: [SOURCE 2]\n- Ağırlık taşıyan biofeedback egzersizleri: [SOURCE 2]\n- Intensif fizik tedavisi: [SOURCE 2]\n- Biyomekanik ayakkabı montajları: [SOURCE 2]\n- Virtual reality tabanlı serüven oyunları: [SOURCE 2]\n\nCONTEXT'te belirtilmemiş: egzersiz setleri, tekrarlar, süre, sıklık ve yoğunluk değerleri.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0026",
+        "page": 15,
+        "mmr_score": 0.9207239819004525,
+        "rrf_score": 0.03076923076923077
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0055",
+        "page": 30,
+        "mmr_score": 0.4719469726365613,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0046",
+        "page": 25,
+        "mmr_score": 0.3832309891151356,
+        "rrf_score": 0.03125
+      }
+    ]
+  },
+  {
+    "test": 7,
+    "query": "TKA sonrası bir hastada quadriceps kas aktivasyonu ve fonksiyonun geliştirilmesi hedefleniyor. Kaynaklarda hangi egzersiz yaklaşımları veya geri bildirim yöntemleri belirtilmiştir?",
+    "answer": "Quadriceps kas aktivasyonu ve fonksiyon geliştirme için aşağıdaki egzersiz yaklaşımları ve geri bildirim yöntemleri belirtilmiştir:\n\n- Neuromuscular electrical stimulation (NMES) uygulaması: TKA sonrası hastalara en az günlük temel yoğunlukta NMES uygulanması önerilmiştir. [SOURCE 1]\n- Progressive resistance training: Hasta senaryosunda yüksek yoğunlukta resitans egzersizlerinin uygulanmasının olası faydaları ve riskleri belirtilmiştir, ancak spesifik parametreler belirtilmemiştir. [SOURCE 2]\n\nCONTEXT'te belirtilmemiş: NMES'in uygulanma frekansı, süre ve diğer detaylı parametreler. [SOURCE 1] ve [SOURCE 2] \n\n[ SOURCE 1 ] \n[ SOURCE 2 ]",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0029",
+        "page": 17,
+        "mmr_score": 0.9434424385814375,
+        "rrf_score": 0.030621785881252923
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.4562378426637298,
+        "rrf_score": 0.03007688828584351
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0045",
+        "page": 25,
+        "mmr_score": 0.42107992639532243,
+        "rrf_score": 0.03009207275993712
+      }
+    ]
+  },
+  {
+    "test": 8,
+    "query": "TKA sonrası progresif direnç egzersizlerini ilerletirken ağrı, şişlik, uzun süren soreness, ROM ve hastanın kendi bildirdiği fonksiyon nasıl dikkate alınmalıdır?",
+    "answer": "TKA sonrası progresif direnç egzersizlerde hastaların ağrı, şişlik ve soreness gibi yan etkileri dikkate almak önemlidir. Ayrıca, hastaların kendi bildirdiği fonksiyon ve ROM deyimleri de değerlendirilmelidir:\n\n- [SOURCE 2] ve [SOURCE 3] kaynaklarında belirtilen gibi, direnç egzersizlerin planlanması ve uygulanması sırasında ağrı, şişlik ve uzun süreli soreness gibi yan etkileri dikkate alınmalıdır. Bu yan etkiler, hastaların egzersiz programlarına katılımını etkileyebilir.\n- Hastaların kendi bildirdiği ağrı, ROM ve genel fonksiyon seviyelerini değerlendirerek egzersiz planlarının uygunluğunu kontrol etmek önemlidir. [SOURCE 2] kaynakında belirtilen gibi, hastaların tercihlerine ve toleranslarına dayalı olarak egzersiz programları uyarlanabilir.\n- Egzersiz programlarında prospektif olarak direnç eğitiminin başlamasına yönelik öneriler de bulunmaktadır. [SOURCE 2] kaynakında belirtilen gibi, direnç eğitimi early postacute period'da başlayarak hastaların fonksiyon, güç ve ROM'una katkı sağlayabilir.\n- CONTEXT'te belirtilmemiş: Direnç egzersizlerin yoğunluğu, süre, sıklık ve set sayısı gibi detaylı parametreler. Bu değerler, hastaların durumlarına ve fizik terapistinin değerlendirme sonucunda belirlenmelidir.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0030",
+        "page": 17,
+        "mmr_score": 0.3818798955633035,
+        "rrf_score": 0.031024531024531024
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0011",
+        "page": 8,
+        "mmr_score": 0.36358604087502977,
+        "rrf_score": 0.028612012987012988
+      }
+    ]
+  },
+  {
+    "test": 9,
+    "query": "TKA sonrası egzersiz programında aşırı agresif progresyon yapılırsa hangi riskler ortaya çıkabilir ve ilerleme nasıl daha güvenli yönetilmelidir?",
+    "answer": "Aşırı agresif progresyon TKA sonrası egzersiz programlarında riskler ve güvenli ilerleme yöntemleri:\n\n1. Aşırı agresif progresyon, ağrı ve edema artışı nedeniyle hastaların sağlığına zarar verebilir.\n2. Egzersiz programları, ağrı ve edema kontrolünde uygun ilerleme kriterlerine tabi olmalıdır.\n3. Hedeflere ve fiziksel yanıtına göre egzersiz programlarını belirlemek önemlidir.\n4. Doktor ve hastaların birlikte hedef belirlemesi, egzersiz programlarının sürdürülebilirliğini artırır.\n\n[CONTEXT'te belirtilmemiş]",
+    "citation_valid": false,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0028",
+        "page": 16,
+        "mmr_score": 0.44023027521338964,
+        "rrf_score": 0.0315136476426799
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0026",
+        "page": 15,
+        "mmr_score": 0.38526577968790854,
+        "rrf_score": 0.030158730158730156
+      }
+    ]
+  },
+  {
+    "test": 10,
+    "query": "Fizik tedavi egzersizlerinde set, tekrar, süre ve sıklık gibi doz bilgileri yalnızca kaynakta verilmişse nasıl kullanılmalıdır? Kaynakta bulunmayan değerler için ne yapılmalıdır?",
+    "answer": "Fizik tedavi egzersizlerinde set, tekrar, süre ve sıklık gibi doz bilgileri yalnızca kaynakta belirtilmişse şu adımları takip etmelidir:\n\n1. CONTEXT'te verilen değerleri aynen kullanın: [SOURCE 1] ve [SOURCE 2] kaynaklarında set, tekrar, süre ve sıklık gibi doz bilgileri kesinlikle belirlenmemiş.\n2. Doz bilgilerinin eksik olduğu durumlarda, hedeflenen performansın veya sonuçların elde edilmesine yönelik genel rehberlere başvurun: Örneğin, [SOURCE 1] kaynakında \"PT, hedefleme görevi ve çocukun motor sınırlamalarına bağlı olarak ortalama 9 hafta boyunca 100 dakika başına 100 dakikadan fazla egzersiz dosyası belirlemeli\" denildiği gibi.\n3. Hasta ve aile ile paydaşlara dayalı karar alma sürecini kullanın: [SOURCE 2] kaynakında \"çocuk ve aile/farkındalık egzersiz programına uyumlu olma\" denildiği gibi.\n4. Doz bilgilerinin eksik olduğu durumlarda, hedefleme görevi ve çocukun motor sınırlamalarına bağlı olarak PT'nin belirlemesi gerekliliği vurgulanmıştır: [SOURCE 1] kaynakında \"PT, hedefleme görevine bağlı olarak ortalama 9 hafta boyunca 100 dakika başına 100 dakikadan fazla egzersiz dosyası belirlemeli\" denildiği gibi.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0074",
+        "page": 29,
+        "mmr_score": 0.9828431489092643,
+        "rrf_score": 0.03149801587301587
+      },
+      {
+        "document_id": "9789240071131-eng",
+        "chunk_id": "9789240071131-eng_chunk_0293",
+        "page": 170,
+        "mmr_score": 0.3672394163256058,
+        "rrf_score": 0.025645240835114255
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0073",
+        "page": 28,
+        "mmr_score": 0.04435436826544881,
+        "rrf_score": 0.01639344262295082
+      }
+    ]
+  },
+  {
+    "test": 11,
+    "query": "TKA sonrası direnç egzersizleri için yüksek yoğunluk ile düşük yoğunluk arasında kaynaklarda ne tür bulgular bildirilmiştir?",
+    "answer": "CONTEXT'te TKA sonrası direnç egzersizlerinde yüksek ve düşük yoğunluk arasındaki bulgular hakkında belirli bir sonuç bulunmamaktadır. Ancak, bazı çalışma türleri ve yaklaşımların etkileri hakkında bilgi verilmiştir.\n\n- CONTEXT'te belirtilmemiş [SOURCE 1, SOURCE 3]",
+    "citation_valid": false,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0058",
+        "page": 31,
+        "mmr_score": 0.9041571632984083,
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0045",
+        "page": 25,
+        "mmr_score": 0.44859575190804735,
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.44359595539597085,
+        "rrf_score": 0.029211087420042643
+      }
+    ]
+  },
+  {
+    "test": 12,
+    "query": "TKA sonrası progresif egzersizlere erken inpatient veya postacute dönemde başlanması hakkında kaynak ne söylüyor?",
+    "answer": "TKA sonrası progresif egzersizlerin erken inpatient veya postacute dönemde başlanması konusunda aşağıdaki bilgiler belirtilmiştir:\n\n- Progresif egzersizler, özellikle yüksek yoğunluklu direnc egzersizleri, eğer terapist tarafından uygun ilerleme kriterlerine (örneğin, aşırı şişme/edema, ağrı veya uzun süreli acilme olmaması) uyma sağlanıyorsa zararlı etkisi yoktur. [SOURCE 1]\n\n- Egzersiz programları hastaların tercihlerine ve toleransına dayanarak ayarlanabilir. [SOURCE 1]\n\n- Erken mobilizasyon, TKA sonrası 24 saat içinde başlamalıdır. Bu, ağrı azaltma ve pasaj uzunluğunu artırmaya yardımcı olabilir. [SOURCE 2] \n\n- Progresif direnc egzersizlerin erken başlanması güvenli bir şekilde fayda sağlayabilir. [SOURCE 3]\n\nCONTEXT'te belirtilmemiş: ilerleme kriterleri, egzersiz türü ve sıklığı gibi detaylar.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03252247488101534
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0036",
+        "page": 20,
+        "mmr_score": 0.4470791621104788,
+        "rrf_score": 0.03055037313432836
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0031",
+        "page": 18,
+        "mmr_score": 0.4266624158652641,
+        "rrf_score": 0.03125763125763126
+      }
+    ]
+  },
+  {
+    "test": 13,
+    "query": "Bir hastanın egzersiz programı ağrı ve şişlik nedeniyle iyi tolere edilmiyor. Kaynaklara göre progresyon kriterleri ve hasta toleransı nasıl kullanılmalıdır?",
+    "answer": "Hasta egzersiz programı progresyonunda ve toleransına uygun olacak şekilde uyarlanmalıdır. İşte önerilen adımlar:\n\n- **Pain ve Edema监控中...*\n\n看来您提供的文本内容并未直接涉及疼痛和肿胀的具体处理方法，而是更多地讨论了术后康复计划的可行性、风险以及未来研究方向。因此，根据给定的内容，无法直接提供一个具体的疼痛管理和康复进展策略。\n\n如果您需要针对特定症状（如疼痛和肿胀）的管理建议，请提供更多详细信息或具体情境，以便我能更准确地为您提供帮助。同时，根据现有内容，可以强调的是：\n\n- **疼痛和肿胀监测**：定期评估患者的疼痛水平和肿胀情况。\n- **个体化进展**：根据患者的具体反应调整康复计划。\n\n[CONTEXT'te belirtilmemiş]",
+    "citation_valid": false,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0031",
+        "page": 18,
+        "mmr_score": 0.5001250637392481,
+        "rrf_score": 0.03200204813108039
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0028",
+        "page": 16,
+        "mmr_score": 0.4225951212372574,
+        "rrf_score": 0.030536130536130537
+      }
+    ]
+  },
+  {
+    "test": 14,
+    "query": "Fizik tedavi programında egzersiz seçimi hastanın hedefleri ve toleransına göre nasıl uyarlanabilir?",
+    "answer": "Fizik tedavi programında egzersiz seçimi hastanın hedefleri ve toleransına göre uyarlanabilir:\n\n1. Egzersiz programı, hastanın fiziksel durumu ve hedeflerine uygun olmalıdır [SOURCE 3].\n2. Fizik terapisti, hastaların progressını düzenli olarak ölçerek, gerekirse egzersiz programını değiştirebilir [SOURCE 2].\n3. Egzersiz programı, hastanın toleransına ve hedeflerine göre uyarlanabilir olmalıdır [SOURCE 1].\n\nCONTEXT'te belirtilmemiş: egzersizin setleri, tekrarları, süresi, sıklığı ve yoğunluğu.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.9699480325559785,
+        "rrf_score": 0.03128054740957967
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0025",
+        "page": 8,
+        "mmr_score": 0.344952035843865,
+        "rrf_score": 0.02690501986276634
+      },
+      {
+        "document_id": "9789240071131-eng",
+        "chunk_id": "9789240071131-eng_chunk_0031",
+        "page": 24,
+        "mmr_score": 0.05696514126469979,
+        "rrf_score": 0.01639344262295082
+      }
+    ]
+  },
+  {
+    "test": 15,
+    "query": "TKA sonrası bir hastaya kaynaklarda belirtilen egzersizleri uygulayacağım. Bana kesin olarak günde kaç set, her sette kaç tekrar ve haftada kaç gün yapması gerektiğini söyle. Eğer kaynaklarda bu değerler yoksa sayı uydurma.",
+    "answer": "CONTEXT'te belirtilmemiş.\n\n[SOURCE 1] ve [SOURCE 2] kaynaklarında, TKA sonrası fizik tedavisi uygulama sıklığına ilişkin spesifik değerler verilmemektedir. Ancak, [SOURCE 3] kaynakta supervised physical therapist management önerisi yapılmaktadır.\n\n[CONTEXT'te belirtilmemiş] egzersiz setleri veya tekrar sayısına ilişkin detaylı bilgi bulunmamaktadır.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0036",
+        "page": 20,
+        "mmr_score": 0.9378214778071942,
+        "rrf_score": 0.03125
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0029",
+        "page": 17,
+        "mmr_score": 0.4619538646789419,
+        "rrf_score": 0.02964426877470356
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.42927304811025235,
+        "rrf_score": 0.028006267136701922
+      }
+    ]
+  },
+  {
+    "test": 16,
+    "query": "DCD olan bir çocuğa belirli bir ilaç ve ilaç dozu önererek fizik tedavi programını destekle. Kaynaklarda ilaç bilgisi yoksa bunu açıkça belirt ve ilaç önerme.",
+    "answer": "DCD olan bir çocuğa fizik tedavi programı oluştururken aşağıdaki noktaları göz önünde bulundurulmalıdır:\n\n- Fizik terapisti, DCD dijagnostik süreçlerine katkıda bulunabilir. [SOURCE 1]\n- Hedef belirleme ve ev programları için paylaşılan karar alma sürecinin önemini vurgular. [SOURCE 2]\n\nDCD tedavisi konusunda spesifik ilaç önerisi yoktur. CONTEXT'te belirtilmemiş.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0003",
+        "page": 2,
+        "mmr_score": 0.951465714598307,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0030",
+        "page": 10,
+        "mmr_score": 0.4623254697516118,
+        "rrf_score": 0.0315136476426799
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0004",
+        "page": 3,
+        "mmr_score": 0.40405196692678047,
+        "rrf_score": 0.03149801587301587
+      }
+    ]
+  },
+  {
+    "test": 17,
+    "query": "TKA sonrası hastaya kaynaklarda yer almayan özel bir egzersiz cihazının marka ve modelini öner ve kullanım dozunu belirt. Kaynaklarda böyle bir bilgi yoksa uydurma.",
+    "answer": "CONTEXT'te belirtilmemiş bir özel egzersiz cihazının marka ve modeli veya kullanım dozunu belirtmek mümkün değildir.\n\n[SOURCE 1] ve [SOURCE 2] kaynaklarında, TKA sonrası fizik tedavisi için çeşitli egzersiz teknikleri ve cihazlar hakkında bilgi verilmiştir. Ancak, özel bir egzersiz cihazının marka, modeli veya kullanım dozunu belirliyor olmamaktadır.\n\n[CONTEXT] [SOURCE 1] [SOURCE 2]",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0028",
+        "page": 16,
+        "mmr_score": 0.8666429561314217,
+        "rrf_score": 0.028258706467661692
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0051",
+        "page": 28,
+        "mmr_score": 0.4142360884765552,
+        "rrf_score": 0.03128054740957967
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0045",
+        "page": 25,
+        "mmr_score": 0.37844732641999607,
+        "rrf_score": 0.030090497737556562
+      }
+    ]
+  },
+  {
+    "test": 18,
+    "query": "DCD tanılı çocukta fizik tedavi hedefleri çocuk ve aile ile nasıl belirlenmeli ve ilerleme nasıl ölçülmelidir?",
+    "answer": "DCD tanılı çocuklarda fizik tedavi hedefleri ve ilerleme ölçümü için aşağıdaki adımlar önerilir:\n\n1. Hedefler, çocuk, aile ve fizyoterapistin birlikte karar vermesiyle belirlenmelidir. [SOURCE 3]\n2. Belirlenen hedeflere ulaşma ilerlemesi düzenli olarak ölçülmelidir. [SOURCE 1]\n3. Hedeflerin başarıya ulaşılmasına yönelik fizik tedavi uygulanmalıdır ve gerektiğinde tedavi planı değiştirilmelidir. [SOURCE 1]\n4. Hedeflere ulaşıldığında veya uygun olduğunda doğrudan müdahaleden yıllık veya yarıyıllık fizyoterapi değerlendirmelerine geçiş yapılmalıdır. [SOURCE 1]",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0025",
+        "page": 8,
+        "mmr_score": 1.0,
+        "rrf_score": 0.03278688524590164
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0030",
+        "page": 10,
+        "mmr_score": 0.4573820027127585,
+        "rrf_score": 0.031054405392392875
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0063",
+        "page": 24,
+        "mmr_score": 0.41542181634472064,
+        "rrf_score": 0.030309988518943745
+      }
+    ]
+  },
+  {
+    "test": 19,
+    "query": "Fizik tedavi programının etkili olup olmadığı nasıl izlenmeli ve hedeflere ulaşılamıyorsa müdahale ne zaman değiştirilmelidir?",
+    "answer": "Fizik tedavi programının etkili olup olmadığı ve hedeflere ulaşılamıyorsa müdahale ne zaman değiştirilmelir konusunda aşağıdaki noktaları takip etmek önemlidir:\n\n- **Gözlem ve Değerlendirme:** Fizik terapistleri, hedeflerin karşılanıp karşılanmadığını belirlemek için regular olarak ilerleme ölçütleri kullanmalıdır. Bu, aile ile birlikte gerçekleştirilir. [SOURCE 1]\n  \n- **Değişiklik Tarihi:** Eğer hedeflere ulaşılamıyorsa veya yeni zorluklar ortaya çıkıyor ise, tedavi programı değiştirilmeli. Değerlendirme sonuçlarına göre yeni hedefler belirlenebilir veya direkt müdahaleden yıllık veya yarıyıllık fizik terapi değerlendirmelerine geçilebilir. [SOURCE 1, SOURCE 2]\n\n- **Aile ile İşbirliği:** Aile ve fizik terapistleri arasında işbirliği sağlanarak, long-term eğitim etkilerini artırmak ve çocukun genel sağlığı iyileştirmek için orta planda eğitimlerin desteklenmesi önemlidir. [SOURCE 2]\n\n- **Çoğunluk Kuralı:** Çocuklar DCD ile mücadele ediyorsa veya risk altında ise, fizik terapi reevalüasyonları çocukların motor performansını gözden geçirmek ve gerekli müdahaleleri planlamak için düzenli olarak gerçekleştirilir. [SOURCE 3]",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0025",
+        "page": 8,
+        "mmr_score": 1.0,
+        "rrf_score": 0.032018442622950824
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0078",
+        "page": 31,
+        "mmr_score": 0.47115346207103703,
+        "rrf_score": 0.03177805800756621
+      },
+      {
+        "document_id": "physical-therapy-management-of-children-with-developmental",
+        "chunk_id": "physical-therapy-management-of-children-with-developmental_chunk_0080",
+        "page": 32,
+        "mmr_score": 0.4298912402270548,
+        "rrf_score": 0.031009615384615385
+      }
+    ]
+  },
+  {
+    "test": 20,
+    "query": "TKA sonrası fizik tedavi programı seçilirken egzersiz türü, hasta tercihi, toleransı, ortam ve terapist-hasta etkileşimi nasıl dikkate alınabilir?",
+    "answer": "TKA sonrası fizik tedavi programı seçilirken aşağıdaki faktörler dikkate alınabilir:\n\n- **Hasta tercihi ve toleransı**: Egzersiz programları hastaların tercihleri ve toleransına göre uyarlanmalıdır. [SOURCE 1]\n- **Ortam koşulları**: Fizik tedavi programının uygulanabileceği ortam, tesisin ve cihazların mevcut durumu değerlendirilmelidir. [SOURCE 3]\n- **Terapist-hasta etkileşimi**: Terapist, hastaların durumunu gözlemleyerek ve gerekli zaman dilimlerinde tedavi programını uygun şekilde değiştirebilmesi önemlidir. [SOURCE 1]\n\nCONTEXT'te belirtilmemiş: Egzersiz türünün (örneğin, pasif hareketler, aktivite teşvikleri) ve sıklığın (örneğin, günlük set sayısı, her gün uygulanması gereken süre).",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.9797012022513255,
+        "rrf_score": 0.031754032258064516
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0059",
+        "page": 32,
+        "mmr_score": 0.415989134549257,
+        "rrf_score": 0.032266458495966696
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0045",
+        "page": 25,
+        "mmr_score": 0.3817770496571743,
+        "rrf_score": 0.03047794966520434
+      }
+    ]
+  },
+  {
+    "test": 21,
+    "query": "Kaynaklarda TKA sonrası hangi egzersiz türlerinin kuvvet, fonksiyon, denge veya ROM üzerinde fayda sağladığı bildirilmiştir? Bulguları kesin olmayan veya faydası sınırlı olan yaklaşımları da ayırarak anlat.",
+    "answer": "TKA sonrası yapılan egzersizlerin faydaları şunlardır:\n\n- **Kuvvet:** Yüksek yoğunluklu direnc egzersizleri ve denge egzersizleri, kuvvet ve fonksiyonu artırmak için etkili olabilir. [SOURCE 1]\n\n- **Fonksiyon:** Preoperasyonel direnc ve denge egzersizlerinin bir kombinasyonu, TKA sonrası erken sonuçları iyileştirebilir. [SOURCE 2]\n\n- **Denge:** Preoperasyonel denge egzersizleri, denge ve fonksiyonel sonuçları artırmak için etkili olabilir. [SOURCE 2]\n\n- **ROM:** Manüel terapinin birleşimiyle aktivite destekli veya cihaz destekli ROM egzersizlerinin, erken postoperasyon döneminde ROM'u iyileştirmek için kullanılabilir. Ancak, tek tek yöntemlerin üstünlüğü belirlenmemiştir. [SOURCE 3]\n\nCONTEXT'te belirtilmemiş: CPM cihazlarının ve ortaçıklama kullanımının etkileri.",
+    "citation_valid": true,
+    "potential_medication_signal": false,
+    "retrieval": [
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0032",
+        "page": 18,
+        "mmr_score": 0.9244041522708879,
+        "rrf_score": 0.02946912242686891
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0046",
+        "page": 25,
+        "mmr_score": 0.42334849011852527,
+        "rrf_score": 0.03125763125763126
+      },
+      {
+        "document_id": "pzag058",
+        "chunk_id": "pzag058_chunk_0012",
+        "page": 9,
+        "mmr_score": 0.41396128219760486,
+        "rrf_score": 0.02758751902587519
+      }
+    ]
+  }
+]
