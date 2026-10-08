@@ -1,0 +1,8 @@
+chromadb
+rank-bm25
+PyMuPDF
+ollama
+requests
+streamlit
+torch
+pytest
