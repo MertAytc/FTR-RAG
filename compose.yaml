@@ -1,0 +1,11 @@
+﻿services:
+  ftr-rag:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ftr-rag-app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
