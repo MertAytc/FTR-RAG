@@ -1,6 +1,4 @@
-﻿
-@'
-name: FTR-RAG CI
+﻿name: FTR-RAG CI
 
 on:
   push:
@@ -8,7 +6,7 @@ on:
       - main
       - jev-reranker
       - ftr-50-question-benchmark
-
+      - docker-github-actions
   pull_request:
     branches:
       - main
@@ -17,7 +15,6 @@ jobs:
   test:
     name: Python Tests
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -41,7 +38,6 @@ jobs:
     name: Docker Build
     runs-on: ubuntu-latest
     needs: test
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -57,4 +53,3 @@ jobs:
           tags: ftr-rag:ci
           cache-from: type=gha
           cache-to: type=gha,mode=max
-'@ | Set-Content -Encoding utf8 .github/workflows/ci.yml
