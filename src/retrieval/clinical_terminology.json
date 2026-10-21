@@ -1,30 +1,21 @@
 {
-  "egzersiz": [
-    "exercise",
-    "exercise training",
-    "exercise program"
-  ],
   "egzersiz programı": [
     "exercise program",
-    "exercise training",
-    "rehabilitation program"
+    "home exercise program"
   ],
   "egzersiz eğitimi": [
-    "exercise training",
-    "training program"
+    "exercise training"
   ],
   "terapötik egzersiz": [
     "therapeutic exercise",
     "therapeutic exercises"
   ],
   "egzersiz reçetesi": [
-    "exercise prescription",
-    "exercise dosage"
+    "exercise prescription"
   ],
   "egzersiz dozu": [
     "exercise dosage",
-    "exercise dose",
-    "training dosage"
+    "exercise dose"
   ],
   "egzersiz yoğunluğu": [
     "exercise intensity",
@@ -40,65 +31,18 @@
   ],
   "egzersiz ilerletme": [
     "exercise progression",
-    "progressive exercise",
-    "progression"
+    "progressive exercise"
   ],
   "egzersiz ilerlemesi": [
     "exercise progression",
-    "progression"
+    "progressive exercise"
   ],
   "egzersizlerin ilerletilmesi": [
     "exercise progression",
-    "progressive exercise",
-    "progression"
-  ],
-  "ilerletme": [
-    "progression",
-    "progressive exercise",
-    "advancement"
+    "progressive exercise"
   ],
   "ilerletme kriterleri": [
-    "progression criteria",
-    "progression",
-    "criteria"
-  ],
-  "ilerletilmesi": [
-    "progression",
-    "exercise progression"
-  ],
-  "ilerleme": [
-    "progression",
-    "progress",
-    "advancement"
-  ],
-  "geriletme": [
-    "regression",
-    "exercise regression",
-    "regressive exercise"
-  ],
-  "egzersiz modifikasyonu": [
-    "exercise modification",
-    "exercise modification strategies"
-  ],
-  "yük": [
-    "load",
-    "training load",
-    "exercise load"
-  ],
-  "yüklenme": [
-    "loading",
-    "progressive loading",
-    "exercise loading"
-  ],
-  "yükleme": [
-    "loading",
-    "weight bearing",
-    "progressive loading"
-  ],
-  "direnç": [
-    "resistance",
-    "resistance training",
-    "resistive exercise"
+    "progression criteria"
   ],
   "dirençli egzersiz": [
     "resistance exercise",
@@ -108,99 +52,35 @@
     "aerobic exercise",
     "aerobic training"
   ],
-  "kuvvetlendirme": [
-    "strengthening",
-    "strength training"
-  ],
   "kuvvet egzersizi": [
     "strength exercise",
     "strength training"
   ],
-  "germe": [
-    "stretching",
-    "stretching exercise"
-  ],
-  "esneklik": [
-    "flexibility",
-    "flexibility training"
-  ],
-  "denge": [
-    "balance",
-    "balance training",
-    "postural balance"
-  ],
   "denge eğitimi": [
     "balance training",
-    "balance exercise"
-  ],
-  "koordinasyon": [
-    "coordination",
-    "coordination training"
+    "balance exercises"
   ],
   "motor kontrol": [
     "motor control",
-    "motor control training"
+    "motor control exercise"
   ],
   "motor öğrenme": [
-    "motor learning",
-    "motor learning strategies"
-  ],
-  "fonksiyon": [
-    "function",
-    "functional ability",
-    "physical function"
-  ],
-  "fonksiyonel": [
-    "functional",
-    "functional ability"
+    "motor learning"
   ],
   "fonksiyonel hareketlilik": [
-    "functional mobility",
-    "mobility"
-  ],
-  "hareketlilik": [
-    "mobility",
     "functional mobility"
-  ],
-  "mobilite": [
-    "mobility",
-    "functional mobility"
-  ],
-  "yürüme": [
-    "gait",
-    "walking",
-    "gait training"
   ],
   "yürüme eğitimi": [
     "gait training",
     "walking training"
   ],
-  "yürüyüş": [
-    "gait",
-    "walking",
-    "gait training"
-  ],
-  "transfer": [
-    "transfer",
-    "transfer training"
-  ],
   "günlük yaşam aktiviteleri": [
     "activities of daily living",
-    "ADL",
-    "daily activities"
-  ],
-  "aktivite": [
-    "activity",
-    "physical activity",
-    "functional activity"
+    "ADL"
   ],
   "fiziksel aktivite": [
     "physical activity",
     "physical activity training"
-  ],
-  "hareket": [
-    "movement",
-    "movement training"
   ],
   "hareket açıklığı": [
     "range of motion",
@@ -208,122 +88,51 @@
   ],
   "eklem hareket açıklığı": [
     "range of motion",
-    "joint range of motion",
     "ROM"
   ],
   "rom": [
     "range of motion",
     "ROM"
   ],
-  "ağrı": [
-    "pain",
-    "pain intensity"
-  ],
   "ağrı şiddeti": [
     "pain intensity",
     "pain severity"
   ],
   "ağrı yönetimi": [
-    "pain management",
-    "pain control"
-  ],
-  "yorgunluk": [
-    "fatigue",
-    "fatigue management"
+    "pain management"
   ],
   "kas yorgunluğu": [
-    "muscle fatigue",
-    "fatigue"
+    "muscle fatigue"
   ],
   "denge kaybı": [
     "balance impairment",
     "impaired balance"
   ],
   "kas kuvveti": [
-    "muscle strength",
-    "strength"
-  ],
-  "kuvvet": [
-    "strength",
     "muscle strength"
-  ],
-  "kas gücü": [
-    "muscle strength",
-    "strength"
-  ],
-  "dayanıklılık": [
-    "endurance",
-    "exercise endurance"
   ],
   "kardiyorespiratuvar dayanıklılık": [
     "cardiorespiratory endurance",
     "aerobic capacity"
   ],
-  "postür": [
-    "posture",
-    "postural control"
-  ],
-  "duruş": [
-    "posture",
-    "postural control"
-  ],
   "postüral kontrol": [
-    "postural control",
-    "postural stability"
-  ],
-  "stabilite": [
-    "stability",
-    "postural stability"
-  ],
-  "değerlendirme": [
-    "assessment",
-    "evaluation",
-    "examination"
+    "postural control"
   ],
   "klinik değerlendirme": [
     "clinical assessment",
-    "clinical evaluation",
     "clinical examination"
   ],
   "fiziksel değerlendirme": [
     "physical assessment",
     "physical examination"
   ],
-  "muayene": [
-    "examination",
-    "physical examination"
-  ],
-  "öykü": [
-    "history",
-    "medical history",
-    "patient history"
-  ],
   "hasta öyküsü": [
     "patient history",
     "medical history"
   ],
-  "anamnez": [
-    "history",
-    "medical history"
-  ],
   "yeniden değerlendirme": [
     "reassessment",
-    "reevaluation",
-    "re-evaluation"
-  ],
-  "takip": [
-    "follow-up",
-    "monitoring",
-    "follow-up assessment"
-  ],
-  "izlem": [
-    "monitoring",
-    "follow-up",
-    "follow-up assessment"
-  ],
-  "izleme": [
-    "monitoring",
-    "progress monitoring"
+    "reevaluation"
   ],
   "sonuç ölçütü": [
     "outcome measure",
@@ -332,10 +141,6 @@
   "sonuç ölçümü": [
     "outcome measure",
     "outcome assessment"
-  ],
-  "ölçüm": [
-    "measurement",
-    "assessment"
   ],
   "klinik sonuç": [
     "clinical outcome",
@@ -350,71 +155,8 @@
     "treatment goals",
     "rehabilitation goals"
   ],
-  "hedef": [
-    "goal",
-    "goals",
-    "treatment goals"
-  ],
   "hedef belirleme": [
-    "goal setting",
-    "goal-setting"
-  ],
-  "amaç": [
-    "goal",
-    "objective",
-    "treatment goal"
-  ],
-  "müdahale": [
-    "intervention",
-    "therapeutic intervention"
-  ],
-  "tedavi": [
-    "treatment",
-    "therapy",
-    "intervention"
-  ],
-  "terapi": [
-    "therapy",
-    "therapeutic intervention"
-  ],
-  "fizik tedavi": [
-    "physical therapy",
-    "physiotherapy",
-    "physical therapist"
-  ],
-  "fizyoterapi": [
-    "physical therapy",
-    "physiotherapy",
-    "physical therapist"
-  ],
-  "fizyoterapist": [
-    "physical therapist",
-    "physiotherapist"
-  ],
-  "rehabilitasyon": [
-    "rehabilitation",
-    "rehabilitation program"
-  ],
-  "fiziksel rehabilitasyon": [
-    "physical rehabilitation",
-    "rehabilitation"
-  ],
-  "telerehabilitasyon": [
-    "telerehabilitation",
-    "tele-rehabilitation"
-  ],
-  "uzaktan rehabilitasyon": [
-    "telerehabilitation",
-    "remote rehabilitation"
-  ],
-  "evde rehabilitasyon": [
-    "home rehabilitation",
-    "home-based rehabilitation"
-  ],
-  "ev egzersizi": [
-    "home exercise",
-    "home exercise program",
-    "HEP"
+    "goal setting"
   ],
   "ev egzersiz programı": [
     "home exercise program",
@@ -424,37 +166,21 @@
     "patient education",
     "patient training"
   ],
-  "eğitim": [
-    "education",
-    "training"
-  ],
-  "uyum": [
-    "adherence",
-    "compliance"
-  ],
   "tedaviye uyum": [
-    "treatment adherence",
-    "treatment compliance"
+    "treatment adherence"
   ],
   "egzersize uyum": [
-    "exercise adherence",
-    "exercise compliance"
-  ],
-  "katılım": [
-    "participation",
-    "patient participation"
+    "exercise adherence"
   ],
   "hasta katılımı": [
     "patient participation",
     "patient engagement"
   ],
   "paylaşımlı karar verme": [
-    "shared decision making",
-    "shared decision-making"
+    "shared decision making"
   ],
   "ortak karar verme": [
-    "shared decision making",
-    "shared decision-making"
+    "shared decision making"
   ],
   "hasta merkezli": [
     "patient-centered",
@@ -464,38 +190,9 @@
     "child-centered",
     "child-centred"
   ],
-  "bireyselleştirilmiş": [
-    "individualized",
-    "individualised",
-    "personalized"
-  ],
-  "kişiselleştirilmiş": [
-    "personalized",
-    "individualized"
-  ],
-  "güvenlik": [
-    "safety",
-    "patient safety"
-  ],
-  "güvenli": [
-    "safe",
-    "safety"
-  ],
   "kontrendikasyon": [
     "contraindication",
     "contraindications"
-  ],
-  "kontrendikasyonlar": [
-    "contraindication",
-    "contraindications"
-  ],
-  "önlem": [
-    "precaution",
-    "precautions"
-  ],
-  "önlemler": [
-    "precaution",
-    "precautions"
   ],
   "uyarı işareti": [
     "red flag",
@@ -504,10 +201,6 @@
   "kırmızı bayrak": [
     "red flag",
     "red flags"
-  ],
-  "risk": [
-    "risk",
-    "risk factor"
   ],
   "risk faktörü": [
     "risk factor",
@@ -521,110 +214,21 @@
     "adverse event",
     "adverse effects"
   ],
-  "semptom": [
-    "symptom",
-    "symptoms"
-  ],
-  "semptomlar": [
-    "symptom",
-    "symptoms"
-  ],
-  "durma kriterleri": [
-    "stop criteria",
-    "stopping criteria"
-  ],
-  "durdurma kriterleri": [
-    "stop criteria",
-    "stopping criteria"
-  ],
   "egzersizi durdurma": [
     "exercise cessation",
     "stop exercise",
     "stopping criteria"
   ],
-  "yönlendirme": [
-    "referral",
-    "refer"
-  ],
-  "sevk": [
-    "referral",
-    "refer"
-  ],
   "uzmana yönlendirme": [
-    "specialist referral",
-    "referral"
+    "referral to specialist service"
   ],
   "tıbbi değerlendirme": [
     "medical assessment",
     "medical evaluation"
   ],
-  "tanı": [
-    "diagnosis",
-    "diagnostic assessment"
-  ],
   "tanı konulması": [
     "diagnosis",
     "diagnostic assessment"
-  ],
-  "hastalık": [
-    "condition",
-    "disease",
-    "disorder"
-  ],
-  "durum": [
-    "condition",
-    "clinical condition"
-  ],
-  "şiddet": [
-    "severity",
-    "disease severity"
-  ],
-  "evre": [
-    "stage",
-    "disease stage"
-  ],
-  "komorbidite": [
-    "comorbidity",
-    "comorbidities"
-  ],
-  "eşlik eden hastalık": [
-    "comorbidity",
-    "comorbid condition"
-  ],
-  "yaş": [
-    "age",
-    "age group"
-  ],
-  "çocuk": [
-    "child",
-    "children",
-    "pediatric",
-    "paediatric"
-  ],
-  "çocuklarda": [
-    "children",
-    "pediatric",
-    "paediatric"
-  ],
-  "pediatrik": [
-    "pediatric",
-    "paediatric"
-  ],
-  "erişkin": [
-    "adult",
-    "adults"
-  ],
-  "yaşlı": [
-    "older adult",
-    "older adults",
-    "geriatric"
-  ],
-  "vücut ağırlığı": [
-    "body weight",
-    "weight"
-  ],
-  "boy": [
-    "height"
   ],
   "vücut kitle indeksi": [
     "body mass index",
@@ -634,116 +238,9 @@
     "body mass index",
     "BMI"
   ],
-  "şiddetli": [
-    "severe",
-    "high severity"
-  ],
-  "hafif": [
-    "mild",
-    "mild severity"
-  ],
-  "orta": [
-    "moderate",
-    "moderate severity"
-  ],
-  "akut": [
-    "acute"
-  ],
-  "kronik": [
-    "chronic"
-  ],
-  "süre": [
-    "duration",
-    "time"
-  ],
-  "sıklık": [
-    "frequency"
-  ],
-  "yoğunluk": [
-    "intensity"
-  ],
-  "tekrar": [
-    "repetition",
-    "repetitions",
-    "reps"
-  ],
-  "tekrar sayısı": [
-    "repetitions",
-    "reps",
-    "number of repetitions"
-  ],
-  "set": [
-    "set",
-    "sets"
-  ],
-  "set sayısı": [
-    "sets",
-    "number of sets"
-  ],
-  "dinlenme": [
-    "rest",
-    "rest interval",
-    "rest period"
-  ],
-  "dinlenme süresi": [
-    "rest interval",
-    "rest period"
-  ],
-  "haftada": [
-    "per week",
-    "weekly frequency"
-  ],
-  "günde": [
-    "per day",
-    "daily frequency"
-  ],
-  "dakika": [
-    "minutes",
-    "min"
-  ],
-  "saniye": [
-    "seconds",
-    "sec"
-  ],
-  "frekans": [
-    "frequency"
-  ],
-  "şiddetlendirme": [
-    "intensification",
-    "progression"
-  ],
-  "dozaj": [
-    "dosage",
-    "dose"
-  ],
   "tedavi dozu": [
     "treatment dosage",
     "treatment dose"
-  ],
-  "uygulama": [
-    "application",
-    "intervention",
-    "delivery"
-  ],
-  "süreklilik": [
-    "continuity",
-    "consistency"
-  ],
-  "progresyon": [
-    "progression",
-    "exercise progression"
-  ],
-  "regresyon": [
-    "regression",
-    "exercise regression"
-  ],
-  "fonksiyonel kapasite": [
-    "functional capacity",
-    "physical capacity"
-  ],
-  "fiziksel kapasite": [
-    "physical capacity",
-    "physical fitness"
   ],
   "aktivite toleransı": [
     "activity tolerance",
@@ -753,12 +250,7 @@
     "exercise tolerance"
   ],
   "hareket kalitesi": [
-    "movement quality",
-    "quality of movement"
-  ],
-  "performans": [
-    "performance",
-    "physical performance"
+    "movement quality"
   ],
   "motor performans": [
     "motor performance"
@@ -783,48 +275,6 @@
     "lower extremity",
     "lower limb"
   ],
-  "omuz": [
-    "shoulder"
-  ],
-  "diz": [
-    "knee"
-  ],
-  "kalça": [
-    "hip"
-  ],
-  "ayak bileği": [
-    "ankle"
-  ],
-  "dirsek": [
-    "elbow"
-  ],
-  "el": [
-    "hand"
-  ],
-  "kol": [
-    "arm",
-    "upper limb"
-  ],
-  "bacak": [
-    "leg",
-    "lower limb"
-  ],
-  "bel": [
-    "low back",
-    "lumbar"
-  ],
-  "boyun": [
-    "neck",
-    "cervical"
-  ],
-  "squat": [
-    "squat",
-    "squatting exercise"
-  ],
-  "çömelme": [
-    "squat",
-    "squatting exercise"
-  ],
   "diz fleksiyonu": [
     "knee flexion"
   ],
@@ -838,21 +288,6 @@
     "arm raise",
     "shoulder elevation"
   ],
-  "abdüksiyon": [
-    "abduction"
-  ],
-  "adduksiyon": [
-    "adduction"
-  ],
-  "fleksiyon": [
-    "flexion"
-  ],
-  "ekstansiyon": [
-    "extension"
-  ],
-  "rotasyon": [
-    "rotation"
-  ],
   "dorsifleksiyon": [
     "dorsiflexion"
   ],
@@ -860,8 +295,7 @@
     "plantar flexion"
   ],
   "ağırlık taşıma": [
-    "weight bearing",
-    "weight-bearing"
+    "weight bearing"
   ],
   "ağırlık aktarma": [
     "weight shifting",
@@ -891,16 +325,6 @@
   "kan akışı": [
     "blood flow"
   ],
-  "şişlik": [
-    "swelling",
-    "edema",
-    "oedema"
-  ],
-  "ödem": [
-    "edema",
-    "oedema",
-    "swelling"
-  ],
   "kas spazmı": [
     "muscle spasm"
   ],
@@ -909,10 +333,6 @@
   ],
   "kontraktür": [
     "contracture"
-  ],
-  "zayıflık": [
-    "weakness",
-    "muscle weakness"
   ],
   "kas zayıflığı": [
     "muscle weakness"
@@ -927,9 +347,6 @@
   "hareket bozukluğu": [
     "movement disorder",
     "motor impairment"
-  ],
-  "gelişimsel": [
-    "developmental"
   ],
   "gelişimsel koordinasyon bozukluğu": [
     "developmental coordination disorder",
@@ -948,8 +365,7 @@
   ],
   "parkinson": [
     "Parkinson's disease",
-    "Parkinson disease",
-    "pd"
+    "parkinson disease"
   ],
   "omurilik yaralanması": [
     "spinal cord injury",
@@ -957,26 +373,6 @@
   ],
   "kas distrofisi": [
     "muscular dystrophy"
-  ],
-  "multidisipliner": [
-    "multidisciplinary",
-    "multidisciplinary team"
-  ],
-  "interdisipliner": [
-    "interdisciplinary",
-    "interdisciplinary team"
-  ],
-  "kanıt": [
-    "evidence"
-  ],
-  "kanıta dayalı": [
-    "evidence-based",
-    "evidence based"
-  ],
-  "kılavuz": [
-    "guideline",
-    "clinical guideline",
-    "clinical practice guideline"
   ],
   "klinik kılavuz": [
     "clinical guideline",
@@ -986,14 +382,6 @@
     "practice guideline",
     "clinical practice guideline"
   ],
-  "öneri": [
-    "recommendation",
-    "recommendations"
-  ],
-  "öneriler": [
-    "recommendation",
-    "recommendations"
-  ],
   "kanıt düzeyi": [
     "level of evidence",
     "evidence level"
@@ -1002,55 +390,22 @@
     "quality of evidence",
     "evidence quality"
   ],
-  "klinik uygulama": [
-    "clinical practice"
-  ],
   "klinik karar": [
     "clinical decision",
     "clinical decision making"
-  ],
-  "karar verme": [
-    "decision making",
-    "clinical decision making"
-  ],
-  "literatür": [
-    "literature",
-    "clinical literature"
-  ],
-  "araştırma": [
-    "research",
-    "clinical research"
   ],
   "sistematik derleme": [
     "systematic review"
   ],
   "meta analiz": [
-    "meta-analysis",
-    "meta analysis"
+    "meta-analysis"
   ],
   "randomize kontrollü çalışma": [
     "randomized controlled trial",
-    "randomised controlled trial",
     "RCT"
-  ],
-  "kohort": [
-    "cohort study",
-    "cohort"
   ],
   "gözlemsel çalışma": [
     "observational study"
-  ],
-  "ölçek": [
-    "scale",
-    "assessment scale"
-  ],
-  "anket": [
-    "questionnaire"
-  ],
-  "test": [
-    "test",
-    "clinical test",
-    "functional test"
   ],
   "değerlendirme aracı": [
     "assessment tool",
@@ -1059,9 +414,6 @@
   "fonksiyonel test": [
     "functional test",
     "functional assessment"
-  ],
-  "anket formu": [
-    "questionnaire"
   ],
   "güvenilirlik": [
     "reliability"
@@ -1082,10 +434,6 @@
   "klinik olarak önemli fark": [
     "clinically important difference"
   ],
-  "yanıt": [
-    "response",
-    "treatment response"
-  ],
   "tedavi yanıtı": [
     "treatment response"
   ],
@@ -1097,20 +445,12 @@
     "baseline measurement",
     "baseline assessment"
   ],
-  "başlangıç": [
-    "baseline",
-    "initial assessment"
-  ],
   "program süresi": [
     "program duration",
     "treatment duration"
   ],
   "tedavi süresi": [
     "treatment duration"
-  ],
-  "seans": [
-    "session",
-    "treatment session"
   ],
   "seans süresi": [
     "session duration"
@@ -1135,120 +475,409 @@
     "rehabilitation plan",
     "plan of care"
   ],
-  "bakım": [
-    "care",
-    "plan of care"
+  "dirence dayalı egzersiz": [
+    "resistance exercise",
+    "resistance training"
   ],
-  "action research arm testi": [
-    "action research arm test",
-    "arat"
+  "klinik öykü": [
+    "clinical history",
+    "medical history"
   ],
-  "denge güveni ölçeği": [
-    "activities-specific balance confidence scale",
-    "abc"
+  "rotator manşet tendinopatisi": [
+    "rotator cuff tendinopathy"
   ],
-  "ayak ve ayak bileği yetenek ölçümü": [
-    "foot and ankle ability measure",
-    "faam"
+  "adeziv kapsülit": [
+    "adhesive capsulitis"
   ],
-  "ayak bileği yetersizlik indeksi": [
-    "ankle disability index",
-    "fadi"
+  "diz osteoartriti": [
+    "knee osteoarthritis",
+    "osteoarthritis of the knee"
   ],
-  "ayak bileği instabilite aracı": [
-    "ankle instability instrument",
-    "aii"
+  "ön çapraz bağ rekonstrüksiyonu": [
+    "anterior cruciate ligament reconstruction",
+    "acl reconstruction"
   ],
-  "ön diz ağrısı ölçeği": [
-    "anterior knee pain scale",
-    "akps"
+  "menisküs lezyonu": [
+    "meniscal lesion",
+    "meniscal injury"
   ],
-  "denge hata puanlama sistemi": [
-    "balance error scoring system",
-    "bess"
+  "kronik bel ağrısı": [
+    "chronic low back pain",
+    "chronic lumbar pain"
   ],
-  "berg denge ölçeği": [
-    "berg balance scale",
-    "bbs"
+  "lomber radikülopati": [
+    "lumbar radiculopathy"
   ],
-  "kutu ve blok testi": [
-    "box and blocks test",
-    "bbt"
+  "periferik vestibüler hipofonksiyon": [
+    "peripheral vestibular hypofunction",
+    "vestibular hypofunction"
   ],
-  "cumberland ayak bileği instabilite aracı": [
-    "cumberland ankle instability tool",
-    "cait"
+  "benign paroksismal pozisyonel vertigo": [
+    "benign paroxysmal positional vertigo",
+    "BPPV"
   ],
-  "korku-kaçınma inançları anketi": [
-    "fear-avoidance beliefs questionnaire",
-    "fabq"
+  "lenfödem": [
+    "lymphedema",
+    "lymphoedema"
   ],
-  "fonksiyonel bağımsızlık ölçümü": [
-    "functional independence measure",
-    "fim"
+  "osteoporoz": [
+    "osteoporosis"
   ],
-  "fonksiyonel oral alım ölçeği": [
-    "functional oral intake scale",
-    "fois"
+  "lateral ayak bileği burkulması": [
+    "lateral ankle sprain",
+    "lateral ankle ligament sprain"
   ],
-  "fugl-meyer değerlendirmesi": [
-    "fugl-meyer assessment",
-    "fma"
+  "aşil tendinopatisi": [
+    "achilles tendinopathy",
+    "midportion achilles tendinopathy"
   ],
-  "kalça sonuç skoru": [
-    "hip outcome score",
-    "hos"
+  "lateral dirsek ağrısı": [
+    "lateral elbow pain"
   ],
-  "hastane anksiyete ve depresyon ölçeği": [
-    "hospital anxiety and depression scale",
-    "hads"
+  "alt ekstremite amputasyonu": [
+    "lower limb amputation"
   ],
-  "işlevsellik, yeti yitimi ve sağlığın uluslararası sınıflandırması": [
-    "international classification of functioning, disability and health",
-    "icf"
+  "düşme riski": [
+    "fall risk",
+    "risk of falling"
   ],
-  "alt ekstremite fonksiyonel ölçeği": [
-    "lower extremity functional scale",
-    "lefs"
+  "egzersiz progresyonu": [
+    "exercise progression",
+    "principles of exercise progression"
   ],
-  "mcmaster üniversiteleri osteoartrit indeksi": [
-    "mcmaster universities osteoarthritis index",
-    "womac"
+  "progresif direnç eğitimi": [
+    "progressive resistance training"
   ],
-  "nörobilişsel değerlendirme aracı": [
-    "neuro-cognitive assessment tool",
-    "ncat"
+  "motor kontrol egzersizi": [
+    "motor control exercise",
+    "motor control exercises"
   ],
-  "hasta değerlendirmeli tenisçi dirseği değerlendirme anketi": [
-    "patient-rated tennis elbow evaluation questionnaire",
-    "prtee"
+  "bakış stabilizasyonu egzersizi": [
+    "gaze stabilization exercise",
+    "gaze stabilization exercises"
+  ],
+  "ağırlık taşıma kısıtlaması": [
+    "weight-bearing restriction",
+    "weight-bearing restrictions"
+  ],
+  "kontrendikasyon bulunmaması": [
+    "absence of contraindications",
+    "in the absence of contraindications"
+  ],
+  "istenmeyen olay": [
+    "adverse event",
+    "adverse events"
+  ],
+  "öneri gücü": [
+    "strength of recommendation",
+    "recommendation strength"
+  ],
+  "kanıt kesinliği": [
+    "certainty of evidence"
   ],
   "hastaya özgü fonksiyonel ölçek": [
     "patient-specific functional scale",
-    "psfs"
+    "PSFS"
   ],
-  "yıldız uzanma denge testi": [
-    "star excursion balance test",
-    "sebt"
+  "ayak ve ayak bileği yetersizlik indeksi": [
+    "foot and ankle disability index",
+    "FADI"
   ],
-  "tampa kinezyofobi ölçeği": [
-    "tampa scale of kinesiophobia",
-    "tsk-11"
+  "berg denge ölçeği": [
+    "berg balance scale",
+    "BBS"
   ],
   "zamanlı kalk ve yürü testi": [
     "timed up and go test",
-    "tug"
+    "TUG"
   ],
-  "görsel analog ölçek": [
+  "kaçınma-korku inançları anketi": [
+    "fear-avoidance beliefs questionnaire",
+    "FABQ"
+  ],
+  "yıldız uzanma denge testi": [
+    "star excursion balance test",
+    "SEBT"
+  ],
+  "fugl-meyer değerlendirmesi": [
+    "fugl-meyer assessment",
+    "FMA"
+  ],
+  "fonksiyonel bağımsızlık ölçümü": [
+    "functional independence measure",
+    "FIM"
+  ],
+  "minimal saptanabilir değişim": [
+    "minimal detectable change",
+    "MDC"
+  ],
+  "kademeli aktivite": [
+    "graded activity"
+  ],
+  "propriyoseptif eğitim": [
+    "proprioceptive training"
+  ],
+  "nöromüsküler eğitim": [
+    "neuromuscular training"
+  ],
+  "spor dönüşü": [
+    "return to sport"
+  ],
+  "tek bacak sıçrama testi": [
+    "single-leg hop test"
+  ],
+  "ekstremite simetri indeksi": [
+    "limb symmetry index",
+    "lsi"
+  ],
+  "aktif eklem hareket açıklığı": [
+    "active range of motion",
+    "AROM"
+  ],
+  "pasif eklem hareket açıklığı": [
+    "passive range of motion",
+    "PROM"
+  ],
+  "düşme önleme": [
+    "fall prevention"
+  ],
+  "yürüme hızı": [
+    "gait speed"
+  ],
+  "altı dakika yürüme testi": [
+    "6-minute walk test",
+    "6MWT"
+  ],
+  "beş kez otur-kalk testi": [
+    "five times sit to stand test",
+    "FTSST"
+  ],
+  "hasta bildirimli sonuç ölçütü": [
+    "patient-reported outcome measure",
+    "PROM"
+  ],
+  "korku nedeniyle düşme endişesi": [
+    "fear of falling"
+  ],
+  "ikili görev eğitimi": [
+    "dual-task training"
+  ],
+  "göreve özgü eğitim": [
+    "task-specific training"
+  ],
+  "kısıtlamaya dayalı hareket terapisi": [
+    "constraint-induced movement therapy",
+    "CIMT"
+  ],
+  "ayna terapisi": [
+    "mirror therapy"
+  ],
+  "fonksiyonel elektriksel stimülasyon": [
+    "functional electrical stimulation",
+    "FES"
+  ],
+  "vücut ağırlığı destekli yürüme eğitimi": [
+    "body-weight support treadmill training",
+    "body weight support"
+  ],
+  "vestibülo-oküler refleks": [
+    "vestibulo-ocular reflex",
+    "VOR"
+  ],
+  "dinamik yürüme indeksi": [
+    "dynamic gait index",
+    "DGI"
+  ],
+  "baş dönmesi engellilik envanteri": [
+    "dizziness handicap inventory",
+    "DHI"
+  ],
+  "denge güven ölçeği": [
+    "activities-specific balance confidence scale",
+    "abc scale"
+  ],
+  "ağrı izleme": [
+    "pain monitoring"
+  ],
+  "kademeli maruz bırakma terapisi": [
+    "graded exposure therapy"
+  ],
+  "arat": [
+    "action research arm test",
+    "ARAT"
+  ],
+  "faam": [
+    "foot and ankle ability measure",
+    "FAAM"
+  ],
+  "fadi": [
+    "foot and ankle disability index",
+    "FADI"
+  ],
+  "bess": [
+    "balance error scoring system",
+    "BESS"
+  ],
+  "bbs": [
+    "berg balance scale",
+    "BBS"
+  ],
+  "bbt": [
+    "box and blocks test",
+    "BBT"
+  ],
+  "cait": [
+    "cumberland ankle instability tool",
+    "CAIT"
+  ],
+  "fabq": [
+    "fear-avoidance beliefs questionnaire",
+    "FABQ"
+  ],
+  "fim": [
+    "functional independence measure",
+    "FIM"
+  ],
+  "fois": [
+    "functional oral intake scale",
+    "FOIS"
+  ],
+  "fma": [
+    "fugl-meyer assessment",
+    "FMA"
+  ],
+  "hads": [
+    "hospital anxiety and depression scale",
+    "HADS"
+  ],
+  "icf": [
+    "international classification of functioning, disability and health",
+    "ICF"
+  ],
+  "lefs": [
+    "lower extremity functional scale",
+    "LEFS"
+  ],
+  "womac": [
+    "mcmaster universities osteoarthritis index",
+    "WOMAC"
+  ],
+  "prtee": [
+    "patient-rated tennis elbow evaluation questionnaire",
+    "PRTEE"
+  ],
+  "psfs": [
+    "patient-specific functional scale",
+    "PSFS"
+  ],
+  "sebt": [
+    "star excursion balance test",
+    "SEBT"
+  ],
+  "tsk-11": [
+    "tampa scale of kinesiophobia",
+    "TSK-11"
+  ],
+  "tug": [
+    "timed up and go test",
+    "TUG"
+  ],
+  "vas": [
     "visual analog scale",
-    "vas"
+    "VAS"
   ],
-  "su yutma testi": [
+  "wst": [
     "water swallow test",
-    "wst"
+    "WST"
   ],
-  "standartlaştırılmış yutma değerlendirmesi": [
-    "standardized swallowing assessment",
-    "ssa"
+  "6mwt": [
+    "6-minute walk test",
+    "6MWT"
+  ],
+  "mdc": [
+    "minimal detectable change",
+    "MDC"
+  ],
+  "mcid": [
+    "minimal clinically important difference",
+    "MCID"
+  ],
+  "arom": [
+    "active range of motion",
+    "AROM"
+  ],
+  "prom": [
+    "passive range of motion",
+    "PROM"
+  ],
+  "bppv": [
+    "benign paroxysmal positional vertigo",
+    "BPPV"
+  ],
+  "acl": [
+    "anterior cruciate ligament",
+    "ACL"
+  ],
+  "cimt": [
+    "constraint-induced movement therapy",
+    "CIMT"
+  ],
+  "fes": [
+    "functional electrical stimulation",
+    "FES"
+  ],
+  "vor": [
+    "vestibulo-ocular reflex",
+    "VOR"
+  ],
+  "dgi": [
+    "dynamic gait index",
+    "DGI"
+  ],
+  "dhi": [
+    "dizziness handicap inventory",
+    "DHI"
+  ],
+  "ftsst": [
+    "five times sit to stand test",
+    "FTSST"
+  ],
+  "telerehabilitasyon": [
+    "telerehabilitation",
+    "tele-rehabilitation"
+  ],
+  "ağırlık verme": [
+    "weight bearing",
+    "weight-bearing"
+  ],
+  "omuz eklemi osteoartriti": [
+    "glenohumeral osteoarthritis",
+    "glenohumeral joint osteoarthritis"
+  ],
+  "venöz tromboembolizm": [
+    "venous thromboembolism"
+  ],
+  "derin ven trombozu": [
+    "deep vein thrombosis"
+  ],
+  "pulmoner emboli": [
+    "pulmonary embolism"
+  ],
+  "epley manevrası": [
+    "epley maneuver",
+    "epley manoeuvre"
+  ],
+  "kanalit yeniden konumlandırma manevrası": [
+    "canalith repositioning procedure",
+    "canalith repositioning maneuver"
+  ],
+  "vestibüler rehabilitasyon": [
+    "vestibular rehabilitation"
+  ],
+  "kalp yetersizliği": [
+    "heart failure"
+  ],
+  "kardiyak rehabilitasyon": [
+    "cardiac rehabilitation"
   ]
 }
