@@ -4,13 +4,17 @@ from pathlib import Path
 from typing import Any, Dict, List, Set
 import json
 import re
+import os
 
 from rank_bm25 import BM25Okapi
 
 from src.retrieval.retrieval_utils import annotate_result
 
 
-CHUNKS_DIR = Path("data/processed/chunks")
+
+CHUNKS_DIR = Path(
+    os.getenv("FTR_CHUNKS_DIR", "data/processed/chunks")
+)
 
 # Keep clinical negation words; they can materially change meaning.
 _ENGLISH_STOPWORDS = {

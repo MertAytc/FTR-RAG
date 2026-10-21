@@ -6,7 +6,12 @@ from src.retrieval.embedding import embed_texts, EMBEDDING_MODEL
 from src.retrieval.vector_store import reset_collection, add_chunks
 
 
-CHUNKS_DIR = Path("data/processed/chunks")
+CHUNKS_DIR = Path(
+    __import__("os").getenv(
+        "FTR_CHUNKS_DIR",
+        "data/processed/chunks"
+    )
+)
 
 BATCH_SIZE = int(__import__("os").getenv("FTR_INDEXER_BATCH_SIZE", "32"))
 
