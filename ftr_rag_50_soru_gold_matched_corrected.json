@@ -1,0 +1,1668 @@
+[
+  {
+    "id": "FTR-001",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Geriatrik rehabilitasyon / düşme",
+    "question": "Toplumda yaşayan yaşlılarda düşme riskini azaltmak için fizyoterapinin temel egzersiz yaklaşımı nedir?",
+    "answer": "Çok bileşenli egzersiz verilmelidir ve program denge eğitimini mutlaka içermelidir; diğer egzersiz türleri de eklenebilir. Kılavuz bu öneriyi Kanıt Düzeyi I ve güçlü öneri olarak verir.",
+    "source": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults: An Evidence-Based Clinical Practice Guideline (2025)",
+    "gold_passage": "“Physical therapists must provide or prescribe multicomponent exercise to older adults to reduce risk and rate of falls and it must include balance training and may include other exercise modes.”",
+    "source_location": "PDF s.3, Table 1 – Summary of Recommendations",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1519/JPT.0000000000000454",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c8148a33854ffc0c2bf05ae6",
+        "chunk_file": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults_ An Evidence-Based Clinical Practice Guideline 2025.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation | Level of\nEvidence | Strength of\nRecommendation\nPhysical therapists should participate in multifactoriala management programs addressing falls and\nfall risk for older adults. | I | Strong\nPhysical therapists must provide or prescribe multicomponentb exercise to older adults to reduce\nrisk and rate of falls and it must include balance training and may include other exercise modes. | I | Strong\nPhysical therapists must prescribe exercise programs to older adults to be performed at "
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-002",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Diz / patellofemoral ağrı",
+    "question": "Patellofemoral ağrının klinik tanısında temel ölçütler nelerdir?",
+    "answer": "Kılavuza göre retropatellar/peripatellar ağrı bulunmalı; ağrı squat, merdiven, uzun süre oturma gibi patellofemoral eklemi fleksiyonda yükleyen aktivitelerle yeniden üretilmeli ve anterior diz ağrısına yol açabilecek diğer durumlar dışlanmalıdır.",
+    "source": "Patellofemoral Pain: Clinical Practice Guidelines (2019)",
+    "gold_passage": "“Clinicians should make the diagnosis of PFP using the following criteria: (1) the presence of retropatellar or peripatellar pain, (2) reproduction of retropatellar or peripatellar pain with squatting, stair climbing, prolonged sitting, or other functional activities loading the PFJ in a flexed position, and (3) exclusion of all other conditions that may cause anterior knee pain, including tibiofemoral pathologies.”",
+    "source_location": "PDF s.2 / CPG2, Diagnosis",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2019.0302",
+    "error_severity": "Orta",
+    "gold_chunk_ids": [
+      "f9eafd27ea190be8010d80bc"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "f9eafd27ea190be8010d80bc",
+        "chunk_file": "Patellofemoral Pain 2019.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Clinicians should make the diagnosis of PFP using the fol\nlowing criteria: (1) the presence of retropatellar or peri\npatellar pain, (2) reproduction of retropatellar or peripatellar pain\nwith squatting, stair climbing, prolonged sitting, or other func\ntional activities loading the PFJ in a flexed position, and (3) exclu\nsion of all other conditions that may cause anterior knee pain,\nincluding tibiofemoral pathologies."
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "f9eafd27ea190be8010d80bc"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-003",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Boyun ağrısı",
+    "question": "Boyun ağrılı hastada fizyoterapist ciddi patoloji açısından ne yapmalıdır?",
+    "answer": "Ciddi patoloji olasılığını düşündüren klinik bulgular için değerlendirme yapmalı; enfeksiyon, kanser, kardiyak tutulum, arteriyel yetmezlik, üst servikal ligament yetmezliği, açıklanamayan kraniyal sinir disfonksiyonu veya kırık gibi durumlar açısından şüphe varsa uygun konsültasyona yönlendirmelidir.",
+    "source": "Neck Pain: Revision 2017",
+    "gold_passage": "“Clinicians should perform assessments and identify clinical findings in patients with neck pain to determine the potential for the presence of serious pathology (eg, infection, cancer, cardiac involvement, arterial insufficiency, upper cervical ligamentous insufficiency, unexplained cranial nerve dysfunction or fracture), and refer for consultation as indicated.”",
+    "source_location": "PDF s.2 / A2, Pathoanatomical Features/Differential Diagnosis",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2017.0302",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "65c92d549063b118d112e7ad"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "65c92d549063b118d112e7ad",
+        "chunk_file": "Neck Pain 2017.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Clinicians should perform assessments and identify clinical\nfindings in patients with neck pain to determine the potential\nfor the presence of serious pathology (eg, infection, cancer, cardiac\ninvolvement, arterial insufficiency, upper cervical ligamentous insuffi\nciency, unexplained cranial nerve dysfunction or fracture), and refer\nfor consultation as indicated."
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "65c92d549063b118d112e7ad"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-004",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Kardiyopulmoner / bronşektazi",
+    "question": "Bronşektazili yetişkinlerde airway clearance (sekresyon temizleme) teknikleri öneriliyor mu?",
+    "answer": "Evet. ERS, bronşektazili hastalara airway clearance tekniklerinin öğretilmesini güçlü öneriyle destekler; kanıt kesinliği çok düşüktür. Teknikler deneyimli bir respiratuvar fizyoterapist tarafından öğretilmeli ve kişiye göre uyarlanmalıdır.",
+    "source": "European Respiratory Society clinical practice guideline for the management of adult bronchiectasis (2025)",
+    "gold_passage": "“We recommend that patients with bronchiectasis should be taught airway clearance techniques. (Strong recommendation for the intervention, very low certainty of evidence.)” / “Airway clearance techniques (ACTs) are best taught by a respiratory physiotherapy with appropriate experience.”",
+    "source_location": "PDF s.11, PICO Question 1 – Airway clearance",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1183/13993003.01126-2025",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "2dae9b582373d3b6c47c5dc6"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "2dae9b582373d3b6c47c5dc6",
+        "chunk_file": "European Respiratory Society clinical practice guideline for the.chunks.json",
+        "page_start": 11,
+        "page_end": 11,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Implementation considerations\nImplementing testing for underlying causes in bronchiectasis requires a structured approach to address\nseveral practical challenges, including regional disparities in diagnostic capacity, variability in disease\naetiology across populations, and the lack of standardised follow-up and management protocols. Testing\nfor certain underlying causes (particularly PCD) may be difficult to implement in many regions due to\nlimited access to specialised diagnostic facilities. W"
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "88c724a35e23f445cb051d2f"
+    ],
+    "gold_chunk_match_review_note": "Chunk hem airway-clearance önerisini ve öneri gücü/kanıt kesinliğini hem de deneyimli solunum fizyoterapisti tarafından öğretim ifadesini içeriyor."
+  },
+  {
+    "id": "FTR-005",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Omuz / glenohumeral osteoartrit / TSA",
+    "question": "Glenohumeral osteoartrit nedeniyle total omuz artroplastisi yapılan hastada omuz ROM egzersizleri ne kadar geciktirilebilir?",
+    "answer": "Kılavuza göre omuz ROM egzersizlerinin fizyoterapist tarafından başlatılması 4 haftaya kadar geciktirilebilir ve bunun hasta bildirimli sonuçları olumsuz etkilemediğine dair orta düzey kanıt vardır.",
+    "source": "Physical Therapist Management of Glenohumeral Joint Osteoarthritis: A Clinical Practice Guideline from the APTA (2023)",
+    "gold_passage": "“The timing of the introduction of shoulder ROM exercises by physical therapists may be delayed up to 4 weeks without negatively impacting patient-reported outcomes in patients with GHOA who have undergone TSA.”",
+    "source_location": "PDF s.2, Table 1 – Postoperative physical therapy timing",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzad041",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "4fdc8a2e1cdcc0863a1cbc34"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "4fdc8a2e1cdcc0863a1cbc34",
+        "chunk_file": "Physical Therapist Management of Glenohumeral Joint Osteoarthritis A Clinical Practice Guideline from the American Physical Therapy Association.chunks.json",
+        "page_start": 2,
+        "page_end": 3,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Moderate\n♦♦♦◊\nHistory, physical examination, and radiographs\ncan be useful to differentially diagnose GHOA.\nCritical shoulder angle on radiographs and age are\nspecifically predictive of the diagnosis.\nDiagnosis: MRI\nHigh\n♦♦♦♦\nAdvanced imaging using MRI is beneficial in the\ndifferential diagnosis of GHOA. MRI is helpful to\nconfirm the diagnosis but is less useful to rule out\nthe diagnosis.\nPostoperative management: sling\nand exercise\n\nHigh\n♦♦♦♦\nPhysical therapists should implement the use of a\nsl"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "4fdc8a2e1cdcc0863a1cbc34"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-006",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Onkolojik rehabilitasyon / meme kanseri ilişkili lenfödem",
+    "question": "Meme kanseri ilişkili lenfödem riski olan veya subklinik evre 0 bireylerde progresif direnç egzersizi güvenli midir?",
+    "answer": "Evet. Bireyselleştirilmiş ve gözetimli bir program ameliyattan en az 1 ay sonra başlatıldığında progresif direnç egzersizi güvenli kabul edilir; öneri Grade A'dır.",
+    "source": "Interventions for Breast Cancer–Related Lymphedema: Clinical Practice Guideline From the Academy of Oncologic Physical Therapy of APTA (2020)",
+    "gold_passage": "“Progressive resistance training is safe when an individualized program is supervised beginning at least 1 month postsurgery. (Grade A)”",
+    "source_location": "PDF s.3, Table 1 – Exercise for Individuals at Risk for or With Subclinical (ISL Stage 0) BCRL",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzaa087",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "112dd41aa79e83a5811dc54b"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "112dd41aa79e83a5811dc54b",
+        "chunk_file": "Interventions for Breast Cancer–Related Lymphedema Clinical Practice Guideline From the Academy of Oncologic Physical Therapy of APTA.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "| \nInterventions by Stage | Practice Recommendations\nEarly Postoperative Care/Early\nPreventive Intervention | Postoperative exercise and resumption of activity should be coordinated with the interprofessional team and an\nindividualized exercise program should be gradually increased while monitoring for adverse events. (Best Practice)\nIndividually tailored exercises should be included postoperatively and gradually progressed. (Grade B)\nIn individuals who have undergone axillary lymph node dissect"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "112dd41aa79e83a5811dc54b"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-007",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Telerehabilitasyon",
+    "question": "Telerehabilitasyon planlanırken hastaya ait bariyer ve kolaylaştırıcıların değerlendirilmesi öneriliyor mu?",
+    "answer": "Evet. Fizyoterapistler telerehabilitasyon planlarken hastanın bakış açısı ve deneyimlerinden kaynaklanan bariyerleri belirlemeli, azaltmaya çalışmalı ve kolaylaştırıcıları desteklemelidir. Kanıt kalitesi yüksek, öneri gücü güçlüdür.",
+    "source": "Telerehabilitation in Physical Therapist Practice: A Clinical Practice Guideline From the APTA (2024)",
+    "gold_passage": "“Physical therapists should identify and work to reduce barriers and promote facilitators identified from the patient’s perspectives and experiences when planning and providing telerehabilitation services.”",
+    "source_location": "PDF s.6, Table 2 – Recommendation 3",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzae045",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "f4c70c8ba49d14a7fb5c41c1"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "f4c70c8ba49d14a7fb5c41c1",
+        "chunk_file": "Telerehabilitation in Physical Therapist Practice A Clinical Practice Guideline From the American Physical Therapy Association.chunks.json",
+        "page_start": 6,
+        "page_end": 6,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Moderate\n♦♦♦♦\nRecommendation 1: Physical therapists should recommend\ntelerehabilitation or hybrid care, as they are at least equivalent to\nin-person physical therapy with respect to patient acceptability and\nsatisfaction and are superior to in-person physical therapy with\nrespect to adherence and attendance for certain health conditions.\nTelerehabilitation preparation\nModerate\n♦♦♦♦\nRecommendation 2: Physical therapists and patients should discuss\nwhether telerehabilitation is a cost-effective op"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "f4c70c8ba49d14a7fb5c41c1"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-008",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Nörolojik rehabilitasyon / inme",
+    "question": "İnme sonrası görev-özgül (task-specific) pratik öneriliyor mu?",
+    "answer": "Evet. VA/DoD 2024 kılavuzu görev-özgül/görev-odaklı/tekrarlayıcı görev pratiğini motor fonksiyon, yürüme, postür ve günlük yaşam aktivitelerini geliştirmek için güçlü biçimde önerir.",
+    "source": "VA/DoD Clinical Practice Guideline for Management of Stroke Rehabilitation, Version 5.0 (2024)",
+    "gold_passage": "“We recommend task-specific practice (also known as task-oriented practice or repetitive task practice) to improve motor function, gait, posture, and activities of daily living. (Strong for)”",
+    "source_location": "PDF s.28 ve s.38, Recommendation 5 – Motor Therapy",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.healthquality.va.gov/guidelines/rehab/stroke/",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "415a3e545ba969800659b1ff"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "415a3e545ba969800659b1ff",
+        "chunk_file": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508.chunks.json",
+        "page_start": 38,
+        "page_end": 38,
+        "chunk_type": "list_item",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "5. We recommend task-specific practice (also known as task-oriented practice or\nrepetitive task practice) to improve motor function, gait, posture, and activities of\ndaily living.\n(Strong for | Reviewed, Not changed)"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "415a3e545ba969800659b1ff"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-009",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Nörolojik rehabilitasyon / spinal kord yaralanması",
+    "question": "Spinal kord yaralanmalı bireylerde manuel tekerlekli sandalye beceri eğitimi öneriliyor mu?",
+    "answer": "Evet, ancak öneri zayıftır. 2025 Avustralya-Yeni Zelanda SCI kılavuzu manuel tekerlekli sandalye beceri eğitimini manuel tekerlekli sandalye becerilerini geliştirmek için zayıf kanıt-temelli olumlu öneri olarak verir; kanıt kesinliği çok düşüktür.",
+    "source": "An Australian and New Zealand clinical practice guideline for the physiotherapy management of people with spinal cord injuries (2025)",
+    "gold_passage": "“A weak evidence-based recommendation was made in favour of manual wheelchair skills training to improve manual wheelchair skills.”",
+    "source_location": "PDF s.4, Motor skills",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1038/s41393-025-01088-8",
+    "error_severity": "Orta",
+    "gold_chunk_ids": [
+      "f8384367b79a01f9d295e83c"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "f8384367b79a01f9d295e83c",
+        "chunk_file": "s41393-025-01088-8.chunks.json",
+        "page_start": 4,
+        "page_end": 4,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Source: www.sciptguide.com.\n\nOverall principles of physiotherapy management\nEighteen statements about the overall principles of physiotherapy\nmanagement were voted on by the panel. There were no RCTs to\ninform these decisions hence these overall principles are all\nconsensus-based statements.\n\nMotor skills\nTwenty-four PICOs related to motor skills were voted on by the\npanel. Two weak evidence-based recommendations in favour of\nskill training were made. A weak evidence-based recommendation\nwas mad"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "f8384367b79a01f9d295e83c"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-010",
+    "category": "Doğrudan kılavuz / bilgi arama",
+    "domain": "Amputasyon / protez rehabilitasyonu",
+    "question": "Alt ekstremite amputasyonu sonrası egzersiz ve yürüme eğitimi içeren bireyselleştirilmiş rehabilitasyon öneriliyor mu?",
+    "answer": "Evet. VA/DoD 2024, fonksiyonel durum, yürüme yeteneği ve yaşam kalitesini geliştirmek için egzersiz ve yürüme eğitimi içeren bireyselleştirilmiş ve beceri gerektiren rehabilitasyon programını önerir; öneri gücü 'Weak for'dur.",
+    "source": "VA/DoD Clinical Practice Guideline for Rehabilitation of Individuals with Lower Limb Amputation, Version 3.0 (2024)",
+    "gold_passage": "“We suggest an individualized and skilled rehabilitation program with exercise and gait training to improve functional status, walking ability, and quality of life. (Weak for)”",
+    "source_location": "PDF s.30 ve s.49, Recommendation 12",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.healthquality.va.gov/guidelines/Rehab/amp/",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "8822d25820fbdc8833f8ea1a"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "8822d25820fbdc8833f8ea1a",
+        "chunk_file": "VADOD CLINICAL PRACTICE GUIDELINE FOR REHABILITAION OF INVIDUALS WİTH LOWER LIMB AMPUTATION.chunks.json",
+        "page_start": 49,
+        "page_end": 49,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "12. We suggest an individualized and skilled rehabilitation program with exercise and gait\ntraining to improve functional status, walking ability, and quality of life.\n(Weak for | Reviewed, New-replaced)\nDiscussion\n\nDespite numerous factors that can make it challenging to objectively compare the effectiveness\nof one rehabilitation intervention over another, there is limited evidence to support that\nengagement in a rehabilitation program can lead to improvements in functional status, walking\nabil"
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "cb63312afa26331afb4b319d"
+    ],
+    "gold_chunk_match_review_note": "Önerinin tam cümlesi ve Weak for derecesiyle eşleşen chunk seçildi."
+  },
+  {
+    "id": "FTR-011",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Geriatrik rehabilitasyon / düşme",
+    "question": "Düşme riskini azaltmaya yönelik egzersiz programının önerilen haftalık süresi ve toplam program süresi nedir?",
+    "answer": "Egzersiz programı haftada en az 150 dakika ile 3 saat arasında uygulanmalı, 6–12 ay sürmeli ve progresif, yeterince zorlayıcı denge eğitimi içermelidir.",
+    "source": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults (2025)",
+    "gold_passage": "“Physical therapists must prescribe exercise programs to older adults to be performed at least 150 minutes to 3 hours per week, lasting from 6 to 12 months, and must include progressive and sufficiently challenging balance training.”",
+    "source_location": "PDF s.3, Table 1 – Summary of Recommendations",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1519/JPT.0000000000000454",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "3f0ff8cf4c9a55be61b40930"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "3f0ff8cf4c9a55be61b40930",
+        "chunk_file": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults_ An Evidence-Based Clinical Practice Guideline 2025.chunks.json",
+        "page_start": 14,
+        "page_end": 14,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation: Dosage, Intensity, and Components\nPhysical therapists must prescribe exercise programs to\nolder adults to be performed at least 150 minutes to\n3 hours per week, lasting from 6 to 12 months, and\nmust include progressive and sufficiently challenging\nbalance training. (Evidence Quality/Level: I, Strength:\nStrong)\n\nRationale\nMulticomponent exercise programs that include more\nthan 150 minutes of exercise weekly are most effective\nin reducing fall rates48 and programs of 6 to 12 months"
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6"
+    ],
+    "gold_chunk_match_review_note": "Haftalık doz, 6–12 ay süre ve zorlayıcı denge eğitimi ifadesini içeren doz önerisi chunk'ı seçildi."
+  },
+  {
+    "id": "FTR-012",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Vestibüler rehabilitasyon",
+    "question": "Kronik unilateral vestibüler hipofonksiyonda gaze stabilizasyon egzersizlerinin minimum dozu nedir?",
+    "answer": "Haftalık klinik ziyaretlere ek ev programında günde 3–5 kez, toplam en az 20 dakika/gün ve 4–6 hafta önerilebilir. Öneri gücü zayıftır.",
+    "source": "Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: Updated CPG (2022)",
+    "gold_passage": "“3 to 5 times per day for a total of at least 20 minutes daily for 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction (evidence quality: II; recommendation strength: weak)”",
+    "source_location": "PDF s.5 / JNPT s.122, Action Statement 6b",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1097/NPT.0000000000000382",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "4d31ab024359794654345d28",
+        "chunk_file": "Vestibular Rehabilitation for Peripheral Vestibular Clinical Practice Guideline 2026.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "isolation (ie, without head movement) to promote gaze stability.\n\nBased\non moderate to strong evidence, clinicians may offer specific exercise\ntechniques to target identified activity limitations and participation\nrestrictions, including virtual reality or augmented sensory feedback.\n\nBased on strong evidence and in consideration of patient preference,\nclinicians should offer supervised vestibular rehabilitation.\n\nBased on\nmoderate to weak evidence, clinicians may prescribe weekly clinic visits\n"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-013",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Diyabetik ayak / egzersiz",
+    "question": "IWGDF 2023'e göre düşük-orta ayak ülseri riski olan diyabetli bireylerde ayak-ayak bileği egzersiz programı ne kadar sürmelidir?",
+    "answer": "IWGDF risk 1 veya 2 olan kişilerde, tercihen eğitimli bir sağlık profesyoneli gözetiminde 8–12 haftalık ayak-ayak bileği egzersiz programı düşünülebilir; program sonrasında egzersizlere devam edilmesi önerilir. Öneri koşullu, kanıt düzeyi düşüktür.",
+    "source": "Guidelines on the prevention of foot ulcers in persons with diabetes – IWGDF 2023 update",
+    "gold_passage": "“Consider advising and referring a person with diabetes who is at low or moderate risk for foot ulceration (IWGDF risk 1 or 2) to participate in an 8-12-weeks foot-ankle exercise program, preferably under the supervision of an appropriately trained healthcare professional, and to continue performing foot-ankle exercises afterwards… (Conditional; Low)”",
+    "source_location": "PDF s.23, Recommendation 12",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://iwgdfguidelines.org/prevention-guideline-2023/",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "04fb3797b180184fd71efe69"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "04fb3797b180184fd71efe69",
+        "chunk_file": "Guidelines on the prevention of foot ulcers in persons with diabetes IWGDF 2023 update.chunks.json",
+        "page_start": 23,
+        "page_end": 23,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation 12: Consider advising and referring a person with diabetes who is at low or moderate\nrisk for foot ulceration (IWGDF risk 1 or 2) to participate in an 8-12-weeks foot-ankle exercise\nprogram, preferably under the supervision of an appropriately trained healthcare professional, and to\ncontinue performing foot-ankle exercises afterwards, with the aim of reducing risk factors of ulceration.\n(Conditional; Low) Rationale: The risk of ulceration increases in the presence of risk factors."
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "84589e4c7c99cad7b6f25db1"
+    ],
+    "gold_chunk_match_review_note": "Önceki ID ayakkabı/footwear önerilerindeydi. Yeni chunk IWGDF Recommendation 12'deki 8–12 haftalık foot-ankle egzersiz programını ve devam önerisini içeriyor."
+  },
+  {
+    "id": "FTR-014",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Diz / patellofemoral ağrı",
+    "question": "Patellofemoral ağrıda egzersiz programı hangi kas gruplarını hedeflemelidir?",
+    "answer": "Kalça ve diz hedefli egzersizler birlikte kullanılmalıdır. Kalça egzersizleri posterolateral kalça kaslarını; diz egzersizleri ise ağırlık taşıyan veya taşımayan kuadriseps çalışmalarını hedefleyebilir.",
+    "source": "Patellofemoral Pain: Clinical Practice Guidelines (2019)",
+    "gold_passage": "“Clinicians should include exercise therapy with combined hip- and knee-targeted exercises… Hip-targeted exercise therapy should target the posterolateral hip musculature. Knee-targeted exercise therapy includes either weight-bearing (resisted squats) or non–weight-bearing (resisted knee extension) exercise.”",
+    "source_location": "PDF s.3 / CPG3, Interventions – Specific Modes of Exercise Therapy",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2019.0302",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "83d920e9716ecff9d5f94d60"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "83d920e9716ecff9d5f94d60",
+        "chunk_file": "Patellofemoral Pain 2019.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Clinicians should include exercise therapy with combined\nhip- and knee-targeted exercises to reduce pain and im\nprove patient-reported outcomes and functional performance in\nthe short, medium, and long term. Hip-targeted exercise therapy\nshould target the posterolateral hip musculature. Knee-targeted\nexercise therapy includes either weight-bearing (resisted squats)\nor non–weight-bearing (resisted knee extension) exercise, as both\nexercise techniques target the knee musculature. Preference to\nhip"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "83d920e9716ecff9d5f94d60"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-015",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Kardiyak rehabilitasyon / direnç egzersizi",
+    "question": "2026 ESC kılavuzuna göre akut veya kronik koroner sendromda kardiyak rehabilitasyon içindeki direnç egzersizinin genel dozu nasıldır?",
+    "answer": "Genel çerçevede direnç egzersizi haftada en az 2 gün; büyük kas grubu başına en az 2 set ve set başına 12–15 tekrar uygulanır. Yoğunluk üst ekstremitelerde yaklaşık %30–70 1RM, alt ekstremitelerde %40–80 1RM'dir. Reçete kişinin riskine ve kapasitesine göre bireyselleştirilmelidir.",
+    "source": "2026 ESC Guidelines on cardiac rehabilitation",
+    "gold_passage": "Table 8, ACS/CCS resistance exercise: “Frequency ≥2 days per week”; “≥2 sets per large muscle group, 12–15 repetitions per set”; intensity “30%–70% 1RM for upper extremities” and “40%–80% 1RM for lower extremities.”",
+    "source_location": "PDF s.36, Table 8 – General exercise prescriptions",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/eurheartj/ehag099",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "c829c862d948c3f6dc12ec37",
+      "a5e0844e79a2ce2e75642f1a"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c829c862d948c3f6dc12ec37",
+        "chunk_file": "2026 ESC Guidelines on cardiac rehabilitation.chunks.json",
+        "page_start": 36,
+        "page_end": 36,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Frequency\n≥2 days per week\n≥2 days per week\n\nNumber of\n\n≥2 sets per large\n\nUp-titrating to ≥2 sets\n\nsets/\nrepetitions\n\nmuscle group, 12–15\nrepetitions per set\n\nper large muscle group,\n8–15 repetitions per\n\nset\n\nIntensity\n30%–70% 1RM for\n\nUp-titrating to 40%–\n\nupper extremities"
+      },
+      {
+        "chunk_id": "a5e0844e79a2ce2e75642f1a",
+        "chunk_file": "2026 ESC Guidelines on cardiac rehabilitation.chunks.json",
+        "page_start": 36,
+        "page_end": 36,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "40%–80% 1RM for\nlower extremities"
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "c829c862d948c3f6dc12ec37"
+    ],
+    "gold_chunk_match_review_note": "Tablo satırındaki sıklık/set-tekrar/üst ekstremite yoğunluğu chunk'ı ile alt ekstremite %40–80 1RM bilgisini taşıyan ayrı küçük chunk birlikte seçildi."
+  },
+  {
+    "id": "FTR-016",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Omuz instabilitesi / postoperatif rehabilitasyon",
+    "question": "Artroskopik omuz stabilizasyonu sonrası sling, tam hareket açıklığı ve dirençli egzersiz için önerilen zamanlama nedir?",
+    "answer": "Delphi konsensüsüne göre sling rutin olarak yaklaşık 3 haftaya kadar kullanılır ve hasta uygunsa daha erken bırakılabilir; hareketler immobilizasyon döneminde 'safe zone' içinde kalmalıdır. Tam hareket açıklığına yönelik hareketler 4 haftadan sonra, dirençli hareketler 6 haftada başlayabilir.",
+    "source": "Rehabilitation guidelines following arthroscopic shoulder stabilisation surgery for traumatic instability – a Delphi consensus (2024)",
+    "gold_passage": "“Patients should be routinely immobilised in a sling for up to 3 weeks but can discard earlier if able… Through range movements can commence after 4 weeks, resisted movements at 6 weeks.”",
+    "source_location": "PDF s.1, Abstract/Results",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1016/j.physio.2024.05.001",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "4082db897be45834b6e0fe94"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "4082db897be45834b6e0fe94",
+        "chunk_file": "Rehabilitation guidelines following arthroscopic shoulder stabilisation surgery for traumatic instability – a Delphi consensus.chunks.json",
+        "page_start": 1,
+        "page_end": 1,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "a Gloucestershire Hospitals NHS Foundation Trust, United Kingdom\nb University Hospitals of Derby & Burton NHS Foundation Trust, United Kingdom\n\nc Calderdale and Huddersfield NHS Trusts, United Kingdom\nd Rehab4Performance and Liverpool University, United Kingdom\n\ne University of Salford, United Kingdom\nf Sherwood Forest Hospitals NHS Trust, United Kingdom\ng University Hospitals Birmingham NHS Foundation Trust, United Kingdom\n\nh University of East Anglia, United Kingdom\ni Royal National Orthopaedi"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "4082db897be45834b6e0fe94"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-017",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Onkolojik rehabilitasyon / BCRL",
+    "question": "BCRL riski veya subklinik evre 0 olan bir bireyde direnç egzersizine ne zaman başlanmalı ve egzersiz toleransı ne sıklıkta izlenmelidir?",
+    "answer": "Bireyselleştirilmiş gözetimli progresif direnç programı ameliyattan en az 1 ay sonra başlatılabilir. Egzersiz toleransı ve advers etkiler başlangıçta en az haftalık izlenmeli, daha sonra klinik duruma göre izlem sıklığı azaltılmalıdır.",
+    "source": "Interventions for Breast Cancer–Related Lymphedema: APTA Oncology CPG (2020)",
+    "gold_passage": "“Progressive resistance training is safe when an individualized program is supervised beginning at least 1 month postsurgery. (Grade A)” / “Monitoring for exercise tolerance and adverse effects should initially occur at least weekly and then taper according to clinical presentation. (Grade A)”",
+    "source_location": "PDF s.8, Exercise Recommended for Individuals At Risk for or With Subclinical (ISL Stage 0) BCRL",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzaa087",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "112dd41aa79e83a5811dc54b"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "112dd41aa79e83a5811dc54b",
+        "chunk_file": "Interventions for Breast Cancer–Related Lymphedema Clinical Practice Guideline From the Academy of Oncologic Physical Therapy of APTA.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "| \nInterventions by Stage | Practice Recommendations\nEarly Postoperative Care/Early\nPreventive Intervention | Postoperative exercise and resumption of activity should be coordinated with the interprofessional team and an\nindividualized exercise program should be gradually increased while monitoring for adverse events. (Best Practice)\nIndividually tailored exercises should be included postoperatively and gradually progressed. (Grade B)\nIn individuals who have undergone axillary lymph node dissect"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "112dd41aa79e83a5811dc54b"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-018",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Nörolojik rehabilitasyon / inme",
+    "question": "İnme sonrası üst ekstremite için ek tekrarlayıcı pratik dozu konusunda ESO 2025 ne öneriyor?",
+    "answer": "Mevcut rehabilitasyona ek tekrarlayıcı üst ekstremite pratiği düşünülebilir; kesin doz belirsizdir ancak muhtemelen en az 20 saat, genellikle haftada 3–5 kez ve 4–6 hafta uygulanır. Kanıt çok düşük, öneri zayıftır.",
+    "source": "European Stroke Organisation (ESO) Guideline on Motor Rehabilitation (2025)",
+    "gold_passage": "“The exact amount of additional practice time is unclear but will likely be at least 20 h, commonly delivered 3–5 times per week over 4–6 weeks. Quality of evidence: Very low… Strength of recommendation: Weak for intervention.”",
+    "source_location": "PDF s.24 / European Stroke Journal s.1183, Table 4, PICO 1",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1177/23969873251338142",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "59cc6d0ca62f4f2054511667"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "59cc6d0ca62f4f2054511667",
+        "chunk_file": "European Stroke Organisation (ESO) guideline on motor rehabilitation.chunks.json",
+        "page_start": 11,
+        "page_end": 11,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "To summarise, the evidence from previous research\nindicates that a larger dose in terms of more time spent in\n\npractice is beneficial for people with stroke at any stage of\nrecovery. However, from these previous meta-analyses it is\nnot possible to conclude whether the effect can be attributed to the higher dose, to potential differences in therapy\ncontent, or to an interaction between dose and content.\nDespite these potential mixed effects of content and dose,\nthe research evidence from previous"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "59cc6d0ca62f4f2054511667"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-019",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Diyabet / egzersiz",
+    "question": "ADA 2026'ya göre erişkin tip 2 diyabette direnç egzersizi sıklığı nedir?",
+    "answer": "Haftada 2–3 seans ve ardışık olmayan günlerde yapılması önerilir.",
+    "source": "Standards of Care in Diabetes—2026",
+    "gold_passage": "“Counsel adults with type 1 diabetes C and type 2 diabetes B to engage in 2–3 sessions/week of resistance exercise on nonconsecutive days.”",
+    "source_location": "PDF s.108 / S102, Recommendation 5.37",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "f2875bb1e8507dbcd766c8ff"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "f2875bb1e8507dbcd766c8ff",
+        "chunk_file": "standards-of-care-2026.chunks.json",
+        "page_start": 111,
+        "page_end": 111,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Resistance Activity\nResistance activity refers to movements\nworking against an external force for the\npurpose of improving skeletal muscle\nstrength and size, which typically includes\nfree weight, weight machine, body weight,\nor resistance band movements to target\nthe major muscle groups. Resistance training can improve glycemia, strength, hypertrophy, bone mineral density, and\ncardiometabolic health (296–298), and\nhigher relative muscle mass is associated\nwith better insulin sensitivity and lowe"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "f2875bb1e8507dbcd766c8ff"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-020",
+    "category": "Tedavi / doz / prosedür",
+    "domain": "Diz artroplastisi / TKA",
+    "question": "Total diz artroplastisi sonrası kuadriseps için NMES hangi sıklık ve yoğunlukta uygulanmalıdır?",
+    "answer": "Erken postoperatif dönemde kuadriseps üzerine en az günlük uygulanmalı ve hastanın tolere edebildiği en yüksek yoğunluk kullanılmalıdır; kılavuz düzenli kullanımın en az 3 hafta sürmesini belirtir.",
+    "source": "Clinical Practice Guideline for Physical Therapist Management of Total Knee Arthroplasty: Revision 2026",
+    "gold_passage": "“Physical therapists should apply neuromuscular electrical stimulation (NMES) at least daily to the quadriceps… initiated in the early postoperative period at the highest tolerable intensity…” / “NMES should be applied regularly for at least a minimum of 3 weeks.”",
+    "source_location": "PDF s.17, NMES recommendation",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzag058",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "108405df9cb7214e5fa683c2",
+      "d59922428e3b134234f1d494"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "108405df9cb7214e5fa683c2",
+        "chunk_file": "pzag058.chunks.json",
+        "page_start": 16,
+        "page_end": 16,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "selected\n\nneuromuscular\n\nelectronic\n\nstimulation\n\naround\n\nknee/quadriceps\n\narea"
+      },
+      {
+        "chunk_id": "d59922428e3b134234f1d494",
+        "chunk_file": "pzag058.chunks.json",
+        "page_start": 17,
+        "page_end": 17,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "units,\n\ntolerance\n\nlimit\n\nadoption.\n\nPatients\n\nafter\n\nTKA\n\nwho\n\nare\n\nmost\n\nlikely\n\nto\n\nbenefit\n\nare\n\nthose\n\nwith\n\nquadriceps\n\nmuscle\n\nactivation\n\ndeficits,\n\noften\n\nmeasured\n\nin\n\nterms\n\nof\n\na\n\nquadriceps\n\nextensor\n\nlag\n\nor\n\nquadriceps\n\nactivation\n\nbatter\n\ny.\n\nshould\n\nbe\n\napplied\n\nregularly\n\nfor\n\nat\n\nleast\n\na\n\nminimum\n\nof\n\nweeks."
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "d59922428e3b134234f1d494"
+    ],
+    "gold_chunk_match_review_note": "İki chunk kuadriseps çevresinde NMES ve en az 3 haftalık düzenli kullanım bağlamını destekliyor; günlük sıklık ve en yüksek tolere edilebilir yoğunluk bu çıkarılmış metinde açıkça görünmüyor."
+  },
+  {
+    "id": "FTR-021",
+    "category": "Koşullu / istisnalı",
+    "domain": "Geriatrik rehabilitasyon / düşme",
+    "question": "Düşme riski kılavuzundaki öneriler huzurevinde yaşayan 70 yaşındaki bir bireye doğrudan uygulanabilir mi?",
+    "answer": "Doğrudan genellenmemelidir. Kılavuz toplumda yaşayan ≥65 yaş yetişkinleri hedefler ve kurumsal bakımda yaşayan yaşlılarda düşme yönetimini kapsamadığını açıkça belirtir. Bu nedenle kurum/hastalık özelinde ek kanıt gerekir.",
+    "source": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults (2025)",
+    "gold_passage": "“This CPG addresses the management of falls and fall risk in community-dwelling older adults. It is not intended to address the management of falls and fall risk in older adults who are institutionalized.”",
+    "source_location": "PDF s.3, Patient Population",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1519/JPT.0000000000000454",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "935071e5a666def5e1412343"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "935071e5a666def5e1412343",
+        "chunk_file": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults_ An Evidence-Based Clinical Practice Guideline 2025.chunks.json",
+        "page_start": 3,
+        "page_end": 4,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "physiatrists, neurologists, orthopedists, nurse practitioners, physician assistants, nurses, occupational therapists, speech-language pathologists, and other health care\nprofessionals who routinely care for older adults. This\ndocument may also inform health care decision-makers,\nhealth care providers, and consumers.\n\nPatient Population\nThis CPG addresses the management of falls and fall\nrisk in community-dwelling older adults. It is not\nintended to address the management of falls and fall\nrisk i"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "935071e5a666def5e1412343"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-022",
+    "category": "Koşullu / istisnalı",
+    "domain": "Vestibüler rehabilitasyon",
+    "question": "Akut unilateral vestibüler hipofonksiyonda denge egzersizi için kronik unilateral hipofonksiyondaki 20 dk/gün, 4–6 hafta dozu aynen kullanılmalı mı?",
+    "answer": "Hayır. Kılavuz kronik unilateral durumda minimum 20 dk/gün ve 4–6 hafta dozu verir; akut/subakut unilateral durumda ise spesifik denge egzersizi dozu için yeterli öneri verilemediğini belirtir.",
+    "source": "Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: Updated CPG (2022)",
+    "gold_passage": "“Clinicians may prescribe static and dynamic balance exercises: (1) for a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction…; (2) for individuals with acute/subacute unilateral vestibular hypofunction; however, no specific dose recommendations can be made at this time…”",
+    "source_location": "PDF s.5 / JNPT s.122, Action Statement 6a",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1097/NPT.0000000000000382",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "4d31ab024359794654345d28",
+        "chunk_file": "Vestibular Rehabilitation for Peripheral Vestibular Clinical Practice Guideline 2026.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "isolation (ie, without head movement) to promote gaze stability.\n\nBased\non moderate to strong evidence, clinicians may offer specific exercise\ntechniques to target identified activity limitations and participation\nrestrictions, including virtual reality or augmented sensory feedback.\n\nBased on strong evidence and in consideration of patient preference,\nclinicians should offer supervised vestibular rehabilitation.\n\nBased on\nmoderate to weak evidence, clinicians may prescribe weekly clinic visits\n"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-023",
+    "category": "Koşullu / istisnalı",
+    "domain": "Diz / patellofemoral ağrı",
+    "question": "Patellofemoral ağrıda her hastaya prefabrike ayak ortezi verilmeli mi?",
+    "answer": "Hayır. Kılavuz, normalden fazla pronasyonu olan hastalarda kısa dönem ağrı azaltımı için prefabrike ayak ortezini önerir ve egzersizle birlikte kullanılmasını belirtir.",
+    "source": "Patellofemoral Pain: Clinical Practice Guidelines (2019)",
+    "gold_passage": "“Clinicians should prescribe prefabricated foot orthoses for patients with greater than normal pronation to reduce pain, but only in the short term (up to 6 weeks). If prescribed, foot orthoses should be combined with an exercise therapy program.”",
+    "source_location": "PDF s.3 / CPG3, Interventions – Foot Orthoses",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2019.0302",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "c7f16ea682e2dae2bfee53cf"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c7f16ea682e2dae2bfee53cf",
+        "chunk_file": "Patellofemoral Pain 2019.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Clinicians should prescribe prefabricated foot orthoses\nfor patients with greater than normal pronation to reduce\npain, but only in the short term (up to 6 weeks). If prescribed,\nfoot orthoses should be combined with an exercise therapy pro\ngram. There is insufficient evidence to recommend custom foot\northoses over prefabricated foot orthoses."
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "c7f16ea682e2dae2bfee53cf"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-024",
+    "category": "Koşullu / istisnalı",
+    "domain": "Boyun ağrısı / radiküler ağrı",
+    "question": "Kronik boyun ağrısı ve kola yayılan ağrıda mekanik servikal traksiyon tek başına mı önerilir?",
+    "answer": "Hayır. Kılavuz kronik radyan ağrıda intermittent mekanik servikal traksiyonu germe, güçlendirme ve servikal/torasik mobilizasyon-manipülasyon gibi diğer müdahalelerle birlikte önerir.",
+    "source": "Neck Pain: Revision 2017",
+    "gold_passage": "“For patients with chronic neck pain with radiating pain: Clinicians should provide mechanical intermittent cervical traction, combined with other interventions such as stretching and strengthening exercise plus cervical and thoracic mobilization/manipulation.”",
+    "source_location": "PDF s.3 / A3, Interventions – Neck Pain with Radiating Pain",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2017.0302",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "e891be9b0104723c42e5f4c1"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "e891be9b0104723c42e5f4c1",
+        "chunk_file": "Neck Pain 2017.chunks.json",
+        "page_start": 41,
+        "page_end": 42,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "journal of orthopaedic & sports physical therapy | volume 47 | number 7 | july 2017 | a41\n\ntreat neck pain with radiating pain. While 1 meta-analysis\nshowed benefit from manual therapy and exercise in a\npopulation that included a mixture of neck pain categories,\nother studies that were selective to neck pain with radiat\ning pain were not able to show similar benefits from this\napproach.\n\n• Clinicians should monitor symptom irritability, and\nadjust treatment accordingly, when applying manual\nther"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "e891be9b0104723c42e5f4c1"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-025",
+    "category": "Koşullu / istisnalı",
+    "domain": "Konküzyon / mTBI",
+    "question": "Konküzyon sonrası istirahatte çok semptomatik bir hastada graded efor testi hemen yapılmalı mı?",
+    "answer": "Hayır. İstirahatte yüksek semptom düzeyi varsa semptom-kılavuzlu graded efor testi semptomlar stabil ve daha tolere edilebilir hale gelene kadar ertelenmelidir.",
+    "source": "Physical Therapy Evaluation and Treatment After Concussion/Mild Traumatic Brain Injury (2020)",
+    "gold_passage": "“For patients who are highly symptomatic at rest, the symptom-guided, graded exertional tolerance test should be delayed until symptoms are stable and more tolerable at rest.”",
+    "source_location": "PDF s.3 / CPG3, Autonomic/Exertional Tolerance Impairments",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2020.0301",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "5f77d6da67454fae7f173a8d"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "5f77d6da67454fae7f173a8d",
+        "chunk_file": "physical-therapy-evaluation-and-treatment-after-concussion-mild-traumatic-brain-injury.chunks.json",
+        "page_start": 26,
+        "page_end": 26,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Physical therapists should conduct a symp\ntom-guided, graded exertional tolerance test for\npatients who have experienced a concussive event\nand report exertional intolerance, dizziness, headache, and/\nor a desire to return to high-level exertional activities (ie,\nsports, active military duty, jobs that entail manual labor).\nTiming, modality, and protocol should be tailored to opti\nmize safety and individual appropriateness. For patients\nwho are highly symptomatic at rest, the symptom-guided,\ngra"
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "a9d211560a98ef1f073195ff"
+    ],
+    "gold_chunk_match_review_note": "Semptomlar istirahatte stabil ve daha tolere edilebilir olana kadar testin ertelenmesi koşulunu içeren chunk seçildi."
+  },
+  {
+    "id": "FTR-026",
+    "category": "Koşullu / istisnalı",
+    "domain": "Diyabetik ayak / egzersiz güvenliği",
+    "question": "Preülseratif ayak lezyonu veya aktif ayak ülseri olan diyabetli bir bireyde mekanik yük bindiren ayak egzersizleri yapılmalı mı?",
+    "answer": "Hayır. IWGDF, preülseratif lezyonu veya aktif ayak ülseri olan kişilerin ayağa mekanik yük bindiren ayak egzersizlerine katılmamasını belirtir; bu durumda güvenlik gösterilmemiştir.",
+    "source": "Guidelines on the prevention of foot ulcers in persons with diabetes – IWGDF 2023 update",
+    "gold_passage": "“People with a pre-ulcerative lesion or with a foot ulcer should not partake in foot-related exercises in which the foot is mechanically loaded, as there is still no evidence if these exercises are safe.”",
+    "source_location": "PDF s.23, Recommendation 12 – Rationale",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://iwgdfguidelines.org/prevention-guideline-2023/",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "9d461d319008546e5bf4b726"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "9d461d319008546e5bf4b726",
+        "chunk_file": "Guidelines on the prevention of foot ulcers in persons with diabetes IWGDF 2023 update.chunks.json",
+        "page_start": 23,
+        "page_end": 24,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "As people with diabetes who are at risk of foot ulceration will likely not be aware of appropriate\nexercises, we recommend them to undergo a foot assessment and exercise prescription by an\nadequately trained healthcare professional prior to commencing exercise. Weekly evaluation of progress\nwith training and modification of the program in collaboration with the professional is recommended.\nWhile this involves moderate costs, we assessed the importance of involving a healthcare professional\nfor s"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "9d461d319008546e5bf4b726"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-027",
+    "category": "Koşullu / istisnalı",
+    "domain": "Nörolojik rehabilitasyon / inme",
+    "question": "Yüksek yoğunluklu yürüme eğitimi tüm inme hastalarına güçlü şekilde önerilebilir mi?",
+    "answer": "Hayır. ESO'nun güçlü önerisi kronik evrede ve kardiyovasküler durumu stabil kişilerde yürüme dayanıklılığını artırmak içindir.",
+    "source": "European Stroke Organisation (ESO) Guideline on Motor Rehabilitation (2025)",
+    "gold_passage": "“In people in the chronic stage of stroke with stable cardiovascular status, we recommend high-intensity walking training… to improve walking endurance. Quality of evidence: Moderate… Strength of recommendation: Strong for intervention.”",
+    "source_location": "PDF s.24 / European Stroke Journal s.1183, Table 4, PICO 3",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1177/23969873251338142",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "a8753630d1c1eac3507c57e4"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "a8753630d1c1eac3507c57e4",
+        "chunk_file": "European Stroke Organisation (ESO) guideline on motor rehabilitation.chunks.json",
+        "page_start": 16,
+        "page_end": 17,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Evidence-based Recommendation\nIn people in the chronic stage of stroke with stable\ncardiovascular status, we recommend high-intensity walking\ntraining rather than duration-matched walking training at a\nlower intensity to improve walking endurance.\nQuality of evidence: Moderate ⊕⊕⊕\nStrength of recommendation: Strong for intervention ↑↑\nIn people in the chronic stage of stroke with stable\ncardiovascular status, we suggest high-intensity walking\ntraining rather than duration-matched walking trainin"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "a8753630d1c1eac3507c57e4"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-028",
+    "category": "Koşullu / istisnalı",
+    "domain": "Kardiyopulmoner güvenlik / VTE-PE",
+    "question": "Yeni pulmoner emboli tanısı alan bir hasta hemen mobilize edilebilir mi?",
+    "answer": "PE'nin risk sınıfı ve antikoagülasyon durumu önemlidir. Non-massive/düşük riskli PE'de terapötik antikoagülasyon eşiğine ulaşıldığında mobilizasyon yapılabilir. Massive veya submassive/orta-yüksek riskli PE'de hasta düşük risk ölçütlerini karşılayıp hemodinamik olarak stabil olana kadar mobilize edilmemelidir.",
+    "source": "Role of Physical Therapists in the Management of Individuals at Risk for or Diagnosed With Venous Thromboembolism: Evidence-Based CPG 2022",
+    "gold_passage": "“When patient with non-massive, low-risk PE achieves therapeutic threshold of anticoagulant medication, physical therapists may mobilize patient.” / “When patient presents with massive or submassive PE categorized as high or intermediate risk, do not mobilize patient until criteria met for low-risk PE and patient is hemodynamically stable.”",
+    "source_location": "PDF s.3, Key Action Statements 15–16",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzac057",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "a1372c1abcf6f36125839045"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "a1372c1abcf6f36125839045",
+        "chunk_file": "Role of Physical Therapists in the Management of Individuals at Risk for or Diagnosed With Venous Thromboembolism Evidence-Based Clinical Practice Guideline 2022.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "14\nWhen patient presents with documented LE DVT below knee, is not\nanticoagulated, does not have an IVC filter, and is prescribed out-of-bed\nmobility by physician, consult with medical team\n(Evidence Quality: V; Recommendation Strength: P–Best Practice)\n\n15\nWhen patient with non-massive, low-risk PE achieves therapeutic threshold of\nanticoagulant medication, physical therapists may mobilize patient\n(Evidence Quality: I; Recommendation Strength: A–Strong)\n\n16\nWhen patient presents with massive or"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "a1372c1abcf6f36125839045"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-029",
+    "category": "Çok belgeli / çok adımlı",
+    "domain": "Osteoartrit / fiziksel aktivite",
+    "question": "Osteoartritli bir hastada egzersiz ve genel fiziksel aktiviteyi tedavinin merkezine koymak iki farklı kılavuzla nasıl desteklenebilir?",
+    "answer": "NICE, tüm OA hastalarına ihtiyaca göre terapötik egzersiz verilmesini önerir. EULAR 2025 güncellemesi de genel fiziksel aktivite önerileriyle uyumlu fiziksel aktivite tanıtımının hastalık süresince standart bakımın ayrılmaz parçası olması gerektiğini belirtir. Birlikte, egzersiz/aktiviteyi temel ve sürekli bir bakım bileşeni olarak destekler.",
+    "source": "NICE NG226 (2022) + EULAR Recommendations for Physical Activity in IA and OA: 2025 Update",
+    "gold_passage": "NICE: “For all people with osteoarthritis, offer therapeutic exercise tailored to their needs (for example, local muscle strengthening, general aerobic fitness).”\nEULAR: “Promoting PA consistent with general PA recommendations should be an integral part of standard care throughout the course of disease in people with IA and OA.”",
+    "source_location": "NICE PDF s.8, Rec 1.3.1 + EULAR PDF s.5, Table 1, Recommendation 1",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.nice.org.uk/guidance/ng226\nhttps://doi.org/10.1016/j.ard.2026.03.006",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "93055487eaffb392009a538c",
+      "11f6c4bb0bbf6504ac21f455"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "93055487eaffb392009a538c",
+        "chunk_file": "osteoarthritis-in-over-16s-diagnosis-and-management-pdf-66143839026373.chunks.json",
+        "page_start": 8,
+        "page_end": 8,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "1.3.1\nFor all people with osteoarthritis, offer therapeutic exercise tailored to their needs\n(for example, local muscle strengthening, general aerobic fitness)."
+      },
+      {
+        "chunk_id": "11f6c4bb0bbf6504ac21f455",
+        "chunk_file": "EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis_ 2025 update.chunks.json",
+        "page_start": 6,
+        "page_end": 6,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "In Table 1, some recommendations are highlighted with an\nasterisk (*) if PA and the reduction of SB are equally important.\nExercises are defined as a subset of PA. Recommendations are\nhighlighted with 2 asterisks (**) if these are specifically relevant\nfor or applicable to exercises.\n\nRecommendation 1\n\nPromoting PA consistent with general PA recommendations\nshould be an integral part of standard care throughout the\ncourse of disease in people with IA and OA."
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "93055487eaffb392009a538c",
+      "11f6c4bb0bbf6504ac21f455"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-030",
+    "category": "Çok belgeli / çok adımlı",
+    "domain": "Nörolojik rehabilitasyon / inme",
+    "question": "İnme sonrası motor ve yürüme rehabilitasyonunda VA/DoD 2024 ile ESO 2025 önerileri birlikte nasıl yorumlanmalıdır?",
+    "answer": "VA/DoD 2024, motor fonksiyon, yürüme, postür ve günlük yaşam aktiviteleri için görev-özgül tekrarlayıcı pratiği güçlü biçimde önerir. ESO 2025 ise kronik evrede ve kardiyovasküler olarak stabil kişilerde yüksek yoğunluklu yürüme eğitimini güçlü biçimde önerir. Bu nedenle görev-özgül pratik geniş motor rehabilitasyon çerçevesinde kullanılabilir; yüksek yoğunluklu yürüme ise kronik evre ve kardiyovasküler stabilite koşulu sağlandığında eklenmelidir.",
+    "source": "VA/DoD Stroke Rehabilitation CPG Version 5.0 (2024) + European Stroke Organisation Guideline on Motor Rehabilitation (2025)",
+    "gold_passage": "VA/DoD: “We recommend task-specific practice… to improve motor function, gait, posture, and activities of daily living. (Strong for)”\nESO: “In people in the chronic stage of stroke with stable cardiovascular status, we recommend high-intensity walking training…”",
+    "source_location": "VA/DoD PDF s.28/38, Rec 5 + ESO PDF s.24, Table 4, PICO 3",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.healthquality.va.gov/guidelines/rehab/stroke/\nhttps://doi.org/10.1177/23969873251338142",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "fd36625063966edb3604fb46",
+      "a8753630d1c1eac3507c57e4"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "fd36625063966edb3604fb46",
+        "chunk_file": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508.chunks.json",
+        "page_start": 28,
+        "page_end": 28,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Topic |  |  |  | Sub- |  |  |  | # | Recommendation | Strengtha | Categoryb\n |  |  |  | topic |  |  |  |  |  |  | \n | Transitions to Community |  |  |  |  |  |  | 1. | We suggest using case management services at time of\ndischarge from the acute care hospital or post-acute care\nfacility to improve activities of daily living and functional\nindependence. | Weak for | Reviewed,\nNew-added\n |  |  |  |  |  |  |  | 2. | We suggest the following interventions for patients and their\ncaregivers\n• Behavior"
+      },
+      {
+        "chunk_id": "a8753630d1c1eac3507c57e4",
+        "chunk_file": "European Stroke Organisation (ESO) guideline on motor rehabilitation.chunks.json",
+        "page_start": 16,
+        "page_end": 17,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Evidence-based Recommendation\nIn people in the chronic stage of stroke with stable\ncardiovascular status, we recommend high-intensity walking\ntraining rather than duration-matched walking training at a\nlower intensity to improve walking endurance.\nQuality of evidence: Moderate ⊕⊕⊕\nStrength of recommendation: Strong for intervention ↑↑\nIn people in the chronic stage of stroke with stable\ncardiovascular status, we suggest high-intensity walking\ntraining rather than duration-matched walking trainin"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "fd36625063966edb3604fb46",
+      "a8753630d1c1eac3507c57e4"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-031",
+    "category": "Çok belgeli / çok adımlı",
+    "domain": "Konküzyon / postakut mTBI / vestibüler",
+    "question": "Konküzyon sonrası kalıcı baş dönmesi ve dengesizlikte vestibüler rehabilitasyonun yeri iki kılavuzda nasıl tanımlanıyor?",
+    "answer": "APTA/JOSPT konküzyon CPG'si vestibüler-okülomotor disfonksiyon varsa bireyselleştirilmiş vestibüler/okülomotor rehabilitasyon önerir. VA/DoD postakut mTBI kılavuzu da kalıcı baş dönmesi ve dengesizlikte spesifik vestibüler rehabilitasyon ve proprioseptif terapötik egzersiz denemesi önerir.",
+    "source": "Physical Therapy Evaluation and Treatment After Concussion/mTBI (2020) + VA/DoD Post-Acute mTBI CPG v3.0 (2021)",
+    "gold_passage": "APTA/JOSPT: “Physical therapists with appropriate expertise… should implement an individualized vestibular and oculomotor rehabilitation plan…”\nVA/DoD: “We suggest that patients with persistent symptoms of dizziness and imbalance attributed to mild traumatic brain injury be offered a trial of specific vestibular rehabilitation and proprioceptive therapeutic exercise.”",
+    "source_location": "APTA/JOSPT PDF s.5 / CPG5 + VA/DoD PDF s.37, Recommendation 13",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.2519/jospt.2020.0301\nhttps://www.healthquality.va.gov/",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "25a6b049cb035f453efd959f",
+      "3cc3c830f15a8d91f7b0bed3"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "25a6b049cb035f453efd959f",
+        "chunk_file": "physical-therapy-evaluation-and-treatment-after-concussion-mild-traumatic-brain-injury.chunks.json",
+        "page_start": 5,
+        "page_end": 5,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "A\nIf BPPV is identified as a potential impairment, physical\ntherapists should use canalith repositioning interventions.\n\nB\nPhysical therapists with appropriate expertise in vestibu\nlar and oculomotor rehabilitation should implement an in\ndividualized vestibular and oculomotor rehabilitation plan for\npatients who have experienced a concussive event and exhibit\nvestibular and/or oculomotor dysfunction. If visual vertigo/visual\nmotion sensitivity (dizziness provoked by repetitive or moving vi\nsual "
+      },
+      {
+        "chunk_id": "3cc3c830f15a8d91f7b0bed3",
+        "chunk_file": "VADODmTBICPGFinal508.chunks.json",
+        "page_start": 68,
+        "page_end": 68,
+        "chunk_type": "appendix",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "12. We suggest that patients with symptoms attributed\nto mTBI who present with behavioral health\nconditions, including posttraumatic stress disorder,\nsubstance use disorders, and mood disorders, be\nevaluated and managed the same whether they have\nhad mTBI or not, according to the relevant existing\nVA/DoD clinical practice guidelines.\n\n13. We suggest that patients with persistent symptoms\nof dizziness and imbalance attributed to mild\ntraumatic brain injury be offered a trial of specific\nvestibula"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "25a6b049cb035f453efd959f",
+      "3cc3c830f15a8d91f7b0bed3"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-032",
+    "category": "Çok belgeli / çok adımlı",
+    "domain": "Diyabet / fiziksel aktivite / diyabetik ayak",
+    "question": "Tip 2 diyabetli ve IWGDF risk 1–2 düzeyinde ayak ülseri riski olan bir yetişkinde genel fiziksel aktivite hedefi ile ayak-ayak bileği egzersizi nasıl birlikte planlanabilir?",
+    "answer": "ADA 2026 çoğu tip 2 diyabetli yetişkinde haftada ≥150 dakika orta-yüksek şiddetli aerobik aktiviteyi, en az 3 güne yayılmış şekilde önerir. Buna ek olarak IWGDF 2023, düşük-orta ayak ülseri riskinde 8–12 haftalık gözetimli ayak-ayak bileği egzersiz programının düşünülebileceğini belirtir. Ayak programı genel aktivite hedefinin yerine geçmez; ayak güvenliği ve uygun ayakkabı korunmalıdır.",
+    "source": "Standards of Care in Diabetes—2026 + IWGDF Prevention Guideline 2023",
+    "gold_passage": "ADA: “engage in 150 min or more of moderate- to vigorous-intensity aerobic activity per week, spread over at least 3 days/week…”\nIWGDF: “participate in an 8-12-weeks foot-ankle exercise program… and… continue performing foot-ankle exercises afterwards… (Conditional; Low)”",
+    "source_location": "ADA PDF s.108 / S102, Rec 5.36 + IWGDF PDF s.23, Rec 12",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1\nhttps://iwgdfguidelines.org/prevention-guideline-2023/",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "04fb3797b180184fd71efe69"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "04fb3797b180184fd71efe69",
+        "chunk_file": "Guidelines on the prevention of foot ulcers in persons with diabetes IWGDF 2023 update.chunks.json",
+        "page_start": 23,
+        "page_end": 23,
+        "chunk_type": "recommendation",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation 12: Consider advising and referring a person with diabetes who is at low or moderate\nrisk for foot ulceration (IWGDF risk 1 or 2) to participate in an 8-12-weeks foot-ankle exercise\nprogram, preferably under the supervision of an appropriately trained healthcare professional, and to\ncontinue performing foot-ankle exercises afterwards, with the aim of reducing risk factors of ulceration.\n(Conditional; Low) Rationale: The risk of ulceration increases in the presence of risk factors."
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "2623173b83f12f41382975d7",
+      "84589e4c7c99cad7b6f25db1"
+    ],
+    "gold_chunk_match_review_note": "IWGDF 8–12 haftalık foot-ankle programı chunk'ı doğrulandı. Önceki ADA ID'si kan basıncı/ilaç içeriğiydi ve yanlıştı; ADA'nın 150 dakika/3 gün doz cümlesi için doğru chunk doğrulanamadığından bu kaynak eşleşmesi eksik bırakıldı."
+  },
+  {
+    "id": "FTR-033",
+    "category": "Çok belgeli / çok adımlı",
+    "domain": "Diyabet / kardiyometabolik risk / kilo yönetimi",
+    "question": "Tip 2 diyabetli ve fazla kilolu bir yetişkinde haftalık fiziksel aktivite hedefi ve kilo yönetimi programı iki güncel kılavuzla nasıl çerçevelenebilir?",
+    "answer": "ADA 2026 çoğu tip 2 diyabetli erişkinde ≥150 dk/hafta orta-yüksek şiddetli aerobik aktiviteyi önerir. 2026 CKM kılavuzu yoğun çok bileşenli kilo kaybı müdahalelerinin diyet değişikliği, ≥150 dk/hafta orta-şiddetli aerobik aktivite ve uzun süreli davranış terapisi içermesi gerektiğini belirtir.",
+    "source": "Standards of Care in Diabetes—2026 + 2026 AHA/ACC/ADA/ASN CKM Guideline",
+    "gold_passage": "ADA: “engage in 150 min or more of moderate- to vigorous-intensity aerobic activity per week…”\nCKM: “Components should include dietary changes to promote a calorie deficit of 500 to 750 kcal/day, ≥150 minutes per week of moderately vigorous aerobic activity, and ≥14 months of behavioral therapy…”",
+    "source_location": "ADA PDF s.108, Rec 5.36 + CKM PDF s.32, multicomponent behavioral weight loss",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1\nhttps://doi.org/10.1016/j.jacc.2026.03.056",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "c6819fcc780cb0b0b11f7c3e"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c6819fcc780cb0b0b11f7c3e",
+        "chunk_file": "ndumele-et-al-2026-2026-aha-acc-ada-asn-guideline-for-the-prevention-detection-evaluation-and-management-of.chunks.json",
+        "page_start": 32,
+        "page_end": 32,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "The\nAHA/ACC\nand\nseveral\nsocieties\nrecommend\n\nintensive, multicomponent behavioral weight loss interventions led by clinicians having the ability to successfully initiate weight loss counseling.9-11 Components\n\nshould include dietary changes to promote a calorie\n\ndeficit of 500 to 750 kcal/day, $150 minutes per week of\n\nmoderately vigorous aerobic activity, and $14 months of\n\nbehavioral therapy, including self-monitoring of dietary\n\nintake, physical activity, and weight, and guided problem\n\nsolvi"
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "b3e3699df18a8a732bd3a48d",
+      "c6819fcc780cb0b0b11f7c3e"
+    ],
+    "gold_chunk_match_review_note": "CKM müdahale içeriği chunk'ı korundu. Önceki ADA ID'si fiziksel aktivite doz cümlesini desteklemiyordu; ADA alt iddiası için doğru chunk doğrulanamadı."
+  },
+  {
+    "id": "FTR-034",
+    "category": "Tarih / sürüm duyarlı",
+    "domain": "Vestibüler rehabilitasyon / sürüm doğrulama",
+    "question": "Yüklenen 'Vestibular Rehabilitation ... 2026' dosyası gerçekten 2026 kılavuzu mu?",
+    "answer": "Hayır. Dosyanın içeriği JNPT Volume 46, April 2022'de yayımlanan güncellenmiş periferik vestibüler hipofonksiyon CPG'sidir; DOI 10.1097/NPT.0000000000000382'dir. Dosya adındaki 2026 ifadesi belge içeriğiyle uyumlu değildir.",
+    "source": "Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: An Updated Clinical Practice Guideline",
+    "gold_passage": "“JNPT • Volume 46, April 2022” / “Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: An Updated Clinical Practice Guideline” / “DOI: 10.1097/NPT.0000000000000382”",
+    "source_location": "PDF s.1 ve s.5; başlık/yayın bilgisi",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1097/NPT.0000000000000382",
+    "error_severity": "Orta",
+    "gold_chunk_ids": [
+      "c2833cf905e98560030b8107"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c2833cf905e98560030b8107",
+        "chunk_file": "Vestibular Rehabilitation for Peripheral Vestibular Clinical Practice Guideline 2026.chunks.json",
+        "page_start": 1,
+        "page_end": 1,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Vestibular Rehabilitation for Peripheral\nVestibular Hypofunction: An Updated\nClinical Practice Guideline From the\nAcademy of Neurologic Physical\nTherapy of the American Physical\nTherapy Association\n\nCourtney D. Hall, PT, PhD,\nSusan J. Herdman, PT, PhD, FAPTA,\nSusan L. Whitney, DPT, PhD, NCS,\nATC, FAPTA,\nEric R. Anson, PT, PhD,\nWendy J. Carender, PT, MPT, NCS,\nCarrie W. Hoppes, PT, PhD, NCS,\nOCS, ATC,\nStephen P. Cass, MD, MPH,\nJennifer B. Christy, PT, PhD,\nHelen S. Cohen, OTR, EdD, FAOTA,\nTerry D"
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "c2833cf905e98560030b8107"
+    ],
+    "gold_chunk_match_review_note": "Başlık ve DOI ile eşleşen ilk sayfa chunk'ı seçildi. JNPT cilt/sayı/yayın tarihi bilgisinin tamamı chunk metninde doğrudan görünmediği için bibliyografik ayrıntı ayrıca doğrulanmalı."
+  },
+  {
+    "id": "FTR-035",
+    "category": "Tarih / sürüm duyarlı",
+    "domain": "Romatolojik rehabilitasyon / sürüm",
+    "question": "EULAR fiziksel aktivite belgesi 2025 mi 2026 mı olarak kaydedilmeli?",
+    "answer": "Belgenin adı '2025 update' şeklindedir; makale Annals of the Rheumatic Diseases 85 (2026) 1026–1038'de yayımlanmıştır. En doğru kayıt '2025 güncellemesi, 2026 yayın' şeklindedir.",
+    "source": "EULAR Recommendations for Physical Activity in People with Inflammatory Arthritis and Osteoarthritis: 2025 Update",
+    "gold_passage": "“EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update” / “Ann Rheum Dis 85 (2026) 1026−1038”",
+    "source_location": "PDF s.1, başlık ve bibliyografik bilgi",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1016/j.ard.2026.03.006",
+    "error_severity": "Minör",
+    "gold_chunk_ids": [
+      "609db0e3a68f59164215b770"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "609db0e3a68f59164215b770",
+        "chunk_file": "EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis_ 2025 update.chunks.json",
+        "page_start": 1,
+        "page_end": 1,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendations\nEULAR recommendations for physical activity in\npeople with inflammatory arthritis and osteoarthritis:\n2025 update\n\nAnne-Kathrin Rausch Osthoff1,*, Theodora P M Vliet Vlieland2,3,\nRicardo J O Ferreira4,5,6, Raj Amarnani7, Simone Battista8, Denislav Orlinov9,10,\nVladimira Boyadzhieva11, Nina Brodin12,13, Ashley Cox14, Thomas Davergne15,\nTuncay Duruoz€ 16, Bente Appel Esbensen17,18, Camilla Fongen19,\nKlaus-Peter Gunther€ 20, Yves Henrotin21, Carsten Juhl22,23, Norelee Kennedy24,\nUta"
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "609db0e3a68f59164215b770"
+    ],
+    "gold_chunk_match_review_note": "Belge başlığındaki '2025 update' ifadesiyle eşleşen chunk seçildi. Annals Rheum Dis 85 (2026) 1026–1038 bibliyografik bilgisi bu chunk'ta tam olarak doğrulanmadığından ek bibliyografik chunk gerekir."
+  },
+  {
+    "id": "FTR-036",
+    "category": "Tarih / sürüm duyarlı",
+    "domain": "Diz artroplastisi / sürüm",
+    "question": "Total diz artroplastisi fizyoterapi kılavuzunun güncel revizyon yılı nedir ve önceki sürüm ne zamandı?",
+    "answer": "Yüklenen güncel belge 2026 revizyonudur. Özet, güncellenmiş kılavuzun ilk olarak 2020'de yayımlandığını belirtir.",
+    "source": "Clinical Practice Guideline for Physical Therapist Management of Total Knee Arthroplasty: Revision 2026",
+    "gold_passage": "“Clinical practice guideline for physical therapist management of total knee arthroplasty: revision 2026” / “An updated clinical practice guideline on total knee arthroplasty, initially published in 2020…”",
+    "source_location": "PDF s.1, başlık ve Abstract",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1093/ptj/pzag058",
+    "error_severity": "Minör",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "71b9af1d00d1332c4223bcc7"
+    ],
+    "gold_chunk_match_review_note": "Mevcut gold ID yalnızca TKA kılavuzunun genel amacını anlatıyor; 2026 revizyon yılı veya 2020 ilk yayın bilgisini göstermiyor. Yanlış pozitif olmaması için gold ID kaldırıldı; başlık/özet chunk'ı kaynak arşivinde ayrıca bulunmalı."
+  },
+  {
+    "id": "FTR-037",
+    "category": "Tarih / sürüm duyarlı",
+    "domain": "Nörolojik rehabilitasyon / inme / sürüm",
+    "question": "VA/DoD 2024, ESO 2025 ve AHA/ASA 2026 inme rehabilitasyon belgeleri aynı kılavuzun farklı sürümleri midir?",
+    "answer": "Hayır. Bunlar farklı kurumlar tarafından hazırlanmış, farklı kapsam ve metodolojiye sahip ayrı belgelerdir. VA/DoD belge Version 5.0–2024'tür ve genel inme rehabilitasyonunu kapsar; ESO 2025 motor rehabilitasyon odaklıdır; AHA/ASA 2026 ise erişkin inme rehabilitasyonu ve iyileşmeyi geniş kapsamda ele alır. Sürüm karşılaştırmasında birbirlerinin yerine kullanılmamalıdır.",
+    "source": "VA/DoD CPG for Management of Stroke Rehabilitation Version 5.0 (2024) + ESO Guideline on Motor Rehabilitation (2025) + AHA/ASA Guideline for Adult Stroke Rehabilitation and Recovery (2026)",
+    "gold_passage": "VA/DoD: “Version 5.0 – 2024.”\nESO: 2025 motor rehabilitation guideline.\nAHA/ASA: 2026 Guideline for Adult Stroke Rehabilitation and Recovery.",
+    "source_location": "VA/DoD PDF s.1–2 + ESO PDF s.1 + AHA/ASA 2026 PDF s.1",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.healthquality.va.gov/guidelines/rehab/stroke/\nhttps://doi.org/10.1177/23969873251338142\nhttps://doi.org/10.1161/STR.0000000000000536",
+    "error_severity": "Orta",
+    "gold_chunk_ids": [
+      "2f4772326f0d24a9b292b334",
+      "e1d0280ff36bb9eadb2ea6c2",
+      "074c4d7ed590927923a9e402"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "2f4772326f0d24a9b292b334",
+        "chunk_file": "VADOD-2024-Stroke-Rehab-CPG-Full-CPG_final_508.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "a VA/DoD Clinical Practice Guideline. (2024). Management of Stroke Rehabilitation Work Group. Washington, DC:\n\nU.S. Government Printing Office."
+      },
+      {
+        "chunk_id": "e1d0280ff36bb9eadb2ea6c2",
+        "chunk_file": "European Stroke Organisation (ESO) guideline on motor rehabilitation.chunks.json",
+        "page_start": 5,
+        "page_end": 6,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "This guideline was prepared according to the ESO standard\noperating procedures (SOP),13 which are based on the\nGrading of Recommendations, Assessment, Development\nand Evaluations (GRADE) framework.14 The MWG developed a list of topics and corresponding questions of greatest clinical interest. Questions were formatted using the\nPICO approach (Population, Intervention, Comparator\nand Outcome) and reviewed by two external reviewers, as\nwell as members of the ESO Guideline board and Executive\nCommit"
+      },
+      {
+        "chunk_id": "074c4d7ed590927923a9e402",
+        "chunk_file": "richards-et-al-2026-2026-guideline-for-adult-stroke-rehabilitation-and-recovery-a-guideline-from-the-american-heart.chunks.json",
+        "page_start": 1,
+        "page_end": 1,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "2026 Guideline for Adult Stroke Rehabilitation and\nRecovery: A Guideline From the American Heart\nAssociation and American Stroke Association\n\nEndorsed by the American Academy of Physical Medicine and Rehabilitation, American Congress of Rehabilitation Medicine, American\nSociety of Neurorehabilitation, American Physical Therapy Association, and the American Therapeutic Recreation Association.\n\nThe American Academy of Neurology affirms the value of this statement as an educational tool for neurolo"
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "3e06d85ebc7e46b99fdd8e02",
+      "b2aab0055473556e39484330",
+      "0c15c343ea91d55b80daef86"
+    ],
+    "gold_chunk_match_review_note": "VA/DoD için 2024 kaynak bilgisini, ESO için kılavuz metnini ve AHA/ASA için 2026 kılavuz başlığını daha iyi temsil eden chunk'lar seçildi. VA/DoD Version 5.0 ve ESO 2025 yılı ifadeleri chunk metninde doğrudan doğrulanmalı."
+  },
+  {
+    "id": "FTR-038",
+    "category": "Tarih / sürüm duyarlı",
+    "domain": "Amputasyon rehabilitasyonu / sürüm",
+    "question": "Dosya adında 2025 tarihi geçen alt ekstremite amputasyon rehabilitasyon kılavuzu 2025 kılavuzu olarak mı kaydedilmelidir?",
+    "answer": "Hayır. Belgenin kendi kapak ve bibliyografik bilgisinde sürüm “Version 3.0 – 2024” olarak verilmiştir ve kanıt incelemesi Mart 2024'e kadardır. Dosya adındaki 20250110 tarihi dosya/nihai dosya tarihidir; kılavuz yılı 2024 olarak kaydedilmelidir.",
+    "source": "VA/DoD Clinical Practice Guideline for Rehabilitation of Individuals with Lower Limb Amputation, Version 3.0 – 2024",
+    "gold_passage": "“Version 3.0 – 2024” / “Based on evidence reviewed through March 2024.”",
+    "source_location": "PDF s.1–2, kapak ve bibliyografik bilgi",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://www.healthquality.va.gov/guidelines/Rehab/amp/",
+    "error_severity": "Orta",
+    "gold_chunk_ids": [
+      "dfa798e269eebdb7b2ca384e",
+      "474ee1fbae3435d4011b7674"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "dfa798e269eebdb7b2ca384e",
+        "chunk_file": "VADOD CLINICAL PRACTICE GUIDELINE FOR REHABILITAION OF INVIDUALS WİTH LOWER LIMB AMPUTATION.chunks.json",
+        "page_start": 92,
+        "page_end": 92,
+        "chunk_type": "appendix",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Appendix B: Evidence Table\n\n1 2017 Strength of Recommendation column: “Not applicable” indicates that the 2024 VA/DOD LLA CPG recommendation was a new recommendation, and therefore\ndoes not have an associated 2017 strength of recommendation.\n2 Evidence column: The first set of references listed in each row in the evidence column constitutes the evidence base for the recommendation. To be included in the\nevidence base for a recommendation, a reference needed to be identified through a systematic "
+      },
+      {
+        "chunk_id": "474ee1fbae3435d4011b7674",
+        "chunk_file": "VADOD CLINICAL PRACTICE GUIDELINE FOR REHABILITAION OF INVIDUALS WİTH LOWER LIMB AMPUTATION.chunks.json",
+        "page_start": 5,
+        "page_end": 5,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "The Department of Veterans Affairs (VA) and Department of Defense (DOD) Evidence-Based\nPractice Work Group (EBPWG) was established and first chartered in 2004, with a mission to\nadvise the “…Health Executive Council on the use of clinical and epidemiological evidence to\nimprove the health of the population across the Veterans Health Administration and Military\nHealth System,” by facilitating the development of clinical practice guidelines (CPGs) for the VA\nand DOD populations.(1) Development and"
+      }
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "previous_gold_chunk_ids": [
+      "095b10c5293ff45bb3754ad2"
+    ],
+    "gold_chunk_match_review_note": "Belge/2024 güncelleme bağlamı ve kanıtın Mart 2024'e kadar gözden geçirildiği bilgisi için daha uygun chunk'lar seçildi. 'Version 3.0 – 2024' ifadesi doğrudan metinde görünmediği için bibliyografik doğrulama gerekli."
+  },
+  {
+    "id": "FTR-039",
+    "category": "Belirsiz / eksik bağlam",
+    "domain": "Denge rehabilitasyonu",
+    "question": "Hastama denge egzersizi kaç dakika yaptırmalıyım?",
+    "answer": "Bu soru ek bağlam gerektirir. Tanı ve popülasyon belirtilmeden tek bir doz verilemez. Örneğin düşme riski olan toplumda yaşayan yaşlılarda program 150 dk–3 saat/hafta ve 6–12 ay; kronik unilateral vestibüler hipofonksiyonda denge egzersizi minimum 20 dk/gün, 4–6 hafta olarak verilir.",
+    "source": "Fall Risk CPG (2025) + Vestibular Hypofunction CPG (2022)",
+    "gold_passage": "Fall CPG: “at least 150 minutes to 3 hours per week, lasting from 6 to 12 months…”\nVestibular CPG: “a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction…”",
+    "source_location": "Fall CPG PDF s.3 + Vestibular CPG PDF s.5, Action Statement 6a",
+    "answerability": "Ek bağlam gerekli",
+    "expected_behavior": "Clarify",
+    "source_url": "https://doi.org/10.1519/JPT.0000000000000454\nhttps://doi.org/10.1097/NPT.0000000000000382",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6",
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c8148a33854ffc0c2bf05ae6",
+        "chunk_file": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults_ An Evidence-Based Clinical Practice Guideline 2025.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation | Level of\nEvidence | Strength of\nRecommendation\nPhysical therapists should participate in multifactoriala management programs addressing falls and\nfall risk for older adults. | I | Strong\nPhysical therapists must provide or prescribe multicomponentb exercise to older adults to reduce\nrisk and rate of falls and it must include balance training and may include other exercise modes. | I | Strong\nPhysical therapists must prescribe exercise programs to older adults to be performed at "
+      },
+      {
+        "chunk_id": "4d31ab024359794654345d28",
+        "chunk_file": "Vestibular Rehabilitation for Peripheral Vestibular Clinical Practice Guideline 2026.chunks.json",
+        "page_start": 2,
+        "page_end": 2,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "isolation (ie, without head movement) to promote gaze stability.\n\nBased\non moderate to strong evidence, clinicians may offer specific exercise\ntechniques to target identified activity limitations and participation\nrestrictions, including virtual reality or augmented sensory feedback.\n\nBased on strong evidence and in consideration of patient preference,\nclinicians should offer supervised vestibular rehabilitation.\n\nBased on\nmoderate to weak evidence, clinicians may prescribe weekly clinic visits\n"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6",
+      "4d31ab024359794654345d28"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-040",
+    "category": "Belirsiz / eksik bağlam",
+    "domain": "Boyun ağrısı",
+    "question": "Boyun ağrısında traksiyon yapmalı mıyım?",
+    "answer": "Akut/kronik evre ve radyan ağrı olup olmadığı bilinmeden yanıtlanamaz. Kılavuz kronik radyan ağrıda intermittent mekanik servikal traksiyonu diğer müdahalelerle birlikte önerirken, farklı boyun ağrısı alt gruplarında farklı yaklaşımlar verir.",
+    "source": "Neck Pain: Revision 2017",
+    "gold_passage": "“For patients with chronic neck pain with radiating pain: Clinicians should provide mechanical intermittent cervical traction, combined with other interventions…”",
+    "source_location": "PDF s.3 / A3, Interventions – Neck Pain with Radiating Pain",
+    "answerability": "Ek bağlam gerekli",
+    "expected_behavior": "Clarify",
+    "source_url": "https://doi.org/10.2519/jospt.2017.0302",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "e891be9b0104723c42e5f4c1"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "e891be9b0104723c42e5f4c1",
+        "chunk_file": "Neck Pain 2017.chunks.json",
+        "page_start": 41,
+        "page_end": 42,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "journal of orthopaedic & sports physical therapy | volume 47 | number 7 | july 2017 | a41\n\ntreat neck pain with radiating pain. While 1 meta-analysis\nshowed benefit from manual therapy and exercise in a\npopulation that included a mixture of neck pain categories,\nother studies that were selective to neck pain with radiat\ning pain were not able to show similar benefits from this\napproach.\n\n• Clinicians should monitor symptom irritability, and\nadjust treatment accordingly, when applying manual\nther"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "e891be9b0104723c42e5f4c1"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-041",
+    "category": "Belirsiz / eksik bağlam",
+    "domain": "Telerehabilitasyon",
+    "question": "Hastamın fizyoterapisini tamamen telerehabilitasyonla yapabilir miyim?",
+    "answer": "Tanı, hedeflenen muayene/müdahale, dijital erişim, internet bağlantısı, teknoloji kullanımı, hands-on yardım gereksinimi ve hasta tercihi bilinmeden kesin yanıt verilemez. Kılavuz telerehabilitasyonun bazı sağlık durumlarında yüz yüze bakıma benzer sonuçlar sağlayabileceğini, ancak hasta ve sistem bariyerlerinin değerlendirilmesi gerektiğini belirtir.",
+    "source": "Telerehabilitation in Physical Therapist Practice: APTA CPG (2024)",
+    "gold_passage": "“Physical therapists should identify and work to reduce barriers and promote facilitators identified from the patient’s perspectives…” / “Physical therapists should use telerehabilitation to achieve outcomes similar to in-person care for certain health conditions.”",
+    "source_location": "PDF s.6, Recommendations 3 ve 6; s.12, patient barriers",
+    "answerability": "Ek bağlam gerekli",
+    "expected_behavior": "Clarify",
+    "source_url": "https://doi.org/10.1093/ptj/pzae045",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "f4c70c8ba49d14a7fb5c41c1"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "f4c70c8ba49d14a7fb5c41c1",
+        "chunk_file": "Telerehabilitation in Physical Therapist Practice A Clinical Practice Guideline From the American Physical Therapy Association.chunks.json",
+        "page_start": 6,
+        "page_end": 6,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Moderate\n♦♦♦♦\nRecommendation 1: Physical therapists should recommend\ntelerehabilitation or hybrid care, as they are at least equivalent to\nin-person physical therapy with respect to patient acceptability and\nsatisfaction and are superior to in-person physical therapy with\nrespect to adherence and attendance for certain health conditions.\nTelerehabilitation preparation\nModerate\n♦♦♦♦\nRecommendation 2: Physical therapists and patients should discuss\nwhether telerehabilitation is a cost-effective op"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "f4c70c8ba49d14a7fb5c41c1"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-042",
+    "category": "Belirsiz / eksik bağlam",
+    "domain": "Onkolojik rehabilitasyon / akciğer kanseri",
+    "question": "Akciğer kanserli hastama hangi egzersizi vermeliyim?",
+    "answer": "Hastanın tedavi evresi belirtilmelidir. Prehabilitasyonda mobilite için aerobik egzersiz; kuvvetlendirme ve/veya solunum egzersiziyle kombine edilmelidir ve yalnız solunum egzersizi yeterli değildir. Cerrahi sonrası akut dönemde mobilite için kombine egzersiz konusunda net öneri yoktur. Tedavi sırasında/hemen sonrasında aerobik + direnç + solunum egzersizi birlikte önerilir.",
+    "source": "Recommendations for Interventions to Improve Function in Patients With Lung Cancer: A CPG (2025)",
+    "gold_passage": "Table 6: “Combined aerobic and other exercise (strengthening and/or breathing) should be used to improve mobility in the prehabilitation phase. (Grade B)” / “Available evidence lacks consensus… during the surgical post-operative acute phase.” / “A combined program of aerobic, resistance, and breathing exercise should be used… During and Immediate Post-treatment Phase. (Grade B)”",
+    "source_location": "PDF s.20, Table 6 – Summary of recommendations",
+    "answerability": "Ek bağlam gerekli",
+    "expected_behavior": "Clarify",
+    "source_url": "https://doi.org/10.1002/cam4.70626",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "ab75c8d6c6d76aec5f597c93"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "ab75c8d6c6d76aec5f597c93",
+        "chunk_file": "Cancer Medicine - 2025 - Vargo - Recommendations for Interventions to Improve Function in Patients With Lung Cancer  A.chunks.json",
+        "page_start": 20,
+        "page_end": 20,
+        "chunk_type": "appendix",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Prehabilitation phase\n\n20457634, 2025, 13, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/cam4.70626 by Turkey Cochrane Evidence Aid, Wiley Online Library on [14/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License\n\n• Combined aerobic and other exercise (strengthening and/or breathing) should be used to improve mobility in the\nprehabi"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "ab75c8d6c6d76aec5f597c93"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-043",
+    "category": "Belirsiz / eksik bağlam",
+    "domain": "Kardiyopulmoner güvenlik / VTE",
+    "question": "DVT veya pulmoner emboliden sonra hastayı yürütmeye başlayabilir miyim?",
+    "answer": "Tanının DVT mi PE mi olduğu, PE risk sınıfı, antikoagülasyon/IVC filtre durumu, kanama ve hemodinamik stabilite bilinmeden yanıtlanamaz. Düşük riskli PE'de terapötik antikoagülasyon eşiğine ulaşıldığında mobilizasyon düşünülebilir; yüksek/orta riskli PE'de stabilizasyon beklenmelidir.",
+    "source": "Role of Physical Therapists in the Management of Individuals at Risk for or Diagnosed With VTE: CPG 2022",
+    "gold_passage": "“When patient with non-massive, low-risk PE achieves therapeutic threshold of anticoagulant medication, physical therapists may mobilize patient.” / “Do not mobilize massive PE or submassive/intermediate high-risk PE until low risk and hemodynamically stable.”",
+    "source_location": "PDF s.3, Key Action Statements 15–16",
+    "answerability": "Ek bağlam gerekli",
+    "expected_behavior": "Clarify",
+    "source_url": "https://doi.org/10.1093/ptj/pzac057",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "a1372c1abcf6f36125839045"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "a1372c1abcf6f36125839045",
+        "chunk_file": "Role of Physical Therapists in the Management of Individuals at Risk for or Diagnosed With Venous Thromboembolism Evidence-Based Clinical Practice Guideline 2022.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "14\nWhen patient presents with documented LE DVT below knee, is not\nanticoagulated, does not have an IVC filter, and is prescribed out-of-bed\nmobility by physician, consult with medical team\n(Evidence Quality: V; Recommendation Strength: P–Best Practice)\n\n15\nWhen patient with non-massive, low-risk PE achieves therapeutic threshold of\nanticoagulant medication, physical therapists may mobilize patient\n(Evidence Quality: I; Recommendation Strength: A–Strong)\n\n16\nWhen patient presents with massive or"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "a1372c1abcf6f36125839045"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  },
+  {
+    "id": "FTR-044",
+    "category": "Korpus içinde kanıt bulunmayan",
+    "domain": "Tendon değerlendirme / MyotonPRO",
+    "question": "MyotonPRO ile Aşil tendon ölçümünde CV %3'ün üzerindeyse ölçüm tam olarak kaç kez tekrarlanmalıdır?",
+    "answer": "İncelenen kılavuz korpusunda bu cihaz-spesifik tekrar sayısını belirleyen bir öneri bulunmadı. Bu nedenle referans cevap üretmek yerine MyotonPRO ölçüm protokolü/cihaz metodoloji kaynağı gibi korpus dışı bir kaynağa ihtiyaç vardır.",
+    "source": "Kontrol edilen 53 kaynaklık FTR-RAG korpusu; özellikle Achilles Tendinopathy CPG 2024 ve ilgili MSK/ölçüm kılavuzları",
+    "gold_passage": "Gold passage yok: 53 kaynaklık kılavuz korpusunda MyotonPRO CV>%3 için kesin tekrar sayısı verilmemektedir.",
+    "source_location": "Gold passage yok; cihaz-spesifik MyotonPRO metodoloji/validasyon kaynağı gerekli.",
+    "answerability": "Korpus dışında",
+    "expected_behavior": "Abstain",
+    "source_url": "https://doi.org/10.2519/jospt.2024.0302",
+    "error_severity": "Uygulanamaz / belirlenmedi",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_gold_in_corpus_expected",
+    "previous_gold_chunk_ids": [],
+    "gold_chunk_match_review_note": "Gold passage bu kayıt için boş; gold chunk uydurulmadı."
+  },
+  {
+    "id": "FTR-045",
+    "category": "Korpus içinde kanıt bulunmayan",
+    "domain": "Denge / T2DM / TOGU",
+    "question": "TOGU Challenge Disc 2.0'da T2DM için GSI, AP ve ML yönlerinde geçerli klinik cut-off değerleri nelerdir?",
+    "answer": "İncelenen kılavuz korpusunda TOGU Challenge Disc 2.0 için T2DM'ye özgü GSI/AP/ML cut-off değerleri bulunmadı. Bu soru cihazın validasyon çalışmaları veya T2DM'ye özgü araştırmalarla cevaplanmalıdır.",
+    "source": "Kontrol edilen 53 kaynaklık FTR-RAG korpusu; özellikle ADA 2026, Fall Risk CPG 2025, WHO rehabilitasyon modülleri ve IWGDF 2023",
+    "gold_passage": "Gold passage yok: 53 kaynaklık korpusta TOGU Challenge Disc 2.0 için T2DM'ye özgü GSI/AP/ML cut-off değerleri bulunmamaktadır.",
+    "source_location": "Gold passage yok; cihaz/test validasyon kaynağı gerekli.",
+    "answerability": "Korpus dışında",
+    "expected_behavior": "Abstain",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1\nhttps://doi.org/10.1519/JPT.0000000000000454",
+    "error_severity": "Uygulanamaz / belirlenmedi",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_gold_in_corpus_expected",
+    "previous_gold_chunk_ids": [],
+    "gold_chunk_match_review_note": "Gold passage bu kayıt için boş; gold chunk uydurulmadı."
+  },
+  {
+    "id": "FTR-046",
+    "category": "Korpus içinde kanıt bulunmayan",
+    "domain": "Metabolik egzersiz / SPU",
+    "question": "Soleus push-up için T2DM'de 5 set × 3 dakika protokolünü öneren bir klinik kılavuz var mı?",
+    "answer": "İncelenen kılavuz korpusunda SPU'ya özgü 5×3 dakikalık bir T2DM protokolü bulunmadı. Bu nedenle bu doz kılavuzdan türetilmemelidir; ilgili primer çalışmalar/pilot çalışmalar gerekir.",
+    "source": "Kontrol edilen 53 kaynaklık FTR-RAG korpusu; özellikle ADA 2026, CKM 2026, WHO Module 2/4 ve IWGDF 2023",
+    "gold_passage": "Gold passage yok: SPU ve 5 set × 3 dakika protokolü 53 kaynaklık kılavuz korpusunda yer almamaktadır.",
+    "source_location": "Gold passage yok; primer SPU araştırması/protokol kaynağı gerekli.",
+    "answerability": "Korpus dışında",
+    "expected_behavior": "Abstain",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1\nhttps://doi.org/10.1016/j.jacc.2026.03.056",
+    "error_severity": "Uygulanamaz / belirlenmedi",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_gold_in_corpus_expected",
+    "previous_gold_chunk_ids": [],
+    "gold_chunk_match_review_note": "Gold passage bu kayıt için boş; gold chunk uydurulmadı."
+  },
+  {
+    "id": "FTR-047",
+    "category": "Korpus içinde kanıt bulunmayan",
+    "domain": "Denge / Y-Balance / T2DM",
+    "question": "Y Balance Test composite score için T2DM'de düşme riskini ayıran doğrulanmış tek bir cut-off değeri nedir?",
+    "answer": "İncelenen kılavuz korpusunda T2DM için Y Balance Test composite score'a ait tek ve doğrulanmış bir düşme riski cut-off'u bulunmadı. Test-validasyon veya T2DM'ye özgü prognostik çalışma gerekir.",
+    "source": "Kontrol edilen 53 kaynaklık FTR-RAG korpusu; özellikle ADA 2026, Fall Risk CPG 2025, Lateral Ankle CPG 2021 ve IWGDF 2023",
+    "gold_passage": "Gold passage yok: T2DM için Y Balance Test composite score'a ait doğrulanmış tek bir düşme riski cut-off'u 53 kaynaklık korpusta verilmemiştir.",
+    "source_location": "Gold passage yok; T2DM/Y-Balance prognostik-validasyon kaynağı gerekli.",
+    "answerability": "Korpus dışında",
+    "expected_behavior": "Abstain",
+    "source_url": "https://diabetesjournals.org/care/issue/49/Supplement_1\nhttps://doi.org/10.2519/jospt.2021.0302",
+    "error_severity": "Uygulanamaz / belirlenmedi",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_gold_in_corpus_expected",
+    "previous_gold_chunk_ids": [],
+    "gold_chunk_match_review_note": "Gold passage bu kayıt için boş; gold chunk uydurulmadı."
+  },
+  {
+    "id": "FTR-048",
+    "category": "Korpus içinde kanıt bulunmayan",
+    "domain": "Egzersiz protokolü / MOS",
+    "question": "Elastik bant plantar yüzeyde ve 1 Hz metronomla yapılan MOS egzersizi kılavuzlara göre kaç set ve tekrar uygulanmalıdır?",
+    "answer": "İncelenen klinik kılavuzlarda bu MOS protokolüne özgü elastik bant yerleşimi, 1 Hz metronom ve set/tekrar dozu bulunmadı. Bu nedenle doz kılavuzdan uydurulmamalı; protokolün özgün araştırma kaynağına gidilmelidir.",
+    "source": "Kontrol edilen 53 kaynaklık FTR-RAG korpusu; özellikle WHO Module 2, Achilles Tendinopathy CPG 2024 ve ayak bileği/diz rehabilitasyon CPG'leri",
+    "gold_passage": "Gold passage yok: tanımlanan MOS protokolü, plantar bant yerleşimi ve 1 Hz set/tekrar dozu 53 kaynaklık kılavuz korpusunda yer almamaktadır.",
+    "source_location": "Gold passage yok; özgün MOS çalışma protokolü gerekli.",
+    "answerability": "Korpus dışında",
+    "expected_behavior": "Abstain",
+    "source_url": "https://www.who.int/publications/i/item/9789240071100\nhttps://doi.org/10.2519/jospt.2024.0302",
+    "error_severity": "Uygulanamaz / belirlenmedi",
+    "gold_chunk_ids": [],
+    "gold_chunk_match_details": [],
+    "gold_chunk_match_status": "no_gold_in_corpus_expected",
+    "previous_gold_chunk_ids": [],
+    "gold_chunk_match_review_note": "Gold passage bu kayıt için boş; gold chunk uydurulmadı."
+  },
+  {
+    "id": "FTR-049",
+    "category": "Gürültülü / yanıltıcı ifade",
+    "domain": "Geriatrik rehabilitasyon / düşme",
+    "question": "Yaşlılarda düşmeleri önlemek için yalnız direnç egzersizi yeterlidir; denge eğitimi şart değildir, doğru mu?",
+    "answer": "Hayır. Bu ifade kılavuzla çelişir. Düşme riskini azaltmak amacıyla yalnız direnç egzersizi önerilmez; çok bileşenli program denge eğitimini içermelidir.",
+    "source": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults (2025)",
+    "gold_passage": "“Physical therapists should NOT provide or prescribe resistance training ALONE to older adults if the purpose is to reduce the risk and/or rate of falls.” / “multicomponent exercise… must include balance training.”",
+    "source_location": "PDF s.3, Table 1 – Summary of Recommendations",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://doi.org/10.1519/JPT.0000000000000454",
+    "error_severity": "Majör",
+    "gold_chunk_ids": [
+      "c8148a33854ffc0c2bf05ae6"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "c8148a33854ffc0c2bf05ae6",
+        "chunk_file": "Physical Therapy Management of Fall Risk in Community-Dwelling Older Adults_ An Evidence-Based Clinical Practice Guideline 2025.chunks.json",
+        "page_start": 3,
+        "page_end": 3,
+        "chunk_type": "table",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "Recommendation | Level of\nEvidence | Strength of\nRecommendation\nPhysical therapists should participate in multifactoriala management programs addressing falls and\nfall risk for older adults. | I | Strong\nPhysical therapists must provide or prescribe multicomponentb exercise to older adults to reduce\nrisk and rate of falls and it must include balance training and may include other exercise modes. | I | Strong\nPhysical therapists must prescribe exercise programs to older adults to be performed at "
+      }
+    ],
+    "gold_chunk_match_status": "matched_text_verified",
+    "previous_gold_chunk_ids": [
+      "0a0ba45f2cb44a9c0ab6a97e"
+    ],
+    "gold_chunk_match_review_note": "Önceki ID giriş metnindeydi. Yeni chunk çok bileşenli egzersiz ve denge eğitimi içeren öneri tablosuyla eşleşiyor; direnç egzersizini tek başına önermeme bağlamını içeriyor."
+  },
+  {
+    "id": "FTR-050",
+    "category": "Gürültülü / yanıltıcı ifade",
+    "domain": "Diyabetik ayak / egzersiz güvenliği",
+    "question": "Preülseratif lezyonu veya aktif ayak ülseri olan diyabetli hastada ayağa mekanik yük bindiren egzersizlere devam etmek güvenlidir; doğru mu?",
+    "answer": "Hayır. Bu ifade kılavuzla çelişir. IWGDF, preülseratif lezyonu veya aktif ayak ülseri olan kişilerin ayağa mekanik yük bindiren ayak egzersizlerine katılmamasını belirtir; bu durumda güvenlik gösterilmemiştir.",
+    "source": "Guidelines on the prevention of foot ulcers in persons with diabetes – IWGDF 2023 update",
+    "gold_passage": "“People with a pre-ulcerative lesion or with a foot ulcer should not partake in foot-related exercises in which the foot is mechanically loaded, as there is still no evidence if these exercises are safe.”",
+    "source_location": "PDF s.23, Recommendation 12 – Rationale",
+    "answerability": "Cevaplanabilir",
+    "expected_behavior": "Answer",
+    "source_url": "https://iwgdfguidelines.org/prevention-guideline-2023/",
+    "error_severity": "Kritik",
+    "gold_chunk_ids": [
+      "9d461d319008546e5bf4b726"
+    ],
+    "gold_chunk_match_details": [
+      {
+        "chunk_id": "9d461d319008546e5bf4b726",
+        "chunk_file": "Guidelines on the prevention of foot ulcers in persons with diabetes IWGDF 2023 update.chunks.json",
+        "page_start": 23,
+        "page_end": 24,
+        "chunk_type": "paragraph",
+        "match_basis": "actual_chunk_text_checked",
+        "matched_passage_excerpt": "As people with diabetes who are at risk of foot ulceration will likely not be aware of appropriate\nexercises, we recommend them to undergo a foot assessment and exercise prescription by an\nadequately trained healthcare professional prior to commencing exercise. Weekly evaluation of progress\nwith training and modification of the program in collaboration with the professional is recommended.\nWhile this involves moderate costs, we assessed the importance of involving a healthcare professional\nfor s"
+      }
+    ],
+    "gold_chunk_match_status": "source_file_verified_candidate",
+    "previous_gold_chunk_ids": [
+      "9d461d319008546e5bf4b726"
+    ],
+    "gold_chunk_match_review_note": "Chunk ID arşivde ve beklenen kaynak dosyasında bulundu. Bu, gold passage içindeki her ayrıntının chunk tarafından bütünüyle desteklendiği anlamına gelmez."
+  }
+]
