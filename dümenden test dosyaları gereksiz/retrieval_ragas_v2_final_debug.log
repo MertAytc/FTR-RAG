@@ -1,0 +1,10 @@
+2026-10-23 16:27:20,350 DEBUG Starting component System
+2026-10-23 16:27:20,350 DEBUG Starting component Posthog
+2026-10-23 16:27:25,915 ERROR FATAL_BENCHMARK_ERROR
+Traceback (most recent call last):
+  File "C:\Users\merta\FTR-RAG\FTR_RAG_50_retrieval_full_debug_ragas_v2.py", line 492, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\merta\FTR-RAG\FTR_RAG_50_retrieval_full_debug_ragas_v2.py", line 316, in main
+    raise RuntimeError("Gold chunk ID kontrolü başarısız; geçersiz kıyaslama önlendi.")
+RuntimeError: Gold chunk ID kontrolü başarısız; geçersiz kıyaslama önlendi.

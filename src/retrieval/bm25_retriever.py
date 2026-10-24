@@ -13,7 +13,7 @@ from src.retrieval.retrieval_utils import annotate_result
 
 
 CHUNKS_DIR = Path(
-    os.getenv("FTR_CHUNKS_DIR", "data/processed/chunks")
+    os.getenv("FTR_CHUNKS_DIR", "data/chunker_test/output_no_tables")
 )
 
 # Keep clinical negation words; they can materially change meaning.
