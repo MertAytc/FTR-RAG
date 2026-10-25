@@ -214,7 +214,11 @@
     "question": "Total diz artroplastisi sonrası kuadriseps için NMES hangi sıklık ve yoğunlukta uygulanmalıdır?",
     "gold_passage": "“Physical therapists should apply neuromuscular electrical stimulation (NMES) at least daily to the quadriceps… initiated in the early postoperative period at the highest tolerable intensity…” / “NMES should be applied regularly for at least a minimum of 3 weeks.”",
     "gold_answer": null,
-    "gold_chunk_ids": [],
+    "gold_chunk_ids": [
+      "108405df9cb7214e5fa683c2",
+      "4177273500f009db4dea8fc3",
+      "d59922428e3b134234f1d494"
+    ],
     "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
     "gold_chunk_review_note": "NMES chunklarında günlük sıklık ve süre değerleri OCR/metin parçalanması nedeniyle doğrulanamıyor. Önceki aday ID’ler: 108405df9cb7214e5fa683c2, 4177273500f009db4dea8fc3, d59922428e3b134234f1d494. Kaynak PDF veya chunk çıkarımı düzeltilmeden gold ID atanmadı."
   },

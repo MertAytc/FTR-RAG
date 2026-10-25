@@ -1,6 +1,6 @@
 {
   "schema_version": "2.3",
-  "chunker_version": "structure-aware-multifamily-2.14",
+  "chunker_version": "structure-aware-multifamily-2.14-no-tables",
   "document": "2026 ESC Guidelines on cardiac rehabilitation.pdf",
   "doc_family": "AHA_ESC",
   "organization": "AHA/ACC/ESC",

@@ -1,16 +1,15 @@
 {
   "schema_version": "2.3",
-  "chunker_version": "structure-aware-multifamily-2.14",
+  "chunker_version": "structure-aware-multifamily-2.14-no-tables",
   "document": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
   "doc_family": "JOSPT_APTA",
   "organization": "JOSPT/APTA",
   "year": 2021,
   "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
   "statistics": {
-    "chunk_count": 32,
+    "chunk_count": 27,
     "chunk_type_distribution": {
-      "paragraph": 27,
-      "table": 5
+      "paragraph": 27
     },
     "short_under_30_count": 0,
     "short_under_30_ratio": 0.0,
@@ -52,13 +51,13 @@
         "ratio": 0.0
       }
     },
-    "median_chars": 2304.5,
-    "average_chars": 1974.38,
+    "median_chars": 2531,
+    "average_chars": 2040.3,
     "min_chars": 437,
     "max_chars": 2990,
-    "median_tokens": 576.0,
+    "median_tokens": 633,
     "median_tokens_excluding_atomic": 633,
-    "average_tokens": 493.66,
+    "average_tokens": 510.19,
     "min_tokens": 109,
     "max_tokens": 748,
     "chunks_over_char_target": 0,
@@ -68,7 +67,7 @@
     "recommendation_strength_filled_count": 0,
     "recommendation_grade_system_distribution": {},
     "reference_chunks_excluded_from_embedding": 0,
-    "table_chunk_count": 5,
+    "table_chunk_count": 0,
     "appendix_chunk_count": 0,
     "section_path_top5": [
       [
@@ -84,20 +83,20 @@
         3
       ],
       [
-        "Table 1. AGREE II Rigor and Quality Scores for Osteoporosis Clinical Practice Guidelines",
-        3
+        "(no heading)",
+        2
       ],
       [
-        "Table 3. Grades/Strength of Recommendation",
-        3
+        "METHODS",
+        2
       ]
     ],
     "chunks_missing_section_id": 0,
-    "legacy_chunk_id_matched_count": 6,
-    "legacy_chunk_id_unmatched_count": 26,
+    "legacy_chunk_id_matched_count": 0,
+    "legacy_chunk_id_unmatched_count": 0,
     "orphan_chunk_definition": "chunk with empty section_path; structural diagnostic, not necessarily an error",
     "orphan_chunk_count": 2,
-    "orphan_chunk_ratio": 0.0625,
+    "orphan_chunk_ratio": 0.0741,
     "orphan_chunk_samples": [
       {
         "chunk_id": "322abeb266afd4c883e0b2d8",
@@ -120,7 +119,7 @@
         "text_preview": "SUMMARY OF RECOMMENDATIONS • Exercise Recommendations for Postmenopausal Women to Slow Decline of Bone Mineral Density of the Hip and the Fem oral Neck: Physical therapists should "
       }
     ],
-    "chunks_without_source_spans_count": 5,
+    "chunks_without_source_spans_count": 0,
     "chunks_without_page_metadata_count": 0,
     "recommendation_chunks_without_recommendation_id_count": 0,
     "recommendation_id_extracted_count": 0,
@@ -133,10 +132,111 @@
     },
     "duplicate_normalized_text_extra_chunks_count": 0,
     "duplicate_normalized_text_groups_sample": [],
-    "source_words_not_found_in_chunks_count": 0,
-    "source_words_not_found_in_chunks_sample": [],
+    "source_words_not_found_in_chunks_count": 104,
+    "source_words_not_found_in_chunks_sample": [
+      "60",
+      "61",
+      "71",
+      "87",
+      "92",
+      "94",
+      "abbreviation",
+      "abbreviations",
+      "above",
+      "absence",
+      "accredited",
+      "america",
+      "animal",
+      "applicable",
+      "asia",
+      "australia",
+      "basic",
+      "bear",
+      "bearing33",
+      "bench",
+      "benefti",
+      "bination",
+      "britain",
+      "cadaver",
+      "canada",
+      "certainty",
+      "cient",
+      "circuit",
+      "conceptual",
+      "conclusion",
+      "contraceptives",
+      "day",
+      "defniition33",
+      "defniition35",
+      "disagreement",
+      "dose",
+      "europe",
+      "exceptional",
+      "excluded",
+      "extremity",
+      "fc",
+      "fcally",
+      "force33",
+      "force47",
+      "force48",
+      "force49",
+      "foundational",
+      "harm",
+      "hopping",
+      "injury",
+      "insuffi",
+      "italy",
+      "japanese",
+      "journals",
+      "jumps",
+      "kingdom",
+      "letter",
+      "lifting",
+      "limb",
+      "min",
+      "models",
+      "modest",
+      "nice",
+      "nogg",
+      "norms",
+      "orthopedics",
+      "os",
+      "platform",
+      "preponderance",
+      "principles",
+      "rct",
+      "repe",
+      "resisted",
+      "science",
+      "scotland",
+      "session",
+      "situations",
+      "skipping",
+      "slight",
+      "south",
+      "speci",
+      "strong",
+      "substantial",
+      "substantially",
+      "suggested",
+      "supports",
+      "taiwanese",
+      "teopenia",
+      "theoretical",
+      "tition",
+      "title",
+      "trial",
+      "types33",
+      "types48",
+      "ue",
+      "upper",
+      "validating",
+      "vest",
+      "vests",
+      "vibra"
+    ],
     "text_coverage_check": "diagnostic_unique_word_set_not_proof_of_zero_loss",
-    "broken_text_chunk_count": 4,
+    "broken_text_chunk_count": 3,
     "broken_text_chunk_samples": [
       {
         "chunk_id": "a4ee55b10ee3fdb177f4923b",
@@ -146,15 +246,6 @@
           "possible_hyphenation_artifact"
         ],
         "text_preview": "BACKGROUND Osteoporosis is a systemic, metabolic bone disease char acterized by low bone mass, impaired bone quality, and increased susceptibility of low-trauma fracture. The World Health Organization operationally defin"
-      },
-      {
-        "chunk_id": "bc6fad11dc1e51cd76b14bb4",
-        "page_start": 9,
-        "chunk_type": "table",
-        "flags": [
-          "possible_hyphenation_artifact"
-        ],
-        "text_preview": "Evidence Summary | Evidence a modest positive impact of static supported weight-bearing exercises on BMD hip | Evidence weight-bearing low-force exercises to supported slow BMD loss spine Evidence weight-bearing low-forc"
       },
       {
         "chunk_id": "110e8a6fdae2635f19ce676a",
@@ -254,8 +345,7 @@
     "recommendation_id_warning": null,
     "quality_flags": [
       "2 chunk(s) have empty section_path",
-      "5 chunk(s) have no source_spans",
-      "4 chunk(s) show possible text extraction artifacts",
+      "3 chunk(s) show possible text extraction artifacts",
       "4 chunk(s) have potentially noisy heading paths",
       "6 prose chunk(s) may contain missed recommendations; manual review required"
     ]
@@ -286,8 +376,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Physical Therapist Management of Patients\nWith Suspected or Confirmed Osteoporosis:\nA Clinical Practice Guideline From the\nAcademy of Geriatric Physical Therapy\n\nGregory W. Hartley, PT, DPT, FAPTA1; Kathryn E. Roach, PT, PhD1;\nRobert W. Nithman, PT, DPT, PhD2; Sherri R. Betz, PT, DPT3;\nCarleen Lindsey, PT, MScAH4; Robyn K. Fuchs, PhD, FACSM5;\nKeith G. Avin, PT, DPT, PhD5\n\n(J Geriatr Phys Ther 2022;45(2):E106-E119.)\n\n1Department of Physical Therapy, University of Miami\nMiller School of Medicine, Coral Gables, Florida.\n\n2Physical Therapy Program, Center for Graduate Studies,\nWest Coast University, Los Angeles, California.\n\n3TheraPilates Physical Therapy Clinics, LLC, Monroe,\nLouisiana.\n\n4Bones, Backs and Balance, LLC, New Hartford,\nConnecticut.\n\n5Department of Physical Therapy, School of Health &\nHuman Sciences, Indiana University, Indianapolis.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00001",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -841,8 +931,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "SUMMARY OF RECOMMENDATIONS\n• Exercise Recommendations for Postmenopausal Women to\nSlow Decline of Bone Mineral Density of the Hip and the Fem\noral Neck: Physical therapists should design and advise post\nmenopausal women to participate in long-duration exercise\nprograms consisting of static weight-bearing exercises such as\nsingle-leg standing to slow the decline of bone mineral den\nsity (BMD) at the hip. Physical therapists should design and\nadvise postmenopausal women to participate in long-duration,\nadequately dosed progressive-resistance strength training\nexercises such as weight training either alone or in combina\ntion with impact exercise training such as jogging, walking,\nor aerobics to slow the decline of BMD of the femoral neck.\n(Grade B, recommendation based on moderate evidence)\n• Exercise Recommendations for Postmenopausal Women to Slow\nDecline of Bone Mineral Density of the Lumbar Spine: Physical\ntherapists should consider designing and advising postmeno\npausal women to participate in long-duration exercise programs\nconsisting of walking, tai chi, progressive-resistance strength\ntraining (such as weight training), and different combinations of\nexercise types to slow the decline of lumbar spine BMD. (Grade\nB, recommendation based on moderate evidence)\n• Exercise Recommendations for Premenopausal Women to\nSlow Decline of Bone Mineral Density of the Femoral Neck:\nPhysical therapists should consider designing and advis\ning premenopausal women to participate in long-duration\nexercise programs consisting of high-impact exercise (such\nas jogging) and combining impact exercise (such as stair\nclimbing) with progressive-resistance strength training (such\nas weight training) to slow the decline of femoral neck BMD.\n(Grade B, recommendation based on moderate evidence)\n• Exercise Recommendations for Premenopausal Women to\nSlow Decline of Bone Mineral Density of the Lumbar Spine:\nPhysical therapists should consider designing and advising\npremenopausal women to participate in long-duration exer\ncise programs consisting of progressive-resistance strength\ntraining (such as weight training) alone or in combination\nwith impact exercises (such as stair climbing or jogging) to\nslow the decline of lumbar spine BMD. (Grade B, recom\nmendation based on moderate evidence)\n• Exercise Recommendations for Men: There is insufficient\nevidence to make a recommendation for exercise for\nimproving BMD in men.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00002",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -1515,8 +1605,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Aim of the Document\nThe Academy of Geriatric Physical Therapy has an ongo\ning effort to create evidence-based practice guidelines\nfor the physical therapy management of older adults.\nThe purpose of this document was to provide evidencebased recommendations on exercise interventions that\nimpact bone mineral density (BMD) in individuals with\nosteoporosis.\n\nStatement of Intent\nThese recommendations are not intended to be construed\nor to serve as a standard of medical care. Standards of\ncare are determined on the basis of all clinical data avail\nable for an individual patient and are subject to change\nas scientific knowledge, technology advances, and pat\nterns of care evolve. These parameters of practice should\nbe considered as guidelines only. Adherence to them will\nnot ensure a successful outcome in every patient, nor\nshould they be construed as including all proper methods\nof care or excluding other acceptable methods of care\naimed at the same results. The ultimate judgment regard\ning a particular clinical procedure or treatment plan must\nbe made in light of the clinical data presented by the\npatient; the diagnostic and treatment options available;\nand the patient’s values, expectations, and preferences.\nHowever, we suggest that significant departures from\naccepted recommendations should be documented in the\npatient’s medical records at the time the relevant clinical\ndecision is made.\n\nThis clinical practice guideline (CPG) was supported by\na grant from the American Physical Therapy Association\nand by the American Physical Therapy Association\nAcademy of Geriatric Physical Therapy (APTA Geriatrics),\nwhich received no funding from outside commercial\nsources to support the guideline’s development. The views\nof the funding body have not influenced the content of the\nguideline.\n\nAll individuals whose names appear as authors of or con\ntributors to this CPG filed a disclosure statement as part\nof the grant submission process. In addition, prior to and\nduring the development of this CPG, development group\nmembers routinely disclosed conflicts of interest in writing\nto APTA Geriatrics using the International Committee of\nMedical Journal Editors (ICMJE) Form for Disclosure of\nPotential Conflicts of Interest. Each of the guideline devel\nopment group (GDG) members was asked to disclose any\nexisting or potential conflicts of interest—including financial\nrelationships with pharmaceutical, medical device, or bio\ntechnology companies—prior to being included in the group\nand routinely thereafter. All guideline development group\nmembers report grants from APTA Geriatrics and APTA\nduring the conduct of the work. Dr Hartley served as a\nmember of the board of directors of APTA Geriatrics from\nduring the conduct of this work. He received no compensa\ntion for this position; however, the Academy funded travel",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00003",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -2267,8 +2357,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "BACKGROUND\nOsteoporosis is a systemic, metabolic bone disease char\nacterized by low bone mass, impaired bone quality, and\nincreased susceptibility of low-trauma fracture. The World\nHealth Organization operationally defines osteoporosis\nvia a dual-energy x-ray absorptiometry BMD T score at\nthe spine or hip of −2.5 or below that of sex- and racematched young adults.1-3 This definition has been refined\nto include those with an elevated fracture risk based on\nthe World Health Organization Fracture Risk Algorithm\nas another critical criterion.4 In addition, a clinical diag\nnosis of osteoporosis can be made when a low-trauma hip\nfracture occurs in the presence of normal BMD (eg, during\na fall from a standing height) or when a low-trauma ver\ntebral, proximal humeral, or pelvic fracture (and in some\ncases, a distal forearm fracture) occurs in an individual with\nosteopenia.4 The prevalence of osteoporosis based on data\nfrom Centers for Disease Control and Prevention National\nHealth and Nutrition Examination Survey estimates that\nmore than 10 million adults older than 50 years had\nosteoporosis in 2010, with a higher prevalence in women\n(∼30%) than in men (∼16%).5,6 The risk for osteoporosis\nincreases with advancing age, with women having a higher\nrisk of fracture than men.5,7 The lifetime risk of osteopo\nrotic fracture for women and men is approximately 50%\nand 20%, respectively.8-10\n\nFragility fractures that occur from low-trauma forces,\nsuch as those experienced during a fall from standing\nheight, result in increased morbidity, mortality, hospital\nizations and clinical burden, and reduced quality of life\n(QOL). Worldwide, osteoporosis causes more than 8.9\n\nto annual meeting(s). Dr Betz served as chair of the Bone\nHealth Special Interest Group of APTA Geriatrics from\n2009 to 2020. She received no compensation for this posi\ntion; however, the Academy funded some expenses related\nto travel to an annual meeting.\n\nSupplemental digital content is available for this article.\nDirect URL citations appear in the printed text and are pro\nvided in the HTML and PDF versions of this article on the\njournal’s Web site (www.jgptonline.com).\n\nThis is an open-access article distributed under the terms of\nthe Creative Commons Attribution-Non Commercial-No\nDerivatives License 4.0 (CCBY-NC-ND), where it is\npermissible to download and share the work provided it is\nproperly cited. The work cannot be changed in any way or\nused commercially without permission from the journal.\n\nAddress correspondence to: Keith G. Avin, PT, DPT,\nPhD, Department of Physical Therapy, School of Health\n& Human Sciences, Indiana University, CF-326, 1140 W\nMichigan St, Indianapolis, IN 46202 (keigavin@iu.edu).\nCopyright © 2022 The Authors. Published by Wolters\nKluwer Health, Inc. on behalf of Academy of Geriatric\nPhysical Therapy, APTA.\n\nDOI: 10.1519/JPT.0000000000000346",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00004",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -3240,8 +3330,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "million fractures annually, with an osteoporotic fracture\noccurring every 3 seconds.11 More than 2 million osteopo\nrosis-related fractures were reported in the United States in\n2005 with hip, spine, and distal radius fractures making up\ntwo-thirds of osteoporosis-associated fractures.12 Patients\nwho suffer from a hip or vertebral fracture have decreased\nlife expectancy compared with population-based controls,\nare more likely to be women, and carry a higher mortality\nrate in those with hip fractures and those who suffered\nsubsequent fractures.13-15\n\nPhysical inactivity is a modifiable risk factor that contrib\nutes to the development of low bone mass, osteoporosis, and\nincreased fall risk. As the incidence of osteoporosis and frac\ntures in individuals older than 65 years continues to increase,\nthe development of appropriate physical activity guidelines\nfor bone health requires clear clinical standards implemented\nacross different clinical settings.16 Guidelines are necessary to\npromote optimal care across a wide range of clinical settings,\nsuch as acute and post–acute care, outpatient, and communi\nty-based wellness programs. Since BMD is an important pre\ndictor of fracture risk, we based the recommendations in this\ndocument on changes in BMD. When prescribing physical\nactivity interventions to promote bone health, it is important\nto understand the characteristics of physical activity and exer\ncise that are sufficient to effect BMD without causing adverse\noutcomes such as fractures.17-20\n\nScope, Purpose, and Target Users\nThis document presents the evidence-based exercise rec\nommendations adapted from the Scottish Intercollegiate\nGuideline Network (SIGN): Management of Osteoporosis\nand the Prevention of Fragility Fractures.21 Although the\nSIGN clinical practice guideline (CPG) addressed multiple\naspects of the management of osteoporosis in premeno\npausal and postmenopausal women, and men, this adapted\ndocument includes only the sections dealing with exercise\ninterventions. Furthermore, it should be noted that while\nthe SIGN CPG did not address osteoporosis in transgender\nindividuals, a recent review concluded that treatment of\nosteoporosis in transgender persons follows the same guide\nlines as cisgender persons.22 Optimizing bone health may\nalso reduce fracture risk. However, this adapted document\ndid not directly assess any recommendations or outcomes\nrelated to fracture or fall rate/risk. The recommendations\nincluded in these adapted guidelines are intended to facilitate\ndecision making by physical therapists treating individuals\nwith known or suspected osteoporosis. In addition, these rec\nommendations may inform consumers of physical therapy as\nwell as other health care providers about recommended exer\ncise interventions for adults with or at risk for osteoporosis.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00005",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -4096,8 +4186,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Guideline Development Group\nThe Academy of Geriatric Physical Therapy (APTA\nGeriatrics), a component of the American Physical Therapy\nAssociation (APTA), appointed a multidisciplinary team of\n\nresearchers and clinicians with expertise in guideline devel\nopment or the management of osteoporosis to develop an\nevidence-based document focused on the management of\nosteoporosis through physical therapy–directed exercise\ninterventions in adults.\n\nCPG Search\nTo identify existing guidelines on improving or mitigating the\nloss of BMD through exercise, we conducted a comprehensive\nsearch for osteoporosis-related CPGs in the following reposi\ntories: National Guideline Clearinghouse, Trip Database,\nScottish Intercollegiate Guidelines Network, National\nInstitute for Health and Clinical Excellence, National Health\nService, Physiotherapy Evidence Database, Occupational\nTherapy Systematic Evaluation of Evidence, and Guidelines\nInternational Network. The following broad search terms\nwere included: osteoporosis, osteopenia, low bone density,\nphysical activity, exercise, physical therapy, intervention,\nand treatment. Inclusion criteria included publication within\n5 years of search (since January 1, 2013), English language,\nfemale-male inclusive, and relevant to exercise in the physical\ntherapy management of patients with osteoporosis.\n\nBecause our initial search identified 6 CPGs addressing\nthe use of exercise in managing patients with osteoporosis,\nthe team explored the possibility of adapting an existing\nCPG to create recommendations for physical therapists for\nexercise prescription to mitigate BMD loss in patients with\nosteoporosis. To guide this process, we used the methodol\nogy developed by the ADAPTE Collaboration, an inter\nnational collaboration of researchers, guideline develop\ners, and guideline implementers. ADAPTE Collaboration\ndeveloped and validated a generic adaptation process that\nwas endorsed by the Guideline International Network (G-IN).28 The ADAPTE method as described in the Guideline\nAdaptation: A Resource Toolkit was used to determine\nwhether existing CPGs could be adapted to meet our\nstated aims.29 The ADAPTE method provided a systematic\napproach to adapting CPGs originally developed for use\nin one context for use by a different group in a different\nculture29 (see the Figure). The ADAPTE method begins by\nevaluating existing CPGs based upon their quality, rigor,\nand relevance to the practice of physical therapy.\n\nThe ADAPTE Process\nTo evaluate existing CPGs on their quality and rigor, we\nused the Appraisal of Guidelines for Research & Evaluation\nII (AGREE II) instrument.30 The AGREE II instrument\n\nJOURNAL OF Geriatric Physical Therapy\nE107",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00006",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -4896,96 +4986,6 @@
           }
         ],
         "prev_chunk_id": "6c1f6a66a8b2861bc2012b8d",
-        "next_chunk_id": "22a4a16959eb0cdccec1980f"
-      }
-    },
-    {
-      "chunk_id": "22a4a16959eb0cdccec1980f",
-      "text": "Guideline Title | AGREE II Rigor Score | AGREE II Quality Score\nManagement of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate\nGuidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21 | 93% | 95%\nToo Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic\nvertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation.\n(Canada, 2013)27 | 85% | 85%\nNational Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and\ntreatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited.\n(Britain/United Kingdom, 2017)26 | 71% | 65%\n2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis\nSociety. (Saudi Arabia, 2015)25 | 41% | 56%\nClinical guidelines for the prevention and treatment of osteoporosis: Summary statements and\nrecommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23 | 26% | 47%\nTaiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24 | 21% | 38%\nAbbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation. |  |",
-      "embedding_text": "Guideline Title | AGREE II Rigor Score | AGREE II Quality Score\nManagement of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate\nGuidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21 | 93% | 95%\nToo Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic\nvertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation.\n(Canada, 2013)27 | 85% | 85%\nNational Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and\ntreatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited.\n(Britain/United Kingdom, 2017)26 | 71% | 65%\n2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis\nSociety. (Saudi Arabia, 2015)25 | 41% | 56%\nClinical guidelines for the prevention and treatment of osteoporosis: Summary statements and\nrecommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23 | 26% | 47%\nTaiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24 | 21% | 38%\nAbbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation. |  |",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
-        "doc_version": null,
-        "doc_family": "JOSPT_APTA",
-        "organization": "JOSPT/APTA",
-        "year": 2021,
-        "section_id": "62ae8e246c31a069",
-        "section_path": [
-          "Table 1. AGREE II Rigor and Quality Scores for Osteoporosis Clinical Practice Guidelines"
-        ],
-        "heading_level": 1,
-        "page_start": 4,
-        "page_end": 4,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Guideline Title | AGREE II Rigor Score | AGREE II Quality Score\nManagement of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate\nGuidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21 | 93% | 95%\nToo Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic\nvertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation.\n(Canada, 2013)27 | 85% | 85%\nNational Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and\ntreatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited.\n(Britain/United Kingdom, 2017)26 | 71% | 65%\n2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis\nSociety. (Saudi Arabia, 2015)25 | 41% | 56%\nClinical guidelines for the prevention and treatment of osteoporosis: Summary statements and\nrecommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23 | 26% | 47%\nTaiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24 | 21% | 38%\nAbbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation. |  |",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00009",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 301,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Guideline Title",
-            "AGREE II Rigor Score",
-            "AGREE II Quality Score"
-          ],
-          [
-            "Management of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate\nGuidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21",
-            "93%",
-            "95%"
-          ],
-          [
-            "Too Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic\nvertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation.\n(Canada, 2013)27",
-            "85%",
-            "85%"
-          ],
-          [
-            "National Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and\ntreatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited.\n(Britain/United Kingdom, 2017)26",
-            "71%",
-            "65%"
-          ],
-          [
-            "2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis\nSociety. (Saudi Arabia, 2015)25",
-            "41%",
-            "56%"
-          ],
-          [
-            "Clinical guidelines for the prevention and treatment of osteoporosis: Summary statements and\nrecommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23",
-            "26%",
-            "47%"
-          ],
-          [
-            "Taiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24",
-            "21%",
-            "38%"
-          ],
-          [
-            "Abbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation.",
-            null,
-            null
-          ]
-        ],
-        "bbox": [
-          36.49,
-          548.77,
-          522.0,
-          731.5
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "095b472fb8af5e44f73637f4",
         "next_chunk_id": "6f4507309adc8ff75005970c"
       }
     },
@@ -5016,8 +5016,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Figure. Phases, modules, and steps in the adaptation process. From the ADAPTE Collaboration, Version 2.0.29 This figure\nis available in color online (www jgeript.org).\n\nconsists of 23 items scored on a 7-point response scale\ncomprising 6 quality-related domains: scope and purpose,\nstakeholder involvement, rigor of development, clarity of\npresentation, applicability, and editorial independence.\nBefore scoring the CPGs, all reviewers completed AGREE\nII online training.31 Training was followed by all reviewers\nscoring 3 CPGs to examine consistency in using the AGREE\nII instrument. Once consistency was achieved, pairs of\nreviewers used the AGREE II instrument to indepen\ndently score the quality and rigor of their assigned CPGs.\nWhen incongruent scoring occurred, the study coordinator",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00007",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -5282,7 +5282,7 @@
             "font": "Sabon-Roman"
           }
         ],
-        "prev_chunk_id": "22a4a16959eb0cdccec1980f",
+        "prev_chunk_id": "095b472fb8af5e44f73637f4",
         "next_chunk_id": "8e802e4f23b4df9c7f4644f3"
       }
     },
@@ -5313,8 +5313,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "performed a third appraisal as a mediator with a follow-up\ndiscussion if needed. Table 1 presents the AGREE II CPG\nRigor and Quality Scores for the 6 scored CPGs. Consistent\nwith previous APTA Geriatrics documents, we included\nonly CPGs with AGREE II scores of 50% for further con\nsideration for adaptation, reducing the total to 3.32\n\nThe team evaluated these 3 CPGs for relevance to the use\nof exercise interventions by physical therapists in managing\npatients with osteoporosis. We reviewed: (1) SIGN publica\ntion no. 142: Management of osteoporosis and the preven\ntion of fragility fractures21; (2) Too Fit to Fracture: exercise",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00008",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -5541,84 +5541,6 @@
           }
         ],
         "prev_chunk_id": "6f4507309adc8ff75005970c",
-        "next_chunk_id": "3f8e39fd4490f0ce93ec394b"
-      }
-    },
-    {
-      "chunk_id": "3f8e39fd4490f0ce93ec394b",
-      "text": "Exercise | Defniition33\nSWB | Static weight-bearing exercise including single-leg standing.\nDWBLF | Dynamic weight-bearing exercise with low force including walking and tai chi.\nDWBHF | Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform.\nNWBLF | Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training.\nNWBHF | Non–weight-bearing exercise high force, eg, progressive resisted strength training.\nCOMB | Combination of exercise types with more than one of the above exercise interventions.",
-      "embedding_text": "Exercise | Defniition33\nSWB | Static weight-bearing exercise including single-leg standing.\nDWBLF | Dynamic weight-bearing exercise with low force including walking and tai chi.\nDWBHF | Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform.\nNWBLF | Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training.\nNWBHF | Non–weight-bearing exercise high force, eg, progressive resisted strength training.\nCOMB | Combination of exercise types with more than one of the above exercise interventions.",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
-        "doc_version": null,
-        "doc_family": "JOSPT_APTA",
-        "organization": "JOSPT/APTA",
-        "year": 2021,
-        "section_id": "3b4ab5b7e1acaf58",
-        "section_path": [
-          "Sign Exercise Recommendations for Postmenopausal\nWomen"
-        ],
-        "heading_level": 1,
-        "page_start": 5,
-        "page_end": 5,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Exercise | Defniition33\nSWB | Static weight-bearing exercise including single-leg standing.\nDWBLF | Dynamic weight-bearing exercise with low force including walking and tai chi.\nDWBHF | Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform.\nNWBLF | Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training.\nNWBHF | Non–weight-bearing exercise high force, eg, progressive resisted strength training.\nCOMB | Combination of exercise types with more than one of the above exercise interventions.",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00011",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 147,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Exercise",
-            "Defniition33"
-          ],
-          [
-            "SWB",
-            "Static weight-bearing exercise including single-leg standing."
-          ],
-          [
-            "DWBLF",
-            "Dynamic weight-bearing exercise with low force including walking and tai chi."
-          ],
-          [
-            "DWBHF",
-            "Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform."
-          ],
-          [
-            "NWBLF",
-            "Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training."
-          ],
-          [
-            "NWBHF",
-            "Non–weight-bearing exercise high force, eg, progressive resisted strength training."
-          ],
-          [
-            "COMB",
-            "Combination of exercise types with more than one of the above exercise interventions."
-          ]
-        ],
-        "bbox": [
-          36.44,
-          631.5,
-          521.53,
-          731.5
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "8e802e4f23b4df9c7f4644f3",
         "next_chunk_id": "10dd6f298cc6425b74afeaf4"
       }
     },
@@ -5649,8 +5571,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "recommendations for individuals with osteoporosis or osteo\nporotic vertebral fracture27; and (3) National Osteoporosis\nGuideline Group 2017: Clinical guideline for the prevention\nand treatment of osteoporosis.26 The SIGN CPG had both\nthe highest overall AGREE II score and the most compre\nhensive scope of exercise recommendations. The team agreed\nthat the other 2 CPGs did not provide additional informa\ntion beyond that addressed by the SIGN CPG. We therefore\ndecided to adapt the SIGN CPG for use by physical therapists\nmanaging patients with osteoporosis in the United States.\n\nGuideline Adaptation\nThe SIGN CPG used the definitions of exercise types described\nin the Cochrane Library Systematic Review: “Exercise for\nPreventing and Treating Osteoporosis in Postmenopausal\nWomen.”33 The Cochrane Review described exercises as",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00009",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -5993,7 +5915,7 @@
             "font": "Sabon-Roman"
           }
         ],
-        "prev_chunk_id": "3f8e39fd4490f0ce93ec394b",
+        "prev_chunk_id": "8e802e4f23b4df9c7f4644f3",
         "next_chunk_id": "436256b80cf083f687a0f568"
       }
     },
@@ -6024,8 +5946,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "static or dynamic, weight-bearing or non–weight-bearing\nposition, and involving high or low force (see Table 2). To\nprovide physical therapists with the type of exercise infor\nmation they would need to guide practice, we extracted\ndetailed information on exercise mode, frequency and dura\ntion, adverse events, and participant characteristics from the\nsystematic reviews on which SIGN based their recommenda\ntions. Physical activity encompasses all bodily movements\n(ie, walking, cycling, active recreation) that are performed at\nany level of skill and for enjoyment. Exercise falls under the\numbrella of physical activity and is planned, structured, and\nrepetitive. These components are the basis of exercise pre\nscription that targets objective improvement or maintenance\nin physical health and/or fitness.34 Since this document is\nfocused on improving bone health, we are contextualizing all\nrecommendations under the term “exercise.” We described\nthe strength of the adapted recommendations based on\ncriteria from the APTA Clinical Practice Guideline Process\nManual, Revised35 (see Table 3).",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00010",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -6386,8 +6308,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Static weight-bearing exercise\nSIGN recommendations: Static weight-bearing (SWB)\nexercise, for example, single-leg standing should be consid\nered to slow the decline of hip BMD.\n\nSIGN summary: A meta-analysis reported a statistically\nsignificant reduction in BMD decline from 1 small study of\nsingle-leg standing (mean difference in hip BMD between\nexercise and control groups: 2.42%; 95% CI, 0.73-4.10).\nNo risk of fracture/falls or QOL outcomes were reported.33\n\nDynamic weight-bearing exercise (low force)\nSIGN recommendations: Walking, tai chi, and progressiveresistance strength training (such as closed kinetic chain\nweight training) should be considered to slow the decline\nof lumbar spine BMD.\n\nSIGN summary: Dynamic weight-bearing exercise with\nlow force (DWBLF) performed standing (ie, walking, tai\nchi) showed no effect on fracture outcomes.33 Dynamic\nweight-bearing exercise with low force mitigated the\ndecline in spine BMD as demonstrated in a meta-analysis of\n7 studies (mean difference in spine BMD between exercise\n\nJOURNAL OF Geriatric Physical Therapy\nE109",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00011",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -6796,96 +6718,6 @@
           }
         ],
         "prev_chunk_id": "436256b80cf083f687a0f568",
-        "next_chunk_id": "2368a59b6848d4a6405f8211"
-      }
-    },
-    {
-      "chunk_id": "2368a59b6848d4a6405f8211",
-      "text": "Letter\nGrade | Strength of\nRecommendation | Defniition35\nA | Strong | A high level of certainty of moderate to substantial benefti, harm, or cost, or a moderate level of certainty for substantial\nbenefti, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study).\nB | Moderate | A high level of certainty of slight to moderate benefti, harm, or cost, or a moderate level of certainty for a moderate level\nof benefti, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT).\nC | Weak | A moderate level of certainty of slight benefti, harm, or cost, or a weak level of certainty for moderate to substantial\nbenefti, harm, or cost (based on level 2 through 5 evidence).\nD | Theoretical/\nfoundational | A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or\nfrom basic science/bench research, or published expert opinion in peer-reviewed journals that supports the\nrecommendation.\nP | Best practice | Recommended practice based on current clinical practice norms, exceptional situations in which validating studies\nhave not or cannot be performed; yet, there is a clear benefti, harm, or cost, expert opinion.\nR | Research | An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic.\nAbbreviation: RCT, randomized clinical trial. |  |",
-      "embedding_text": "Letter\nGrade | Strength of\nRecommendation | Defniition35\nA | Strong | A high level of certainty of moderate to substantial benefti, harm, or cost, or a moderate level of certainty for substantial\nbenefti, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study).\nB | Moderate | A high level of certainty of slight to moderate benefti, harm, or cost, or a moderate level of certainty for a moderate level\nof benefti, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT).\nC | Weak | A moderate level of certainty of slight benefti, harm, or cost, or a weak level of certainty for moderate to substantial\nbenefti, harm, or cost (based on level 2 through 5 evidence).\nD | Theoretical/\nfoundational | A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or\nfrom basic science/bench research, or published expert opinion in peer-reviewed journals that supports the\nrecommendation.\nP | Best practice | Recommended practice based on current clinical practice norms, exceptional situations in which validating studies\nhave not or cannot be performed; yet, there is a clear benefti, harm, or cost, expert opinion.\nR | Research | An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic.\nAbbreviation: RCT, randomized clinical trial. |  |",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
-        "doc_version": null,
-        "doc_family": "JOSPT_APTA",
-        "organization": "JOSPT/APTA",
-        "year": 2021,
-        "section_id": "d6b15b60eaf4c421",
-        "section_path": [
-          "Table 3. Grades/Strength of Recommendation"
-        ],
-        "heading_level": 1,
-        "page_start": 6,
-        "page_end": 6,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Letter\nGrade | Strength of\nRecommendation | Defniition35\nA | Strong | A high level of certainty of moderate to substantial benefti, harm, or cost, or a moderate level of certainty for substantial\nbenefti, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study).\nB | Moderate | A high level of certainty of slight to moderate benefti, harm, or cost, or a moderate level of certainty for a moderate level\nof benefti, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT).\nC | Weak | A moderate level of certainty of slight benefti, harm, or cost, or a weak level of certainty for moderate to substantial\nbenefti, harm, or cost (based on level 2 through 5 evidence).\nD | Theoretical/\nfoundational | A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or\nfrom basic science/bench research, or published expert opinion in peer-reviewed journals that supports the\nrecommendation.\nP | Best practice | Recommended practice based on current clinical practice norms, exceptional situations in which validating studies\nhave not or cannot be performed; yet, there is a clear benefti, harm, or cost, expert opinion.\nR | Research | An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic.\nAbbreviation: RCT, randomized clinical trial. |  |",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00017",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 352,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": "Table 3. Grades/Strength of Recommendation",
-        "table_rows": [
-          [
-            "Letter\nGrade",
-            "Strength of\nRecommendation",
-            "Defniition35"
-          ],
-          [
-            "A",
-            "Strong",
-            "A high level of certainty of moderate to substantial benefti, harm, or cost, or a moderate level of certainty for substantial\nbenefti, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study)."
-          ],
-          [
-            "B",
-            "Moderate",
-            "A high level of certainty of slight to moderate benefti, harm, or cost, or a moderate level of certainty for a moderate level\nof benefti, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT)."
-          ],
-          [
-            "C",
-            "Weak",
-            "A moderate level of certainty of slight benefti, harm, or cost, or a weak level of certainty for moderate to substantial\nbenefti, harm, or cost (based on level 2 through 5 evidence)."
-          ],
-          [
-            "D",
-            "Theoretical/\nfoundational",
-            "A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or\nfrom basic science/bench research, or published expert opinion in peer-reviewed journals that supports the\nrecommendation."
-          ],
-          [
-            "P",
-            "Best practice",
-            "Recommended practice based on current clinical practice norms, exceptional situations in which validating studies\nhave not or cannot be performed; yet, there is a clear benefti, harm, or cost, expert opinion."
-          ],
-          [
-            "R",
-            "Research",
-            "An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic."
-          ],
-          [
-            "Abbreviation: RCT, randomized clinical trial.",
-            null,
-            null
-          ]
-        ],
-        "bbox": [
-          35.99,
-          90.95,
-          522.01,
-          273.68
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "125ac4d3cb8f057f2b7f31bf",
         "next_chunk_id": "83eeab9ea42016c374bb651f"
       }
     },
@@ -6916,8 +6748,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "and control groups: 0.84%; 95% CI, 0.26-1.48); however,\nno effect was observed for hip BMD.33 Bone mineral den\nsity data at the femoral neck were inconsistent in show\ning a positive effect from walking.36 However, another\nsystematic review demonstrated reduction in BMD decline\nassociated with walking in 2 studies.37 No data are avail\nable on the effect of DWBLF on the risks of falls or QOL.\n\nDynamic weight-bearing exercise (high force)\nSIGN recommendation: No evidence-based recommenda\ntion provided. There was no statistically significant effect of\nthis type of exercise on bone density at the spine or the hip.\n\nSIGN summary: Dynamic weight-bearing exercise with\nhigh force (DWBHF) performed in a standing position\nincludes these forms of exercise: jogging, jumping, running,\ndancing, and use of vibration platforms. There was no effect\non change in BMD of the spine reported in a meta-analysis\nof 4 studies involving DWBHF.33 Furthermore, high-impact\nonly and odd-impact only protocols were ineffective in\nincreasing BMD at any site.38 (Odd-impact was defined as\naerobic or step classes, bounding exercises, agility exercises,\nand games in which movements included directional elements\nthat the body is not normally accustomed to.) No data were\navailable on the effects of high-force dynamic weight-bearing\nexercise on the risks of fracture, falls, or QOL.\n\nNon–weight-bearing exercise (low force)\nSIGN recommendation: No evidence-based recommenda\ntion provided.\n\nSIGN summary: Non–weight-bearing exercise with\nlow force (NWBLF) includes high-repetition, low-load\nstrength training with open kinetic chain weight exercises\nin a supported or seated position. No significant differences\nwere observed for any BMD outcomes with low-force\nnon–weight-bearing exercise, for example, seated low-load,\nhigh-repetition strength training.33 No data were available\non the effects of non–weight-bearing exercise on the risks\nof fracture, falls, or QOL.\n\nNon–weight-bearing exercise (high force)\nSIGN recommendation: Progressive resistance strength\ntraining exercise (such as open kinetic chain weight\ntraining) should be considered to slow the decline of femo\nral neck BMD.\n\nSIGN summary: Non–weight-bearing exercise with high\nforce (NWBHF) includes progressive resistance strength\ntraining with open kinetic chain weight exercises in a sup\nported or seated position. The NWBHF exercise slowed the\nBMD decline at the spine (mean difference in spine BMD\nbetween exercise and control groups: 0.86%; 95% CI,\n0.58-1.13, 8 studies) and neck of femur (mean difference\nin femoral neck BMD between exercise and control groups:\n1.03%; 95% CI, 0.24-1.82, 8 studies).33 An increase in\nspine BMD of 0.006 g/cm2 (95% CI, 0.002-0.011; P =\n.006, 14 studies) was demonstrated following NWBHF in\na different meta-analysis.39 No data were available on the\neffects of non–weight-bearing high force exercise on the\nrisks of fracture, falls, or QOL.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00012",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -7988,7 +7820,7 @@
             "font": "Sabon-Roman"
           }
         ],
-        "prev_chunk_id": "2368a59b6848d4a6405f8211",
+        "prev_chunk_id": "125ac4d3cb8f057f2b7f31bf",
         "next_chunk_id": "fd40f2728c8cd14b3c945fa2"
       }
     },
@@ -8019,8 +7851,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Combination of exercise types\nSIGN recommendation: Combinations of closed kinetic\nchain (low force) (eg, progressive strengthening, balance\ntraining, endurance training), paired with open kinetic\nchain (high force) (eg, flexibility/stretching, progressive\nstrengthening, endurance training) should be considered to\noptimize bone health.\n\nSIGN summary: Risk of fractures in groups performing\ncombinations of any 2 of the exercise types (SWB, DWBLF,\nDWBHF, NWBLF, and NWBHF) was significantly lower\nthan that in controls (odds ratio: 0.33; 95% CI, 0.13-0.85,\n2 studies).33 A reduction in BMD decline at the spine was\nreported (mean difference in spine BMD between exercise\nand control groups immediately following intervention:\n3.22%; 95% CI, 1.80-4.64, 4 studies). Combination of\nexercise types (COMB) exercise slowed total hip BMD\ndecline when compared with controls (mean difference\nin total hip BMD between exercise and control groups:\n\n−1.07%; 95% CI, −1.58 to −0.56, 4 studies).33 Impact\nprotocols that included jogging mixed with walking and\nstair climbing, and protocols that incorporated impact\nexercise with high-magnitude force (resistance exercises)\nwere effective at reducing bone density loss at the lum\nbar spine and femoral neck.38 Combined aerobics and\nhigh-intensity resistance exercises had a positive effect\non BMD decline.37 Intervention with combined exercise\nprograms had better effects on physical function, pain,\nand vitality domains than controls (P < .05).40 No data\nwere available on the effects of these interventions on the\nrisks of falls.\n\nA systematic review and meta-analysis of moderateto high-quality randomized clinical trials (RCTs), which\nlooked at the effect of falls prevention exercise programs\non fracture rates, reported a significant reduction in the\nrate of falls resulting in fracture, with a pooled estimated\nrate ratio of 0.39 (0.23-0.66, 6 studies, I2 = 0%). While\nmixed populations were included, 77% of participants\nwere postmenopausal women, and no subgroup analysis\nfor men was performed. The studies that decreased falls\nresulting in fractures included balance training and most\nwere multicomponent, including other exercise types such\nas strengthening, flexibility, and endurance exercise.41\nAnother meta-analysis reported an overall fracture reduc\ntion in the exercise group compared with controls (rela\ntive risk: 0.49; 95% CI, 0.31-0.76).42 The findings of this\nstudy are limited by methodological flaws of individual\nstudies, and potential for publication bias was noted by\nthe authors.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00013",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -9044,8 +8876,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Adapted Exercise Recommendations for\nPostmenopausal Women to Slow Decline of BMD\nof the Hip and the Femoral Neck\nPhysical therapists should design and advise postmeno\npausal women to participate in long-duration (ie, minimum\nof 6-48 months) exercise programs consisting of static\nweight-bearing (SWB—SIGN terminology) exercises such\nas single-leg standing to slow the decline of BMD at the\nhip. Physical therapists should design and advise postmeno\npausal women to participate in long-duration, adequately\ndosed progressive resistance strength training exercises\nsuch as weight training either alone or in combination\nwith impact exercise training such as jogging, walking, or\naerobics to slow the decline of BMD of the femoral neck.\n(Grade B, recommendation based on moderate evidence)\n\nAdapted Exercise Recommendations for\nPostmenopausal Women to Slow Decline of BMD\nof the Lumbar Spine\nPhysical therapists should consider designing and advising\npostmenopausal women to participate in long-duration exer\ncise programs consisting of walking, tai chi, progressive\n\nresistance strength training (such as weight training), and\ndifferent combinations of exercise types to slow the decline\nof lumbar spine BMD. (SIGN terminology DWBLF,\nNWBHF, COMB). (Grade B, recommendation based on\nmoderate evidence)\n\nThe NWBHF exercise had a positive effect on BMD at\nboth the spine and the femoral neck.33,39 Participants in\nthese studies ranged from healthy postmenopausal women\nto women with diagnosed osteoporosis or osteopenia,\nranging in age from 41 to 75 years. These studies reported\na low incidence of injuries. Because older individuals may\nbe at increased risk for falls, NWBHF exercises such as\nseated, high-intensity progressive resistive strength training\nmay be inherently safer than DWBHF exercises in this pop\nulation. The exercise programs in these studies were gener\nally high-intensity and long-duration. The NWBHF exer\ncises doses ranged from 1 to 3 sets, 7 to 14 repetitions, at\napproximately 70% to 85% 1 repetition maximum (RM),\n2 to 3 times per week, for 24 to 104 weeks. Estimation of\nintensity based on 1RM is beyond the scope of this CPG\nbut has previously been addressed in other publications.43\n\nThe COMB exercise moderately improved BMD at the\nspine and slightly improved BMD at the trochanter/femoral\nneck.33,37,38,40-42 In each of the 4 COMB studies, references\nwere made to aerobic exercise or low-impact aerobics,\nbut it is not clear how these activities were performed.\nTherefore, based on the data provided, we recommend\n\nJOURNAL OF Geriatric Physical Therapy\nE111",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00014",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -9818,116 +9650,6 @@
           }
         ],
         "prev_chunk_id": "fd40f2728c8cd14b3c945fa2",
-        "next_chunk_id": "bc6fad11dc1e51cd76b14bb4"
-      }
-    },
-    {
-      "chunk_id": "bc6fad11dc1e51cd76b14bb4",
-      "text": "Evidence Summary | Evidence a modest positive impact of static supported weight-bearing exercises on BMD hip | Evidence weight-bearing low-force exercises to supported slow BMD loss spine Evidence weight-bearing low-force exer did not support cises to increase spine BMD | Evidence dynamic weight bearing: high did not support force exercises to improve or maintain BMD at the spine or the hip | Evidence non–weight-bearing low-force did not support exercises in nonosteoporotic postmenopausal women | Evidence modest positive impact of non– supported weight-bearing high-force exercises on BMD at both the spine and the femoral neck | Evidence a modest positive impact of com supported bination exercises on BMD at both the spine and the femoral neck Evidence also that combination exercise pro suggested grams substantially reduced the risk of fractures | Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity.\nAdverse Events | None reported | Exercise and control groups reported injuries. One exercise- speci i fc injury reported | One injury reported in an intervention group | None reported | None reported | None reported | \nParticipants | 94 Japanese women, mean age: 68 y (age range: 61-85 y) | Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia | Healthy postmenopausal women, women with os teopenia or osteoporosis Age: 40-65 y United States | Healthy postmenopausal women Age: 41-82 y | Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis | Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis | \nExercise Dose | 1 min per limb 3 times per day 24 wk | 50-60 min 3 times per week 40-54 wk | 50-55 min per session 2-3 d/wk 52 wk | 1RM ∼40% 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk | 1-3 sets 1RM ∼70%-85% 2-3 times per week 24-104 wk | 2-7 d/wk 52 wk Intensity not reported | \nExercise | Single-leg standing | Walking, tai chi | Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra tion platforms | Seated low-load, high-repe tition strength training | Seated progressive resis tive, high-load strength training Some programs included both upper and lower extremity exercise | Combinations of any 2 of the exercise types described previously | \nExercise Type | Static weight bearing33 | Dynamic weight bearing: Low force33,36,37 | Dynamic weight bearing: High force33,38 | Non–weight bearing: Low force33 | Non–weight bearing: High force33,39 | Combination of exercise types33,37,38,40-42 |",
-      "embedding_text": "Evidence Summary | Evidence a modest positive impact of static supported weight-bearing exercises on BMD hip | Evidence weight-bearing low-force exercises to supported slow BMD loss spine Evidence weight-bearing low-force exer did not support cises to increase spine BMD | Evidence dynamic weight bearing: high did not support force exercises to improve or maintain BMD at the spine or the hip | Evidence non–weight-bearing low-force did not support exercises in nonosteoporotic postmenopausal women | Evidence modest positive impact of non– supported weight-bearing high-force exercises on BMD at both the spine and the femoral neck | Evidence a modest positive impact of com supported bination exercises on BMD at both the spine and the femoral neck Evidence also that combination exercise pro suggested grams substantially reduced the risk of fractures | Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity.\nAdverse Events | None reported | Exercise and control groups reported injuries. One exercise- speci i fc injury reported | One injury reported in an intervention group | None reported | None reported | None reported | \nParticipants | 94 Japanese women, mean age: 68 y (age range: 61-85 y) | Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia | Healthy postmenopausal women, women with os teopenia or osteoporosis Age: 40-65 y United States | Healthy postmenopausal women Age: 41-82 y | Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis | Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis | \nExercise Dose | 1 min per limb 3 times per day 24 wk | 50-60 min 3 times per week 40-54 wk | 50-55 min per session 2-3 d/wk 52 wk | 1RM ∼40% 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk | 1-3 sets 1RM ∼70%-85% 2-3 times per week 24-104 wk | 2-7 d/wk 52 wk Intensity not reported | \nExercise | Single-leg standing | Walking, tai chi | Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra tion platforms | Seated low-load, high-repe tition strength training | Seated progressive resis tive, high-load strength training Some programs included both upper and lower extremity exercise | Combinations of any 2 of the exercise types described previously | \nExercise Type | Static weight bearing33 | Dynamic weight bearing: Low force33,36,37 | Dynamic weight bearing: High force33,38 | Non–weight bearing: Low force33 | Non–weight bearing: High force33,39 | Combination of exercise types33,37,38,40-42 |",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
-        "doc_version": null,
-        "doc_family": "JOSPT_APTA",
-        "organization": "JOSPT/APTA",
-        "year": 2021,
-        "section_id": "554bada22dd05e15",
-        "section_path": [
-          "ADAPTED EXERCISE RECOMMENDATIONS FOR\nPOSTMENOPAUSAL WOMEN"
-        ],
-        "heading_level": 1,
-        "page_start": 9,
-        "page_end": 9,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Evidence Summary | Evidence a modest positive impact of static supported weight-bearing exercises on BMD hip | Evidence weight-bearing low-force exercises to supported slow BMD loss spine Evidence weight-bearing low-force exer did not support cises to increase spine BMD | Evidence dynamic weight bearing: high did not support force exercises to improve or maintain BMD at the spine or the hip | Evidence non–weight-bearing low-force did not support exercises in nonosteoporotic postmenopausal women | Evidence modest positive impact of non– supported weight-bearing high-force exercises on BMD at both the spine and the femoral neck | Evidence a modest positive impact of com supported bination exercises on BMD at both the spine and the femoral neck Evidence also that combination exercise pro suggested grams substantially reduced the risk of fractures | Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity.\nAdverse Events | None reported | Exercise and control groups reported injuries. One exercise- speci i fc injury reported | One injury reported in an intervention group | None reported | None reported | None reported | \nParticipants | 94 Japanese women, mean age: 68 y (age range: 61-85 y) | Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia | Healthy postmenopausal women, women with os teopenia or osteoporosis Age: 40-65 y United States | Healthy postmenopausal women Age: 41-82 y | Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis | Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis | \nExercise Dose | 1 min per limb 3 times per day 24 wk | 50-60 min 3 times per week 40-54 wk | 50-55 min per session 2-3 d/wk 52 wk | 1RM ∼40% 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk | 1-3 sets 1RM ∼70%-85% 2-3 times per week 24-104 wk | 2-7 d/wk 52 wk Intensity not reported | \nExercise | Single-leg standing | Walking, tai chi | Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra tion platforms | Seated low-load, high-repe tition strength training | Seated progressive resis tive, high-load strength training Some programs included both upper and lower extremity exercise | Combinations of any 2 of the exercise types described previously | \nExercise Type | Static weight bearing33 | Dynamic weight bearing: Low force33,36,37 | Dynamic weight bearing: High force33,38 | Non–weight bearing: Low force33 | Non–weight bearing: High force33,39 | Combination of exercise types33,37,38,40-42 |",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00027",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 677,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Evidence Summary",
-            "Evidence a modest positive impact of static supported weight-bearing exercises on BMD hip",
-            "Evidence weight-bearing low-force exercises to supported slow BMD loss spine Evidence weight-bearing low-force exer­ did not support cises to increase spine BMD",
-            "Evidence dynamic weight bearing: high did not support force exercises to improve or maintain BMD at the spine or the hip",
-            "Evidence non–weight-bearing low-force did not support exercises in nonosteoporotic postmenopausal women",
-            "Evidence modest positive impact of non– supported weight-bearing high-force exercises on BMD at both the spine and the femoral neck",
-            "Evidence a modest positive impact of com­ supported bination exercises on BMD at both the spine and the femoral neck Evidence also that combination exercise pro­ suggested grams substantially reduced the risk of fractures",
-            "Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity."
-          ],
-          [
-            "Adverse Events",
-            "None reported",
-            "Exercise and control groups reported injuries. One exercise- speci i fc injury reported",
-            "One injury reported in an intervention group",
-            "None reported",
-            "None reported",
-            "None reported",
-            null
-          ],
-          [
-            "Participants",
-            "94 Japanese women, mean age: 68 y (age range: 61-85 y)",
-            "Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia",
-            "Healthy postmenopausal women, women with os­ teopenia or osteoporosis Age: 40-65 y United States",
-            "Healthy postmenopausal women Age: 41-82 y",
-            "Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis",
-            "Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis",
-            null
-          ],
-          [
-            "Exercise Dose",
-            "1 min per limb 3 times per day 24 wk",
-            "50-60 min 3 times per week 40-54 wk",
-            "50-55 min per session 2-3 d/wk 52 wk",
-            "1RM ∼40% 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk",
-            "1-3 sets 1RM ∼70%-85% 2-3 times per week 24-104 wk",
-            "2-7 d/wk 52 wk Intensity not reported",
-            null
-          ],
-          [
-            "Exercise",
-            "Single-leg standing",
-            "Walking, tai chi",
-            "Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra­ tion platforms",
-            "Seated low-load, high-repe­ tition strength training",
-            "Seated progressive resis­ tive, high-load strength training Some programs included both upper and lower extremity exercise",
-            "Combinations of any 2 of the exercise types described previously",
-            null
-          ],
-          [
-            "Exercise Type",
-            "Static weight bearing33",
-            "Dynamic weight bearing: Low force33,36,37",
-            "Dynamic weight bearing: High force33,38",
-            "Non–weight bearing: Low force33",
-            "Non–weight bearing: High force33,39",
-            "Combination of exercise types33,37,38,40-42",
-            null
-          ]
-        ],
-        "bbox": [
-          93.96,
-          76.45,
-          478.41,
-          731.55
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "cb28b67f1fde21acf9ca280a",
         "next_chunk_id": "110e8a6fdae2635f19ce676a"
       }
     },
@@ -9958,8 +9680,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "JOURNAL OF Geriatric Physical Therapy\nE113\n\nSIGN EXERCISE RECOMMENDATIONS FOR MEN\nSIGN summary: One meta-analysis identified 3 studies that\ninvestigated the effects of exercise on BMD in men. These\nstudies included diverse populations, with varied exercise\ntypes and used different measures of BMD. Study qual\nity was unclear overall, and 2 studies were unpublished\ndissertations. The primary outcome measures of change\nin lumbar spine or femoral neck BMD were calculated as\nstandardized effect sizes (g). The g statistic for each group\nfrom each study was calculated as the change score differ\nence (absolute or relative) in the exercise group minus the\nchange score difference in the control group, divided by\nthe pooled standard deviation of the exercise and control\ngroups. The relative magnitude of g may be described as\ntrivial (<0.20), small (≥0.20 to <0.50), medium (≥0.50\nto <0.80), or large (≥0.80).\n\nOverall, a moderate and statistically significant benefit\nof exercise on the femoral neck BMD was observed (g =\n0.583; 95% CI, 0.031-1.135). No significant effect was\nseen with exercise on lumbar spine BMD (g = 0.190; 95%\nCI, −0.036 to 0.416).50\n\nAnother systematic review considered the effect of resis\ntance training (eg, weight training) only or in combination\nwith impact-loading (weight bearing) activities. This small\nreview considered heterogeneous study designs of varying\nand limited quality that used different sites to measure\nBMD. The authors concluded that exercise may be a safe\nand effective means to reduce BMD loss in middle- and\nolder-aged men.51 Exercise protocols included a range of\nDWBLF, DWBHF, NWBLF, and NWBHF activities.\n\nSIGN recommendation: There is currently limited evi\ndence on the role of exercise in mitigating BMD loss in\nmen. Further well-designed research studies in men are\nneeded before any recommendations can be made.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00015",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -10848,7 +10570,7 @@
             "font": "Sabon-Roman"
           }
         ],
-        "prev_chunk_id": "bc6fad11dc1e51cd76b14bb4",
+        "prev_chunk_id": "cb28b67f1fde21acf9ca280a",
         "next_chunk_id": "674ebaf47b08c45edb4c1621"
       }
     },
@@ -10879,8 +10601,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Men: Adapted Summary Statement\nThere is insufficient evidence to support exercise as a fac\ntor in improving BMD in men. However, exercise is a safe\nand effective means of maintaining and improving health,\nfunction, and QOL supported by national physical activity\nguidelines.52\n\nBecause of a lack of research evidence on the role of\nexercise in improving BMD in men, we were unable to\nprovide any adapted exercise recommendations for men.",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00029",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00016",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -11059,8 +10781,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "SIGN Summary of Knowledge Gaps and Future\nResearch\nOverall, there was a small, positive effect of exercise on\nBMD in postmenopausal women that is exercise-type and\nsite-specific. High-force exercise can reduce BMD decline\nat the femoral neck, progressive-resistance exercise can\nreduce BMD decline at the lumbar spine, and impact pro\ntocols combined with resistance can reduce BMD decline\nat both the femoral neck and the lumbar spine. When\ncomparing premenopausal with postmenopausal recom\nmendations, there is a change in loading recommenda\ntions. Premenopausal women should perform high-force\nexercises in both weight-bearing and non–weight bearing\npositions to improve hip and spine BMD. This exercise\nprescription is aligned with current recommendations to\nimprove bone size and strength, which may translate to a\nreduction in fractures. When transitioning to postmeno\npausal women, high forces are recommended only for\nnon–weight-bearing (ie, seated, supported) positions, while\nlow forces should be used with static (unilateral stance) or\ndynamic (walking, dancing) exercises. Although there was\nno specific recommendation for men, the lack of adverse\neffects supported our recommendation of encouraging and\nimplementing lifelong fitness and bone health strategies\nsuch as those recommended for women of corresponding\nages. Research studies commonly focus on the hip, spine,\nand radius because these sites make up the large majority\nof fracture sites. While we cannot speak to BMD improve\nments at additional sites, we cannot exclude the possibility\nthat these recommendations can have universal skeletal\neffects. Conclusions must be interpreted with some caution\nas the original studies suffered from diverse methodologi\ncal and reporting discrepancies that resulted in low study\nquality.21\n\nOsteoporosis is difficult to capture in a silo of simply\nBMD. While BMD is important, fracture risk and falling",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00017",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -11560,116 +11282,6 @@
           }
         ],
         "prev_chunk_id": "674ebaf47b08c45edb4c1621",
-        "next_chunk_id": "9ead862fbebda54017f91bcf"
-      }
-    },
-    {
-      "chunk_id": "9ead862fbebda54017f91bcf",
-      "text": "Evidence Summary | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence the positive impact of supported dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence modest positive impact supported of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck | Evidence that combination exer supported cises were effective in increasing BMD at the femoral neck and the lumbar spine | Abbreviations: BMD, bone mineral density; RM, repetition maximum.\nAdverse Events | Not applicable | Not applicable | None reported | Not applicable | None reported | None reported | \nParticipants | Not applicable | Not applicable | Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe | Not applicable | Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives | Healthy premenopausal women. Age: 24-41 y North America | \nExercise Dose | No systematic reviews available | No systematic reviews available | Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y | No systematic reviews available | 60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo | 2-9 sets of 8-12 repetitions 3 d/wk 12 mo | \nExercise | Single-leg standing | Walking, tai chi | Jumping, jogging, skipping, running, dancing, vibration platforms | Progressive resistive, low-load strength training | Seated progressive resistive, high-load strength training | Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping | \nExercise Type | Static weight bearing | Dynamic weight bearing: low force47 | Dynamic weight bear ing: high force48 | Non–weight bearing: Low force | Non–weight bearing: High force49 | Combination of exercise types48 |",
-      "embedding_text": "Evidence Summary | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence the positive impact of supported dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence modest positive impact supported of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck | Evidence that combination exer supported cises were effective in increasing BMD at the femoral neck and the lumbar spine | Abbreviations: BMD, bone mineral density; RM, repetition maximum.\nAdverse Events | Not applicable | Not applicable | None reported | Not applicable | None reported | None reported | \nParticipants | Not applicable | Not applicable | Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe | Not applicable | Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives | Healthy premenopausal women. Age: 24-41 y North America | \nExercise Dose | No systematic reviews available | No systematic reviews available | Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y | No systematic reviews available | 60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo | 2-9 sets of 8-12 repetitions 3 d/wk 12 mo | \nExercise | Single-leg standing | Walking, tai chi | Jumping, jogging, skipping, running, dancing, vibration platforms | Progressive resistive, low-load strength training | Seated progressive resistive, high-load strength training | Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping | \nExercise Type | Static weight bearing | Dynamic weight bearing: low force47 | Dynamic weight bear ing: high force48 | Non–weight bearing: Low force | Non–weight bearing: High force49 | Combination of exercise types48 |",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis.pdf",
-        "doc_version": null,
-        "doc_family": "JOSPT_APTA",
-        "organization": "JOSPT/APTA",
-        "year": 2021,
-        "section_id": "bf4b124a04f360e9",
-        "section_path": [
-          "DISCUSSION"
-        ],
-        "heading_level": 1,
-        "page_start": 11,
-        "page_end": 11,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Evidence Summary | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence the positive impact of supported dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck | There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD | Evidence modest positive impact supported of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck | Evidence that combination exer supported cises were effective in increasing BMD at the femoral neck and the lumbar spine | Abbreviations: BMD, bone mineral density; RM, repetition maximum.\nAdverse Events | Not applicable | Not applicable | None reported | Not applicable | None reported | None reported | \nParticipants | Not applicable | Not applicable | Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe | Not applicable | Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives | Healthy premenopausal women. Age: 24-41 y North America | \nExercise Dose | No systematic reviews available | No systematic reviews available | Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y | No systematic reviews available | 60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo | 2-9 sets of 8-12 repetitions 3 d/wk 12 mo | \nExercise | Single-leg standing | Walking, tai chi | Jumping, jogging, skipping, running, dancing, vibration platforms | Progressive resistive, low-load strength training | Seated progressive resistive, high-load strength training | Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping | \nExercise Type | Static weight bearing | Dynamic weight bearing: low force47 | Dynamic weight bear ing: high force48 | Non–weight bearing: Low force | Non–weight bearing: High force49 | Combination of exercise types48 |",
-        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00032",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 545,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Evidence Summary",
-            "There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD",
-            "There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD",
-            "Evidence the positive impact of supported dynamic weight-bearing high-force exer­ cises in reducing BMD decline only at the femoral neck",
-            "There is to make any insuffi cient evidence conclusion about this type of exercise speci i fcally for BMD",
-            "Evidence modest positive impact supported of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck",
-            "Evidence that combination exer­ supported cises were effective in increasing BMD at the femoral neck and the lumbar spine",
-            "Abbreviations: BMD, bone mineral density; RM, repetition maximum."
-          ],
-          [
-            "Adverse Events",
-            "Not applicable",
-            "Not applicable",
-            "None reported",
-            "Not applicable",
-            "None reported",
-            "None reported",
-            null
-          ],
-          [
-            "Participants",
-            "Not applicable",
-            "Not applicable",
-            "Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe",
-            "Not applicable",
-            "Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives",
-            "Healthy premenopausal women. Age: 24-41 y North America",
-            null
-          ],
-          [
-            "Exercise Dose",
-            "No systematic reviews available",
-            "No systematic reviews available",
-            "Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y",
-            "No systematic reviews available",
-            "60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo",
-            "2-9 sets of 8-12 repetitions 3 d/wk 12 mo",
-            null
-          ],
-          [
-            "Exercise",
-            "Single-leg standing",
-            "Walking, tai chi",
-            "Jumping, jogging, skipping, running, dancing, vibration platforms",
-            "Progressive resistive, low-load strength training",
-            "Seated progressive resistive, high-load strength training",
-            "Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping",
-            null
-          ],
-          [
-            "Exercise Type",
-            "Static weight bearing",
-            "Dynamic weight bearing: low force47",
-            "Dynamic weight bear­ ing: high force48",
-            "Non–weight bearing: Low force",
-            "Non–weight bearing: High force49",
-            "Combination of exercise types48",
-            null
-          ]
-        ],
-        "bbox": [
-          109.55,
-          75.99,
-          462.81,
-          732.01
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "e0a301fee26821f44e37a095",
         "next_chunk_id": "804e458d37e4e56bac346a5a"
       }
     },
@@ -11700,8 +11312,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "JOURNAL OF Geriatric Physical Therapy\nE115\n\nare as equally important to the patient for QOL and mobil\nity. The difficulty lies in how to identify change and utilize\npalatable evidence-based documents for clinicians and\npatients. We viewed osteoporotic fractures as a combina\ntion of low BMD and fall risk. Given that a falls evidencebased document specific to physical therapy currently\nexists, our focus for this document was solely on BMD.\nThe challenge specific to BMD is the long duration needed\nto improve bone health parameters, paired with the clinical\nneed to document BMD changes that we as physical thera\npists do not measure. The lack of head-to-head compari\nsons of interventions and outcomes increase the complexity\nin decision making for clinicians and for patients to realize\nprogress. Regardless of expected outcomes, properly dosed\nexercise is assumed to be a safe intervention, with appropri\nate considerations for patients who present to the physical\ntherapist with previous fracture, injuries, or comorbidities\nin combination with osteoporosis.\n\nAdapted Summary of Knowledge Gaps and Future\nResearch\nEvidence concerning the safety of exercise interventions was\ninferred from reports of very few adverse events in trials of\nexercise intervention. Older individuals have both real and\nperceived concerns about participating in long-duration\nexercise programs. Unfortunately, none of the research\nstudies supporting this CPG specifically examined exercise\nsafety or included participants who would be at high risk\nfor adverse exercise outcomes. The lack of evidence should\nnot infer to the reader that exercise is unsafe for older\nindividuals attempting to improve BMD but rather, further\nresearch is warranted particularly in high-risk populations.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00018",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -12161,7 +11773,7 @@
             "font": "Sabon-Roman"
           }
         ],
-        "prev_chunk_id": "9ead862fbebda54017f91bcf",
+        "prev_chunk_id": "e0a301fee26821f44e37a095",
         "next_chunk_id": "2eb86319508cebfdcc519caa"
       }
     },
@@ -12192,8 +11804,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Both clinicians and patients want to identify the best\nexercise program to improve BMD. Unfortunately, none of\nthe studies directly compared 2 potentially effective exer\ncise interventions. Such studies would be very costly and\ndifficult to conduct. One of the challenges of bone research\nis that in adults, bone does not demonstrate appreciable\nand measurable short-term (ie, <3 months) adaptations\nin response to loading, rather bone adapts over the long\nterm (ie, 6-48+ months).45 Studies comparing 2 exercise\ninterventions for their impact on hip and spine BMD would\nneed to be of long duration. The long duration combined\nwith the large sample size required to compare the effec\ntiveness of 2 interventions would present several challenges\nincluding the high cost of such a study, difficulty recruiting\nparticipants, and maintaining exercise adherence over a\nlong period. Exercise intervention studies to improve BMD\nof nonosteoporotic premenopausal women would have the\nadded problem of focusing on preventing rather than treat\ning osteoporosis. In addition, these studies lacked racial\ndiversity and therefore it is difficult to extrapolate findings\nto the general US population. Given all these obstacles, it\nis not surprising that we continue to lack evidence to guide\nphysical therapist management of individuals with osteo\nporosis. Future studies should explore response to exercise\ninterventions targeted to individuals across broader racial\n\ngroups. Physical therapist management of osteoporosis\nfrom examination and evaluation to intervention will be\naddressed in a companion document that utilized a Delphi\nprocess to produce recommendations based on expert\nopinion.\n\nAlthough fracture and falls were not a focus of this doc\nument, we retained the full spirit of the SIGN recommen\ndation. There was evidence that exercise influences fracture\nrisk when the exercise is multimodal and part of a fall\nprevention program. No systematic reviews have reported\non fracture/falls risk, adverse effects, or QOL outcomes\nof exercise interventions for premenopausal women with\nosteoporosis. Fractures are an important outcome measure\nin individuals with osteoporosis and are closely associated\nwith fall risk. Exercise interventions may decrease the risk\nof fracture by both increasing BMD and by decreasing risk\nof falling. It is important for physical therapists to assess\nthe risk of falling in individuals with osteoporosis, which\nis not addressed in this document. We recommend that\nclinicians managing patients with osteoporosis consult\nthe Academy of Geriatric Physical Therapy/APTA clinical\nguidance statement directed at fall risk reduction.32",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00019",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -12944,8 +12556,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Implementation\nThe recommendations included in this document are sup\nported by evidence indicating specific types of exercise that\nmay improve or slow the decline in BMD at the hip and\nthe lumbar spine in both pre- and postmenopausal women.\nHowever, it is important to recognize that this evidence\ncomes from long-duration exercise programs ranging in\nlength from many months to a year or more. In the United\nStates, the duration of physical therapy episodes of physi\ncal therapist care is not commonly sustained for a year or\nmore. However, patients could be managed for much\nlonger episodes of care throughout the life span by par\nticipating in long-duration exercise programs and routine/\nannual physical therapy checkups. For patients with access\nto Medicare, physical therapists’ services are a covered\nbenefit, with no limitations on care (related to time, visits,\nor cost) if the services provided are medically necessary\nand skilled.53,54 This includes maintenance care and care to\nprevent a decline in function.54 A new model for physical\ntherapy management of patients with osteoporosis could\ninvolve concluding and then resuming multiple short epi\nsodes of care over an extended time period. In addition,\npatients who are able to safely participate in lifelong physi\ncal activities to improve bone health, and health in general,\nshould be encouraged to do so.\n\nhealth when designing long-duration exercise programs to\nimprove bone health in premenopausal women and main\ntain bone mass in women with osteoporosis. We recom\nmend that clinicians consider the following 5 factors:\n\nEconomic stability\nPatients in economic distress may be food or housing inse\ncure. Such patients would be unable to join a health club or\npurchase exercise equipment. Fortunately, many exercises\ndo not require equipment. Static weight-bearing exercises\nsuch as single-leg stance may slow the decline of hip BMD\nif performed at least 1 minute per leg. When individuals\ncannot join a health club or purchase exercise equipment,\nNWBHF (seated progressive resistive, high-load strength\ntraining) programs can use easily accessible items such as\nelastic tubing or plastic jugs filled with water to provide\nresistance. The DWBLF walking programs to slow decline\nin spine BMD in postmenopausal women with osteopo\nrosis or DWBHF programs to prevent osteoporosis (ie,\npremenopausal women) such as running, jogging, jumping,\nor stair climbing do not require equipment or access to a\nhealth club.\n\nEducation\nPatients with marginal literacy may have difficulty under\nstanding written instructions for home exercise programs.\nPatients with poor literacy may not understand the instruc\ntions to progress exercise programs, exercise precautions,\nor appreciate the benefits of long-duration exercise. This\ntype of patient may require closer supervision, video\ninstruction, or illustrated handouts provided by a physical\ntherapist.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00020",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -13761,8 +13373,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Health and health care\nPatients without health insurance may not be able to\nafford even a small number of physical therapy sessions to\ndevelop and progress an exercise program. Patients covered\nby Medicare advantage plans may have limitations on the\nnumber of therapy sessions allowed for an episode of care.\nPatients with traditional Medicare Part B may have more\nflexibility in the number and duration of an episode of care\nfor licensed therapists to prescribe and monitor an exercise\nprogram to maintain BMD. Patients with poor health lit\neracy may not understand the relationship between exercise\nand BMD and may require closer supervision by a physical\ntherapist.\n\nNeighborhood and built environment\nExercise programs involving walking or jogging may slow\nthe decline of BMD of the femoral neck and lumbar spine.\nHowever, patients who live in dangerous neighborhoods due\nto crime or in neighborhoods where sidewalks are lacking or\nin disrepair may have difficulty participating in these types\nof exercise programs. Physical therapists should consider the\npatient’s physical environment when designing exercise pro\ngrams and may recommend possible alternative environments\nsuch as parks, malls, or school grounds when available.\n\nSocial and community\nExercise programs to improve or maintain BMD must be of\nlong duration to be effective. The duration can range from\n6 to 48 months, while the most commonly employed time\nframe is 12 months.56 Social support and encouragement\nfrom family or friends are often critical in initiating and\nsustaining participation. Individuals who live alone or who\nare socially isolated may benefit from joining health clubs\nor community exercise groups.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00021",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -14253,8 +13865,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Target user reviewers\nMembers of APTA Geriatrics were invited to review and\ncomment on the draft via a blast email. Additional targeted\nemails were sent to members of APTA Geriatrics’ Bone\nHealth Special Interest Group. Nine physical therapists\ninitiated the survey and 6 completed it. Users had up to\n17 days to complete the survey and comment. The results\nof the survey responses are presented in Supplemental\nDigital Content Table 1, available at: http://links.lww.com/\nJGPT/A104, which summarizes invited expert and APTA\nGeriatrics Bone Health Special Interest Group members’\nlevels of agreement. There were no additional comments\nprovided by the user group.\n\nSource guideline developer review\nThe guideline development group sent a copy of the\nadapted guideline to the source developer (SIGN) for feed\nback. They had no recommendations for changes aside\nfrom clarifying that the original SIGN CPG addressed falls\nand/or fracture risk/rate, but in this adapted document,\nthose outcomes were not addressed. While SIGN does not\n\nJOURNAL OF Geriatric Physical Therapy\nE117\n\nendorse guidelines from other organizations, they did grant\nfull consent to the SIGN guideline being used for the adap\ntation. (A. Stein, email communication, August 12, 2021.)\n\nEndorsement\nThis CPG has been reviewed and endorsed by the medical\nand scientific advisory boards/councils of the following\norganizations:\n\n• American Bone Health (Raleigh, North Carolina)\n• National\nOsteoporosis\nFoundation\n(Arlington,\nVirginia)\n\nDissemination Plans\nThe primary purpose of this CPG is to provide interested\nreaders full documentation of the best available evidence\nfor mitigating the loss of BMD for the management of\npatients with suspected or known osteoporosis. Publication\nof this guideline will be announced by press release\nand published in a high-impact, peer-reviewed journal.\nEducation and awareness about this CPG will be dissemi\nnated via online resources, such as webinars and continuing\neducation courses, at professional annual meetings and via\nsocial media. Pocket guides will be developed by APTA\nGeriatrics as implementation tools to aid in the dissemina\ntion of the CPG.\n\nRevision and Reaffirmation Plans\nThis CPG represents a cross-sectional view of current treat\nment and may become outdated as new evidence becomes\navailable. It will be reviewed in 5 years and will be updated\nin accordance with new evidence, changing practice, rap\nidly emerging treatment options, and new technology, reaf\nfirmed, or withdrawn.\n\nREFERENCES\n1. Kanis JA, McCloskey EV, Johansson H, Oden A, Melton LJ, Khaltaev\n\nN. A reference standard for the description of osteoporosis. Bone.\n2008;42(3):467-475. doi:10.1016/j.bone.2007.11.001\n2. Bunta AD. It is time for everyone to own the bone. Osteoporos Int.\n\n2011;22(suppl 3):477-482. doi:10.1007/s00198-011-1704-0\n3. Karjalainen JP, Riekkinen O, Töyräs J, Jurvelin JS, Kröger H. New method",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00022",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -15174,8 +14786,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "for point-of-care osteoporosis screening and diagnostics. Osteoporos Int.\n2016;27(3):971-977. doi:10.1007/s00198-015-3387-4\n4. Siris ES, Adler R, Bilezikian J, et al. The clinical diagnosis of osteoporosis:\n\na position statement from the National Bone Health Alliance Working\nGroup. Osteoporos Int. 2014;25(5):1439-1443. doi:10.1007/s00198-0142655-z\n5. Wright NC, Looker AC, Saag KG, et al. The recent prevalence of osteoporosis\n\nand low bone mass in the United States based on bone mineral density at\nthe femoral neck or lumbar spine. J Bone Miner Res. 2014;29(11):25202526. doi:10.1002/jbmr.2269\n6. Wright NC, Saag KG, Dawson-Hughes B, Khosla S, Siris ES. The impact of\n\nthe new National Bone Health Alliance (NBHA) diagnostic criteria on the\nprevalence of osteoporosis in the USA. Osteoporos Int. 2017;28(4):12251232. doi:10.1007/s00198-016-3865-3\n7. Looker AC, Borrud LG, Dawson-Hughes B, Shepherd JA, Wright NC.\n\nOsteoporosis or low bone mass at the femur neck or lumbar spine in\nolder adults: United States, 2005-2008. NCHS Data Brief. 2012;(93):18. Accessed January 18, 2022. https://www.cdc.gov/nchs/data/databriefs/\ndb93.pdf\n8. Van Staa TP, Dennison EM, Leufkens HGM, Cooper C. Epidemiology of\n\nfractures in England and Wales. Bone. 2001;29(6):517-522. doi:10.1016/\ns8756-3282(01)00614-7\n9. Lacombe J, Cairns BJ, Green J, Reeves GK, Beral V, Armstrong ME. The\n\neffects of age, adiposity, and physical activity on the risk of seven site-specific\n\nfractures in postmenopausal women. J Bone Miner Res. 2016;31(8):15591568. doi:10.1002/jbmr.2826\n10. Malgo F, Appelman-Dijkstra NM, Termaat MF, et al. High prevalence\n\nof secondary factors for bone fragility in patients with a recent fracture\nindependently of BMD. Arch Osteoporos. 2016;11(1):12. doi:10.1007/\ns11657-016-0258-3\n11. Johnell O, Kanis JA. An estimate of the worldwide prevalence and disability\n\nassociated with osteoporotic fractures. Osteoporos Int. 2006;17(12):17261733. doi:10.1007/s00198-006-0172-4\n12. Burge R, Dawson-Hughes B, Solomon DH, Wong JB, King A, Tosteson\n\nA. Incidence and economic burden of osteoporosis-related fractures in\nthe United States, 2005-2025. J Bone Miner Res. 2007;22(3):465-475.\ndoi:10.1359/jbmr.061113\n13. Hansen D, Bazell C, Pelizzari P, Pyenson B. Medicare cost of osteoporotic\n\nfractures: the clinical and cost burden of an important consequence of\nosteoporosis; Milliman Research Report. Published August 2019. Accessed\nJanuary 18, 2022. https://assets.milliman.com/ektron/Medicare_cost_of_\nosteoporotic_fractures.pdf\n14. Cooper C, Atkinson EJ, Jacobsen SJ, O’Fallon WM, Melton LJ. Populationbased study of survival after osteoporotic fractures. Am J Epidemiol.\n1993;137(9):1001-1005. doi:10.1093/oxfordjournals.aje.a116756\n15. Kanis JA, Oden A, Johnell O, De Laet C, Jonsson B, Oglesby AK. The\n\ncomponents of excess mortality after hip fracture. Bone. 2003;32(5):468473. doi:10.1016/S8756-3282(03)00061-9\n16. Liu J, Curtis EM, Cooper C, Harvey NC. State of the art in osteoporosis risk",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00023",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -16173,8 +15785,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "assessment and treatment. J Endocrinol Invest. 2019;42(10):1149-1164.\ndoi:10.1007/s40618-019-01041-6\n17. Giangregorio LM, McGill S, Wark JD, et al. Too fit to fracture: outcomes of a\n\nDelphi consensus process on physical activity and exercise recommendations\nfor adults with osteoporosis with or without vertebral fractures. Osteoporos Int.\n2015;26(3):891-910. doi:10.1007/s00198-014-2881-4\n18. Warden SJ, Hurst JA, Sanders MS, Turner CH, Burr DB, Li J. Bone\n\nadaptation to a mechanical loading program significantly increases skeletal\nfatigue resistance. J Bone Miner Res. 2005;20(5):809-816. doi:10.1359/\nJBMR.041222\n19. Warden SJ, Fuchs RK. Exercise and bone health: optimising bone structure\n\nduring growth is key, but all is not in vain during ageing. Br J Sports Med.\n2009;43(12):885-887. doi:10.1136/bjsm.2008.054866\n20. Cauley JA. Public health impact of osteoporosis. J Gerontol A Biol Sci Med\n\nSci. 2013;68(10):1243-1251. doi:10.1093/gerona/glt093\n21. Scottish Intercollegiate Guidelines Network (SIGN). Management of\n\nOsteoporosis and the Prevention of Fragility Fractures. SIGN. (SIGN\npublication no. 142). Published January 2021. Accessed January 18, 2022.\nhttp://www.sign.ac.uk\n22. Stevenson MO, Tangpricha V. Osteoporosis and bone health in transgender\n\npersons. Endocrinol Metab Clin North Am. 2019;48(2):421-427.\ndoi:10.1016/j.ecl.2019.02.006\n23. Tarantino U, Iolascon G, Cianferotti L, et al. Clinical guidelines for\n\nthe prevention and treatment of osteoporosis: summary statements\nand recommendations from the Italian Society for Orthopaedics and\nTraumatology. J Orthop Traumatol. 2017;18(suppl 1):3-36. doi:10.1007/\ns10195-017-0474-7\n24. Hwang J, Chan D, Chen J, et al. Clinical practice guidelines for the\n\nprevention and treatment of osteoporosis in Taiwan: summary. J Bone Miner\nMetab. 2014;32(1):10-16. doi:10.1007/s00774-013-0495-0\n25. Al-Saleh Y, Sulimani R, Sabico S, et al. 2015 Guidelines for osteoporosis in\n\nSaudi Arabia: recommendations from the Saudi Osteoporosis Society. Ann\nSaudi Med. 2015;35(1):1-12. doi:10.5144/0256-4947.2015.1\n26. Compston J, Cooper A, Cooper C, et al. UK clinical guideline for the\n\nprevention and treatment of osteoporosis. Arch Osteoporos. 2017;12(1):43.\ndoi:10.1007/s11657-017-0324-5\n27. Giangregorio LM, Papaioannou A, MacIntyre NJ, et al. Too fit to fracture:\n\nexercise recommendations for individuals with osteoporosis or osteoporotic\nvertebral fracture. Osteoporos Int. 2014;25(3):821-835. doi:10.1007/\ns00198-013-2523-2\n28. Guidelines International Network. Welcome to G-I-N. Published 2021.\n\nAccessed January 18, 2022. https://g-i-n.net/home\n29. ADAPTE Collaboration. The ADAPTE process: resource toolkit for guideline\n\nadaptation. Version 2.0. Published 2010. Accessed January 18, 2022.\nhttps://g-i-n.net/wp-content/uploads/2021/03/ADAPTE-Resource-toolkitMarch-2010.pdf\n30. Brouwers MC, Kho ME, Browman GP, et al. AGREE II: advancing guideline",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00024",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -17172,8 +16784,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "development, reporting and evaluation in health care. Can Med Assoc J.\n2010;182(18):E839-E842. doi:10.1503/cmaj.090449\n31. AGREE Enterprise Web site. AGREE II training tools. Published 2014.\n\nAccessed January 18, 2022. https://www.agreetrust.org/resource-centre/\nagree-ii/agree-ii-training-tools/\n32. Avin KG, Hanke TA, Kirk-Sanchez N, et al. Management of falls in\n\ncommunity-dwelling older adults: clinical guidance statement from the\nAcademy of Geriatric Physical Therapy of the American Physical Therapy\nAssociation. Phys Ther. 2015;95(6):815-834. doi:10.2522/ptj.20140415",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00025",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -17391,8 +17003,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "osteoporosis in postmenopausal women. Cochrane Database Syst Rev.\n2011;(7):CD000333. doi:10.1002/14651858.CD000333.pub2\n34. Caspersen CJ, Powell KE, Christenson GM. Physical activity, exercise, and\n\nphysical fitness: definitions and distinctions for health-related research.\nPublic Heal Rep. 1985;100(2):126-131. Accessed January 18, 2022.\nhttp://europepmc.org/article/med/3920711\n35. American Physical Therapy Association. APTA Clinical Practice Guideline\n\nProcess Manual, Revised. American Physical Therapy Association; 2020.\nAccessed January 18, 2022. https://www.apta.org/patient-care/evidencebased-practice-resources/cpgs/cpg-development/cpg-development-manual\n36. Martyn-St James M, Carroll S. Meta-analysis of walking for preservation of\n\nbone mineral density in postmenopausal women. Bone. 2008;43(3):521531. doi:10.1016/j.bone.2008.05.012\n37. Asikainen TM, Kukkonen-Harjula K, Miilunpalo S. Exercise for health for early\n\npostmenopausal women: a systematic review of randomised controlled trials.\nSport Med. 2004;34(11):753-778. doi:10.2165/00007256-200434110-00004\n38. Martyn-St James M, Carroll S. A meta-analysis of impact exercise on\n\npostmenopausal bone loss: the case for mixed loading exercise programmes.\nBr J Sports Med. 2009;43(12):898-908. doi:10.1136/bjsm.2008.052704\n39. Martyn-St James M, Carroll S. High-intensity resistance training\n\nand postmenopausal bone loss: a meta-analysis. Osteoporos Int.\n2006;17(8):1225-1240. doi:10.1007/s00198-006-0083-4\n40. Li WC, Chen YC, Yang RS, Tsauo JY. Effects of exercise programmes on\n\nquality of life in osteoporotic and osteopenic postmenopausal women: a\nsystematic review and meta-analysis. Clin Rehabil. 2009;23(10):888-896.\ndoi:10.1177/0269215509339002\n41. El-Khoury F, Cassou B, Charles MA, Dargent-Molina P. The effect of fall\n\nprevention exercise programmes on fall induced injuries in community\ndwelling older adults: systematic review and meta-analysis of randomised\ncontrolled trials. BMJ. 2013;347:f6234. doi:10.1136/bmj.f6234\n42. Kemmler W, Häberle L, Von Stengel S. Effects of exercise on fracture\n\nreduction in older adults: a systematic review and meta-analysis. Osteoporos\nInt. 2013;24(7):1937-1950. doi:10.1007/s00198-012-2248-7\n43. Avers D, Brown M. White Paper: strength training for the older adult. J Geriatr\n\nPhys Ther. 2009;32(4):148-153. doi:10.1519/00139143-200932040-00002\n44. Choosing Wisely. American Physical Therapy Association: Five things\n\nphysical therapist and patients should question. Published 2021. Accessed\nJanuary 18, 2022. https://www.choosingwisely.org/societies/americanphysical-therapy-association/\n45. Hart NH, Nimphius S, Rantalainen T, Ireland A, Siafarikas A, Newton\n\nRU. Mechanical basis of bone strength: influence of bone material,\n\nbone structure and muscle action. J Musculoskelet Neuronal Interact.\n2017;17(3):114-139. Accessed January 18, 2022. https://www.ncbi.nlm.\nnih.gov/pmc/articles/PMC5601257/\n46. Marín-Cascales E, Alcaraz PE, Ramos-Campo DJ, Martinez-Rodriguez A,",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00026",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -18312,8 +17924,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Chung LH, Rubio-Arias J. Whole-body vibration training and bone health in\npostmenopausal women: a systematic review and meta-analysis. Medicine\n(Baltimore). 2018;97(34):e11918. doi:10.1097/MD.0000000000011918\n47. Ma D, Wu L, He Z. Effects of walking on the preservation of bone mineral\n\ndensity in perimenopausal and postmenopausal women: a systematic review\nand meta-analysis. Menopause. 2013;20(11):1216-1226. doi:10.1097/\ngme.0000000000000100\n48. Martyn-St James M, Carroll S. Effects of different impact exercise modalities\n\non bone mineral density in premenopausal women: a meta-analysis. J Bone\nMiner Metab. 2010;28(3):251-267. doi:10.1007/s00774-009-0139-6\n49. Martyn-St James M, Carroll S. Progressive high-intensity resistance training\n\nand bone mineral density changes among premenopausal women evidence\nof discordant site-specific skeletal effects. Sport Med. 2006;36(8):683-704.\ndoi:10.2165/00007256-200636080-00005\n50. Kelley GA, Kelley KS, Kohrt WM. Exercise and bone mineral density in men:\n\na meta-analysis of randomized controlled trials. Bone. 2013;53(1):103-111.\ndoi:10.1016/j.bone.2012.11.031\n51. Bolam KA, Van Uffelen JGZ, Taaffe DR. The effect of physical exercise on\n\nbone density in middle-aged and older men: a systematic review. Osteoporos\nInt. 2013;24(11):2749-2762. doi:10.1007/s00198-013-2346-1\n52. US Department of Health & Human Services. Physical Activity Guidelines\n\nfor Americans, 2nd Edition. US Department of Health & Human Services;\n2018. Accessed January 18, 2022. https://health.gov/sites/default/\nfiles/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf\n53. Centers for Medicare and Medicaid Services. Your Medicare coverage:\n\nphysical therapy. Accessed January 18, 2022. https://www.medicare.gov/\ncoverage/physical-therapy\n54. Centers for Medicare & Medicaid Services. Jimmo settlement. Updated\n\nDecember 1, 2021. Accessed January 18, 2022. https://www.cms.gov/\nCenter/Special-Topic/Jimmo-Center\n55. Healthy People 2020, Office of Disease Prevention and Health Promotion,\n\nUS Department of Health & Human Services. Social determinants of health.\nPublished 2014. Updated December 28, 2021. Accessed January 18,\n2022.\nhttps://www.healthypeople.gov/2020/topics-objectives/topic/socialdeterminants-health/interventions-resources\n56. Gómez-Cabello A, Ara I, González-Agüero A, Casajús JA, Vicente-Rodríguez G.\n\nEffects of training on bone mass in older adults: a systematic review. Sport Med.\n2012;42(4):301-325. doi:10.2165/11597670-000000000-00000\n\nJOURNAL OF Geriatric Physical Therapy\nE119",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "Physical Therapist Management of Patients With Suspected or Confirmed Osteoporosis_chunk_00027",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,

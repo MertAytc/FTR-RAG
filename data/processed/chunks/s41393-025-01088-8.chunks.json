@@ -1,38 +1,37 @@
 {
   "schema_version": "2.3",
-  "chunker_version": "structure-aware-multifamily-2.14",
+  "chunker_version": "structure-aware-multifamily-2.14-no-tables",
   "document": "s41393-025-01088-8.pdf",
   "doc_family": "GENERIC",
   "organization": null,
   "year": 2025,
   "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
   "statistics": {
-    "chunk_count": 24,
+    "chunk_count": 22,
     "chunk_type_distribution": {
       "paragraph": 12,
-      "table": 2,
       "references": 10
     },
     "short_under_30_count": 2,
-    "short_under_30_ratio": 0.0833,
+    "short_under_30_ratio": 0.0909,
     "short_under_30_excluding_atomic_count": 0,
     "short_under_30_excluding_atomic_ratio": 0.0,
     "small_chunk_thresholds_all_chunks": {
       "under_10": {
         "count": 1,
-        "ratio": 0.0417
+        "ratio": 0.0455
       },
       "under_20": {
         "count": 2,
-        "ratio": 0.0833
+        "ratio": 0.0909
       },
       "under_30": {
         "count": 2,
-        "ratio": 0.0833
+        "ratio": 0.0909
       },
       "under_50": {
         "count": 2,
-        "ratio": 0.0833
+        "ratio": 0.0909
       }
     },
     "small_chunk_thresholds_excluding_atomic": {
@@ -53,13 +52,13 @@
         "ratio": 0.0
       }
     },
-    "median_chars": 1809.0,
-    "average_chars": 1620.62,
+    "median_chars": 2210.0,
+    "average_chars": 1676.36,
     "min_chars": 10,
     "max_chars": 2976,
-    "median_tokens": 452.0,
+    "median_tokens": 552.5,
     "median_tokens_excluding_atomic": 639.5,
-    "average_tokens": 405.17,
+    "average_tokens": 419.09,
     "min_tokens": 2,
     "max_tokens": 744,
     "chunks_over_char_target": 0,
@@ -69,12 +68,12 @@
     "recommendation_strength_filled_count": 0,
     "recommendation_grade_system_distribution": {},
     "reference_chunks_excluded_from_embedding": 10,
-    "table_chunk_count": 2,
+    "table_chunk_count": 0,
     "appendix_chunk_count": 0,
     "section_path_top5": [
       [
         "(no heading)",
-        12
+        10
       ],
       [
         "REFERENCES",
@@ -86,11 +85,11 @@
       ]
     ],
     "chunks_missing_section_id": 0,
-    "legacy_chunk_id_matched_count": 12,
-    "legacy_chunk_id_unmatched_count": 12,
+    "legacy_chunk_id_matched_count": 0,
+    "legacy_chunk_id_unmatched_count": 0,
     "orphan_chunk_definition": "chunk with empty section_path; structural diagnostic, not necessarily an error",
-    "orphan_chunk_count": 12,
-    "orphan_chunk_ratio": 0.5,
+    "orphan_chunk_count": 10,
+    "orphan_chunk_ratio": 0.4545,
     "orphan_chunk_samples": [
       {
         "chunk_id": "0f4a354c40d6d71d0dd09dcb",
@@ -123,16 +122,6 @@
         "text_preview": "Assessment of risk of bias The risk of bias in each trial was assessed by one reviewer and checked by another reviewer using the Cochrane Risk of Bias tool (RoB 2) that categorises"
       },
       {
-        "chunk_id": "6d45ea24dfed2708facac367",
-        "chunk_type": "table",
-        "token_count": 272,
-        "char_count": 1088,
-        "page_start": 3,
-        "section_path": [],
-        "recommendation_id_source": null,
-        "text_preview": "Evidence Recommendation Explanation | Evidence Recommendation | Strong evidence recommendation FOR | The guideline panel is confident that they can recommend the intervention based"
-      },
-      {
         "chunk_id": "bba41668c354e591dbd6fd8b",
         "chunk_type": "paragraph",
         "token_count": 658,
@@ -151,16 +140,6 @@
         "section_path": [],
         "recommendation_id_source": null,
         "text_preview": "Development of consensus-based opinion statements Consensus-based opinion statements were developed for one of two reasons. First, if no evidence from RCTs was found. Second, if th"
-      },
-      {
-        "chunk_id": "3daaced95119f1e8319f2930",
-        "chunk_type": "table",
-        "token_count": 232,
-        "char_count": 927,
-        "page_start": 4,
-        "section_path": [],
-        "recommendation_id_source": null,
-        "text_preview": "Consensus-based opinion statements | Explanation Strong consensus FOR | The guideline panel is confident that they can recommend the intervention based on opinion. A statement is m"
       },
       {
         "chunk_id": "f8384367b79a01f9d295e83c",
@@ -191,9 +170,29 @@
         "section_path": [],
         "recommendation_id_source": null,
         "text_preview": "Second, a weak evidence recommendation was made in favour of hand cycling to improve fitness. The results indicate that hand cycling is better than no intervention to improve fitne"
+      },
+      {
+        "chunk_id": "b20b7423361c4ac48a76b69c",
+        "chunk_type": "paragraph",
+        "token_count": 721,
+        "char_count": 2883,
+        "page_start": 5,
+        "section_path": [],
+        "recommendation_id_source": null,
+        "text_preview": "DISCUSSION This paper reports on the first comprehensive CPG for the physiotherapy management of people with SCI. Fourteen evidence-based recommendations and 85 consensus-based opi"
+      },
+      {
+        "chunk_id": "c5077bcc2faa26f20a812f75",
+        "chunk_type": "paragraph",
+        "token_count": 372,
+        "char_count": 1489,
+        "page_start": 5,
+        "section_path": [],
+        "recommendation_id_source": null,
+        "text_preview": "The CPG is not without limitations. First, our list of PICOs does not cover all interventions and comparisons that physiotherapists commonly use as part of routine management. Howe"
       }
     ],
-    "chunks_without_source_spans_count": 2,
+    "chunks_without_source_spans_count": 0,
     "chunks_without_page_metadata_count": 0,
     "recommendation_chunks_without_recommendation_id_count": 0,
     "recommendation_id_extracted_count": 0,
@@ -206,8 +205,15 @@
     },
     "duplicate_normalized_text_extra_chunks_count": 0,
     "duplicate_normalized_text_groups_sample": [],
-    "source_words_not_found_in_chunks_count": 0,
-    "source_words_not_found_in_chunks_sample": [],
+    "source_words_not_found_in_chunks_count": 6,
+    "source_words_not_found_in_chunks_sample": [
+      "cannot",
+      "confident",
+      "definately",
+      "definitely",
+      "explanation",
+      "probably"
+    ],
     "text_coverage_check": "diagnostic_unique_word_set_not_proof_of_zero_loss",
     "broken_text_chunk_count": 0,
     "broken_text_chunk_samples": [],
@@ -225,8 +231,7 @@
     "recommendation_detection_warning": "No recommendation chunks detected",
     "recommendation_id_warning": null,
     "quality_flags": [
-      "12 chunk(s) have empty section_path",
-      "2 chunk(s) have no source_spans"
+      "10 chunk(s) have empty section_path"
     ]
   },
   "chunks": [
@@ -255,8 +260,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "The recommendations and statements from the Australian and\nNew Zealand CPG are reported within this paper. The aims of this\npaper are to describe the methodology used to generate our CPG\nand\nto\nprovide\nan\noverview\nof\nthe\nkey\nevidence-based\nrecommendations\nand\nconsensus-based\nopinion\nstatements\ncomprising the CPG.\n\nMETHODS\nA Grading of Recommendations Assessment, Development and\nEvaluation (GRADE) approach was used to develop recommendations [4, 6]. Guidance from the NHMRC was used to develop\nconsensus-based opinion statements with accompanying clinical\nnotes [5]. The process used is outlined below with a full\ndescription of the methodology detailed in Supplementary 1.\n\nPICO questions\nOver 100 questions were decided a priori and presented in PICO\nformat. PICO questions were based on interventions that were\nroutine clinical practice within the Australian and New Zealand\ncontext and were written by the Guideline panel. In most PICOs\nthe “comparison” was no intervention (or a sham intervention).\nHowever, in some of the PICOs, the “comparison” was another\nintervention to reflect the common decisions physiotherapists\noften need to make when posed with two treatment options. The\npanel met to discuss the drafted PICO questions which were then\nadopted, rejected, or changed. The PICO questions can be found\nin Supplementary 1. They do not cover the full scope of\nphysiotherapy practice but do reflect the questions prioritised\nby the panel.\n\nSystematic reviews of the evidence\nA systematic review was conducted on each PICO. The aim of each\nsystematic review was to determine the effectiveness of each\nphysiotherapy intervention compared with no intervention, a\nsham intervention or another physiotherapy intervention on\noutcomes of impairment, activity limitation or participation as\ndefined by the PICO. The types of studies, participants, interventions, comparisons and outcomes captured are outlined below.\n\nTypes of studies\nPublished randomised controlled trials (RCTs) and randomised\ncontrolled cross over trials were included. Trials with more than\ntwo parallel comparisons were included if two of the comparisons\nmet the inclusion criteria. If trials were reported in more than one\npublication, then the most recent publication was used. Only trials\npublished in English were included.\n\nTypes of participants\nAdults (>16 years) with a traumatic or non-traumatic SCI were\nincluded. Trials with a mixture of participants with different\nneurological conditions were only included if 80% or greater of\nparticipants within the trial had a SCI. Trials which had participants\nwith a congenital condition involving the spinal cord such as spina\nbifida were excluded.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00001",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -4437,8 +4442,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Types of interventions and comparisons\nAll physiotherapy interventions identified in the list of PICOs were\nincluded (see Supplementary 1). Trials were included if they compared\nthe interventions of interest with no intervention or a sham\nintervention or an alternate intervention identified in the PICO. Trials\nthat included a co-intervention or usual care were included if the cointerventions or usual care were administered to both groups.\n\nTypes of outcome measures\nTrials were included that contained an outcome relevant to each\nPICO. These typically included measures of impairment, activity\nlimitation or participation restriction.\n\nSearch methods for identification of studies\nThe following electronic databases were searched to identify\nreports of relevant studies: Ovid MEDLINE (1946 to August 13th\n2020); Ovid EMBASE (1974 to August 13th 2020); EBSCO CINAHL\nPlus\n(1937\nto\nAugust\n13th\n2020);\nPhysiotherapy\nEvidence\nDatabase (PEDro) (Searched August 13th 2020) and CENTRAL on\nAugust 13th 2020. To search Medline and Embase we used the\nOVID search strategy for RCTs combined with search terms for SCI.\nTo search CINAHL we used the Cochrane search strategy for RCTs\ncombined with search terms for SCI. To search PEDro we used\ncategory Neurotrauma combined with category RCTs. To search\nCentral we used terms for SCI. In addition, we searched the\nreference lists of all identified RCTs and systematic reviews. The\nsearch strategies can be found in Supplementary 1.\n\nSelection of studies and collation of data\nTwo authors independently screened the identified titles and\nabstracts using the pre-defined inclusion criteria detailed above.\nFull texts were then retrieved to confirm eligibility. Each included\nstudy was then matched to each PICO question. Disagreements\nthroughout the process were resolved by discussion.\n\nData were extracted from the studies and recorded on an excel\nspreadsheet. One author independently extracted descriptive data\nincluding methodology, participant characteristics and group\ncharacteristics. Two authors independently extracted data to\ndetermine mean between-group differences and 95% confidence\nintervals (95% CI) for continuous data. This included outcome\nscores and number of participants overall and in each group. Data\nwere estimated from graphs if necessary. Mean between-group\ndifference in post-intervention scores were prioritised. Where this\nwas not provided, mean and standard deviation (SD) of change\nscores followed by mean (SD) of post-intervention scores were\nused. If medians and inter-quartile ranges (IQR) were provided,\nmedians were extracted and used as means, and SDs were\nestimated by dividing the interquartile range by 1.35. Cross-over\nstudies were analysed using first period data or combined data if\nfirst period were not available. RevMan 5.4.1 software was used to\ncalculate data where necessary.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00002",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -9165,8 +9170,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Assessment of risk of bias\nThe risk of bias in each trial was assessed by one reviewer and\nchecked by another reviewer using the Cochrane Risk of Bias tool\n(RoB 2) that categorises bias as low, high or unclear (due to a lack\nof information or uncertainty) for each domain [9]. The domains\nassessed were potential bias arising from: the randomisation\nprocess; deviations from intended interventions; missing outcome\ndata; measurement of the outcome; selection of the reported\nresult. The PEDro score for each study was also extracted from the\nPEDro website (www.pedro.org.au). An author determined the\nPEDro score for any study that was not on the website.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00003",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -10121,82 +10126,6 @@
           }
         ],
         "prev_chunk_id": "8f30c557afeda840aa72e5b8",
-        "next_chunk_id": "6d45ea24dfed2708facac367"
-      }
-    },
-    {
-      "chunk_id": "6d45ea24dfed2708facac367",
-      "text": "Evidence Recommendation Explanation | \nEvidence Recommendation | \nStrong evidence recommendation FOR | The guideline panel is confident that they can recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should be implemented.\nWeak evidence recommendation FOR | The guideline panel is confident that they can probably recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention may be implemented.\nWeak evidence recommendation AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nthe evidence.\nA recommendation is made that the intervention should not be implemented.\nStrong evidence recommendation\nAGAINST | The guideline panel is confident that they cannot recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should definitely not be implemented.\nNo recommendation | The guideline panel is unable to recommend for or against the intervention based on the\nevidence. A consensus-based opinion statement is made.",
-      "embedding_text": "Evidence Recommendation Explanation | \nEvidence Recommendation | \nStrong evidence recommendation FOR | The guideline panel is confident that they can recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should be implemented.\nWeak evidence recommendation FOR | The guideline panel is confident that they can probably recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention may be implemented.\nWeak evidence recommendation AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nthe evidence.\nA recommendation is made that the intervention should not be implemented.\nStrong evidence recommendation\nAGAINST | The guideline panel is confident that they cannot recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should definitely not be implemented.\nNo recommendation | The guideline panel is unable to recommend for or against the intervention based on the\nevidence. A consensus-based opinion statement is made.",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "s41393-025-01088-8.pdf",
-        "doc_version": null,
-        "doc_family": "GENERIC",
-        "organization": null,
-        "year": 2025,
-        "section_id": "03ddf8c00c62ffa3",
-        "section_path": [],
-        "heading_level": 0,
-        "page_start": 3,
-        "page_end": 3,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Evidence Recommendation Explanation | \nEvidence Recommendation | \nStrong evidence recommendation FOR | The guideline panel is confident that they can recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should be implemented.\nWeak evidence recommendation FOR | The guideline panel is confident that they can probably recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention may be implemented.\nWeak evidence recommendation AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nthe evidence.\nA recommendation is made that the intervention should not be implemented.\nStrong evidence recommendation\nAGAINST | The guideline panel is confident that they cannot recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should definitely not be implemented.\nNo recommendation | The guideline panel is unable to recommend for or against the intervention based on the\nevidence. A consensus-based opinion statement is made.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00004",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 272,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": "Table 1.\nSummary of the hierarchy of the evidence recommendations.",
-        "table_rows": [
-          [
-            "Evidence Recommendation Explanation",
-            null
-          ],
-          [
-            "Evidence Recommendation",
-            null
-          ],
-          [
-            "Strong evidence recommendation FOR",
-            "The guideline panel is confident that they can recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should be implemented."
-          ],
-          [
-            "Weak evidence recommendation FOR",
-            "The guideline panel is confident that they can probably recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention may be implemented."
-          ],
-          [
-            "Weak evidence recommendation AGAINST",
-            "The guideline panel is confident that they probably cannot recommend the intervention based on\nthe evidence.\nA recommendation is made that the intervention should not be implemented."
-          ],
-          [
-            "Strong evidence recommendation\nAGAINST",
-            "The guideline panel is confident that they cannot recommend the intervention based on the\nevidence.\nA recommendation is made that the intervention should definitely not be implemented."
-          ],
-          [
-            "No recommendation",
-            "The guideline panel is unable to recommend for or against the intervention based on the\nevidence. A consensus-based opinion statement is made."
-          ]
-        ],
-        "bbox": [
-          45.35,
-          76.71,
-          559.39,
-          236.24
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "426950d3ae994dddbfdefc38",
         "next_chunk_id": "bba41668c354e591dbd6fd8b"
       }
     },
@@ -10225,8 +10154,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Summary is based on the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. Source: www.sciptguide.com.\n\nAssessment of certainty of evidence\nThe evidence from each systematic review for each PICO was\nindependently graded for certainty by two reviewers. The GRADE\napproach was used to define the certainty of the evidence as very\nlow, low, moderate or high (not to be confused with the GRADE\napproach used to make recommendations) [4].\n\nThe CPG development committee\nA CPG Development Committee (also known as a panel) was\nformed to create the CPG. They represented physiotherapists,\nacademics, consumers and other related healthcare professionals:\nall with either professional or lived experience of SCI (see\nSupplementary 1). Some panel members voted on all recommendations and others voted on just the areas they had expertise in.\nThey were all initially trained in reading and interpreting results of\nRCTs and the GRADE methodology.\n\nDevelopment of evidence-based recommendations\nThe Guideline panel used the GRADE approach for the development of recommendations (not to be confused with the GRADE\napproach used to assess the certainty of evidence). This approach\nis\nbased\non\nthe\nGRADE\nhandbook\n[4].\nThe\npanel\nmade\nrecommendations for each outcome based on a standardised\nprocess that included voting. Each recommendation required 75%\nagreement by the Guideline panel within three rounds of voting.\nPanel members needed to vote each time in one of four ways.\nThat is, they needed to vote strongly or weakly in favour of an\nintervention, or strongly or weakly against an intervention. A\ndetailed flow chart of the decision-making process can be found\nin Supplementary 1.\n\nAll evidence recommendations were made by initially considering the size and precision of treatment effects along with the\nquality of the evidence. The balance between benefits and harms,\nvalues\nand\npreferences,\nresource\nuse\nand\nother\nrelevant\nconsiderations including equity, accessibility and feasibility were\nthen considered. These considerations were documented by two\nauthors on the evidence to decision framework document. The\ndirection of the recommendation was expressed using the\nlanguage described by GRADE as a recommendation for an\nintervention, against an intervention or no recommendation. No\nrecommendation (equivalent to neutral) was made when the\npanel was unable to recommend for or against the intervention\nbased on the evidence (see Table 1).\n\nWhere no recommendation could be made or no evidence\nexisted on which to base a recommendation, the Guideline panel\nvoted on a consensus-based opinion statement.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00004",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -14833,7 +14762,7 @@
             "font": "AdvOT46dcae81"
           }
         ],
-        "prev_chunk_id": "6d45ea24dfed2708facac367",
+        "prev_chunk_id": "426950d3ae994dddbfdefc38",
         "next_chunk_id": "0979aba179119e07dfad314a"
       }
     },
@@ -14862,8 +14791,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Development of consensus-based opinion statements\nConsensus-based opinion statements were developed for one\nof two reasons. First, if no evidence from RCTs was found.\nSecond, if the RCT or results of two or more RCTs were\ninconclusive or insufficient to decide on an evidence recommendation. Consensus-based opinion statements were made\nbased on the opinions of the Guideline panel (see Table 2).\nConsensus-based opinion statements required 75% agreement\nby the panel within three rounds of voting. Panel members\nneeded to vote each time in one of four ways. That is, they\nneeded to vote strongly or weakly in favour of an intervention,\nor\nstrongly\nof\nweakly\nagainst an\nintervention.\nThe\nfinal\nconsensus-based opinion statements were expressed in one\nof these four ways. If 75% agreement was not achieved after\nthree rounds of voting, then no consensus-based opinion\nstatement was provided.\n\nDevelopment of clinical notes\nClinical notes were written to accompany evidence recommendations and consensus-based opinion statements where required.\nThese clinical notes were written by and based on the expert\nopinion of the panel.\n\nReview of the guidelines by stakeholders\nThe CPG was sent out to 20 stakeholders not involved in the\nguideline development process. These stakeholders provided\ndetailed feedback. Any feedback that led to revisions was\napproved by the Guideline Panel. Future updates or an assessment for the need for updates was recommended on review. This\nis planned to occur within five years of launching of the CPG.\n\nRESULTS\nSeventy-six RCTs met the inclusion criteria for the systematic\nreviews. These RCTs informed 20 meta-analyses that were used to\nmake evidence-based recommendations and consensus-based\nopinion statements on 13 clinical areas within the CPG. Eleven of\nthese clinical areas will be considered in this paper (58 RCTs and\n18 meta-analyses). Two clinical areas related to respiratory\nmanagement (lung volumes and respiratory muscle strength;\ncough and secretion clearance) will be reported in an additional\npaper (18 RCTs and 2 meta-analyses). The overall list of evidencebased recommendations and consensus-based opinion statements, accompanying meta-analysis and information used to\nmake decisions can be viewed in Supplementary 1 and on\nwww.sciptguide.com.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00005",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -19120,78 +19049,6 @@
           }
         ],
         "prev_chunk_id": "bba41668c354e591dbd6fd8b",
-        "next_chunk_id": "3daaced95119f1e8319f2930"
-      }
-    },
-    {
-      "chunk_id": "3daaced95119f1e8319f2930",
-      "text": "Consensus-based opinion statements | Explanation\nStrong consensus FOR | The guideline panel is confident that they can recommend the intervention based on opinion.\nA statement is made that the intervention should be implemented.\nWeak consensus FOR | The guideline panel is confident that they can probably recommend the intervention based on\nopinion.\nA statement is made that the intervention may be implemented.\nWeak consensus AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nopinion.\nA statement is made that the intervention should not be implemented.\nStrong consensus AGAINST | The guideline panel is confident that they cannot recommend the intervention based on opinion.\nA statement is made that the intervention should definately not be implemented.\nNo consensus | The guideline panel is unable to make a statement for or against the intervention based on opinion.",
-      "embedding_text": "Consensus-based opinion statements | Explanation\nStrong consensus FOR | The guideline panel is confident that they can recommend the intervention based on opinion.\nA statement is made that the intervention should be implemented.\nWeak consensus FOR | The guideline panel is confident that they can probably recommend the intervention based on\nopinion.\nA statement is made that the intervention may be implemented.\nWeak consensus AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nopinion.\nA statement is made that the intervention should not be implemented.\nStrong consensus AGAINST | The guideline panel is confident that they cannot recommend the intervention based on opinion.\nA statement is made that the intervention should definately not be implemented.\nNo consensus | The guideline panel is unable to make a statement for or against the intervention based on opinion.",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "s41393-025-01088-8.pdf",
-        "doc_version": null,
-        "doc_family": "GENERIC",
-        "organization": null,
-        "year": 2025,
-        "section_id": "03ddf8c00c62ffa3",
-        "section_path": [],
-        "heading_level": 0,
-        "page_start": 4,
-        "page_end": 4,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Consensus-based opinion statements | Explanation\nStrong consensus FOR | The guideline panel is confident that they can recommend the intervention based on opinion.\nA statement is made that the intervention should be implemented.\nWeak consensus FOR | The guideline panel is confident that they can probably recommend the intervention based on\nopinion.\nA statement is made that the intervention may be implemented.\nWeak consensus AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on\nopinion.\nA statement is made that the intervention should not be implemented.\nStrong consensus AGAINST | The guideline panel is confident that they cannot recommend the intervention based on opinion.\nA statement is made that the intervention should definately not be implemented.\nNo consensus | The guideline panel is unable to make a statement for or against the intervention based on opinion.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00007",
-        "legacy_chunk_id_source": "matched_prior_chunk",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 232,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": "Table 2.\nSummary of the hierarchy of the consensus-based opinion statements.",
-        "table_rows": [
-          [
-            "Consensus-based opinion statements",
-            "Explanation"
-          ],
-          [
-            "Strong consensus FOR",
-            "The guideline panel is confident that they can recommend the intervention based on opinion.\nA statement is made that the intervention should be implemented."
-          ],
-          [
-            "Weak consensus FOR",
-            "The guideline panel is confident that they can probably recommend the intervention based on\nopinion.\nA statement is made that the intervention may be implemented."
-          ],
-          [
-            "Weak consensus AGAINST",
-            "The guideline panel is confident that they probably cannot recommend the intervention based on\nopinion.\nA statement is made that the intervention should not be implemented."
-          ],
-          [
-            "Strong consensus AGAINST",
-            "The guideline panel is confident that they cannot recommend the intervention based on opinion.\nA statement is made that the intervention should definately not be implemented."
-          ],
-          [
-            "No consensus",
-            "The guideline panel is unable to make a statement for or against the intervention based on opinion."
-          ]
-        ],
-        "bbox": [
-          35.89,
-          76.71,
-          549.38,
-          204.15
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "0979aba179119e07dfad314a",
         "next_chunk_id": "f8384367b79a01f9d295e83c"
       }
     },
@@ -19220,8 +19077,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Source: www.sciptguide.com.\n\nOverall principles of physiotherapy management\nEighteen statements about the overall principles of physiotherapy\nmanagement were voted on by the panel. There were no RCTs to\ninform these decisions hence these overall principles are all\nconsensus-based statements.\n\nMotor skills\nTwenty-four PICOs related to motor skills were voted on by the\npanel. Two weak evidence-based recommendations in favour of\nskill training were made. A weak evidence-based recommendation\nwas made in favour of manual wheelchair skills training to\nimprove manual wheelchair skills. The pooled results of the metaanalysis indicated that manual wheelchair skills training is better\nthan\nno\nintervention\nto\nimprove\nmanual\nwheelchair\nskills\n(Standardised mean difference and 95% CI; 0.7 (0 to 1.4); see\nSupplementary 1) [10–13]. A weak evidence-based recommendation was also made in favour of virtual reality sitting training to\nimprove sitting balance in people with SCI. The trial results\nindicate that virtual reality sitting training is better than no\nintervention to improve sitting balance (Mean difference and 95%\nCI; 63 mm (38 to 89); see Supplementary 1) [14]. These two\nrecommendations were formed considering the results of RCTs\nalongside other factors and the very low certainty of evidence (as\nper GRADE). Thirteen strong and seven weak consensus-based\nopinion statements in favour of and two strong consensus-based\nopinion statements against different forms of skill training were\nalso made.\n\nJoint mobility\nNine PICOs related to joint mobility were voted on by the panel.\nOne weak evidence-based recommendation in favour of long\nduration stretch for joint mobility was made. The pooled results\nof the meta-analysis indicate that long duration stretch is better\nthan no intervention to improve joint mobility (Weighted mean\ndifference and 95% CI; 2 degrees (−1 to 5); see Supplementary 1)\n[15–17]. This recommendation was formed considering the results\nof RCTs alongside other factors and the very low certainty of\nevidence (as per GRADE). Eight weak consensus-based opinion\nstatements in favour of different interventions for joint mobility\nwere also made.\n\nPain\nFive PICOs related to pain were voted on by the panel. One weak\nevidence-based recommendation in favour of TENS to improve\npain was made. The pooled results of the meta-analysis indicated\nthat TENS is better than no intervention to improve pain\n(Weighted mean difference and 95% CI; −2 points (−3 to −1);\nsee Supplementary 1) [18, 19]. This recommendation was formed\n\nconsidering the results of one RCT alongside other factors and the\nvery low certainty of evidence (as per GRADE). Three strong and\none weak consensus-based opinion statements in favour of\ndifferent forms of pain interventions were also made.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00006",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -23867,7 +23724,7 @@
             "font": "AdvOT46dcae81"
           }
         ],
-        "prev_chunk_id": "3daaced95119f1e8319f2930",
+        "prev_chunk_id": "0979aba179119e07dfad314a",
         "next_chunk_id": "0deea2770dd1fa7bc645604b"
       }
     },
@@ -23896,8 +23753,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Strength\nFive PICOs related to strength and one related to atrophy were\nvoted on by the panel. Three weak evidence-based recommendations in favour of strength training and one against were made.\nFirst, a weak evidence-based recommendation was made in\nfavour of strength training to improve strength of non-paralysed\nmuscles. The trial results indicate that strength training is better\nthan no intervention to improve strength in fully innervated\nmuscles (Standardised mean difference not possible due to\nstatistical heterogeneity I2 = 78%; see Supplementary 1) [20–22].\nSecond, a weak evidence recommendation was made in favour of\nstrength training to improve strength in partially paralysed\nmuscles. The pooled results of the meta-analysis indicate that\nstrength training is better than no intervention to improve\nstrength in partially paralysed muscles (Standardised mean\ndifference and 95% CI; 0.4 (-0.1 to 0.9); see Supplementary 1)\n[23–25]. Third, a weak evidence recommendation was also made\nin favour of FES cycling to reduce atrophy in paralysed muscles.\nThe pooled results of the meta-analysis indicated that FES cycling\nis better than no intervention to reduce atrophy in paralysed\nmuscles (Standardised mean difference and 95% CI; 3 (2 to 4); See\nSupplementary 1) [26, 27]. A weak evidence recommendation was\nalso made against electrical stimulation alone to improve strength\nin partially paralysed muscles. The trial results indicate that\nelectrical stimulation is not better than no intervention to improve\nstrength in partially paralysed muscles (Mean difference and 95%\nCI; 0 Nm (−0.5 to 0.6); see Supplementary 1) [28]. These four\nevidence-based recommendations were formed considering the\nresults of RCTs alongside other factors and the very low certainty\nof evidence (as per GRADE). One weak for and one strong against\nconsensus-based opinion statements were also made for the\ncombination of strength training with electrical stimulation and\nvibration respectively.\n\nCardiorespiratory fitness and health\nSeven PICOs related to cardiorespiratory fitness and health were\nvoted on by the panel. Three weak evidence-based recommendations in favour of fitness training were made. First, a weak\nevidence-based recommendation was made in favour of arm\ncranking to improve fitness. The pooled results of the metaanalysis indicate that arm cranking is better than no intervention\nto improve fitness (Weighted mean difference and 95% CI VO2\npeak; 4.7 ml/kg/min (1.4 to 8.0); see Supplementary 1) [29–31].",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00007",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -28130,8 +27987,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Second, a weak evidence recommendation was made in favour of\nhand cycling to improve fitness. The results indicate that hand\ncycling is better than no intervention to improve fitness (Mean\ndifference and 95% CI VO2 peak; 5.9 ml/kg/min (3.7 to 8.1); see\nSupplementary 1) [32]. Third, a weak evidence recommendation\nwas also made in favour of circuit training for fitness. The pooled\nresults of the meta-analysis indicate that circuit training is better\nthan no intervention to improve fitness (Standardised mean\ndifference and 95% CI; 0.5 (0 to 0.9); see Supplementary 1)\n[21, 33–35]. These three evidence recommendations were formed\nby considering the results of RCTs alongside other factors and the\nvery low certainty of evidence (as per GRADE). Three strong and\none weak consensus-based opinion statements for other fitness\ntraining interventions were also made.\n\nSwelling\nFour PICOs related to interventions to prevent and treat swelling\nwere\nvoted\non\nby\nthe\npanel.\nOne\nweak\nevidence-based\nrecommendation against FES cycling for swelling was made. This\nrecommendation was formed by considering the results of one\nRCT alongside other factors and the very low certainty of evidence\n(as per GRADE). The trial results indicate that FES cycling is not\nbetter than no intervention to improve swelling (Mean difference\nand 95% CI; −0.1 cm (−1.5 to 1.3); see Supplementary 1) [36].\nThree weak consensus-based opinion statements in favour of\ndifferent forms of interventions for swelling were also made.\n\nPostural hypotension\nOne PICO related to abdominal binders for postural hypotension\nwas voted on by the panel. There are no RCTs on this topic. A\nstrong consensus-based opinion statement in favour of abdominal\nbinders to improve postural hypotension was made.\n\nShoulder subluxation\nTwo PICOs related to interventions to prevent and treat shoulder\nsubluxation were voted on by the panel. There are no RCTs on this\ntopic. One strong and one weak consensus-based opinion\nstatement in favour of equipment to support the shoulder and\nneuromuscular stimulation were made respectively.\n\nSpasticity\nFour PICOs related to interventions to prevent and treat spasticity\nwere voted on by the panel. There were three RCTs on these PICOs\nbut evidence-based recommendations could not be made. Two\nweak consensus-based opinion statements for and one against\ninterventions for spasticity were made.\n\nBone mineral density\nOne PICO related to standing for bone mineral density was voted\non by the panel. One RCT was considered, however an evidencebased recommendation or a consensus-based opinion statement\ncould not be made.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00008",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -32585,8 +32442,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "DISCUSSION\nThis paper reports on the first comprehensive CPG for the\nphysiotherapy\nmanagement\nof\npeople\nwith\nSCI.\nFourteen\nevidence-based recommendations and 85 consensus-based opinion statements across 13 clinical areas are described within the\nCPG. These recommendations and statements will be used by\nphysiotherapists, consumers and their caregivers across Australia\nand New Zealand to guide physiotherapy management.\n\nThe first aim of this paper was to describe the methodology\nused to develop the CPG. A priori setting of PICO questions and\nusing a GRADE approach for assessing the certainty of the\nevidence and developing recommendations are key features of\n\nour methodology [4]. Setting a priori PICO questions strengthens\nour CPG because the comparison of interest is defined and the\noutcome of interest pre-specified. The GRADE approach is broad\nand assesses both certainty of evidence and informs development\nof recommendations. Assessing certainty of evidence (as very low,\nlow, moderate and high) is useful as it judges the quality of a body\nof evidence against set criteria. For example, all the evidence\nrecommendations in our CPG rise from very low certainty\nevidence indicating that we have very low confidence in the\neffect estimate. The GRADE approach to developing recommendations is robust. It utilises a framework to develop recommendations that is both transparent and rigorous [4]. This approach has\nbeen widely used in CPGs for other health conditions but it has\nonly been reported once for use in SCI CPGs [37].\n\nThe second aim of the paper was to provide an overview of the\nkey recommendations and consensus-based opinion statements\ncontained within the guideline. Due to the lack of RCT evidence\nour panel was only able to make 14 evidence-based recommendations. Most of our recommendations were consensus-based\nstatements. This is due to the lack of RCTs on the PICO of interest,\nthe RCTs being inconclusive or too low quality for the panel to\ndecide on a definitive evidence recommendation. This highlights\nthat our field is lacking in high quality RCTs from which to make\nclinical recommendations. RCT evidence for people with SCI is low\nacross the board, however it is particularly limited in providing\nguidance for the management of shoulder subluxation, spasticity,\ndecreased bone mineral density and hypotension for which we\ncould only make consensus-based opinion statements. While the\nnumber and quality of RCTs addressing questions relevant to the\nphysiotherapy management of people with SCI are increasing, we\nstill have few studies to answer each PICO question. The majority\nof studies still have major methodological flaws, and the questions\nasked by researchers are not addressing treatments commonly\nused by physiotherapists in clinical practice suggesting inadequate stakeholder engagement in SCI research priority setting and\nstudy design.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00009",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -37352,8 +37209,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "The CPG is not without limitations. First, our list of PICOs does\nnot cover all interventions and comparisons that physiotherapists\ncommonly use as part of routine management. However, it does\ncover the top PICO questions from the perspective of physiotherapists and people with SCI. If feasible, future guidelines will\nupdate current PICOs and incorporate additional questions.\nSecond, some may argue that evidence is broader than systematic\nreviews and RCTs and that lower levels of evidence such as prepost studies should have been included in our CPG. However,\nincluding lower levels of evidence increases the chance of\nintroducing bias. Since bias in these types of research questions\ntends to favour the treatment, we felt that only high levels of\nevidence should be used for the evidence-based recommendations. In addition, our guideline only had panel members from\nAustralia and New Zealand. This may limit generalisability to other\ncountries. Future guidelines with an international panel are\nwarranted to overcome this limitation.\n\nThe CPG for the physiotherapy management of people with SCI\nare being widely implemented across Australia and New Zealand.\nThe uptake of the CPG is supported by qualitative studies that\nidentified barriers and facilitators to implementation. The CPG and\naccompanying website (www.sciptguide.com) are an easily accessible guide for clinical practice. It summarises, interprets and\nexplains the evidence for physiotherapists and for people with SCI.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00010",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -39781,8 +39638,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "REFERENCES",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00013",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00011",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -39844,8 +39701,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "1. Loh E, Mirkowski M, Agudelo AR, Allison DJ, Benton B, Bryce TN, et al. The\nCanPain SCI clinical practice guidelines for rehabilitation management of neuropathic pain after spinal cord injury: 2021 update. Spinal Cord. 2022;60:548–66.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00015",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00012",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -40401,8 +40258,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "2.\n\nTweedy SM, Beckman EM, Geraghty TJ, Theisen D, Perret C, Harvey LA, et al.\n\nExercise and sports science Australia (ESSA) position statement on exercise and\nspinal cord injury.\n\nJ Sci Med Sport.\n\n2017;20:108–15.\n\n3.\n\nMartin Ginis KA, van der Scheer JW, Latimer-Cheung AE, Barrow A, Bourne C,\nCarruthers P, et al.\n\nEvidence-based scientific exercise guidelines for adults with\nspinal cord injury: an update and a new guideline.\n\nSpinal Cord.\n\n2018;56:308–21.\n\n4.\n\nSchünemann HBJ, Brozek J, Guyatt G, Oxman A.\n\nThe grade handbook.\n\nLondon:\nThe Cochrane Collaboration, 2013.\n\n5.\n\nNHMRC.\n\nProcedures and requirements for meeting the 2011 NHMRC standard for\nclinical practice guidelines.\n\nMelbourne: National Health and Medical Research\nCouncil; 2011.\n\n6.\n\nAlonso-Coello P, Schunemann HJ, Moberg J, Brignardello-Petersen R, Akl EA,\nDavoli M, et al.\n\nGRADE Evidence to Decision (EtD) frameworks: a systematic and\ntransparent approach to making well informed healthcare choices.\n\n1: Introduction.\n\nBMJ.\n\n2016;353:i2016.\n\n7.\n\nNunnerley JL, Glinsky JV, Dunn JA, Stavric VA, Haber A, Denis S, et al.\n\nDeveloping\nspinal cord injury physiotherapy clinical practice guidelines: a qualitative study to\ndetermine how physiotherapists and people living with spinal cord injury use\nevidence.\n\nSpinal Cord.\n\n2023;61:160–8.\n\n8.\n\nGlinsky JV, Harvey, LA.\n\nAustralian and New Zealand physiotherapy clinical practice guidelines consortium.\n\nAustralian and New Zealand clinical practice guideline for the physiotherapy management of people with spinal cord injury.\nwww.sciptguide.com.\n\n(2022).\n\nAccessed 7/9/24.\n\n9.\n\nSterne JAC, Savović J, Page MJ, Elbers RG, Blencowe NS, Boutron I, et al.\n\nRoB 2:\na\nrevised\ntool\nfor\nassessing\nrisk\nof\nbias\nin\nrandomised\ntrials.\n\nBMJ.\n\n2019;366:l4898.\n\n10.\n\nKirby RL, Mitchell D, Sabharwal S, McCranie M, Nelson AL.\n\nManual wheelchair\nskills training for community-dwelling veterans with spinal cord injury: a randomized controlled trial.\n\nPLoS ONE.\n\n2016;11:e0168330.\n\n11.\n\nWorobey LA, Kirby RL, Heinemann AW, Krobot EA, Dyson-Hudson TA, Cowan RE,\net al.\n\nWheelchair skills training for people with spinal cord injury: a randomized\ncontrolled trial.\n\nArch Phys Med Rehabil.\n\n2016;97:1777–84.e3.\n\n12.\n\nRice LA, Smith I, Kelleher AR, Greenwald K, Hoelmer C, Boninger ML.\n\nImpact of the\nclinical practice guideline for preservation of upper limb function on transfer\nskills of persons with acute spinal cord injury.\n\nArch Phys Med Rehabil.\n\n2013;94:1230–46.\n\n13.\n\nYeo SS, Kwon JW.\n\nWheelchair skills training for functional activity in adults with\ncervical spinal cord injury.\n\nInt J Sports Med.\n\n2018;39:924–8.\n\n14.\n\nTak S, Choi W, Lee S.\n\nGame-based virtual reality training improves sitting balance\nafter spinal cord injury: A single-blinded, randomized controlled trial.\n\nMed Sci\nTechnol.\n\n2015;56:53–9.\n\n15.\n\nBen M, Harvey L, Denis S, Glinsky J, Goehl G, Chee S, et al.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00018",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00013",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -48953,8 +48810,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Does 12 weeks of\nregular standing prevent loss of ankle mobility and bone mineral density in\npeople with recent spinal cord injuries?\n\nAust J Physiother.\n\n2005;51:251–6.\n\n16.\n\nHarvey LA, Batty J, Crosbie J, Poulter S, Herbert RD.\n\nA randomized trial assessing\nthe effects of 4 weeks of daily stretching on ankle mobility in patients with spinal\ncord injuries.\n\nArch Phys Med Rehabil.\n\n2000;81:1340–7.\n\n17.\n\nHarvey LA, Byak AJ, Ostrovskaya M, Glinsky J, Katte L, Herbert RD.\n\nRandomised\ntrial of the effects of four weeks of daily stretch on extensibility of hamstring\nmuscles in people with spinal cord injuries.\n\nAust J Physiother.\n\n2003;49:176–81.\n\n18.\n\nBi X, Lv H, Chen B-L, Li X, Wang X-Q.\n\nEffects of transcutaneous electrical nerve\nstimulation on pain in patients with spinal cord injury: a randomized controlled\ntrial.\n\nJ Phys Ther Sci.\n\n2015;27:23–5.\n\n19.\n\nCelik EC, Erhan B, Gunduz B, Lakse E.\n\nThe effect of low-frequency TENS in the\ntreatment of neuropathic pain in patients with spinal cord injury.\n\nSpinal Cord.\n\n2013;51:334–7.\n\n20.\n\nMulroy SJ, Thompson L, Kemp B, Hatchett PP, Newsam CJ, Lupold DG, et al.\n\nStrengthening and optimal movements for painful shoulders (STOMPS) in chronic\nspinal cord injury: a randomized controlled trial.\n\nPhys Ther.\n\n2011;91:305–24.\n\n21.\n\nHicks AL, Martin KA, Ditor DS, Latimer AE, Craven C, Bugaresti J, et al.\n\nLong-term\nexercise training in persons with spinal cord injury: effects on strength, arm ergometry performance and psychological well-being.\n\nSpinal Cord.\n\n2003;41:34–43.\n\n22.\n\nYildirim A, Sürücü GD, Karamercan A, Gedik DE, Atci N, Dülgeroǧlu D, et al.\n\nShortterm effects of upper extremity circuit resistance training on muscle strength and\nfunctional independence in patients with paraplegia.\n\nJ Back Musculoskelet\nRehabil.\n\n2016;29:817–23.\n\n23.\n\nBye EA, Harvey LA, Gambhir A, Kataria C, Glinsky JV, Bowden JL, et al.\n\nStrength\ntraining for partially paralysed muscles in people with recent spinal cord injury: a\nwithin-participant randomised controlled trial.\n\nSpinal Cord.\n\n2017;55:460–5.\n\n24.\n\nChen LW, Glinsky JV, Islam MS, Hossain M, Boswell-Ruys CL, Kataria C, et al.\n\nThe\neffects of 10,000 voluntary contractions over 8 weeks on the strength of very\nweak muscles in people with spinal cord injury: a randomised controlled trial.\n\nSpinal Cord.\n\n2020;58:857–64.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00019",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00014",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -57505,8 +57362,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "25.\n\nGlinsky J, Harvey L, Korten M, Drury C, Chee S, Gandevia SC.\n\nShort-term progressive resistance exercise may not be effective at increasing wrist strength in\npeople with tetraplegia: a randomised controlled trial.\n\nAust J Physiother.\n\n2008;54:103–8.\n\n26.\n\nDemchak TJ, Linderman JK, Mysiw WJ, Jackson R, Suun J, Devor ST.\n\nEffects of\nfunctional electric stimulation cycle ergometry training on lower limb musculature in acute sci individuals.\n\nJ Sports Sci Med.\n\n2005;4:263–71.\n\n27.\n\nBaldi JC, Jackson RD, Moraille R, Mysiw WJ.\n\nMuscle atrophy is prevented in\npatients with acute spinal cord injury using functional electrical stimulation.\n\nSpinal Cord.\n\n1998;36:463–9.\n\n28.\n\nGlinsky J, Harvey L, van Es P, Chee S, Gandevia SC.\n\nThe addition of electrical\nstimulation to progressive resistance training does not enhance the wrist\nstrength of people with tetraplegia: a randomized controlled trial.\n\nClin Rehabil.\n\n2009;23:696–704.\n\n29.\n\nNightingale TE, Rouse PC, Walhin JP, Thompson D, Bilzon JLJ.\n\nHome-based\nexercise enhances health-related quality of life in persons with spinal cord injury:\na randomized controlled trial.\n\nArch Phys Med Rehabil.\n\n2018;99:1998–2006.e1.\n\n30.\n\nAkkurt H, Karapolat HU, Kirazli Y, Kose T.\n\nThe effects of upper extremity aerobic\nexercise in patients with spinal cord injury: a randomized controlled study.\n\nEur J\nPhys Rehabil Med.\n\n2017;53:219–27.\n\n31.\n\nTaylor AW, McDonell E, Brassard L.\n\nThe effects of an arm ergometer training\nprogramme on wheelchair subjects.\n\nParaplegia.\n\n1986;24:105–14.\n\n32.\n\nKim DI, Lee H, Lee BS, Kim J, Jeon JY.\n\nEffects of a six-week indoor hand-bike\nexercise program on health and fitness levels in people with spinal cord injury: a\nrandomized controlled trial study.\n\nArch Phys Med Rehabil.\n\n2015;96:2033–40.e1.\n\n33.\n\nKim DI, Taylor JA, Tan CO, Park H, Kim JY, Park SY, et al.\n\nA pilot randomized\ncontrolled trial of 6-week combined exercise program on fasting insulin and\nfitness levels in individuals with spinal cord injury.\n\nEur Spine J.\n\n2019;28:1082–91.\n\n34.\n\nMa JK, West CR, Martin Ginis KA.\n\nThe effects of a patient and provider\nco-developed, behavioral physical activity intervention on physical activity, psychosocial predictors, and fitness in individuals with spinal cord injury: a randomized controlled trial.\n\nSports Med.\n\n2019;49:1117–31.\n\n35.\n\nBombardier CH, Dyer JR, Burns P, Crane DA, Takahashi MM, Barber J, et al.\n\nA telehealth intervention to increase physical fitness in people with spinal cord injury\nand cardiometabolic disease or risk factors: a pilot randomized controlled trial.\n\nSpinal Cord.\n\n2021;59:63–73.\n\n36.\n\nRalston KE, Harvey L, Batty J, Bonsan LB, Ben M, Cusmiani R, et al.\n\nFunctional\nelectrical stimulation cycling has no clear effect on urine output, lower limb\nswelling, and spasticity in people with spinal cord injury: a randomised cross-over\ntrial.\n\nJ Physiother.\n\n2013;59:237–43.\n\n37.\n\nFehlings MG, Tetreault LA, Wilson JR, Aarabi B, Anderson P, Arnold PM, et al.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00016",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00015",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -63574,8 +63431,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "A\nclinical practice guideline for the management of patients with acute spinal\ncord injury and central cord syndrome: recommendations on the timing (≤24 h\nversus >24 h) of decompressive surgery.\n\nGlobal Spine J.\n\n2017;7:95S–202S.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00017",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00016",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -69643,8 +69500,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "ACKNOWLEDGEMENTS\nThe authors wish to acknowledge the team who developed the Australian and New\nZealand Clinical Practice Guidelines for the physiotherapy management of people\nwith SCI. This team can be viewed at www.sciptguide.com.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00020",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00017",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -70135,8 +69992,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "AUTHOR CONTRIBUTIONS\nLAH and JVG conceived the idea for the clinical practice guidelines; JVG, LAH, LR, MM,\nBW, EG, VS, JN, JD, DW led guideline teams in their respective states of Australia and\nacross New Zealand. JVG, LAH, KET, LR, MM, BW, EG, VS. JN, DW, JA, MB, DJB, LB, AB,\nEB, SC, JC, LWC, LD, SD, CD, MD, SD, CF, AH, AI, MK, LM, JM, JM, JM, TM, AN, HP, JP, DR,\nJR, JR, JT, MW, JW, were on the CPG development committee and contributed to\nformation of recommendations and consensus statements and development of the\nclinical practice guidelines; JVG and LAH drafted the manuscript; KET, LR, MM, BW, EG,\nVS. JN, DW, JA, MB, DJB, LB, AB, EB, SC, JC, LWC, LD, SD, CD, MD, SD, CF, AH, AI, MK,\nLM, JM, JM, JM, TM, AN, HP, JP, DR, JR, JR, JT, MW, JW were invited to contribute to\ndevelopment of the manuscript.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00021",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00018",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -71238,8 +71095,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "FUNDING\nThe Clinical Practice Guideline for the physiotherapy management of people with\nspinal cord injuries was funded by icare NSW, National Injury Insurance Scheme\nQueensland, Transport Accident Commission Victoria, and Lifetime Support Authority\nSouth Australia. Open Access funding enabled and organized by CAUL and its\nMember Institutions.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00022",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00019",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -71795,8 +71652,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "COMPETING INTERESTS\nThe authors declare no competing interests.",
-        "legacy_chunk_id": "s41393-025-01088-8_chunk_00023",
-        "legacy_chunk_id_source": "matched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00020",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -71949,8 +71806,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Supplementary information The online version contains supplementary material\navailable at https://doi.org/10.1038/s41393-025-01088-8.\n\nCorrespondence and requests for materials should be addressed to\nJoanne V. Glinsky.\n\nReprints and permission information is available at http://www.nature.com/\nreprints\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims\nin published maps and institutional affiliations.\n\nOpen Access This article is licensed under a Creative Commons\nAttribution 4.0 International License, which permits use, sharing,\nadaptation, distribution and reproduction in any medium or format, as long as you give\nappropriate credit to the original author(s) and the source, provide a link to the Creative\nCommons licence, and indicate if changes were made. The images or other third party\nmaterial in this article are included in the article’s Creative Commons licence, unless\nindicated otherwise in a credit line to the material. If material is not included in the\narticle’s Creative Commons licence and your intended use is not permitted by statutory\nregulation or exceeds the permitted use, you will need to obtain permission directly\nfrom\nthe\ncopyright\nholder.\nTo\nview\na\ncopy\nof\nthis\nlicence,\nvisit\nhttp://\ncreativecommons.org/licenses/by/4.0/.\n\nAUSTRALIAN AND NEW ZEALAND CLINICAL PRACTICE GUIDELINES CONSORTIUM\nJoanne V. Glinsky\n1,2 ✉, Lisa A. Harvey\n1, Keira E. Tranter\n1, Leanne Rees\n3, Mark McDonald3, Brooke Wadsworth\n4,\nEmilie Gollan5, Verna Stavric\n6, Jo Nunnerley\n7, Jennifer Dunn\n7, Deanne Wilson8, Jacqui Agostinello3, Marsha Ben\n9,\nDavid J. Berlowitz10,11, Lynn Blecher12, Adrian Byak13, Elizabeth Bye\n14, Sara Calthorpe15, Jackie Chu\n1, Lydia W. Chen\n16,\nLeisl Davis16, Sophia Denis12, Camila Quel De Oliveira\n17, Mario D’Cruz18, Fernanda Di Natal12, Sheelagh Donohoe8, Ché Fornusek\n19,\nAmanda Haber20, Annie Illman21, Mel Kotze3, Lucy Maugham22, Joanna Mather23, Jennie McCorkell24, Janet McCarthy3,\nTony McDonald25, Anthony Nakhle26, Helen Patterson16, Jai Peach5, Donna Rainey9, Jason Redhead9, Jacqueline Ross\n3,\nJonathan Tang27, Maree Walters28 and Jacqui White9",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00021",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,
@@ -75938,8 +75795,8 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "9Royal Rehab, Sydney, NSW, Australia. 10University of Melbourne, Melbourne, VIC, Australia. 11Austin Health, Melbourne, VIC, Australia. 12Prince of Wales Hospital, South Eastern\nSydney Local Health District, Sydney, NSW, Australia. 13Optimise Your Level Physiotherapy, Sydney, NSW, Australia. 14Neuroscience Research Australia and University of NSW,\nSydney, NSW, Australia. 15The Alfred, Melbourne, VIC, Australia. 16Royal North Shore Hospital, Northern Sydney Local Health District, Sydney, NSW, Australia. 17University of\nTechnology, Sydney, NSW, Australia. 18Australian Quadriplegic Association, Melbourne, VIC, Australia. 19University of Sydney, Sydney, NSW, Australia. 20Northern Beaches\nRehabilitation, Sydney, NSW, Australia. 21South Australian Spinal Cord Injury Service, Adelaide, SA, Australia. 22Queensland Spinal Cord Injuries Service, Brisbane, QLD, Australia.\n23Middlemore hospital, Manukau District, Health New Zealand, Auckland, New Zealand. 24MyTurn Rehabilitation, Brisbane, QLD, Australia. 25Royal Adelaide Hospital, Adelaide, SA,\nAustralia. 26Brisbane, QLD, Australia. 27Granville Family Medical Centre, Sydney, NSW, Australia. 28Auckland Spinal Rehabilitation Unit, Counties Manukau, Health New Zealand,\nAuckland, New Zealand.",
-        "legacy_chunk_id": null,
-        "legacy_chunk_id_source": "unmatched_prior_chunk",
+        "legacy_chunk_id": "s41393-025-01088-8_chunk_00022",
+        "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
         "cor": null,

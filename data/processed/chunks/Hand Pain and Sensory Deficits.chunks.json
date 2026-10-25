@@ -1,6 +1,6 @@
 {
   "schema_version": "2.3",
-  "chunker_version": "structure-aware-multifamily-2.14",
+  "chunker_version": "structure-aware-multifamily-2.14-no-tables",
   "document": "Hand Pain and Sensory Deficits.pdf",
   "doc_family": "JOSPT_APTA",
   "organization": "JOSPT/APTA",

@@ -1,40 +1,39 @@
 {
   "schema_version": "2.3",
-  "chunker_version": "structure-aware-multifamily-2.14",
+  "chunker_version": "structure-aware-multifamily-2.14-no-tables",
   "document": "2022 American College of Rheumatology (ACR) Guideline.pdf",
   "doc_family": "ACR",
   "organization": "American College of Rheumatology",
   "year": 2022,
   "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
   "statistics": {
-    "chunk_count": 46,
+    "chunk_count": 40,
     "chunk_type_distribution": {
       "paragraph": 31,
       "appendix": 3,
       "references": 5,
-      "list_item": 1,
-      "table": 6
+      "list_item": 1
     },
     "short_under_30_count": 4,
-    "short_under_30_ratio": 0.087,
+    "short_under_30_ratio": 0.1,
     "short_under_30_excluding_atomic_count": 3,
     "short_under_30_excluding_atomic_ratio": 0.0857,
     "small_chunk_thresholds_all_chunks": {
       "under_10": {
         "count": 1,
-        "ratio": 0.0217
+        "ratio": 0.025
       },
       "under_20": {
         "count": 2,
-        "ratio": 0.0435
+        "ratio": 0.05
       },
       "under_30": {
         "count": 4,
-        "ratio": 0.087
+        "ratio": 0.1
       },
       "under_50": {
         "count": 7,
-        "ratio": 0.1522
+        "ratio": 0.175
       }
     },
     "small_chunk_thresholds_excluding_atomic": {
@@ -55,13 +54,13 @@
         "ratio": 0.1429
       }
     },
-    "median_chars": 973.5,
-    "average_chars": 1367.63,
+    "median_chars": 937.5,
+    "average_chars": 1343.47,
     "min_chars": 10,
     "max_chars": 2985,
-    "median_tokens": 243.5,
+    "median_tokens": 234.5,
     "median_tokens_excluding_atomic": 243,
-    "average_tokens": 341.87,
+    "average_tokens": 335.82,
     "min_tokens": 2,
     "max_tokens": 746,
     "chunks_over_char_target": 0,
@@ -71,7 +70,7 @@
     "recommendation_strength_filled_count": 0,
     "recommendation_grade_system_distribution": {},
     "reference_chunks_excluded_from_embedding": 5,
-    "table_chunk_count": 6,
+    "table_chunk_count": 0,
     "appendix_chunk_count": 3,
     "section_path_top5": [
       [
@@ -87,11 +86,11 @@
         3
       ],
       [
-        "Table 1.",
-        3
+        "(no heading)",
+        2
       ],
       [
-        "(no heading)",
+        "METHODS",
         2
       ]
     ],
@@ -100,7 +99,7 @@
     "legacy_chunk_id_unmatched_count": 0,
     "orphan_chunk_definition": "chunk with empty section_path; structural diagnostic, not necessarily an error",
     "orphan_chunk_count": 2,
-    "orphan_chunk_ratio": 0.0435,
+    "orphan_chunk_ratio": 0.05,
     "orphan_chunk_samples": [
       {
         "chunk_id": "a346708569b7164b6c556b60",
@@ -123,7 +122,7 @@
         "text_preview": "15University of Buffalo, Buffalo, NY 16Yale School of Medicine, New Haven, CT 17University of Virginia, Charlottesville, VA 18University of Florida, Gainesville, FL 19University of"
       }
     ],
-    "chunks_without_source_spans_count": 6,
+    "chunks_without_source_spans_count": 0,
     "chunks_without_page_metadata_count": 0,
     "recommendation_chunks_without_recommendation_id_count": 0,
     "recommendation_id_extracted_count": 0,
@@ -136,8 +135,109 @@
     },
     "duplicate_normalized_text_extra_chunks_count": 0,
     "duplicate_normalized_text_groups_sample": [],
-    "source_words_not_found_in_chunks_count": 0,
-    "source_words_not_found_in_chunks_sample": [],
+    "source_words_not_found_in_chunks_count": 166,
+    "source_words_not_found_in_chunks_sample": [
+      "201",
+      "205",
+      "252",
+      "253",
+      "270",
+      "271",
+      "327",
+      "328",
+      "354",
+      "355",
+      "378",
+      "379",
+      "386",
+      "387",
+      "408",
+      "409",
+      "410",
+      "413",
+      "415",
+      "416",
+      "417",
+      "418",
+      "419",
+      "437",
+      "438",
+      "453",
+      "454",
+      "466",
+      "467",
+      "510",
+      "511",
+      "517",
+      "518",
+      "538",
+      "539",
+      "543",
+      "544",
+      "563",
+      "564",
+      "572",
+      "573",
+      "86",
+      "87",
+      "accommodations",
+      "accomplish",
+      "adapting",
+      "add",
+      "adjusting",
+      "advice",
+      "aerobics",
+      "aide",
+      "aims",
+      "alignment",
+      "alter",
+      "antioxidants",
+      "app",
+      "arm",
+      "avoid",
+      "balancing",
+      "bands",
+      "bars",
+      "bath",
+      "biking",
+      "botanicals",
+      "built",
+      "button",
+      "canes",
+      "cardiorespiratory",
+      "cell",
+      "combines",
+      "commode",
+      "components",
+      "containing",
+      "controlled",
+      "correct",
+      "counselling",
+      "crutches",
+      "cutters",
+      "cycling",
+      "duties",
+      "elemental",
+      "elliptical",
+      "endurance",
+      "environment",
+      "expenditure",
+      "fasting",
+      "fat",
+      "finger",
+      "fitness",
+      "free",
+      "functional",
+      "gait",
+      "gloves",
+      "gluten",
+      "grab",
+      "handheld",
+      "handled",
+      "herbs",
+      "hiking",
+      "holders"
+    ],
     "text_coverage_check": "diagnostic_unique_word_set_not_proof_of_zero_loss",
     "broken_text_chunk_count": 0,
     "broken_text_chunk_samples": [],
@@ -175,7 +275,6 @@
     "recommendation_id_warning": null,
     "quality_flags": [
       "2 chunk(s) have empty section_path",
-      "6 chunk(s) have no source_spans",
       "4 prose chunk(s) may contain missed recommendations; manual review required"
     ]
   },
@@ -12032,206 +12131,6 @@
           }
         ],
         "prev_chunk_id": "9f749bdb2808151c210c9f3a",
-        "next_chunk_id": "afad1f2cc10200d671ce8447"
-      }
-    },
-    {
-      "chunk_id": "afad1f2cc10200d671ce8447",
-      "text": "Intervention | Description and/or examples\nExercise | \nPhysical activity | Movement of the body requiring energy expenditure.\nExercise | Performance of physical activity in regular and structured manner to improve fitness and health.\nAerobic exercise | Exercise intended to improve cardiorespiratory fitness and muscular endurance. Examples include walking,\nbiking or cycling, running, hiking, aerobics, rowing, swimming, using an elliptical.\nAquatic exercise | Exercise performed in water, containing elements of both aerobic and resistance exercise. Examples include\nswimming, water aerobics, water walking or jogging.\nResistance exercise | Exercise intended to increase muscular strength. Examples include free weights, weight machines, resistance\nbands, Pilates.\nMind-body exercise | Exercise that combines movement, mental focus, and controlled breathing. Examples include yoga, Tai Chi,\nQigong.\nRehabilitation | \nComprehensive\noccupational therapy | Evaluation and treatment by Occupational Therapist with the goal of increasing physical function and\nparticipation. Receives patient-centered individualized treatment. Components of OT services vary and may\ninclude arthritis education, ADL evaluation and training, joint protection, activity pacing, work simplification\nand fatigue management, exercise (particularly for the hand and arm), splinting/orthotics, provision of assistive/\nadaptive devices, environmental adaptations, work and leisure counselling/rehabilitation, work-site assessment,\nsexual advice, relaxation, and pain and stress management training.\nComprehensive physical\ntherapy | Evaluation and treatment by a physical therapist. Components of PT services will vary and should\ninclude exercise. May also include functional training and physical activity, energy conservation, workplace\naccommodations, mobility and gait training, manual therapy, self-management education, electrotherapy,\napplication of orthoses, instruction in assistive devices, pain-management including thermal therapy.\nHand therapy exercises | Exercises of the hand to improve mobility and strength.\nBracing and orthoses | Devices to correct and support musculoskeletal function, improve joint alignment, or protect the joint. Examples\ninclude wrist and finger splints, foot or knee orthoses, compression gloves, taping.\nJoint protection\ntechniques | Self-management approach that aims to maintain function by providing people with ways to alter work methods\nand movement patterns of affected joints to reduce pain, inflammation, and joint stress. Examples include\nchanging the way of performing activities to avoid pain, resting, using alternative muscle groups.\nActivity pacing | Balancing activity and rest to accomplish activities. Includes activity pacing, energy conservation, activity\nmodification, fatigue management techniques.\nAssistive devices | Devices to assist with mobility. Examples include crutches, canes, walkers, wheelchairs, tricycles, scooters.",
-      "embedding_text": "Intervention | Description and/or examples\nExercise | \nPhysical activity | Movement of the body requiring energy expenditure.\nExercise | Performance of physical activity in regular and structured manner to improve fitness and health.\nAerobic exercise | Exercise intended to improve cardiorespiratory fitness and muscular endurance. Examples include walking,\nbiking or cycling, running, hiking, aerobics, rowing, swimming, using an elliptical.\nAquatic exercise | Exercise performed in water, containing elements of both aerobic and resistance exercise. Examples include\nswimming, water aerobics, water walking or jogging.\nResistance exercise | Exercise intended to increase muscular strength. Examples include free weights, weight machines, resistance\nbands, Pilates.\nMind-body exercise | Exercise that combines movement, mental focus, and controlled breathing. Examples include yoga, Tai Chi,\nQigong.\nRehabilitation | \nComprehensive\noccupational therapy | Evaluation and treatment by Occupational Therapist with the goal of increasing physical function and\nparticipation. Receives patient-centered individualized treatment. Components of OT services vary and may\ninclude arthritis education, ADL evaluation and training, joint protection, activity pacing, work simplification\nand fatigue management, exercise (particularly for the hand and arm), splinting/orthotics, provision of assistive/\nadaptive devices, environmental adaptations, work and leisure counselling/rehabilitation, work-site assessment,\nsexual advice, relaxation, and pain and stress management training.\nComprehensive physical\ntherapy | Evaluation and treatment by a physical therapist. Components of PT services will vary and should\ninclude exercise. May also include functional training and physical activity, energy conservation, workplace\naccommodations, mobility and gait training, manual therapy, self-management education, electrotherapy,\napplication of orthoses, instruction in assistive devices, pain-management including thermal therapy.\nHand therapy exercises | Exercises of the hand to improve mobility and strength.\nBracing and orthoses | Devices to correct and support musculoskeletal function, improve joint alignment, or protect the joint. Examples\ninclude wrist and finger splints, foot or knee orthoses, compression gloves, taping.\nJoint protection\ntechniques | Self-management approach that aims to maintain function by providing people with ways to alter work methods\nand movement patterns of affected joints to reduce pain, inflammation, and joint stress. Examples include\nchanging the way of performing activities to avoid pain, resting, using alternative muscle groups.\nActivity pacing | Balancing activity and rest to accomplish activities. Includes activity pacing, energy conservation, activity\nmodification, fatigue management techniques.\nAssistive devices | Devices to assist with mobility. Examples include crutches, canes, walkers, wheelchairs, tricycles, scooters.",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "217be1f8c951a4cb",
-        "section_path": [
-          "Table 1."
-        ],
-        "heading_level": 1,
-        "page_start": 19,
-        "page_end": 19,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Intervention | Description and/or examples\nExercise | \nPhysical activity | Movement of the body requiring energy expenditure.\nExercise | Performance of physical activity in regular and structured manner to improve fitness and health.\nAerobic exercise | Exercise intended to improve cardiorespiratory fitness and muscular endurance. Examples include walking,\nbiking or cycling, running, hiking, aerobics, rowing, swimming, using an elliptical.\nAquatic exercise | Exercise performed in water, containing elements of both aerobic and resistance exercise. Examples include\nswimming, water aerobics, water walking or jogging.\nResistance exercise | Exercise intended to increase muscular strength. Examples include free weights, weight machines, resistance\nbands, Pilates.\nMind-body exercise | Exercise that combines movement, mental focus, and controlled breathing. Examples include yoga, Tai Chi,\nQigong.\nRehabilitation | \nComprehensive\noccupational therapy | Evaluation and treatment by Occupational Therapist with the goal of increasing physical function and\nparticipation. Receives patient-centered individualized treatment. Components of OT services vary and may\ninclude arthritis education, ADL evaluation and training, joint protection, activity pacing, work simplification\nand fatigue management, exercise (particularly for the hand and arm), splinting/orthotics, provision of assistive/\nadaptive devices, environmental adaptations, work and leisure counselling/rehabilitation, work-site assessment,\nsexual advice, relaxation, and pain and stress management training.\nComprehensive physical\ntherapy | Evaluation and treatment by a physical therapist. Components of PT services will vary and should\ninclude exercise. May also include functional training and physical activity, energy conservation, workplace\naccommodations, mobility and gait training, manual therapy, self-management education, electrotherapy,\napplication of orthoses, instruction in assistive devices, pain-management including thermal therapy.\nHand therapy exercises | Exercises of the hand to improve mobility and strength.\nBracing and orthoses | Devices to correct and support musculoskeletal function, improve joint alignment, or protect the joint. Examples\ninclude wrist and finger splints, foot or knee orthoses, compression gloves, taping.\nJoint protection\ntechniques | Self-management approach that aims to maintain function by providing people with ways to alter work methods\nand movement patterns of affected joints to reduce pain, inflammation, and joint stress. Examples include\nchanging the way of performing activities to avoid pain, resting, using alternative muscle groups.\nActivity pacing | Balancing activity and rest to accomplish activities. Includes activity pacing, energy conservation, activity\nmodification, fatigue management techniques.\nAssistive devices | Devices to assist with mobility. Examples include crutches, canes, walkers, wheelchairs, tricycles, scooters.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00032",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 740,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Intervention",
-            "Description and/or examples"
-          ],
-          [
-            "Exercise",
-            null
-          ],
-          [
-            "Physical activity",
-            "Movement of the body requiring energy expenditure."
-          ],
-          [
-            "Exercise",
-            "Performance of physical activity in regular and structured manner to improve fitness and health."
-          ],
-          [
-            "Aerobic exercise",
-            "Exercise intended to improve cardiorespiratory fitness and muscular endurance. Examples include walking,\nbiking or cycling, running, hiking, aerobics, rowing, swimming, using an elliptical."
-          ],
-          [
-            "Aquatic exercise",
-            "Exercise performed in water, containing elements of both aerobic and resistance exercise. Examples include\nswimming, water aerobics, water walking or jogging."
-          ],
-          [
-            "Resistance exercise",
-            "Exercise intended to increase muscular strength. Examples include free weights, weight machines, resistance\nbands, Pilates."
-          ],
-          [
-            "Mind-body exercise",
-            "Exercise that combines movement, mental focus, and controlled breathing. Examples include yoga, Tai Chi,\nQigong."
-          ],
-          [
-            "Rehabilitation",
-            null
-          ],
-          [
-            "Comprehensive\noccupational therapy",
-            "Evaluation and treatment by Occupational Therapist with the goal of increasing physical function and\nparticipation. Receives patient-centered individualized treatment. Components of OT services vary and may\ninclude arthritis education, ADL evaluation and training, joint protection, activity pacing, work simplification\nand fatigue management, exercise (particularly for the hand and arm), splinting/orthotics, provision of assistive/\nadaptive devices, environmental adaptations, work and leisure counselling/rehabilitation, work-site assessment,\nsexual advice, relaxation, and pain and stress management training."
-          ],
-          [
-            "Comprehensive physical\ntherapy",
-            "Evaluation and treatment by a physical therapist. Components of PT services will vary and should\ninclude exercise. May also include functional training and physical activity, energy conservation, workplace\naccommodations, mobility and gait training, manual therapy, self-management education, electrotherapy,\napplication of orthoses, instruction in assistive devices, pain-management including thermal therapy."
-          ],
-          [
-            "Hand therapy exercises",
-            "Exercises of the hand to improve mobility and strength."
-          ],
-          [
-            "Bracing and orthoses",
-            "Devices to correct and support musculoskeletal function, improve joint alignment, or protect the joint. Examples\ninclude wrist and finger splints, foot or knee orthoses, compression gloves, taping."
-          ],
-          [
-            "Joint protection\ntechniques",
-            "Self-management approach that aims to maintain function by providing people with ways to alter work methods\nand movement patterns of affected joints to reduce pain, inflammation, and joint stress. Examples include\nchanging the way of performing activities to avoid pain, resting, using alternative muscle groups."
-          ],
-          [
-            "Activity pacing",
-            "Balancing activity and rest to accomplish activities. Includes activity pacing, energy conservation, activity\nmodification, fatigue management techniques."
-          ],
-          [
-            "Assistive devices",
-            "Devices to assist with mobility. Examples include crutches, canes, walkers, wheelchairs, tricycles, scooters."
-          ]
-        ],
-        "bbox": [
-          77.98,
-          133.83,
-          522.02,
-          690.5
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "72530007558faeeba90f713c",
-        "next_chunk_id": "fb08c6fbcd973ccc30af612d"
-      }
-    },
-    {
-      "chunk_id": "fb08c6fbcd973ccc30af612d",
-      "text": "Intervention | Description and/or examples\nAdaptive equipment | Devices to assist with activities of daily living. Examples include built up and/or long handled equipment, sock\naide, button hook, reachers, pill cutters, cell phone holders.\nEnvironmental\nadaptations | Adapting environment to improve safety. Examples include adaptations for toileting (raised toilet seat, commode,\ntoilet safety rail), showering (tub seat, handheld shower, walk in bath), grab bars, ramps, stair lifts, home\nmodification.\nVocational rehabilitation | Training programs to overcome barriers preventing successful employment.\nWork site evaluation and\nmodifications | Evaluating and adjusting work-site conditions and duties for safety and well-being.\nDietary | \nFormally defined diet | Specific formally defined diets evaluated in this guideline were: anti-inflammatory, Mediterranean-style,\nketogenic, paleo, gluten-free, vegetarian, vegan, intermittent fasting, elemental, elimination, raw foods, whole\nfood plant-based.\nMediterranean-style diet | Diet pattern that emphasizes intake of vegetables, fruits, whole grains, nuts, seeds, and olive oil; moderate\namounts of low-fat dairy and fish; and limits added sugars, sodium, highly processed foods, refined\ncarbohydrates, and saturated fats.\nDietary supplement | Substances used to add nutrients, botanicals, herbs, or microbials (probiotics) to the diet. Specific supplements\nevaluated in this guideline were vitamin D, probiotics, fish oil and omega fatty acids, antioxidants (selenium, zinc,",
-      "embedding_text": "Intervention | Description and/or examples\nAdaptive equipment | Devices to assist with activities of daily living. Examples include built up and/or long handled equipment, sock\naide, button hook, reachers, pill cutters, cell phone holders.\nEnvironmental\nadaptations | Adapting environment to improve safety. Examples include adaptations for toileting (raised toilet seat, commode,\ntoilet safety rail), showering (tub seat, handheld shower, walk in bath), grab bars, ramps, stair lifts, home\nmodification.\nVocational rehabilitation | Training programs to overcome barriers preventing successful employment.\nWork site evaluation and\nmodifications | Evaluating and adjusting work-site conditions and duties for safety and well-being.\nDietary | \nFormally defined diet | Specific formally defined diets evaluated in this guideline were: anti-inflammatory, Mediterranean-style,\nketogenic, paleo, gluten-free, vegetarian, vegan, intermittent fasting, elemental, elimination, raw foods, whole\nfood plant-based.\nMediterranean-style diet | Diet pattern that emphasizes intake of vegetables, fruits, whole grains, nuts, seeds, and olive oil; moderate\namounts of low-fat dairy and fish; and limits added sugars, sodium, highly processed foods, refined\ncarbohydrates, and saturated fats.\nDietary supplement | Substances used to add nutrients, botanicals, herbs, or microbials (probiotics) to the diet. Specific supplements\nevaluated in this guideline were vitamin D, probiotics, fish oil and omega fatty acids, antioxidants (selenium, zinc,",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "217be1f8c951a4cb",
-        "section_path": [
-          "Table 1."
-        ],
-        "heading_level": 1,
-        "page_start": 19,
-        "page_end": 19,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Intervention | Description and/or examples\nAdaptive equipment | Devices to assist with activities of daily living. Examples include built up and/or long handled equipment, sock\naide, button hook, reachers, pill cutters, cell phone holders.\nEnvironmental\nadaptations | Adapting environment to improve safety. Examples include adaptations for toileting (raised toilet seat, commode,\ntoilet safety rail), showering (tub seat, handheld shower, walk in bath), grab bars, ramps, stair lifts, home\nmodification.\nVocational rehabilitation | Training programs to overcome barriers preventing successful employment.\nWork site evaluation and\nmodifications | Evaluating and adjusting work-site conditions and duties for safety and well-being.\nDietary | \nFormally defined diet | Specific formally defined diets evaluated in this guideline were: anti-inflammatory, Mediterranean-style,\nketogenic, paleo, gluten-free, vegetarian, vegan, intermittent fasting, elemental, elimination, raw foods, whole\nfood plant-based.\nMediterranean-style diet | Diet pattern that emphasizes intake of vegetables, fruits, whole grains, nuts, seeds, and olive oil; moderate\namounts of low-fat dairy and fish; and limits added sugars, sodium, highly processed foods, refined\ncarbohydrates, and saturated fats.\nDietary supplement | Substances used to add nutrients, botanicals, herbs, or microbials (probiotics) to the diet. Specific supplements\nevaluated in this guideline were vitamin D, probiotics, fish oil and omega fatty acids, antioxidants (selenium, zinc,",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00033",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 382,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Intervention",
-            "Description and/or examples"
-          ],
-          [
-            "Adaptive equipment",
-            "Devices to assist with activities of daily living. Examples include built up and/or long handled equipment, sock\naide, button hook, reachers, pill cutters, cell phone holders."
-          ],
-          [
-            "Environmental\nadaptations",
-            "Adapting environment to improve safety. Examples include adaptations for toileting (raised toilet seat, commode,\ntoilet safety rail), showering (tub seat, handheld shower, walk in bath), grab bars, ramps, stair lifts, home\nmodification."
-          ],
-          [
-            "Vocational rehabilitation",
-            "Training programs to overcome barriers preventing successful employment."
-          ],
-          [
-            "Work site evaluation and\nmodifications",
-            "Evaluating and adjusting work-site conditions and duties for safety and well-being."
-          ],
-          [
-            "Dietary",
-            null
-          ],
-          [
-            "Formally defined diet",
-            "Specific formally defined diets evaluated in this guideline were: anti-inflammatory, Mediterranean-style,\nketogenic, paleo, gluten-free, vegetarian, vegan, intermittent fasting, elemental, elimination, raw foods, whole\nfood plant-based."
-          ],
-          [
-            "Mediterranean-style diet",
-            "Diet pattern that emphasizes intake of vegetables, fruits, whole grains, nuts, seeds, and olive oil; moderate\namounts of low-fat dairy and fish; and limits added sugars, sodium, highly processed foods, refined\ncarbohydrates, and saturated fats."
-          ],
-          [
-            "Dietary supplement",
-            "Substances used to add nutrients, botanicals, herbs, or microbials (probiotics) to the diet. Specific supplements\nevaluated in this guideline were vitamin D, probiotics, fish oil and omega fatty acids, antioxidants (selenium, zinc,"
-          ]
-        ],
-        "bbox": [
-          77.98,
-          133.83,
-          522.02,
-          690.5
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "afad1f2cc10200d671ce8447",
         "next_chunk_id": "270a9a5b4f0d3809d75422a3"
       }
     },
@@ -12262,7 +12161,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Descriptions and examples of interventions included in the integrative management of rheumatoid arthritis\nguideline.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00034",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00032",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -12307,7 +12206,7 @@
             "font": "Times-Roman"
           }
         ],
-        "prev_chunk_id": "fb08c6fbcd973ccc30af612d",
+        "prev_chunk_id": "72530007558faeeba90f713c",
         "next_chunk_id": "1d49c36d67ed79d8c28f9738"
       }
     },
@@ -12338,7 +12237,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "vitamin A, vitamin C, vitamin E), turmeric, glucosamine, γ-linolenic acid, borage seed oil, evening primrose oil,\nblack currant seed oil, selenium, Boswellia, ginger.\n\nWeight loss\nIntentional loss of body weight. Examples include lifestyle modification through diet and/or exercise, support\ngroups, health coaching, medically-supervised weight loss programs, branded dietary weight loss programs,\nweight loss surgery.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00035",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00033",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -12492,7 +12391,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Self-management\nprogram\n\nCognitive behavioral\ntherapy\n\nPsychological therapy to identify and change thought and behavior patterns.\n\nStandardized program to guide self-management. Examples include Arthritis Self-Management Program, Chronic\nDisease Self-Management Program, Better Choices Better Health, Tomando Control de su Salud, RA SelfManagement Intervention, OPERAS (an On-demand Program to EmpoweR Active Self-management).\n\nMind-body approaches\nPractices engaging both mind and body functions. Examples include biofeedback, goal setting, meditation,\nmindfulness, breathing exercises, progressive muscle relaxation, guided imagery.\n\nAcupuncture\nStimulation of specific body points through insertion of thin needles.\n\nMassage therapy\nRubbing and kneading of muscles and joints with the hands. Examples include Swedish, Deep Tissue, Trigger\nPoint.\n\nThermal modalities\nUse of heat and cold for medical treatment. Examples include cryotherapy, heat, therapeutic ultrasound, infrared\nsauna, paraffin therapy, and laser therapy.\n\nElectrotherapy\nUse of electrical energy for medical treatment. Examples include transcutaneous electrical nerve stimulation\n(TENS), neuro-muscular electrical nerve stimulation (NMES).\n\nVagal nerve stimulation\nImplantation of a device to stimulate the vagus nerve with electrical impulses.\n\nChiropractic\nDiagnosis and manipulation of malaligned joints, particularly the spine.\n\nTobacco cessation\nCounseling on tobacco cessation, tobacco cessation programs (phone, mobile applications), nicotine replacement\ntherapies, tobacco cessation medications without nicotine.\n\nAbbreviations: ADL, activities of daily living; OT, occupational therapy; PT, physical therapy",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00036",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00034",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -12932,7 +12831,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Rheumatoid arthritis is a chronic, systemic, inflammatory condition that requires early diagnosis, evaluation, and management to achieve\noptimal outcomes. Persons with chronic diseases, like rheumatoid arthritis, seek many available therapies to maintain physical function, reduce\npain, and improve their quality of life.\n\nRheumatoid arthritis should be treated with disease-modifying anti-rheumatic drugs and follow a treat-to-target management strategy, as\ndetailed in the 2021 American College of Rheumatology (ACR) Rheumatoid Arthritis Pharmacologic Treatment Guidelines (1).\n\nTreatment decisions should follow a shared decision-making process. Persons with rheumatoid arthritis present with a variety of manifestations\nand experiences.\n\nOptimum rheumatoid arthritis treatment outcomes are achieved through interprofessional teams providing expert patient-centered care.\n\nRecommendations assume no contraindications to listed management strategies.\n\nRecommendations pertain to rheumatoid arthritis management. Recommendations do not pertain to clinical situations when patients have\nalternative indications for listed treatments. Other general health benefits may exist for listed treatments.\n\nSurgical interventions are not included in this guideline because there are other guideline efforts that address large joint replacement, and small\njoint surgeries are not frequently a part of the current management of rheumatoid arthritis.\n\nDisease activity and disease activity levels refer to those calculated using an ACR-endorsed RA disease activity measure (2).\n\n1.Fraenkel L, Bathon JM, England BR, St. Clair EW, Arayssi T, Carandang K, et al. 2021 American College of Rheumatology guideline for the\ntreatment of rheumatoid arthritis. Arthritis Care Res 2021;73:924–939.\n\n2.England BR, Tiong BK, Bergman MJ, Curtis JR, Kazi S, Mikuls TR, et al. 2019 Update of the American College of Rheumatology\nRecommended Rheumatoid Arthritis Disease Activity Measures. Arthritis Care. 2019;71:1540–1555.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00037",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00035",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -13238,92 +13137,6 @@
           }
         ],
         "prev_chunk_id": "fb7be92c1326285bb238542d",
-        "next_chunk_id": "651b2c8aca18461ce18246be"
-      }
-    },
-    {
-      "chunk_id": "651b2c8aca18461ce18246be",
-      "text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl.\nApp. 3*\nConsistent engagement in exercise is strongly recommended\nover no exercise. | Moderate | 4–7 | 205–354\nConsistent engagement in aerobic exercise is conditionally\nrecommended over no exercise. | Very low to Low | 4 | 205–252\nConsistent engagement in aquatic exercise is conditionally\nrecommended over no exercise. | Low | 5 | 253–270\nConsistent engagement in resistance exercise is conditionally\nrecommended over no exercise. | Very low | 6 | 271–327\nConsistent engagement in mind-body exercise is conditionally\nrecommended over no exercise. | Very low to low | 7 | 328–354",
-      "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl.\nApp. 3*\nConsistent engagement in exercise is strongly recommended\nover no exercise. | Moderate | 4–7 | 205–354\nConsistent engagement in aerobic exercise is conditionally\nrecommended over no exercise. | Very low to Low | 4 | 205–252\nConsistent engagement in aquatic exercise is conditionally\nrecommended over no exercise. | Low | 5 | 253–270\nConsistent engagement in resistance exercise is conditionally\nrecommended over no exercise. | Very low | 6 | 271–327\nConsistent engagement in mind-body exercise is conditionally\nrecommended over no exercise. | Very low to low | 7 | 328–354",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "9c720fbba1007a39",
-        "section_path": [
-          "Table 3."
-        ],
-        "heading_level": 1,
-        "page_start": 22,
-        "page_end": 22,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl.\nApp. 3*\nConsistent engagement in exercise is strongly recommended\nover no exercise. | Moderate | 4–7 | 205–354\nConsistent engagement in aerobic exercise is conditionally\nrecommended over no exercise. | Very low to Low | 4 | 205–252\nConsistent engagement in aquatic exercise is conditionally\nrecommended over no exercise. | Low | 5 | 253–270\nConsistent engagement in resistance exercise is conditionally\nrecommended over no exercise. | Very low | 6 | 271–327\nConsistent engagement in mind-body exercise is conditionally\nrecommended over no exercise. | Very low to low | 7 | 328–354",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00038",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 180,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Recommendation",
-            "Certainty of\nEvidence",
-            "Based on the\nEvidence Report\nof the Following\nPICO(s)",
-            "Page no(s) of Evidence\nTable(s) in Suppl.\nApp. 3*"
-          ],
-          [
-            "Consistent engagement in exercise is strongly recommended\nover no exercise.",
-            "Moderate",
-            "4–7",
-            "205–354"
-          ],
-          [
-            "Consistent engagement in aerobic exercise is conditionally\nrecommended over no exercise.",
-            "Very low to Low",
-            "4",
-            "205–252"
-          ],
-          [
-            "Consistent engagement in aquatic exercise is conditionally\nrecommended over no exercise.",
-            "Low",
-            "5",
-            "253–270"
-          ],
-          [
-            "Consistent engagement in resistance exercise is conditionally\nrecommended over no exercise.",
-            "Very low",
-            "6",
-            "271–327"
-          ],
-          [
-            "Consistent engagement in mind-body exercise is conditionally\nrecommended over no exercise.",
-            "Very low to low",
-            "7",
-            "328–354"
-          ]
-        ],
-        "bbox": [
-          78.0,
-          120.0,
-          522.0,
-          274.69
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "dec121378e1d30171a4c84fa",
         "next_chunk_id": "4cde3a46d6e911175fcf85a8"
       }
     },
@@ -13354,7 +13167,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Exercise recommendations for the management of rheumatoid arthritis.\n\n*Insert link to Supplementary Appendix 3 on journal website – TBD\n\nIntervention definitions and examples are provided in Table 1.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00039",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00036",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -13412,141 +13225,7 @@
             "font": "Times-Roman"
           }
         ],
-        "prev_chunk_id": "651b2c8aca18461ce18246be",
-        "next_chunk_id": "9903a0b50521cf673d765447"
-      }
-    },
-    {
-      "chunk_id": "9903a0b50521cf673d765447",
-      "text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence\nReport of the\nFollowing\nPICO(s) | Page no(s) of\nEvidence\nTable(s) in\nSuppl. App. 3*\nParticipation in comprehensive occupational therapy is conditionally\nrecommended over no comprehensive occupational therapy. | Very low | 17 | 419–437\nParticipation in comprehensive physical therapy is conditionally recommended\nover no comprehensive physical therapy. | Very low | 18 | 438–453\nFor patients with hand involvement, performing hand therapy exercises is\nconditionally recommended over no hand therapy exercises. | Low | 8 | 355–378\nFor patients with hand and/or wrist involvement and/or deformity, use of\nsplinting, orthoses, and/or compression is conditionally recommended over\nno splinting, orthoses, and/or compression. | Very low | 9 | 379–386\nFor patients with foot and/or ankle involvement, use of bracing, orthoses,\nand/or taping is conditionally recommended over no bracing, orthoses, and/or\ncompression. | Very low | 10 | 387–408\nFor patients with knee involvement, use of bracing and/or orthoses is\nconditionally recommended over no bracing and/or orthoses. | No studies met\neligibility criteria | 11 | 409\nUse of joint protection techniques is conditionally recommended over no joint\nprotection techniques. | Low | 12 | 410–413\nUse of activity pacing, energy conservation, activity modification, and/or\nfatigue management is conditionally recommended over no activity pacing,\nenergy conservation, activity modification, and/or fatigue management. | No studies met\neligibility criteria | 13 | 415\nUse of assistive devices is conditionally recommended over no assistive\ndevices. | No studies met\neligibility criteria | 14 | 416\nUse of adaptive equipment is conditionally recommended over no adaptive\nequipment. | No studies met\neligibility criteria | 15 | 417\nUse of environmental adaptations is conditionally recommended over no\nenvironmental adaptations. | No studies met\neligibility criteria | 16 | 418\nFor patients who are currently employed or desire to become employed,\nuse of vocational rehabilitation is conditionally recommended over no work\ninterventions. | No studies met\neligibility criteria | 21 | 510\nFor patients who are currently employed or desire to become employed, work\nsite evaluations and/or modifications are conditionally recommended over no\nwork site evaluations and/or modifications. | Low | 22 | 511–517",
-      "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence\nReport of the\nFollowing\nPICO(s) | Page no(s) of\nEvidence\nTable(s) in\nSuppl. App. 3*\nParticipation in comprehensive occupational therapy is conditionally\nrecommended over no comprehensive occupational therapy. | Very low | 17 | 419–437\nParticipation in comprehensive physical therapy is conditionally recommended\nover no comprehensive physical therapy. | Very low | 18 | 438–453\nFor patients with hand involvement, performing hand therapy exercises is\nconditionally recommended over no hand therapy exercises. | Low | 8 | 355–378\nFor patients with hand and/or wrist involvement and/or deformity, use of\nsplinting, orthoses, and/or compression is conditionally recommended over\nno splinting, orthoses, and/or compression. | Very low | 9 | 379–386\nFor patients with foot and/or ankle involvement, use of bracing, orthoses,\nand/or taping is conditionally recommended over no bracing, orthoses, and/or\ncompression. | Very low | 10 | 387–408\nFor patients with knee involvement, use of bracing and/or orthoses is\nconditionally recommended over no bracing and/or orthoses. | No studies met\neligibility criteria | 11 | 409\nUse of joint protection techniques is conditionally recommended over no joint\nprotection techniques. | Low | 12 | 410–413\nUse of activity pacing, energy conservation, activity modification, and/or\nfatigue management is conditionally recommended over no activity pacing,\nenergy conservation, activity modification, and/or fatigue management. | No studies met\neligibility criteria | 13 | 415\nUse of assistive devices is conditionally recommended over no assistive\ndevices. | No studies met\neligibility criteria | 14 | 416\nUse of adaptive equipment is conditionally recommended over no adaptive\nequipment. | No studies met\neligibility criteria | 15 | 417\nUse of environmental adaptations is conditionally recommended over no\nenvironmental adaptations. | No studies met\neligibility criteria | 16 | 418\nFor patients who are currently employed or desire to become employed,\nuse of vocational rehabilitation is conditionally recommended over no work\ninterventions. | No studies met\neligibility criteria | 21 | 510\nFor patients who are currently employed or desire to become employed, work\nsite evaluations and/or modifications are conditionally recommended over no\nwork site evaluations and/or modifications. | Low | 22 | 511–517",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "bcd5eb190efdbe5b",
-        "section_path": [
-          "Table 4."
-        ],
-        "heading_level": 1,
-        "page_start": 23,
-        "page_end": 23,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence\nReport of the\nFollowing\nPICO(s) | Page no(s) of\nEvidence\nTable(s) in\nSuppl. App. 3*\nParticipation in comprehensive occupational therapy is conditionally\nrecommended over no comprehensive occupational therapy. | Very low | 17 | 419–437\nParticipation in comprehensive physical therapy is conditionally recommended\nover no comprehensive physical therapy. | Very low | 18 | 438–453\nFor patients with hand involvement, performing hand therapy exercises is\nconditionally recommended over no hand therapy exercises. | Low | 8 | 355–378\nFor patients with hand and/or wrist involvement and/or deformity, use of\nsplinting, orthoses, and/or compression is conditionally recommended over\nno splinting, orthoses, and/or compression. | Very low | 9 | 379–386\nFor patients with foot and/or ankle involvement, use of bracing, orthoses,\nand/or taping is conditionally recommended over no bracing, orthoses, and/or\ncompression. | Very low | 10 | 387–408\nFor patients with knee involvement, use of bracing and/or orthoses is\nconditionally recommended over no bracing and/or orthoses. | No studies met\neligibility criteria | 11 | 409\nUse of joint protection techniques is conditionally recommended over no joint\nprotection techniques. | Low | 12 | 410–413\nUse of activity pacing, energy conservation, activity modification, and/or\nfatigue management is conditionally recommended over no activity pacing,\nenergy conservation, activity modification, and/or fatigue management. | No studies met\neligibility criteria | 13 | 415\nUse of assistive devices is conditionally recommended over no assistive\ndevices. | No studies met\neligibility criteria | 14 | 416\nUse of adaptive equipment is conditionally recommended over no adaptive\nequipment. | No studies met\neligibility criteria | 15 | 417\nUse of environmental adaptations is conditionally recommended over no\nenvironmental adaptations. | No studies met\neligibility criteria | 16 | 418\nFor patients who are currently employed or desire to become employed,\nuse of vocational rehabilitation is conditionally recommended over no work\ninterventions. | No studies met\neligibility criteria | 21 | 510\nFor patients who are currently employed or desire to become employed, work\nsite evaluations and/or modifications are conditionally recommended over no\nwork site evaluations and/or modifications. | Low | 22 | 511–517",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00040",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 600,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Recommendation",
-            "Certainty of\nEvidence",
-            "Based on the\nEvidence\nReport of the\nFollowing\nPICO(s)",
-            "Page no(s) of\nEvidence\nTable(s) in\nSuppl. App. 3*"
-          ],
-          [
-            "Participation in comprehensive occupational therapy is conditionally\nrecommended over no comprehensive occupational therapy.",
-            "Very low",
-            "17",
-            "419–437"
-          ],
-          [
-            "Participation in comprehensive physical therapy is conditionally recommended\nover no comprehensive physical therapy.",
-            "Very low",
-            "18",
-            "438–453"
-          ],
-          [
-            "For patients with hand involvement, performing hand therapy exercises is\nconditionally recommended over no hand therapy exercises.",
-            "Low",
-            "8",
-            "355–378"
-          ],
-          [
-            "For patients with hand and/or wrist involvement and/or deformity, use of\nsplinting, orthoses, and/or compression is conditionally recommended over\nno splinting, orthoses, and/or compression.",
-            "Very low",
-            "9",
-            "379–386"
-          ],
-          [
-            "For patients with foot and/or ankle involvement, use of bracing, orthoses,\nand/or taping is conditionally recommended over no bracing, orthoses, and/or\ncompression.",
-            "Very low",
-            "10",
-            "387–408"
-          ],
-          [
-            "For patients with knee involvement, use of bracing and/or orthoses is\nconditionally recommended over no bracing and/or orthoses.",
-            "No studies met\neligibility criteria",
-            "11",
-            "409"
-          ],
-          [
-            "Use of joint protection techniques is conditionally recommended over no joint\nprotection techniques.",
-            "Low",
-            "12",
-            "410–413"
-          ],
-          [
-            "Use of activity pacing, energy conservation, activity modification, and/or\nfatigue management is conditionally recommended over no activity pacing,\nenergy conservation, activity modification, and/or fatigue management.",
-            "No studies met\neligibility criteria",
-            "13",
-            "415"
-          ],
-          [
-            "Use of assistive devices is conditionally recommended over no assistive\ndevices.",
-            "No studies met\neligibility criteria",
-            "14",
-            "416"
-          ],
-          [
-            "Use of adaptive equipment is conditionally recommended over no adaptive\nequipment.",
-            "No studies met\neligibility criteria",
-            "15",
-            "417"
-          ],
-          [
-            "Use of environmental adaptations is conditionally recommended over no\nenvironmental adaptations.",
-            "No studies met\neligibility criteria",
-            "16",
-            "418"
-          ],
-          [
-            "For patients who are currently employed or desire to become employed,\nuse of vocational rehabilitation is conditionally recommended over no work\ninterventions.",
-            "No studies met\neligibility criteria",
-            "21",
-            "510"
-          ],
-          [
-            "For patients who are currently employed or desire to become employed, work\nsite evaluations and/or modifications are conditionally recommended over no\nwork site evaluations and/or modifications.",
-            "Low",
-            "22",
-            "511–517"
-          ]
-        ],
-        "bbox": [
-          77.97,
-          119.9,
-          522.03,
-          507.9
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "4cde3a46d6e911175fcf85a8",
+        "prev_chunk_id": "dec121378e1d30171a4c84fa",
         "next_chunk_id": "a65fd41e16d72a3999bc0a87"
       }
     },
@@ -13577,7 +13256,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Rehabilitation interventions for the management of rheumatoid arthritis.\n\n*Insert link to Supplementary Appendix 3 on journal website – TBD\n\nIntervention definitions and examples are provided in Table 1.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00041",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00037",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -13635,81 +13314,7 @@
             "font": "Times-Roman"
           }
         ],
-        "prev_chunk_id": "9903a0b50521cf673d765447",
-        "next_chunk_id": "610f63dccac83467c9be792c"
-      }
-    },
-    {
-      "chunk_id": "610f63dccac83467c9be792c",
-      "text": "Recommendation | Certainty of Evidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl. App.\n3*\nAdherence to a Mediterranean-style diet is conditionally\nrecommended over no formally defined diet. | Low to moderate | 1 | 8–86\nAdherence to a formally defined diet, other than\nMediterranean-style, is conditionally recommended against. | Very low to moderate | 1 | 8–86\nFollowing established dietary recommendations without\ndietary supplements is conditionally recommended over\nadding dietary supplements. | Very low to moderate | 2 | 87–201",
-      "embedding_text": "Recommendation | Certainty of Evidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl. App.\n3*\nAdherence to a Mediterranean-style diet is conditionally\nrecommended over no formally defined diet. | Low to moderate | 1 | 8–86\nAdherence to a formally defined diet, other than\nMediterranean-style, is conditionally recommended against. | Very low to moderate | 1 | 8–86\nFollowing established dietary recommendations without\ndietary supplements is conditionally recommended over\nadding dietary supplements. | Very low to moderate | 2 | 87–201",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "4621eab552a646ab",
-        "section_path": [
-          "Table 5."
-        ],
-        "heading_level": 1,
-        "page_start": 24,
-        "page_end": 24,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Recommendation | Certainty of Evidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of Evidence\nTable(s) in Suppl. App.\n3*\nAdherence to a Mediterranean-style diet is conditionally\nrecommended over no formally defined diet. | Low to moderate | 1 | 8–86\nAdherence to a formally defined diet, other than\nMediterranean-style, is conditionally recommended against. | Very low to moderate | 1 | 8–86\nFollowing established dietary recommendations without\ndietary supplements is conditionally recommended over\nadding dietary supplements. | Very low to moderate | 2 | 87–201",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00042",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 147,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Recommendation",
-            "Certainty of Evidence",
-            "Based on the\nEvidence Report\nof the Following\nPICO(s)",
-            "Page no(s) of Evidence\nTable(s) in Suppl. App.\n3*"
-          ],
-          [
-            "Adherence to a Mediterranean-style diet is conditionally\nrecommended over no formally defined diet.",
-            "Low to moderate",
-            "1",
-            "8–86"
-          ],
-          [
-            "Adherence to a formally defined diet, other than\nMediterranean-style, is conditionally recommended against.",
-            "Very low to moderate",
-            "1",
-            "8–86"
-          ],
-          [
-            "Following established dietary recommendations without\ndietary supplements is conditionally recommended over\nadding dietary supplements.",
-            "Very low to moderate",
-            "2",
-            "87–201"
-          ]
-        ],
-        "bbox": [
-          78.0,
-          120.0,
-          522.0,
-          236.42
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "a65fd41e16d72a3999bc0a87",
+        "prev_chunk_id": "4cde3a46d6e911175fcf85a8",
         "next_chunk_id": "335ddf5f63f456102afbea1c"
       }
     },
@@ -13740,7 +13345,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Diet recommendations for the management of rheumatoid arthritis.\n\n*Insert link to Supplementary Appendix 3 on journal website – TBD\n\nIntervention definitions and examples are provided in Table 1.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00043",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00038",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -13798,105 +13403,7 @@
             "font": "Times-Roman"
           }
         ],
-        "prev_chunk_id": "610f63dccac83467c9be792c",
-        "next_chunk_id": "48b0cfb1e6e5ccac07659f07"
-      }
-    },
-    {
-      "chunk_id": "48b0cfb1e6e5ccac07659f07",
-      "text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of\nEvidence Table(s) in\nSuppl. App. 3*\nUse of a standardized self-management program is conditionally\nrecommended over no standardized self-management program. | Low | 19 | 454–466\nUse of cognitive behavioral therapy and/or mind-body approaches\nis conditionally recommended over no cognitive behavioral therapy\nand/or mind-body approaches. | Very low to low | 20 | 467–510\nUse of acupuncture is conditionally recommended over no\nacupuncture. | Low | 23 | 518–538\nUse of massage therapy is conditionally recommended over no\nmassage therapy. | Very low | 24 | 539–543\nUse of thermal modalities is conditionally recommended over no\nthermal modalities. | Very low | 25 | 544–563\nUsing electrotherapy is conditionally recommended against. | Low | 26 | 564–572\nUsing chiropractic therapy is conditionally recommended against. | No studies met\neligibility criteria | 27 | 573",
-      "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of\nEvidence Table(s) in\nSuppl. App. 3*\nUse of a standardized self-management program is conditionally\nrecommended over no standardized self-management program. | Low | 19 | 454–466\nUse of cognitive behavioral therapy and/or mind-body approaches\nis conditionally recommended over no cognitive behavioral therapy\nand/or mind-body approaches. | Very low to low | 20 | 467–510\nUse of acupuncture is conditionally recommended over no\nacupuncture. | Low | 23 | 518–538\nUse of massage therapy is conditionally recommended over no\nmassage therapy. | Very low | 24 | 539–543\nUse of thermal modalities is conditionally recommended over no\nthermal modalities. | Very low | 25 | 544–563\nUsing electrotherapy is conditionally recommended against. | Low | 26 | 564–572\nUsing chiropractic therapy is conditionally recommended against. | No studies met\neligibility criteria | 27 | 573",
-      "metadata": {
-        "schema_version": "2.3",
-        "doc_name": "2022 American College of Rheumatology (ACR) Guideline.pdf",
-        "doc_version": null,
-        "doc_family": "ACR",
-        "organization": "American College of Rheumatology",
-        "year": 2022,
-        "section_id": "2d51c5e5c165494d",
-        "section_path": [
-          "Table 6."
-        ],
-        "heading_level": 1,
-        "page_start": 25,
-        "page_end": 25,
-        "chunk_type": "table",
-        "evidence_grade": null,
-        "evidence_quality": null,
-        "recommendation_strength": null,
-        "grade_system": null,
-        "recommendation_id": null,
-        "recommendation_id_source": null,
-        "contextual_prefix": null,
-        "embedding_text": "Recommendation | Certainty of\nEvidence | Based on the\nEvidence Report\nof the Following\nPICO(s) | Page no(s) of\nEvidence Table(s) in\nSuppl. App. 3*\nUse of a standardized self-management program is conditionally\nrecommended over no standardized self-management program. | Low | 19 | 454–466\nUse of cognitive behavioral therapy and/or mind-body approaches\nis conditionally recommended over no cognitive behavioral therapy\nand/or mind-body approaches. | Very low to low | 20 | 467–510\nUse of acupuncture is conditionally recommended over no\nacupuncture. | Low | 23 | 518–538\nUse of massage therapy is conditionally recommended over no\nmassage therapy. | Very low | 24 | 539–543\nUse of thermal modalities is conditionally recommended over no\nthermal modalities. | Very low | 25 | 544–563\nUsing electrotherapy is conditionally recommended against. | Low | 26 | 564–572\nUsing chiropractic therapy is conditionally recommended against. | No studies met\neligibility criteria | 27 | 573",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00044",
-        "legacy_chunk_id_source": "v2_14_order_fallback",
-        "duplicate_count": 1,
-        "duplicate_locations": [],
-        "cor": null,
-        "loe": null,
-        "token_count": 244,
-        "token_count_method": "estimated_chars_div_4_NOT_MODEL_TOKEN_COUNT",
-        "embedding_eligible": true,
-        "table_caption": null,
-        "table_rows": [
-          [
-            "Recommendation",
-            "Certainty of\nEvidence",
-            "Based on the\nEvidence Report\nof the Following\nPICO(s)",
-            "Page no(s) of\nEvidence Table(s) in\nSuppl. App. 3*"
-          ],
-          [
-            "Use of a standardized self-management program is conditionally\nrecommended over no standardized self-management program.",
-            "Low",
-            "19",
-            "454–466"
-          ],
-          [
-            "Use of cognitive behavioral therapy and/or mind-body approaches\nis conditionally recommended over no cognitive behavioral therapy\nand/or mind-body approaches.",
-            "Very low to low",
-            "20",
-            "467–510"
-          ],
-          [
-            "Use of acupuncture is conditionally recommended over no\nacupuncture.",
-            "Low",
-            "23",
-            "518–538"
-          ],
-          [
-            "Use of massage therapy is conditionally recommended over no\nmassage therapy.",
-            "Very low",
-            "24",
-            "539–543"
-          ],
-          [
-            "Use of thermal modalities is conditionally recommended over no\nthermal modalities.",
-            "Very low",
-            "25",
-            "544–563"
-          ],
-          [
-            "Using electrotherapy is conditionally recommended against.",
-            "Low",
-            "26",
-            "564–572"
-          ],
-          [
-            "Using chiropractic therapy is conditionally recommended against.",
-            "No studies met\neligibility criteria",
-            "27",
-            "573"
-          ]
-        ],
-        "bbox": [
-          78.0,
-          120.0,
-          522.0,
-          320.83
-        ],
-        "source_spans": [],
-        "prev_chunk_id": "335ddf5f63f456102afbea1c",
+        "prev_chunk_id": "a65fd41e16d72a3999bc0a87",
         "next_chunk_id": "59bc45689a86ccfde7cc3c63"
       }
     },
@@ -13927,7 +13434,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Additional integrative interventions for the management of rheumatoid arthritis.\n\n*Insert link to Supplementary Appendix 3 on journal website – TBD\n\nIntervention definitions and examples are provided in Table 1.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00045",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00039",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
@@ -13985,7 +13492,7 @@
             "font": "Times-Roman"
           }
         ],
-        "prev_chunk_id": "48b0cfb1e6e5ccac07659f07",
+        "prev_chunk_id": "335ddf5f63f456102afbea1c",
         "next_chunk_id": "3ee8d6416eb2ff8693d66267"
       }
     },
@@ -14016,7 +13523,7 @@
         "recommendation_id_source": null,
         "contextual_prefix": null,
         "embedding_text": "Research agenda for the integrative management of rheumatoid arthritis.\n\nEvaluate the efficacy and safety of integrative therapies for the management of RA. Initial evidence is needed in the areas of activity\npacing, energy conservation, activity modification, fatigue management, and vocational rehabilitation. Additional strong evidence from larger,\nwell-designed studies is needed in all other areas.\n\nDetermine the appropriate timing of different integrative interventions in the RA disease course.\n\nExamine the delivery, education, and implementation of integrative interventions. For example, evaluating various methods of instruction and\ntraining of joint protection and activity pacing interventions.\n\nEstablish the cost-effectiveness of different integrative interventions and develop approaches for cost-effective delivery.\n\nIdentify barriers to the adoption and implementation of integrative therapies. These may include variability in access, costs, and implicit and/or\nexplicit biases.\n\nDescribe the assembly of, communication between, and role delineation among the interprofessional care team delivering pharmacologic and\nintegrative interventions.\n\nImprove access to experienced healthcare professionals who provide integrative interventions.\n\nDetermine efficacy and safety of integrative interventions based on RA disease manifestations and pharmacologic therapies, e.g., modifying\nexercise interventions based on disease activity level or diet based on disease-modifying anti-rheumatic drugs utilized.\n\nTailor interventions (and their delivery) studied in the general population to persons with RA, e.g., tobacco cessation programs, exercise\nprograms, and weight loss.\n\nDefine efficacy and safety of therapies not included in this guideline such as cannabidiol, vaping, and occupational exposures and protections as\nwell as emerging therapies such as vagal nerve stimulation.\n\nEvaluate dietary supplements (especially Vitamin D and Omega-3 fatty acids such as “fish oil”) in the context of dietary intake. The assessment\nand implementation of diets should focus on being inclusive of different cultures.\n\nDevelop vocational rehabilitation programs and work site modifications that improve the ability of persons with RA to work without negative\nstigma in the workplace.\n\nEstablish the efficacy and safety of integrative therapies on extra-articular manifestations and long-term RA-related outcomes. In addition to\ndisease activity, physical function, pain, and quality of life outcomes considered in this guideline, other outcomes that should be considered are\nlongevity, cardiovascular disease, lung disease, cancer, osteoporosis, and infection.\n\nDevelop research methodology to study integrative therapies, e.g., defining an adequate control intervention. Publication of research standards\nfor integrative therapies relevant to RA to guide research efforts.\n\nEstablish dedicated funding from organizations to study integrative RA therapies and their implementation.",
-        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00046",
+        "legacy_chunk_id": "2022 American College of Rheumatology (ACR) Guideline_chunk_00040",
         "legacy_chunk_id_source": "v2_14_order_fallback",
         "duplicate_count": 1,
         "duplicate_locations": [],
