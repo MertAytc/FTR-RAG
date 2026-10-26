@@ -84,3 +84,39 @@ class CrossEncoderReranker:
             item["reranker_rank"] = rank
 
         return ranked[:top_k]
+
+    def rerank_hybrid(
+        self,
+        query: str,
+        *,
+        rrf_top_k: int = 20,
+        top_k: int = 5,
+        hybrid_retriever=None,
+    ) -> Dict[str, Any]:
+        """Fetch RRF Top-20 candidates and return the reranked Top-5 by default."""
+        if rrf_top_k < 1:
+            raise ValueError("rrf_top_k en az 1 olmalidir.")
+        if top_k < 1:
+            raise ValueError("top_k en az 1 olmalidir.")
+
+        if hybrid_retriever is None:
+            from src.retrieval.hybrid_retriever import HybridRetriever
+
+            hybrid_retriever = HybridRetriever()
+
+        retrieval = hybrid_retriever.search(query, n_results=rrf_top_k)
+        candidates = retrieval.get("results", [])
+        processed_query = retrieval.get("processed_query") or {}
+        reranked = self.rerank(
+            processed_query.get("rewritten_query") or query,
+            candidates,
+            top_k=top_k,
+        )
+
+        return {
+            "retrieval": retrieval,
+            "rrf_candidates": candidates,
+            "reranked_results": reranked,
+            "rrf_top_k": rrf_top_k,
+            "top_k": top_k,
+        }

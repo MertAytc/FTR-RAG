@@ -164,11 +164,11 @@ def assemble_context(
     exclude_reference_only: bool = True,
 ) -> Dict[str, Any]:
     """
-    Convert MMR results into compact, structured LLM context.
+    Convert ranked retrieval results into compact, structured LLM context.
 
-    MMR has already performed retrieval and diversification. This layer
-    intentionally keeps only the first `max_sources` MMR results so the
-    generation model receives a small, high-signal context.
+    Chunks arrive in ranked order from retrieval/reranking. This layer keeps
+    the first `max_sources` eligible chunks so generation receives a compact
+    context while retaining that ranking.
 
     Reference-only chunks are removed before truncation.
     """
@@ -188,7 +188,7 @@ def assemble_context(
     filtered = deduplicate_chunks(filtered)
     after_dedup = len(filtered)
 
-    # Keep the highest-ranked MMR results only.
+    # Keep the highest-ranked eligible results only.
     filtered = filtered[:max_sources]
 
     sources = [

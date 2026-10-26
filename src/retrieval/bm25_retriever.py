@@ -12,8 +12,9 @@ from src.retrieval.retrieval_utils import annotate_result
 
 
 
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 CHUNKS_DIR = Path(
-    os.getenv("FTR_CHUNKS_DIR", "data/chunker_test/output_no_tables")
+    os.getenv("FTR_CHUNKS_DIR", str(PROJECT_ROOT / "data" / "processed" / "chunks"))
 )
 
 # Keep clinical negation words; they can materially change meaning.

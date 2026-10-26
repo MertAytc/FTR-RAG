@@ -1,48 +1,39 @@
-from src.retrieval.mmr_retriever import MMRRetriever
-from src.generation.context_assembly import assemble_context
 from src.generation.grounded_generation import generate_grounded_answer
+from src.generation.context_assembly import assemble_context
+from src.retrieval.reranker import CrossEncoderReranker
 
 
 def run_query(query: str):
     print("\n" + "=" * 80)
-    print(f"FULL PIPELINE TEST: {query}")
+    print(f"RRF Top-20 -> Cross-Encoder Top-5 -> Grounded Generation: {query}")
     print("=" * 80)
 
-    retriever = MMRRetriever(
-        candidate_k=20,
-        final_k=3,
-        lambda_mult=0.75,
-        rrf_weight=0.85,
-        semantic_weight=0.15,
-    )
-
-    retrieval_result = retriever.search(query)
-    processed_query = retrieval_result["processed_query"]
-
-    print("\n" + "-" * 80)
-    print("QUERY PROCESSING")
-    print("-" * 80)
-    print(f"Original Turkish : {processed_query['original_query']}")
-    print(f"English rewrite  : {processed_query['rewritten_query']}")
-    print(f"BM25 query       : {processed_query['expanded_query']}")
-
-    print("\n" + "-" * 80)
-    print("MMR RETRIEVAL RESULTS")
-    print("-" * 80)
-    for index, item in enumerate(retrieval_result["results"], start=1):
-        metadata = item.get("metadata") or {}
-        print(
-            f"{index}. {item.get('id') or item.get('chunk_id')} | "
-            f"MMR={item.get('mmr_score', item.get('score', 0)):.4f} | "
-            f"RRF={item.get('rrf_score', 0):.6f} | "
-            f"page={metadata.get('page', 'belirtilmemiş')}"
-        )
-
+    reranker = CrossEncoderReranker()
+    pipeline = reranker.rerank_hybrid(query, rrf_top_k=20, top_k=5)
+    retrieval = pipeline["retrieval"]
+    processed_query = retrieval["processed_query"]
+    reranked_results = pipeline["reranked_results"]
     context_result = assemble_context(
-        retrieval_result["results"],
-        max_sources=3,
+        reranked_results,
+        max_sources=5,
         exclude_reference_only=True,
     )
+
+    print("\nQUERY PROCESSING")
+    print(f"Original Turkish : {query}")
+    print(f"English rewrite  : {processed_query['rewritten_query']}")
+    print(f"BM25 query       : {processed_query['expanded_query']}")
+    print(f"RRF candidates   : {len(pipeline['rrf_candidates'])}")
+
+    print("\nCROSS-ENCODER RERANKER RESULTS")
+    for rank, item in enumerate(reranked_results, start=1):
+        metadata = item.get("metadata") or {}
+        print(
+            f"{rank}. {item.get('id') or item.get('chunk_id')} | "
+            f"reranker={item.get('reranker_score', 0):.4f} | "
+            f"RRF={item.get('rrf_score', 0):.6f} | "
+            f"page={metadata.get('page', 'unknown')}"
+        )
 
     result = generate_grounded_answer(
         query,
@@ -50,21 +41,17 @@ def run_query(query: str):
         english_query=processed_query["rewritten_query"],
     )
 
-    print("\n" + "-" * 80)
-    print("GROUNDED LLM GENERATION")
-    print("-" * 80)
-    print(f"Context kaynak sayısı : {context_result['source_count']}")
-    print(f"Grounded              : {result.grounded}")
-    print(f"Yetersiz kanıt        : {result.insufficient_evidence}")
-    print(f"Scope dışı            : {result.out_of_scope}")
-
-    print("\nENGLISH GROUNDED ANSWER")
+    print("\nGROUNDED GENERATION")
+    print(f"Context sources     : {context_result['source_count']}")
+    print(f"Grounded            : {result.grounded}")
+    print(f"Insufficient evidence: {result.insufficient_evidence}")
+    print(f"Out of scope        : {result.out_of_scope}")
+    print("\nENGLISH ANSWER")
     print(result.english_answer)
-
-    print("\nTÜRKÇE FINAL ANSWER")
+    print("\nTURKISH FINAL ANSWER")
     print(result.answer)
 
-    print("\nKAYNAKLAR")
+    print("\nSOURCES")
     for source in result.sources:
         print(
             f"[SOURCE {source['source_number']}] "
@@ -74,8 +61,7 @@ def run_query(query: str):
 
 
 def main():
-    query = input("Türkçe FTR sorusu: ").strip()
-    run_query(query)
+    run_query(input("Turkish FTR question: ").strip())
 
 
 if __name__ == "__main__":
