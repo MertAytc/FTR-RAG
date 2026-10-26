@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.3",
+  "document": "2017 American  Academy of Otolaryngology,Vertigo.pdf",
+  "doc_family": "AAO_HNS",
+  "doc_family_source": "filename_rule",
+  "organization": "American Academy of Otolaryngology–Head and Neck Surgery",
+  "year": 2017,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_da3b7cb5a93f765a",
+      "doc_name": "2017 American  Academy of Otolaryngology,Vertigo.pdf",
+      "doc_family": "AAO_HNS",
+      "doc_family_source": "filename_rule",
+      "organization": "American Academy of Otolaryngology–Head and Neck Surgery",
+      "year": 2017,
+      "page": 1,
+      "table_index": 0,
+      "bbox": [
+        37.0,
+        54.11,
+        548.0,
+        172.78
+      ],
+      "section_id": "9accfe1b4fc6a92e",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": null,
+      "context_before": "Clinical Practice Guideline",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "ht O H 2 © O S R sa D h Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update) Neil Bhattacharyya, MD1, Samuel P. Gubbels, MD2, Seth R. Schwartz, MD, MPH3, Jonathan A. Edlow, MD4, H El K hl MD5 T Fif MD6",
+        "ttps://doi.org/10.1177/0194599816689667 Otolaryngology– Head and Neck Surgery 2017, Vol. 156(3S) S1–S47 © American Academy of Otolaryngology—Head and Neck urgery Foundation 2017 Reprints and permission: agepub.com/journalsPermissions.nav DOI: 10.1177/0194599816689667 ttp://otojournal.org"
+      ],
+      "header_signature": "e4ea40253d9b",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "ht O H 2 © O S R sa D h Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update) Neil Bhattacharyya, MD1, Samuel P. Gubbels, MD2, Seth R. Schwartz, MD, MPH3, Jonathan A. Edlow, MD4, H El K hl MD5 T Fif MD6 | ttps://doi.org/10.1177/0194599816689667 Otolaryngology– Head and Neck Surgery 2017, Vol. 156(3S) S1–S47 © American Academy of Otolaryngology—Head and Neck urgery Foundation 2017 Reprints and permission: agepub.com/journalsPermissions.nav DOI: 10.1177/0194599816689667 ttp://otojournal.org",
+      "rows": [
+        [
+          "ht O H 2 © O S R sa D h Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update) Neil Bhattacharyya, MD1, Samuel P. Gubbels, MD2, Seth R. Schwartz, MD, MPH3, Jonathan A. Edlow, MD4, H El K hl MD5 T Fif MD6",
+          "ttps://doi.org/10.1177/0194599816689667 Otolaryngology– Head and Neck Surgery 2017, Vol. 156(3S) S1–S47 © American Academy of Otolaryngology—Head and Neck urgery Foundation 2017 Reprints and permission: agepub.com/journalsPermissions.nav DOI: 10.1177/0194599816689667 ttp://otojournal.org"
+        ]
+      ]
+    }
+  ]
+}

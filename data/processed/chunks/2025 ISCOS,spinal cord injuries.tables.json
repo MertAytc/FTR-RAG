@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.3",
+  "document": "2025 ISCOS,spinal cord injuries.pdf",
+  "doc_family": "ISCOS",
+  "doc_family_source": "filename_rule",
+  "organization": "International Spinal Cord Society",
+  "year": 2025,
+  "table_count": 2,
+  "tables": [
+    {
+      "table_id": "tbl_45505c5a054965ed",
+      "doc_name": "2025 ISCOS,spinal cord injuries.pdf",
+      "doc_family": "ISCOS",
+      "doc_family_source": "filename_rule",
+      "organization": "International Spinal Cord Society",
+      "year": 2025,
+      "page": 3,
+      "table_index": 0,
+      "bbox": [
+        45.35,
+        76.71,
+        559.39,
+        236.24
+      ],
+      "section_id": "bb67a6dc0bf3d2b9",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 1.\nSummary of the hierarchy of the evidence recommendations.",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.1429,
+      "header_row": [
+        "Evidence Recommendation Explanation",
+        ""
+      ],
+      "header_signature": "3355e1c51dd0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Evidence Recommendation Explanation | \nEvidence Recommendation | \nStrong evidence recommendation FOR | The guideline panel is confident that they can recommend the intervention based on the evidence. A recommendation is made that the intervention should be implemented.\nWeak evidence recommendation FOR | The guideline panel is confident that they can probably recommend the intervention based on the evidence. A recommendation is made that the intervention may be implemented.\nWeak evidence recommendation AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on the evidence. A recommendation is made that the intervention should not be implemented.\nStrong evidence recommendation AGAINST | The guideline panel is confident that they cannot recommend the intervention based on the evidence. A recommendation is made that the intervention should definitely not be implemented.\nNo recommendation | The guideline panel is unable to recommend for or against the intervention based on the evidence. A consensus-based opinion statement is made.",
+      "rows": [
+        [
+          "Evidence Recommendation Explanation",
+          ""
+        ],
+        [
+          "Evidence Recommendation",
+          ""
+        ],
+        [
+          "Strong evidence recommendation FOR",
+          "The guideline panel is confident that they can recommend the intervention based on the evidence. A recommendation is made that the intervention should be implemented."
+        ],
+        [
+          "Weak evidence recommendation FOR",
+          "The guideline panel is confident that they can probably recommend the intervention based on the evidence. A recommendation is made that the intervention may be implemented."
+        ],
+        [
+          "Weak evidence recommendation AGAINST",
+          "The guideline panel is confident that they probably cannot recommend the intervention based on the evidence. A recommendation is made that the intervention should not be implemented."
+        ],
+        [
+          "Strong evidence recommendation AGAINST",
+          "The guideline panel is confident that they cannot recommend the intervention based on the evidence. A recommendation is made that the intervention should definitely not be implemented."
+        ],
+        [
+          "No recommendation",
+          "The guideline panel is unable to recommend for or against the intervention based on the evidence. A consensus-based opinion statement is made."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ef320b4478c93c3d",
+      "doc_name": "2025 ISCOS,spinal cord injuries.pdf",
+      "doc_family": "ISCOS",
+      "doc_family_source": "filename_rule",
+      "organization": "International Spinal Cord Society",
+      "year": 2025,
+      "page": 4,
+      "table_index": 0,
+      "bbox": [
+        35.89,
+        76.71,
+        549.38,
+        204.15
+      ],
+      "section_id": "bb67a6dc0bf3d2b9",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 2.\nSummary of the hierarchy of the consensus-based opinion statements.",
+      "context_before": null,
+      "footnote_candidates": [
+        "Source: www.sciptguide.com."
+      ],
+      "n_rows": 6,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Consensus-based opinion statements",
+        "Explanation"
+      ],
+      "header_signature": "ab82068b64ce",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Consensus-based opinion statements | Explanation\nStrong consensus FOR | The guideline panel is confident that they can recommend the intervention based on opinion. A statement is made that the intervention should be implemented.\nWeak consensus FOR | The guideline panel is confident that they can probably recommend the intervention based on opinion. A statement is made that the intervention may be implemented.\nWeak consensus AGAINST | The guideline panel is confident that they probably cannot recommend the intervention based on opinion. A statement is made that the intervention should not be implemented.\nStrong consensus AGAINST | The guideline panel is confident that they cannot recommend the intervention based on opinion. A statement is made that the intervention should definately not be implemented.\nNo consensus | The guideline panel is unable to make a statement for or against the intervention based on opinion.",
+      "rows": [
+        [
+          "Consensus-based opinion statements",
+          "Explanation"
+        ],
+        [
+          "Strong consensus FOR",
+          "The guideline panel is confident that they can recommend the intervention based on opinion. A statement is made that the intervention should be implemented."
+        ],
+        [
+          "Weak consensus FOR",
+          "The guideline panel is confident that they can probably recommend the intervention based on opinion. A statement is made that the intervention may be implemented."
+        ],
+        [
+          "Weak consensus AGAINST",
+          "The guideline panel is confident that they probably cannot recommend the intervention based on opinion. A statement is made that the intervention should not be implemented."
+        ],
+        [
+          "Strong consensus AGAINST",
+          "The guideline panel is confident that they cannot recommend the intervention based on opinion. A statement is made that the intervention should definately not be implemented."
+        ],
+        [
+          "No consensus",
+          "The guideline panel is unable to make a statement for or against the intervention based on opinion."
+        ]
+      ]
+    }
+  ]
+}

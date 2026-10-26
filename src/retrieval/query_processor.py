@@ -1,11 +1,4 @@
-"""Low-noise Turkish -> English clinical query processing for FTR RAG.
-
-Design goals:
-- Prefer the longest, most specific dictionary match.
-- Match inflected Turkish phrases only as contiguous phrases (no bag-of-words matching).
-- Suppress overlapping keys and duplicate/redundant English expansion terms.
-- Keep the original query and preserve the Qwen rewrite API used by the project.
-"""
+"""English query passthrough for FTR RAG retrieval."""
 from __future__ import annotations
 
 from pathlib import Path
@@ -275,21 +268,14 @@ def process_query(
     terminology: Dict[str, List[str]] | None = None,
     use_english_rewrite: bool = True,
 ) -> Dict[str, object]:
+    """Prepare an English query without translation or generated expansions."""
     if not query or not query.strip():
-        raise ValueError("Sorgu boş olamaz.")
-    if terminology is None:
-        terminology = load_terminology()
-
-    original_query = query.strip()
-    matches = find_terms(original_query, terminology)
-    added_terms = _matched_expansions(matches)
-    rewritten_query = rewrite_query_to_english(original_query, matches) if use_english_rewrite else original_query
-    expanded_query = _dedupe_expansion_tokens(rewritten_query, added_terms)
-
+        raise ValueError("Query must not be empty.")
+    english_query = query.strip()
     return {
-        "original_query": original_query,
-        "rewritten_query": rewritten_query,
-        "expanded_query": expanded_query,
-        "matched_terms": [term for term, _ in matches],
-        "added_terms": added_terms,
+        "original_query": english_query,
+        "rewritten_query": english_query,
+        "expanded_query": english_query,
+        "matched_terms": [],
+        "added_terms": [],
     }

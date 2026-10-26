@@ -1,0 +1,436 @@
+{
+  "schema_version": "2.3",
+  "document": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+  "doc_family": "AHA_ESC",
+  "doc_family_source": "filename_rule",
+  "organization": "AHA/ACC/ESC",
+  "year": 2026,
+  "table_count": 7,
+  "tables": [
+    {
+      "table_id": "tbl_aa72eedc779e4192",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 25,
+      "table_index": 0,
+      "bbox": [
+        125.86,
+        596.24,
+        430.37,
+        743.8
+      ],
+      "section_id": "08a017fe327e7bdb",
+      "section_path": [
+        "Recommendations for Interdisciplinary Care"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Referenced studies that support recommendations are\nsummarized in the evidence table.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-R | 1. For adults with stage 2 to 4 CKM\nsyndrome with ≥2 CKM conditions of\ndiabetes, CKD, and/or CVD, the use\nof interdisciplinary care teams with a\nCKM coordination point person\nis recommended to facilitate\nmultisystem CKM syndrome care,\nincluding lifestyle interventions and\noptimization of GDMT.1-5 continued in the next column",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-R",
+          "1. For adults with stage 2 to 4 CKM\nsyndrome with ≥2 CKM conditions of\ndiabetes, CKD, and/or CVD, the use\nof interdisciplinary care teams with a\nCKM coordination point person\nis recommended to facilitate\nmultisystem CKM syndrome care,\nincluding lifestyle interventions and\noptimization of GDMT.1-5 continued in the next column"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_74cf42b8ecb498d8",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 25,
+      "table_index": 1,
+      "bbox": [
+        53.4,
+        640.63,
+        264.04,
+        743.8
+      ],
+      "section_id": "08a017fe327e7bdb",
+      "section_path": [
+        "Recommendations for Interdisciplinary Care"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Referenced studies that support recommendations are\nsummarized in the evidence table.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-R | 1. For adults with stage 2 to 4 CKM\nsyndrome with ≥2 CKM conditions of\ndiabetes, CKD, and/or CVD, the use\nof interdisciplinary care teams with a\nCKM coordination point person\nis recommended to facilitate\nmultisystem CKM syndrome care,\nincluding lifestyle interventions and\noptimization of GDMT.1-5 continued in the next column",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-R",
+          "1. For adults with stage 2 to 4 CKM\nsyndrome with ≥2 CKM conditions of\ndiabetes, CKD, and/or CVD, the use\nof interdisciplinary care teams with a\nCKM coordination point person\nis recommended to facilitate\nmultisystem CKM syndrome care,\nincluding lifestyle interventions and\noptimization of GDMT.1-5 continued in the next column"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ede97b7e2a002640",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 30,
+      "table_index": 0,
+      "bbox": [
+        83.34,
+        123.99,
+        293.87,
+        187.3
+      ],
+      "section_id": "a82baee85c8877e7",
+      "section_path": [
+        "Continued"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Continued",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2a | B-NR | 3. Among adults with obesity,\nintegrated interdisciplinary weight\nmanagement teams can be effective\nto enhance patient-centered\napproaches to weight loss.2",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "3. Among adults with obesity,\nintegrated interdisciplinary weight\nmanagement teams can be effective\nto enhance patient-centered\napproaches to weight loss.2"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_c06e9918e5bf85ea",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 32,
+      "table_index": 0,
+      "bbox": [
+        83.28,
+        182.61,
+        293.92,
+        572.07
+      ],
+      "section_id": "905101e720ec0971",
+      "section_path": [
+        "Recommendations for Intensive Lifestyle Modification\nfor Weight Loss"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Referenced studies that support recommendations\nare summarized in the evidence table.",
+      "footnote_candidates": [
+        "a priority group for weight loss efforts. Modest weight"
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. Among adults with overweight or\nobesity, clinicians should provide\ncounseling at least annually\nregarding the benefits of achieving\nat least 5% to 10% weight loss for\nCKM syndrome risk reduction.1,2\n1 | A | 2. Among adults with overweight or\nobesity, clinician referral to inperson or virtual multicomponent\nbehavioral interventions is beneficial for promoting weight loss for\nCKM syndrome risk reduction.1,3,4\n2a | B-R | 3. For adults with overweight or\nobesity who have significant barriers\nto participating in multicomponent\nbehavioral weight loss interventions, self-directed digital\nhealth solutions can be beneficial to\npromote weight loss for CKM syndrome risk reduction.5-7\n1 | A | 4. Among adults with overweight or\nobesity, lifestyle modification that\nincorporates moderate caloric restriction and regular physical activity should be recommended to\npromote weight loss and reduce\ncardiovascular risk.8\n1 | B-NR | 5. Among adults who have successfully\nlost weight, long-term weight\nmanagement programs that, in part,\nemphasize increased physical activity should be recommended to\nmaintain lost weight.4",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. Among adults with overweight or\nobesity, clinicians should provide\ncounseling at least annually\nregarding the benefits of achieving\nat least 5% to 10% weight loss for\nCKM syndrome risk reduction.1,2"
+        ],
+        [
+          "1",
+          "A",
+          "2. Among adults with overweight or\nobesity, clinician referral to inperson or virtual multicomponent\nbehavioral interventions is beneficial for promoting weight loss for\nCKM syndrome risk reduction.1,3,4"
+        ],
+        [
+          "2a",
+          "B-R",
+          "3. For adults with overweight or\nobesity who have significant barriers\nto participating in multicomponent\nbehavioral weight loss interventions, self-directed digital\nhealth solutions can be beneficial to\npromote weight loss for CKM syndrome risk reduction.5-7"
+        ],
+        [
+          "1",
+          "A",
+          "4. Among adults with overweight or\nobesity, lifestyle modification that\nincorporates moderate caloric restriction and regular physical activity should be recommended to\npromote weight loss and reduce\ncardiovascular risk.8"
+        ],
+        [
+          "1",
+          "B-NR",
+          "5. Among adults who have successfully\nlost weight, long-term weight\nmanagement programs that, in part,\nemphasize increased physical activity should be recommended to\nmaintain lost weight.4"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b5629eb649a7a55c",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 55,
+      "table_index": 0,
+      "bbox": [
+        53.4,
+        187.31,
+        504.26,
+        588.63
+      ],
+      "section_id": "9b8c5623a8b5730f",
+      "section_path": [
+        "Recommendations for CKM Syndrome Stage 4 With\nObesity and ASCVD"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Approximately 5% weight loss through intensive lifestyle",
+      "footnote_candidates": [
+        "*Economic value statements inform population- and health system–level decisions and\nare not meant to directly influence clinical decision-making for individual patients."
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.2222,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In adults with CKM syndrome stage\n4 with overweight or obesity and\nASCVD, treatment with an intensive,\nmulticomponent, behavioral lifestyle intervention is recommended\nto promote weight loss and\nimprovement in CKM risk factors.1-5\n1 | B-R | 2. In adults with CKM syndrome stage\n4 with overweight or obesity\n(BMI ≥27 kg/m2) and ASCVD, treatment with a GLP-1–based therapy\nwith proven cardiovascular benefit\nin addition to counseling to promote\nhealthy dietary intake and regular\nphysical activity is recommended to\nreduce the risk of cardiovascular\nevents.6,7\n |  | 3. In adults with CKM syndrome stage\n4 with overweight or obesity\n(BMI ≥27 kg/m2) and ASCVD, treatment with a GLP-1–based therapy\nwith proven cardiovascular benefit\nat 2025 U.S. prices is projected to be\ncost-effective compared with usual\ncare.\n |  | 1. A systematic review of lifestyle-based interventions,\n2a | B-NR | 4. In adults with CKM syndrome stage\n4 with obesity (BMI ≥30 kg/m2) and\nASCVD who have not reached\nweight loss goals with lifestyle interventions, with or without maximally tolerated pharmacotherapy,\nMBS can be beneficial to facilitate a\nminimum weight loss of 5% to 10%\nto improve CKM health and to\nreduce the risk of cardiovascular\nevents.8,9",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In adults with CKM syndrome stage\n4 with overweight or obesity and\nASCVD, treatment with an intensive,\nmulticomponent, behavioral lifestyle intervention is recommended\nto promote weight loss and\nimprovement in CKM risk factors.1-5"
+        ],
+        [
+          "1",
+          "B-R",
+          "2. In adults with CKM syndrome stage\n4 with overweight or obesity\n(BMI ≥27 kg/m2) and ASCVD, treatment with a GLP-1–based therapy\nwith proven cardiovascular benefit\nin addition to counseling to promote\nhealthy dietary intake and regular\nphysical activity is recommended to\nreduce the risk of cardiovascular\nevents.6,7"
+        ],
+        [
+          "",
+          "",
+          "3. In adults with CKM syndrome stage\n4 with overweight or obesity\n(BMI ≥27 kg/m2) and ASCVD, treatment with a GLP-1–based therapy\nwith proven cardiovascular benefit\nat 2025 U.S. prices is projected to be\ncost-effective compared with usual\ncare."
+        ],
+        [
+          "",
+          "",
+          "1. A systematic review of lifestyle-based interventions,"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "4. In adults with CKM syndrome stage\n4 with obesity (BMI ≥30 kg/m2) and\nASCVD who have not reached\nweight loss goals with lifestyle interventions, with or without maximally tolerated pharmacotherapy,\nMBS can be beneficial to facilitate a\nminimum weight loss of 5% to 10%\nto improve CKM health and to\nreduce the risk of cardiovascular\nevents.8,9"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9f056c6e36a439cf",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 65,
+      "table_index": 0,
+      "bbox": [
+        53.46,
+        123.99,
+        504.24,
+        395.8
+      ],
+      "section_id": "55a77b5ce929442a",
+      "section_path": [
+        "1. SGLT2i have demonstrated broad efficacy in reducing"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "1. SGLT2i have demonstrated broad efficacy in reducing",
+      "footnote_candidates": [
+        "*Economic value statements inform population- and health system–level decisions and\nare not meant to directly influence clinical decision-making for individual patients."
+      ],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.2667,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n |  | 3. In patients with CKM syndrome\nstage 4 with T2D and symptomatic\nHFpEF, cost-effectiveness of adding\nan SGLT2i at 2025 U.S. prices is\nindeterminate.\n2a | B-R | 4. In patients with CKM syndrome\nstage 4 with T2D, HFpEF, and other\nCKM risk factors, the addition of\nGLP-1–based therapy with proven\ncardiovascular benefit to foundational SGLT2i therapy can be beneficial to improve HF symptomology\nand reduce CKM-related adverse\noutcomes.4-6\n2a | B-NR | 5. In patients with CKM syndrome\nstage 4 with T2D, stable HF,\neGFR ≥30 mL/min/1.73 m2, and A1c\nlevels above their individualized\nglycemic goal, the addition of metformin therapy to SGLT2i can be\nbeneficial to help achieve glycemic\ntargets.7-10\n |  | 2. Two\nhigh-quality\nsimulation\nmodel–based\ncost-",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "",
+          "",
+          "3. In patients with CKM syndrome\nstage 4 with T2D and symptomatic\nHFpEF, cost-effectiveness of adding\nan SGLT2i at 2025 U.S. prices is\nindeterminate."
+        ],
+        [
+          "2a",
+          "B-R",
+          "4. In patients with CKM syndrome\nstage 4 with T2D, HFpEF, and other\nCKM risk factors, the addition of\nGLP-1–based therapy with proven\ncardiovascular benefit to foundational SGLT2i therapy can be beneficial to improve HF symptomology\nand reduce CKM-related adverse\noutcomes.4-6"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "5. In patients with CKM syndrome\nstage 4 with T2D, stable HF,\neGFR ≥30 mL/min/1.73 m2, and A1c\nlevels above their individualized\nglycemic goal, the addition of metformin therapy to SGLT2i can be\nbeneficial to help achieve glycemic\ntargets.7-10"
+        ],
+        [
+          "",
+          "",
+          "2. Two\nhigh-quality\nsimulation\nmodel–based\ncost-"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_88f22f34eda08f7b",
+      "doc_name": "2026 AHA_ACC Cardiovascular-Kidney-Metabolic Syndrome.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 75,
+      "table_index": 0,
+      "bbox": [
+        282.05,
+        456.55,
+        504.25,
+        696.79
+      ],
+      "section_id": "041d51100bba7527",
+      "section_path": [
+        "Recommendations for Obstructive Sleep Apnea"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Referenced studies that support recommendations are\nsummarized in the evidence table.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.3333,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n |  | 30. to 70 years) in the United States, based on a cohort",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "",
+          "",
+          "30. to 70 years) in the United States, based on a cohort"
+        ]
+      ]
+    }
+  ]
+}

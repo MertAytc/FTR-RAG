@@ -1,7 +1,5 @@
 from dataclasses import dataclass
 from typing import Dict, List
-from pathlib import Path
-import json
 import re
 
 try:
@@ -36,46 +34,7 @@ STRICT RULES:
 19. Do not interpret corrupted or unclear extracted text as clinical fact.
 """
 SYSTEM_PROMPT = ENGLISH_SYSTEM_PROMPT
-TRANSLATION_SYSTEM_PROMPT = """Translate the supplied grounded physiotherapy/rehabilitation answer from English to Turkish.
-
-This is a CLINICAL FTR translation task, not a general-purpose translation task.
-Use standard Turkish physiotherapy and rehabilitation terminology and preserve the
-clinical meaning exactly. Do not translate technical FTR terms into unrelated
-everyday words.
-
-STRICT TRANSLATION RULES:
-1. Translate only; do not add, remove, infer, strengthen, weaken, or change clinical information.
-2. Preserve every number, unit, dosage, frequency, duration, abbreviation, exercise name, and named clinical term.
-3. Preserve every [SOURCE X] citation exactly and in the same location.
-4. Do not create new citations.
-5. Do not introduce new medical advice.
-6. Keep the same bullet structure and meaning.
-7. Use natural, professional Turkish used by physiotherapists and rehabilitation clinicians.
-8. Prefer established FTR terminology from the supplied terminology glossary when available.
-9. Examples of terminology behavior: "exercise progression" -> "egzersiz progresyonu" or "egzersizin ilerletilmesi"; "progression criteria" -> "progresyon kriterleri"; "exercise" -> "egzersiz"; "motor learning" -> "motor öğrenme"; "repetitive training" -> "tekrarlı eğitim" or "tekrarlı motor eğitim"; "range of motion (ROM)" -> "eklem hareket açıklığı (ROM)".
-10. Never translate "exercise progression" as "hamle gelişimi" or another unrelated everyday expression.
-11. If an English clinical term has no reliable Turkish equivalent in the glossary, keep the English clinical term in parentheses rather than inventing a misleading translation.
-12. Medication recommendations and medication doses are never to be added.
-13. Return ONLY the Turkish translation.
-"""
-
-TERMINOLOGY_PATH = Path(__file__).resolve().parents[1] / "retrieval" / "clinical_terminology.json"
-
-def _load_translation_glossary(query: str) -> str:
-    """Load matching Turkish->English FTR terminology from the project's JSON glossary."""
-    try:
-        from src.retrieval.query_processor import find_terms, load_terminology
-        terminology = load_terminology(TERMINOLOGY_PATH)
-        matches = find_terms(query, terminology)
-        lines = []
-        for turkish_term, equivalents in matches:
-            lines.append(f"- {turkish_term} => {', '.join(equivalents)}")
-        return "\n".join(lines) if lines else "No matching glossary terms found."
-    except (FileNotFoundError, json.JSONDecodeError, OSError, ImportError, TypeError):
-        return "Glossary unavailable; use standard Turkish physiotherapy terminology and do not invent translations."
-
-OUT_OF_SCOPE_PATTERNS = [r"\bilaç\b", r"\bilac\b", r"\bilaç\s+dozu\b", r"\bilac\s+dozu\b", r"\btanı\s+koy\b"]
-INSUFFICIENT_EVIDENCE_TEXT = "Mevcut kaynaklarda bu soruyu güvenilir biçimde yanıtlamak için yeterli bilgi bulunmuyor. Kaynaklarda yer almayan bilgileri tahmin ederek tamamlamıyorum."
+INSUFFICIENT_EVIDENCE_TEXT = "The available sources do not contain enough information to answer this question reliably. I will not guess information that is not present in the sources."
 
 
 @dataclass
@@ -92,7 +51,8 @@ class GenerationResult:
 
 def is_out_of_scope(query: str) -> bool:
     normalized = " ".join(query.lower().split())
-    return any(re.search(pattern, normalized) for pattern in OUT_OF_SCOPE_PATTERNS)
+    patterns = (r"\bmedication\b", r"\bdrug\s+dose\b", r"\bmedication\s+dose\b", r"\bdiagnos(?:e|is|ing)\b", r"\bprescrib(?:e|ing|ed)\b")
+    return any(re.search(pattern, normalized) for pattern in patterns)
 
 
 def build_english_prompt(english_query: str, context_text: str) -> str:
@@ -117,33 +77,6 @@ def validate_citations(answer: str, source_count: int) -> bool:
     return bool(cited) and all(1 <= number <= source_count for number in cited)
 
 
-def _citation_structure(answer: str) -> List[str]:
-    return re.findall(r"\[SOURCE\s+[0-9]+(?:\s*,\s*[0-9]+)*\]", answer, flags=re.I)
-
-
-def _translate_to_turkish(
-    english_answer: str,
-    model: str,
-    original_query: str,
-) -> str:
-    glossary = _load_translation_glossary(original_query)
-    user_prompt = (
-        f"FTR TERMINOLOGY GLOSSARY (matched to the original Turkish question):\n"
-        f"{glossary}\n\n"
-        "TRANSLATE THE FOLLOWING GROUNDED ENGLISH ANSWER TO TURKISH. "
-        "Use the glossary where applicable. Preserve all [SOURCE X] tags exactly.\n\n"
-        f"{english_answer}"
-    )
-    response = ollama.chat(
-        model=model,
-        messages=[
-            {"role": "system", "content": TRANSLATION_SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-        options={"temperature": 0.0, "num_predict": 350},
-    )
-    return response["message"]["content"].strip()
-
 
 def generate_grounded_answer(
     query: str,
@@ -155,7 +88,7 @@ def generate_grounded_answer(
     context_text = context_result.get("context_text", "")
 
     if is_out_of_scope(query):
-        answer = "Bu soru mevcut FTR-RAG kapsamının dışında veya güvenli biçimde yanıtlanması için uygun değil. İlaç, ilaç dozu veya kaynaklarda yer almayan klinik kararları tahmin ederek önermiyorum."
+        answer = "This request is outside the supported FTR-RAG scope. I cannot recommend medication, medication doses, diagnoses, or unsupported clinical decisions."
         return GenerationResult(answer, False, False, True, sources, "", english_query or "")
 
     if not sources or not context_text.strip():
@@ -165,10 +98,8 @@ def generate_grounded_answer(
         raise RuntimeError("ollama paketi bulunamadı.")
 
     if english_query is None:
-        # Fallback only. In the normal pipeline the rewrite from query_processor
-        # should be passed in so the question is rewritten exactly once.
-        from src.retrieval.query_processor import process_query
-        english_query = process_query(query)["rewritten_query"]
+        # Questions are supplied in English by the benchmark/user.
+        english_query = query.strip()
 
     prompt = build_english_prompt(english_query, context_text)
     response = ollama.chat(
@@ -186,16 +117,7 @@ def generate_grounded_answer(
     # If the grounded English answer has no valid source syntax, do not let the
     # translation stage hide that failure.
     if not grounded:
-        answer = english_answer + "\n\nNot: Yanıtta geçerli bir [SOURCE X] kaynağı bulunmadığı için kaynak bağlılığı doğrulanamadı."
+        answer = english_answer + "\n\nNote: Source grounding could not be verified because the answer contains no valid [SOURCE X] citation."
         return GenerationResult(answer, False, False, False, sources, prompt, english_answer, english_query)
 
-    turkish_answer = _translate_to_turkish(english_answer, model, query)
-
-    # Translation must preserve citation structure exactly. If it changes or
-    # removes citations, return the English answer with an explicit warning rather
-    # than silently presenting an apparently grounded Turkish answer.
-    if _citation_structure(turkish_answer) != _citation_structure(english_answer):
-        answer = english_answer + "\n\nNot: Türkçe çeviri kaynak etiketlerini koruyamadığı için doğrulanmış çeviri sunulmadı."
-        return GenerationResult(answer, False, False, False, sources, prompt, english_answer, english_query)
-
-    return GenerationResult(turkish_answer, True, False, False, sources, prompt, english_answer, english_query)
+    return GenerationResult(english_answer, True, False, False, sources, prompt, english_answer, english_query)

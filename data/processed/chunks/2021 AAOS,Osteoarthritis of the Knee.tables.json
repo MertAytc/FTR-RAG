@@ -1,0 +1,206 @@
+{
+  "schema_version": "2.3",
+  "document": "2021 AAOS,Osteoarthritis of the Knee.pdf",
+  "doc_family": "AAOS",
+  "doc_family_source": "filename_rule",
+  "organization": "American Academy of Orthopaedic Surgeons",
+  "year": 2021,
+  "table_count": 3,
+  "tables": [
+    {
+      "table_id": "tbl_d9111f28cccac6a5",
+      "doc_name": "2021 AAOS,Osteoarthritis of the Knee.pdf",
+      "doc_family": "AAOS",
+      "doc_family_source": "filename_rule",
+      "organization": "American Academy of Orthopaedic Surgeons",
+      "year": 2021,
+      "page": 11,
+      "table_index": 0,
+      "bbox": [
+        72.0,
+        354.6,
+        521.64,
+        386.76
+      ],
+      "section_id": "b475420629e10c67",
+      "section_path": [
+        "SUMMARY OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Hyaluronic Acid\nHyaluronic acid intra-articular injection(s) is not recommended for routine\nuse in the treatment of symptomatic osteoarthritis of the knee.\nStrength of Recommendation: Moderate\n(downgrade)\nEvidence from two or more “Moderate” quality studies with consistent findings, or evidence from a single “High”\nquality study for recommending for or against the intervention. Also requires no or only minor concerns addressed\nin the EtD framework.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "y Hyaluronic acid intra-articular injection(s) is not recommended for routine",
+        ""
+      ],
+      "header_signature": "77347e895803",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "y Hyaluronic acid intra-articular injection(s) is not recommended for routine | \ny j use in the treatment of symptomatic osteoarthritis of the knee. |",
+      "rows": [
+        [
+          "y Hyaluronic acid intra-articular injection(s) is not recommended for routine",
+          ""
+        ],
+        [
+          "y j use in the treatment of symptomatic osteoarthritis of the knee.",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b3e148cc5daa020a",
+      "doc_name": "2021 AAOS,Osteoarthritis of the Knee.pdf",
+      "doc_family": "AAOS",
+      "doc_family_source": "filename_rule",
+      "organization": "American Academy of Orthopaedic Surgeons",
+      "year": 2021,
+      "page": 19,
+      "table_index": 0,
+      "bbox": [
+        72.2,
+        118.75,
+        539.8,
+        387.05
+      ],
+      "section_id": "56535e4571eb4ec7",
+      "section_path": [
+        "INTERPRETING THE STRENGTH OF EVIDENCE\nTable I. LEVEL OF EVIDENCE DESCRIPTIONS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "INTERPRETING THE STRENGTH OF EVIDENCE\nTable I. LEVEL OF EVIDENCE DESCRIPTIONS",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.2,
+      "header_row": [
+        "Strength",
+        "Overall Strength of Evidence",
+        "Description of Evidence Quality",
+        "Strength Visual"
+      ],
+      "header_signature": "4493650b3758",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Strength | Overall Strength of Evidence | Description of Evidence Quality | Strength Visual\nStrong | Strong or Moderate | Evidence from two or more “High” quality studies with consistent findings for recommending for or against the intervention. Or Rec is upgrade from Moderate using the EtD framework | \nModerate | Strong, Moderate or Limited | Evidence from two or more “Moderate” quality studies with consistent findings, or evidence from a single “High” quality study for recommending for or against the intervention. Or Rec is upgraded or downgraded from Limited or Strong using the EtD framework. | \nLimited | Limited or Moderate | Evidence from one or more “Low” quality studies with consistent findings or evidence from a single “Moderate” quality study recommending for or against the intervention. Or Rec is downgraded from Moderate using the EtD Framework. | \nConsensus* | No Evidence | There is no supporting evidence, or higher quality evidence was downgraded due to major concerns addressed in the EtD framework. In the absence of reliable evidence, the guideline work group is making a recommendation based on their clinical opinion. |",
+      "rows": [
+        [
+          "Strength",
+          "Overall Strength of Evidence",
+          "Description of Evidence Quality",
+          "Strength Visual"
+        ],
+        [
+          "Strong",
+          "Strong or Moderate",
+          "Evidence from two or more “High” quality studies with consistent findings for recommending for or against the intervention. Or Rec is upgrade from Moderate using the EtD framework",
+          ""
+        ],
+        [
+          "Moderate",
+          "Strong, Moderate or Limited",
+          "Evidence from two or more “Moderate” quality studies with consistent findings, or evidence from a single “High” quality study for recommending for or against the intervention. Or Rec is upgraded or downgraded from Limited or Strong using the EtD framework.",
+          ""
+        ],
+        [
+          "Limited",
+          "Limited or Moderate",
+          "Evidence from one or more “Low” quality studies with consistent findings or evidence from a single “Moderate” quality study recommending for or against the intervention. Or Rec is downgraded from Moderate using the EtD Framework.",
+          ""
+        ],
+        [
+          "Consensus*",
+          "No Evidence",
+          "There is no supporting evidence, or higher quality evidence was downgraded due to major concerns addressed in the EtD framework. In the absence of reliable evidence, the guideline work group is making a recommendation based on their clinical opinion.",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b8ef8dc101e198d6",
+      "doc_name": "2021 AAOS,Osteoarthritis of the Knee.pdf",
+      "doc_family": "AAOS",
+      "doc_family_source": "filename_rule",
+      "organization": "American Academy of Orthopaedic Surgeons",
+      "year": 2021,
+      "page": 19,
+      "table_index": 1,
+      "bbox": [
+        72.2,
+        417.07,
+        539.8,
+        534.65
+      ],
+      "section_id": "7806dce76b237837",
+      "section_path": [
+        "Table II. INTERPRETING THE STRENGTH OF A RECOMMENDATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Table II. INTERPRETING THE STRENGTH OF A RECOMMENDATION",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Strength of Recommendation",
+        "Patient Counseling (Time)",
+        "Decision Aids",
+        "Impact of Future Research"
+      ],
+      "header_signature": "97123ee8f339",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Strength of Recommendation | Patient Counseling (Time) | Decision Aids | Impact of Future Research\nStrong | Least | Least Important, unless the evidence supports no difference between two alternative interventions | Not likely to change\nModerate | Less | Less Important | Less likely to change\nLimited | More | Important | Change possible/anticipated\nConsensus | Most | Most Important | Impact unknown",
+      "rows": [
+        [
+          "Strength of Recommendation",
+          "Patient Counseling (Time)",
+          "Decision Aids",
+          "Impact of Future Research"
+        ],
+        [
+          "Strong",
+          "Least",
+          "Least Important, unless the evidence supports no difference between two alternative interventions",
+          "Not likely to change"
+        ],
+        [
+          "Moderate",
+          "Less",
+          "Less Important",
+          "Less likely to change"
+        ],
+        [
+          "Limited",
+          "More",
+          "Important",
+          "Change possible/anticipated"
+        ],
+        [
+          "Consensus",
+          "Most",
+          "Most Important",
+          "Impact unknown"
+        ]
+      ]
+    }
+  ]
+}

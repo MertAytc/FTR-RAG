@@ -1,0 +1,133 @@
+{
+  "schema_version": "2.3",
+  "document": "2020 APTA, Management of Fall Risk.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2020,
+  "table_count": 2,
+  "tables": [
+    {
+      "table_id": "tbl_9cc9db047ab3d448",
+      "doc_name": "2020 APTA, Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 11,
+      "table_index": 0,
+      "bbox": [
+        44.12,
+        340.12,
+        279.24,
+        456.07
+      ],
+      "section_id": "d4773efb9d99ce2b",
+      "section_path": [
+        "Monitoring and Progressing Patients"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Copyright © 2020 Journal of Orthopaedic & Sports Physical Therapy®. All rights reserved.",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "I",
+        "Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews"
+      ],
+      "header_signature": "f6e37d7c5f3c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "I | Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews\nII | Evidence obtained from lesser-quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)\nIII | Case-control studies or retrospective studies\nIV | Case series\nV | Expert opinion",
+      "rows": [
+        [
+          "I",
+          "Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews"
+        ],
+        [
+          "II",
+          "Evidence obtained from lesser-quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)"
+        ],
+        [
+          "III",
+          "Case-control studies or retrospective studies"
+        ],
+        [
+          "IV",
+          "Case series"
+        ],
+        [
+          "V",
+          "Expert opinion"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b07d1e0095fdd58d",
+      "doc_name": "2020 APTA, Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 11,
+      "table_index": 1,
+      "bbox": [
+        296.12,
+        532.12,
+        532.54,
+        651.39
+      ],
+      "section_id": "d4773efb9d99ce2b",
+      "section_path": [
+        "Monitoring and Progressing Patients"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Recommendations from previously published CPGs were\neligible for inclusion if they met the following criteria:\n(1) published on January 1, 2015 or later, (2) included a\nmultidisciplinary team for authorship, (3) based on a sys\ntematic review and appraisal of the literature, (4) includ\ned recommendations that pertained to movement-related\nimpairments, and (5) rated as acceptable quality based on\ncritical appraisal by 2 trained independent reviewers using\nthe Appraisal of Guidelines for Research and Evaluation\nII (AGREE II) tool.22 The AGREE II instrument consists\nof 23 items categorized under 6",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "LEVEL",
+        "EVIDENCE LEVEL RATING FOR RECOMMENDATIONS ADAPTED FROM PREVIOUSLY PUBLISHED CPGS ON CONCUSSION MANAGEMENT"
+      ],
+      "header_signature": "4502ab0177dc",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "LEVEL | EVIDENCE LEVEL RATING FOR RECOMMENDATIONS ADAPTED FROM PREVIOUSLY PUBLISHED CPGS ON CONCUSSION MANAGEMENT\nI | The recommendation being adapted was generated from level I evidence\nII | The recommendation being adapted was generated from level II evidence\nIII | The recommendation being adapted was generated from level III evidence\nIV | The recommendation being adapted was generated based on expert consensus of the authors of the published CPG",
+      "rows": [
+        [
+          "LEVEL",
+          "EVIDENCE LEVEL RATING FOR RECOMMENDATIONS ADAPTED FROM PREVIOUSLY PUBLISHED CPGS ON CONCUSSION MANAGEMENT"
+        ],
+        [
+          "I",
+          "The recommendation being adapted was generated from level I evidence"
+        ],
+        [
+          "II",
+          "The recommendation being adapted was generated from level II evidence"
+        ],
+        [
+          "III",
+          "The recommendation being adapted was generated from level III evidence"
+        ],
+        [
+          "IV",
+          "The recommendation being adapted was generated based on expert consensus of the authors of the published CPG"
+        ]
+      ]
+    }
+  ]
+}

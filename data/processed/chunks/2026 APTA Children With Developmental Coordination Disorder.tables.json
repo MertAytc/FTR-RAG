@@ -1,0 +1,253 @@
+{
+  "schema_version": "2.3",
+  "document": "2026 APTA Children With Developmental Coordination Disorder.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2026,
+  "table_count": 4,
+  "tables": [
+    {
+      "table_id": "tbl_c88230f04188a8d6",
+      "doc_name": "2026 APTA Children With Developmental Coordination Disorder.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2026,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        27.0,
+        23.85,
+        527.0,
+        53.0
+      ],
+      "section_id": "2d8c2b771a4a2077",
+      "section_path": [
+        "WHAT THIS EVIDENCE ADDS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "L E V E L S O F E V I D E N C E A N D",
+        "R E C O M M E N D A T I O N G R A D E C R I T E R I A"
+      ],
+      "header_signature": "3226f94a77dc",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "L E V E L S O F E V I D E N C E A N D | R E C O M M E N D A T I O N G R A D E C R I T E R I A",
+      "rows": [
+        [
+          "L E V E L S O F E V I D E N C E A N D",
+          "R E C O M M E N D A T I O N G R A D E C R I T E R I A"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_eb37a15f46bfb3e0",
+      "doc_name": "2026 APTA Children With Developmental Coordination Disorder.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2026,
+      "page": 6,
+      "table_index": 1,
+      "bbox": [
+        27.0,
+        616.01,
+        527.0,
+        712.88
+      ],
+      "section_id": "d38c25ea86ee7705",
+      "section_path": [
+        "tion\nQuality of Evidence"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "tion\nQuality of Evidence",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.4167,
+      "header_row": [
+        "A",
+        "Strong A preponderance of level I studies, but at least one level I study directly on the topic supports the recommendation. Moderate A preponderance of level II studies, but at least one level II study directly on the topic supports the recommendation. Weak A single level II study at <25% critical appraisal score or a preponderance of level III and IV studies, including consensus state ments by content experts, support the recommendation. Theoretical/ Foundational A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, from basic science/ bench research, or from published expert opinion in peer-reviewed journals, supports the recommendation. Best Practice Recommended practice based on current clinical practice norms; exceptional situations where validating studies have not or can not be performed and there is a clear benefit, harm, or cost; and/or the clinical experience of the guideline development group. Research There is an absence of research on the topic, or higher-quality studies conducted on the topic disagree with respect to their con clusions. The recommendation is based on these conflicting or absent studies."
+      ],
+      "header_signature": "2d43a31701b3",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "A | Strong A preponderance of level I studies, but at least one level I study directly on the topic supports the recommendation. Moderate A preponderance of level II studies, but at least one level II study directly on the topic supports the recommendation. Weak A single level II study at <25% critical appraisal score or a preponderance of level III and IV studies, including consensus state ments by content experts, support the recommendation. Theoretical/ Foundational A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, from basic science/ bench research, or from published expert opinion in peer-reviewed journals, supports the recommendation. Best Practice Recommended practice based on current clinical practice norms; exceptional situations where validating studies have not or can not be performed and there is a clear benefit, harm, or cost; and/or the clinical experience of the guideline development group. Research There is an absence of research on the topic, or higher-quality studies conducted on the topic disagree with respect to their con clusions. The recommendation is based on these conflicting or absent studies.\nB | \nC | \nD | \nP | \nR |",
+      "rows": [
+        [
+          "A",
+          "Strong A preponderance of level I studies, but at least one level I study directly on the topic supports the recommendation. Moderate A preponderance of level II studies, but at least one level II study directly on the topic supports the recommendation. Weak A single level II study at <25% critical appraisal score or a preponderance of level III and IV studies, including consensus state ments by content experts, support the recommendation. Theoretical/ Foundational A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, from basic science/ bench research, or from published expert opinion in peer-reviewed journals, supports the recommendation. Best Practice Recommended practice based on current clinical practice norms; exceptional situations where validating studies have not or can not be performed and there is a clear benefit, harm, or cost; and/or the clinical experience of the guideline development group. Research There is an absence of research on the topic, or higher-quality studies conducted on the topic disagree with respect to their con clusions. The recommendation is based on these conflicting or absent studies."
+        ],
+        [
+          "B",
+          ""
+        ],
+        [
+          "C",
+          ""
+        ],
+        [
+          "D",
+          ""
+        ],
+        [
+          "P",
+          ""
+        ],
+        [
+          "R",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_5792b5e0133b8c8c",
+      "doc_name": "2026 APTA Children With Developmental Coordination Disorder.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2026,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        27.0,
+        23.85,
+        527.0,
+        53.0
+      ],
+      "section_id": "d38c25ea86ee7705",
+      "section_path": [
+        "tion\nQuality of Evidence"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "S U M M A R Y A N D S T A T U S O F A C T I O N D E V E L O P M E N T A L C O O R D I N A T I O N D I S O R D E",
+        "S T A T E M E N T S F O R T H E 2 0 2 6 E R C L I N I C A L P R A C T I C E G U I D E L I N E"
+      ],
+      "header_signature": "0e0e63c60e5b",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "S U M M A R Y A N D S T A T U S O F A C T I O N D E V E L O P M E N T A L C O O R D I N A T I O N D I S O R D E | S T A T E M E N T S F O R T H E 2 0 2 6 E R C L I N I C A L P R A C T I C E G U I D E L I N E",
+      "rows": [
+        [
+          "S U M M A R Y A N D S T A T U S O F A C T I O N D E V E L O P M E N T A L C O O R D I N A T I O N D I S O R D E",
+          "S T A T E M E N T S F O R T H E 2 0 2 6 E R C L I N I C A L P R A C T I C E G U I D E L I N E"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_02896c010aa52d46",
+      "doc_name": "2026 APTA Children With Developmental Coordination Disorder.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2026,
+      "page": 7,
+      "table_index": 1,
+      "bbox": [
+        27.0,
+        265.97,
+        527.0,
+        658.03
+      ],
+      "section_id": "c51aae2d4867a341",
+      "section_path": [
+        "I. PHYSICAL THERAPY EXAMINATION, EVALUATION, AND REFERRAL OF CHILDREN WITH COORDINATION DIFFICULTIES, AT"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "examining a child referred for coordination difficulties should document the following to inform the 4 DSM-5-TR\ncriteria when the signs and symptoms are suggestive of DCD. The following are recommended to inform each\ncriterion when referring for a formal diagnosis:\n• Criterion A (motor performance deficits): MABC-3;\n• Criterion B (participation and ADL limitations): Little DCDQ or DCDQ;\n• Criterion C (early onset): parent/caregiver’s report of onset of coordination concerns; and\n• Criterion D (no exclusionary conditions): parent/caregiver’s report of other medical conditions and the physical\nt",
+      "footnote_candidates": [],
+      "n_rows": 9,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.5185,
+      "header_row": [
+        "[P] Action Statement 2: COMPLETE A HISTORY AND SYSTEMS REVIEW. Physical therapists should obtain and document a comprehensive history and systems review for a child referred for coordination difficulties, at risk for DCD, or diagnosed with DCD. (Evidence Quality: V; Recommendation Strength: Best Practice)",
+        "Revised, Updated",
+        ""
+      ],
+      "header_signature": "92712fd61387",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "[P] Action Statement 2: COMPLETE A HISTORY AND SYSTEMS REVIEW. Physical therapists should obtain and document a comprehensive history and systems review for a child referred for coordination difficulties, at risk for DCD, or diagnosed with DCD. (Evidence Quality: V; Recommendation Strength: Best Practice) | Revised, Updated | \n[A] Action Statement 3: EXAMINE ACTIVITY LIMITATIONS AND PHYSICAL PERFORMANCE. When a child presents with coordination difficulties, physical therapists should perform a comprehensive physical therapy exam ination and evaluation targeting participation priorities, which should include any combination of: • Measures of participation; • Measures of activity; • Movement analysis/observation; • Ecological assessment, if warranted; and • Assessments of body functions and structures, if warranted. (Evidence Quality: I; Recommendation Strength: Strong) Revised, Upgraded |  | \n[B] Action Statement 4: USE SHARED DECISION-MAKING TO ESTABLISH MEANINGFUL GOALS. For chil dren at risk for DCD or diagnosed with DCD, physical therapists should use shared decision-making with the child and family to establish measurable child-centered functional goals based on their participation priorities during the initial and subsequent examinations. (Evidence Quality: II; Recommendation Strength: Moderate) | New | \n[P] Action Statement 5: ESTABLISH COLLABORATIVE PLAN OF CARE. Physical therapists should use shared decision-making with the child, family, and other relevant service providers to establish a collaborative plan of care that may include referral of children to their primary care provider when signs and symptoms are suggestive of DCD and the child has not been diagnosed, and if there are red flags or concerns for other medical conditions. (Evidence Quality: V; Recommendation Strength: Best Practice) New |  | \nII. PHYSICAL THERAPY INTERVENTION FOR CHILDREN AT RISK FOR DCD OR DIAGNOSED WITH DCDa |  | \n[A] Action Statement 6: USE TASK-ORIENTED APPROACHES TO INTERVENTION. For children at risk for DCD or diagnosed with DCD, physical therapists should use and document task-oriented approaches to inter vention, guided by the child’s goals and meaningful activities, with body functions and structures interventions used only when directly supporting the achievement of the child’s goals. (Evidence Quality: I; Recommendation Strength: Strong) Revised, Updated |  | \n[A] Action Statement 7: RECOMMEND COMMUNITY PHYSICAL ACTIVITIES. After appraising the appro priateness for the child, physical therapists should recommend evidence-informed, community physical activities to complement task-oriented approaches to intervention for children at risk for DCD or diagnosed with DCD. (Evidence Quality: I; Recommendation Strength: Strong) | Revised, Updated | \n[A] Action Statement 8: USE SMALL GROUP OR INDIVIDUAL SESSIONS. For children at risk for DCD or diagnosed with DCD, physical therapists should document and deliver interventions using individual (1:1) or small group (1:4–6) sessions. (Evidence Quality: I; Recommendation Strength: Strong) Updated |  | \n[B] Action Statement 9: PROVIDE APPROPRIATE INTERVENTION DOSAGE. For children at risk for DCD or diagnosed with DCD, physical therapists should design episodic intervention plans with high practice frequencies, using a combination of direct services and home, school, and community opportunities. (Evidence Quality: II; Recommendation Strength: Moderate) | Revised |",
+      "rows": [
+        [
+          "[P] Action Statement 2: COMPLETE A HISTORY AND SYSTEMS REVIEW. Physical therapists should obtain and document a comprehensive history and systems review for a child referred for coordination difficulties, at risk for DCD, or diagnosed with DCD. (Evidence Quality: V; Recommendation Strength: Best Practice)",
+          "Revised, Updated",
+          ""
+        ],
+        [
+          "[A] Action Statement 3: EXAMINE ACTIVITY LIMITATIONS AND PHYSICAL PERFORMANCE. When a child presents with coordination difficulties, physical therapists should perform a comprehensive physical therapy exam ination and evaluation targeting participation priorities, which should include any combination of: • Measures of participation; • Measures of activity; • Movement analysis/observation; • Ecological assessment, if warranted; and • Assessments of body functions and structures, if warranted. (Evidence Quality: I; Recommendation Strength: Strong) Revised, Upgraded",
+          "",
+          ""
+        ],
+        [
+          "[B] Action Statement 4: USE SHARED DECISION-MAKING TO ESTABLISH MEANINGFUL GOALS. For chil dren at risk for DCD or diagnosed with DCD, physical therapists should use shared decision-making with the child and family to establish measurable child-centered functional goals based on their participation priorities during the initial and subsequent examinations. (Evidence Quality: II; Recommendation Strength: Moderate)",
+          "New",
+          ""
+        ],
+        [
+          "[P] Action Statement 5: ESTABLISH COLLABORATIVE PLAN OF CARE. Physical therapists should use shared decision-making with the child, family, and other relevant service providers to establish a collaborative plan of care that may include referral of children to their primary care provider when signs and symptoms are suggestive of DCD and the child has not been diagnosed, and if there are red flags or concerns for other medical conditions. (Evidence Quality: V; Recommendation Strength: Best Practice) New",
+          "",
+          ""
+        ],
+        [
+          "II. PHYSICAL THERAPY INTERVENTION FOR CHILDREN AT RISK FOR DCD OR DIAGNOSED WITH DCDa",
+          "",
+          ""
+        ],
+        [
+          "[A] Action Statement 6: USE TASK-ORIENTED APPROACHES TO INTERVENTION. For children at risk for DCD or diagnosed with DCD, physical therapists should use and document task-oriented approaches to inter vention, guided by the child’s goals and meaningful activities, with body functions and structures interventions used only when directly supporting the achievement of the child’s goals. (Evidence Quality: I; Recommendation Strength: Strong) Revised, Updated",
+          "",
+          ""
+        ],
+        [
+          "[A] Action Statement 7: RECOMMEND COMMUNITY PHYSICAL ACTIVITIES. After appraising the appro priateness for the child, physical therapists should recommend evidence-informed, community physical activities to complement task-oriented approaches to intervention for children at risk for DCD or diagnosed with DCD. (Evidence Quality: I; Recommendation Strength: Strong)",
+          "Revised, Updated",
+          ""
+        ],
+        [
+          "[A] Action Statement 8: USE SMALL GROUP OR INDIVIDUAL SESSIONS. For children at risk for DCD or diagnosed with DCD, physical therapists should document and deliver interventions using individual (1:1) or small group (1:4–6) sessions. (Evidence Quality: I; Recommendation Strength: Strong) Updated",
+          "",
+          ""
+        ],
+        [
+          "[B] Action Statement 9: PROVIDE APPROPRIATE INTERVENTION DOSAGE. For children at risk for DCD or diagnosed with DCD, physical therapists should design episodic intervention plans with high practice frequencies, using a combination of direct services and home, school, and community opportunities. (Evidence Quality: II; Recommendation Strength: Moderate)",
+          "Revised",
+          ""
+        ]
+      ]
+    }
+  ]
+}

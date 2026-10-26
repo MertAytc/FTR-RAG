@@ -1,0 +1,2301 @@
+{
+  "schema_version": "2.3",
+  "document": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+  "doc_family": "VA_DOD",
+  "doc_family_source": "filename_rule",
+  "organization": "VA/DoD",
+  "year": 2024,
+  "table_count": 16,
+  "tables": [
+    {
+      "table_id": "tbl_590f4c8877b67370",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 12,
+      "table_index": 0,
+      "bbox": [
+        72.27,
+        89.98,
+        539.76,
+        698.88
+      ],
+      "section_id": "9e1927549d62c957",
+      "section_path": [
+        "Table 1. Guideline Work Group and Guideline Development Team"
+      ],
+      "heading_level": 1,
+      "caption": "Table 1. Guideline Work Group and Guideline Development Team",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 38,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.7684,
+      "header_row": [
+        "",
+        "Organization",
+        "",
+        "Names*",
+        ""
+      ],
+      "header_signature": "264a71b6f892",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Organization |  | Names* | \nDepartment of Veterans Affairs |  |  | Blessen C. Eapen, MD (Champion) | \n |  |  | Johanna E. Tran, MD (Champion) | \n |  |  | Amy M. Donaldson, LCSW | \n |  |  | Andrew Buelt, DO | \n |  |  | Christine Matthews, CScD, CCC-SLP, BCS-S | \n |  |  | Frederica O’Donnell, OTD, OTR/L, LSSBB | \n |  |  | Jamie Basch, DHSc, OTR/L | \n |  |  | Jason Gleason, DNP | \n |  |  | Michelle Peterson, PT, DPT, NCS | \n |  |  | Natasha Antonovich, PharmD, BCPS | \n |  |  | Rebecca Ruffing, MA, CCC-SLP | \n |  |  | Rose Collins, PhD, LP | \n |  |  | Svetlana Pundik, MD, MSc | \nDepartment of Defense |  |  | Tyler R. Koehn, MD (Champion) | \n |  |  | Brian Ford, MD | \n |  |  | Carrie W. Hoppes, PT, PhD, NCS, OCS, ATC, CSCS | \n |  |  | Danielle Murray, PhD | \n |  |  | Jackoline Costantino, PharmD | \n |  |  | M. Marina LeBlanc, OTR/L | \n |  |  | Melissa R. Ray, CCC-SLP | \n |  |  | Russell J. Carroll, PsyD | \n |  |  | Zahari N. Tchopev, MD, MBA | \nVA Evidence Based Practice, Office of Quality and Patient Safety Veterans Health Administration |  |  | James Sall, PhD, FNP-BC | \n |  |  | Jennifer Ballard-Hernandez, DNP, RN, FNP-BC | \n |  |  | René Sutton, BS, HCA | \n |  |  | Lisa M. Wayman, PhD, RN, EBP-C | \n |  |  | Sarah Davis-Arnold, MSN, RN, NPD-BC, RCIS, EBP-C | \nClinical Quality Improvement Program Defense Health Agency |  |  | Elaine Stuffel, MHA, BSN, RN | \n |  |  | Cynthia F. Villarreal, BSN, RN | \n |  |  | Isabella Alvarez, MA, BSN, RN | \n |  |  | Lynn Young, BSN, RN, CIC | \n |  |  | Gwen Holland, MSN, RN | \nThe Lewin Group |  |  | Jennifer Weil, PhD | \n |  |  | Erika Beam, MS | \n |  |  | Savannah Lantz, MPH, RN | \n |  |  | Amanda Heinzerling, MS | \n |  |  | Katherine McCracken, BA |",
+      "rows": [
+        [
+          "",
+          "Organization",
+          "",
+          "Names*",
+          ""
+        ],
+        [
+          "Department of Veterans Affairs",
+          "",
+          "",
+          "Blessen C. Eapen, MD (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Johanna E. Tran, MD (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Amy M. Donaldson, LCSW",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Andrew Buelt, DO",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Christine Matthews, CScD, CCC-SLP, BCS-S",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Frederica O’Donnell, OTD, OTR/L, LSSBB",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Jamie Basch, DHSc, OTR/L",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Jason Gleason, DNP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Michelle Peterson, PT, DPT, NCS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Natasha Antonovich, PharmD, BCPS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Rebecca Ruffing, MA, CCC-SLP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Rose Collins, PhD, LP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Svetlana Pundik, MD, MSc",
+          ""
+        ],
+        [
+          "Department of Defense",
+          "",
+          "",
+          "Tyler R. Koehn, MD (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Brian Ford, MD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Carrie W. Hoppes, PT, PhD, NCS, OCS, ATC, CSCS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Danielle Murray, PhD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Jackoline Costantino, PharmD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "M. Marina LeBlanc, OTR/L",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Melissa R. Ray, CCC-SLP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Russell J. Carroll, PsyD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Zahari N. Tchopev, MD, MBA",
+          ""
+        ],
+        [
+          "VA Evidence Based Practice, Office of Quality and Patient Safety Veterans Health Administration",
+          "",
+          "",
+          "James Sall, PhD, FNP-BC",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Jennifer Ballard-Hernandez, DNP, RN, FNP-BC",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "René Sutton, BS, HCA",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Lisa M. Wayman, PhD, RN, EBP-C",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Sarah Davis-Arnold, MSN, RN, NPD-BC, RCIS, EBP-C",
+          ""
+        ],
+        [
+          "Clinical Quality Improvement Program Defense Health Agency",
+          "",
+          "",
+          "Elaine Stuffel, MHA, BSN, RN",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Cynthia F. Villarreal, BSN, RN",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Isabella Alvarez, MA, BSN, RN",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Lynn Young, BSN, RN, CIC",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Gwen Holland, MSN, RN",
+          ""
+        ],
+        [
+          "The Lewin Group",
+          "",
+          "",
+          "Jennifer Weil, PhD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Erika Beam, MS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Savannah Lantz, MPH, RN",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Amanda Heinzerling, MS",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Katherine McCracken, BA",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_c7a1b22d6fe21676",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 14,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        393.2,
+        539.76,
+        512.3
+      ],
+      "section_id": "d21f63899a631d82",
+      "section_path": [
+        "Table 2. Strength and Direction of Recommendations and General Corresponding Text"
+      ],
+      "heading_level": 1,
+      "caption": "Table 2. Strength and Direction of Recommendations and General Corresponding Text",
+      "context_before": "Using these elements, the Work Group determines the strength and direction of each\nrecommendation and formulates the recommendation with the general corresponding\ntext as shown in Table 2.",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.5357,
+      "header_row": [
+        "",
+        "Recommendation Strength",
+        "",
+        "General Corresponding Text"
+      ],
+      "header_signature": "5cfd6a2c98b2",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Recommendation Strength |  | General Corresponding Text\n | g and Direction |  | \nStrong for |  |  | We recommend . . .\nWeak for |  |  | We suggest . . .\nNeither for nor against |  |  | There is insufficient evidence to recommend for or against . . .\nWeak against |  |  | We suggest against . . .\nStrong against |  |  | We recommend against . . .",
+      "rows": [
+        [
+          "",
+          "Recommendation Strength",
+          "",
+          "General Corresponding Text"
+        ],
+        [
+          "",
+          "g and Direction",
+          "",
+          ""
+        ],
+        [
+          "Strong for",
+          "",
+          "",
+          "We recommend . . ."
+        ],
+        [
+          "Weak for",
+          "",
+          "",
+          "We suggest . . ."
+        ],
+        [
+          "Neither for nor against",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against . . ."
+        ],
+        [
+          "Weak against",
+          "",
+          "",
+          "We suggest against . . ."
+        ],
+        [
+          "Strong against",
+          "",
+          "",
+          "We recommend against . . ."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_bfc1859e26d073f2",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 15,
+      "table_index": 0,
+      "bbox": [
+        72.27,
+        529.43,
+        539.76,
+        682.8
+      ],
+      "section_id": "b4787820b0cb9c7a",
+      "section_path": [
+        "Table 3. Recommendation Categories and Definitionsa"
+      ],
+      "heading_level": 1,
+      "caption": "Table 3. Recommendation Categories and Definitionsa",
+      "context_before": "Additional information regarding these categories and their definitions can be found in\nRecommendation Categorization. The 2024 CPG recommendation categories can be\nfound in Recommendations. Appendix G outlines the 2019 VA/DoD Stroke\nRehabilitation CPG’s recommendation categories.",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.6735,
+      "header_row": [
+        "",
+        "Evidence",
+        "",
+        "",
+        "Recommendation",
+        "",
+        "Definition"
+      ],
+      "header_signature": "b2c997e5065e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Evidence |  |  | Recommendation |  | Definition\n | Reviewed |  |  | Category |  | \nReviewedb |  |  | New-added |  |  | New recommendation\n |  |  | New-replaced |  |  | Recommendation from previous CPG was carried forward and revised\n |  |  | Not changed |  |  | Recommendation from previous CPG was carried forward but unchanged\n |  |  | Amended |  |  | Recommendation from previous CPG was carried forward with a nominal change\n |  |  | Deleted |  |  | Recommendation from previous CPG was deleted",
+      "rows": [
+        [
+          "",
+          "Evidence",
+          "",
+          "",
+          "Recommendation",
+          "",
+          "Definition"
+        ],
+        [
+          "",
+          "Reviewed",
+          "",
+          "",
+          "Category",
+          "",
+          ""
+        ],
+        [
+          "Reviewedb",
+          "",
+          "",
+          "New-added",
+          "",
+          "",
+          "New recommendation"
+        ],
+        [
+          "",
+          "",
+          "",
+          "New-replaced",
+          "",
+          "",
+          "Recommendation from previous CPG was carried forward and revised"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Not changed",
+          "",
+          "",
+          "Recommendation from previous CPG was carried forward but unchanged"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Amended",
+          "",
+          "",
+          "Recommendation from previous CPG was carried forward with a nominal change"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Deleted",
+          "",
+          "",
+          "Recommendation from previous CPG was deleted"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_d8ec69fdb36b9252",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 28,
+      "table_index": 0,
+      "bbox": [
+        47.44,
+        333.46,
+        564.71,
+        702.05
+      ],
+      "section_id": "08e68f510c23ee75",
+      "section_path": [
+        "Table 4. Evidence-Based Clinical Practice Recommendations with Strength and Category"
+      ],
+      "heading_level": 1,
+      "caption": "Table 4. Evidence-Based Clinical Practice Recommendations with Strength and Category",
+      "context_before": "The Work Group uses various terminology, including normal rehabilitation, conventional\nrehabilitation, and routine rehabilitation, to represent traditional therapy throughout this\nCPG because it reflects the language used in the evidence. “Usual care” was used as a\ncomparator in several of the studies in the systematic evidence review and might not\nhave had an explicit definition. Usual care is a term used to describe the full spectrum of\npatient care practices in which providers have the opportunity to provide individualized\ncare.(17)",
+      "footnote_candidates": [],
+      "n_rows": 9,
+      "n_cols": 12,
+      "empty_cell_ratio": 0.6481,
+      "header_row": [
+        "Topic",
+        "",
+        "",
+        "",
+        "Sub-",
+        "",
+        "",
+        "",
+        "#",
+        "Recommendation",
+        "Strengtha",
+        "Categoryb"
+      ],
+      "header_signature": "bf6dfedf4aa5",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Topic |  |  |  | Sub- |  |  |  | # | Recommendation | Strengtha | Categoryb\n |  |  |  | topic |  |  |  |  |  |  | \n | Transitions to Community |  |  |  |  |  |  | 1. | We suggest using case management services at time of discharge from the acute care hospital or post-acute care facility to improve activities of daily living and functional independence. | Weak for | Reviewed, New-added\n |  |  |  |  |  |  |  | 2. | We suggest the following interventions for patients and their caregivers • Behavioral health/psychosocial interventions to improve patient and caregiver depression • Psychoeducation to improve family function, patient functional independence, and quality of life | Weak for | Reviewed, New-added\n |  |  |  |  |  |  |  | 3. | There is insufficient evidence to recommend for or against implementing transitional care rehabilitation interventions (e.g., home-based services after hospital discharge) or early supported discharge to improve activities of daily living or functional disability following stroke. | Neither for nor against | Reviewed, New-replaced\n |  |  |  |  |  |  |  | 4. | There is insufficient evidence to recommend for or against community participation interventions to improve community engagement for survivors of stroke. | Neither for nor against | Reviewed, New-added\n | Motor Therapy |  |  |  | General |  |  | 5. | We recommend task-specific practice (also known as taskoriented practice or repetitive task practice) to improve motor function, gait, posture, and activities of daily living. | Strong for | Reviewed, Not changed\n |  |  |  |  |  |  |  | 6. | We suggest mirror therapy to improve motor outcomes and activities of daily living. | Weak for | Reviewed, New-replaced\n |  |  |  |  |  |  |  | 7. | We suggest mirror therapy to improve unilateral spatial neglect. | Weak for | Reviewed, New-added",
+      "rows": [
+        [
+          "Topic",
+          "",
+          "",
+          "",
+          "Sub-",
+          "",
+          "",
+          "",
+          "#",
+          "Recommendation",
+          "Strengtha",
+          "Categoryb"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "topic",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Transitions to Community",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1.",
+          "We suggest using case management services at time of discharge from the acute care hospital or post-acute care facility to improve activities of daily living and functional independence.",
+          "Weak for",
+          "Reviewed, New-added"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2.",
+          "We suggest the following interventions for patients and their caregivers • Behavioral health/psychosocial interventions to improve patient and caregiver depression • Psychoeducation to improve family function, patient functional independence, and quality of life",
+          "Weak for",
+          "Reviewed, New-added"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3.",
+          "There is insufficient evidence to recommend for or against implementing transitional care rehabilitation interventions (e.g., home-based services after hospital discharge) or early supported discharge to improve activities of daily living or functional disability following stroke.",
+          "Neither for nor against",
+          "Reviewed, New-replaced"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4.",
+          "There is insufficient evidence to recommend for or against community participation interventions to improve community engagement for survivors of stroke.",
+          "Neither for nor against",
+          "Reviewed, New-added"
+        ],
+        [
+          "",
+          "Motor Therapy",
+          "",
+          "",
+          "",
+          "General",
+          "",
+          "",
+          "5.",
+          "We recommend task-specific practice (also known as taskoriented practice or repetitive task practice) to improve motor function, gait, posture, and activities of daily living.",
+          "Strong for",
+          "Reviewed, Not changed"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "6.",
+          "We suggest mirror therapy to improve motor outcomes and activities of daily living.",
+          "Weak for",
+          "Reviewed, New-replaced"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "7.",
+          "We suggest mirror therapy to improve unilateral spatial neglect.",
+          "Weak for",
+          "Reviewed, New-added"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_24b1b8720fd4f8d6",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 59,
+      "table_index": 0,
+      "bbox": [
+        72.0,
+        410.02,
+        533.48,
+        515.64
+      ],
+      "section_id": "c66420c6301753b4",
+      "section_path": [
+        "Discussion"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "The 2019 VA/DoD Stroke Rehabilitation CPG Work Group reviewed one RCT from Lee\net al. (2017) (n=50) that used a non-immersive VR method for balance-related\ntraining.(122) Both the VR group and the control group exhibited significant\nimprovement in balance as measured by the BBS (p=0.000) and Timed Up and Go\ncognitive test (p=0.005). Adverse events included soreness, hypertonicity, dizziness, or\nshoulder pain; all resolved with rest and did not carry over into subsequent sessions.\nThe VR intervention group rated the VR experience more pleasurable than the control\ngroup intervention (p=0.027). N",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.619,
+      "header_row": [
+        "improvement in balance as measured by the BBS",
+        "(p=0.000) and Timed Up and Go",
+        ""
+      ],
+      "header_signature": "0715d218bfd5",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "improvement in balance as measured by the BBS | (p=0.000) and Timed Up and Go | \ncognitive test (p=0.005). Adverse events included soreness, hypertonicity, dizziness, or |  | \nshoulder pain; all resolved with rest and did not carry over into subsequent sessions. |  | \nThe VR intervention group rated the VR experience more pleasurable than the control |  | \ngroup intervention (p=0.027). No significant difference was observed in either group on |  | \nother outcome measures (mBI for ADL ability; ABC Scale for balance confidence; and |  | \nStroke Impact Scale for QoL). |  |",
+      "rows": [
+        [
+          "improvement in balance as measured by the BBS",
+          "(p=0.000) and Timed Up and Go",
+          ""
+        ],
+        [
+          "cognitive test (p=0.005). Adverse events included soreness, hypertonicity, dizziness, or",
+          "",
+          ""
+        ],
+        [
+          "shoulder pain; all resolved with rest and did not carry over into subsequent sessions.",
+          "",
+          ""
+        ],
+        [
+          "The VR intervention group rated the VR experience more pleasurable than the control",
+          "",
+          ""
+        ],
+        [
+          "group intervention (p=0.027). No significant difference was observed in either group on",
+          "",
+          ""
+        ],
+        [
+          "other outcome measures (mBI for ADL ability; ABC Scale for balance confidence; and",
+          "",
+          ""
+        ],
+        [
+          "Stroke Impact Scale for QoL).",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_08967450725b1b2f",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 125,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        221.96,
+        539.76,
+        462.5
+      ],
+      "section_id": "9926b4cf3b83ced3",
+      "section_path": [
+        "Table A-1. PICOTS (261)"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-1. PICOTS (261)",
+      "context_before": "To guide this CPG’s systematic evidence review, the Work Group drafted 12 KQs on\nclinical topics of the highest priority for the VA and DoD populations. The KQs followed\nthe population, intervention, comparison, outcome, timing, and setting (PICOTS)\nframework, as established by the Agency for Healthcare Research and Quality (AHRQ).\nTable A-1 lists and describes the PICOTS elements.",
+      "footnote_candidates": [
+        "Abbreviations: PICOTS: population, intervention, comparison, outcome, timing, and setting; QoL: quality of life"
+      ],
+      "n_rows": 8,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.5312,
+      "header_row": [
+        "",
+        "PICOTS",
+        "",
+        "Description"
+      ],
+      "header_signature": "5ab0ee16b44d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| PICOTS |  | Description\n | Element |  | \nPopulation or Patients |  |  | Patients of interest. It includes the condition or conditions, populations or subpopulations, disease severity or stage, co-occurring conditions and other patient characteristics or demographics.\nIntervention or Exposure |  |  | Treatment (e.g., drug, surgery, lifestyle changes), approach (e.g., doses, frequency, methods of administering treatments), or diagnostic or screening test or both used with the patient or population.\nComparator |  |  | Treatment or treatments (e.g., placebo, different drugs) or approach or approaches (e.g., different dose, different frequency, standard of care) being compared with the intervention or exposure of interest described above.\nOutcomes |  |  | Results of interest (e.g., mortality, morbidity, QoL, complications). Outcomes can include short, intermediate, and long-term outcomes.\nTiming, if Applicable |  |  | Duration or follow-up of interest for the particular patient intervention and outcome to occur (or not occur).\nSetting, if Applicable |  |  | Setting or context of interest. Setting can be a location (e.g., primary, specialty, inpatient care) or a type of practice.",
+      "rows": [
+        [
+          "",
+          "PICOTS",
+          "",
+          "Description"
+        ],
+        [
+          "",
+          "Element",
+          "",
+          ""
+        ],
+        [
+          "Population or Patients",
+          "",
+          "",
+          "Patients of interest. It includes the condition or conditions, populations or subpopulations, disease severity or stage, co-occurring conditions and other patient characteristics or demographics."
+        ],
+        [
+          "Intervention or Exposure",
+          "",
+          "",
+          "Treatment (e.g., drug, surgery, lifestyle changes), approach (e.g., doses, frequency, methods of administering treatments), or diagnostic or screening test or both used with the patient or population."
+        ],
+        [
+          "Comparator",
+          "",
+          "",
+          "Treatment or treatments (e.g., placebo, different drugs) or approach or approaches (e.g., different dose, different frequency, standard of care) being compared with the intervention or exposure of interest described above."
+        ],
+        [
+          "Outcomes",
+          "",
+          "",
+          "Results of interest (e.g., mortality, morbidity, QoL, complications). Outcomes can include short, intermediate, and long-term outcomes."
+        ],
+        [
+          "Timing, if Applicable",
+          "",
+          "",
+          "Duration or follow-up of interest for the particular patient intervention and outcome to occur (or not occur)."
+        ],
+        [
+          "Setting, if Applicable",
+          "",
+          "",
+          "Setting or context of interest. Setting can be a location (e.g., primary, specialty, inpatient care) or a type of practice."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ea19f01a116e5b35",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 137,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        72.36,
+        539.76,
+        362.58
+      ],
+      "section_id": "9b3132d16e72a3f1",
+      "section_path": [
+        "KQ\nCritical Outcomes(s)\nImportant Outcome(s)"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 9,
+      "empty_cell_ratio": 0.6667,
+      "header_row": [
+        "",
+        "KQ",
+        "",
+        "",
+        "Critical Outcomes(s)",
+        "",
+        "",
+        "Important Outcome(s)",
+        ""
+      ],
+      "header_signature": "0234747916d4",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| KQ |  |  | Critical Outcomes(s) |  |  | Important Outcome(s) | \n11 |  |  | • Sensory Outcomes (dysesthesia, perception, proprioception, sensation, touch, etc.) • Functional Outcomes (ADL, IADL [community mobility, transportation], independence, etc.) |  |  | • Quality of Life Measures (EuroQuol [EQ-5D], SF36, SIS, SS-QOL) • Motor Outcomes (gait speed, upper and lower extremity mobility, strength, coordination, number of falls, etc.) • Return to work/community participation/ integration/driving (community mobility) • Speech/language outcomes (communication, etc.) • Neuropsychiatric testing (cognitive status [global], attention, executive function, memory, etc.) |  | \n12 |  |  | • Functional Outcomes (ADL, IADL [community mobility, transportation], independence, etc.) • Neuropsych testing (Cognitive status [global], Attention, Executive Function, Memory, etc.) |  |  | • Sensory outcomes (dysesthesia, perception, proprioception, sensation, touch, etc.) • Motor Outcomes (gait speed, upper and lower extremity mobility, strength, coordination, number of falls, etc.) • Quality of Life Measures (EuroQuol [EQ-5D], SF36, SIS, SS-QOL) • Speech/language outcomes (communication, etc.) • Return to work/community participation/ integration/driving (community mobility) |  |",
+      "rows": [
+        [
+          "",
+          "KQ",
+          "",
+          "",
+          "Critical Outcomes(s)",
+          "",
+          "",
+          "Important Outcome(s)",
+          ""
+        ],
+        [
+          "11",
+          "",
+          "",
+          "• Sensory Outcomes (dysesthesia, perception, proprioception, sensation, touch, etc.) • Functional Outcomes (ADL, IADL [community mobility, transportation], independence, etc.)",
+          "",
+          "",
+          "• Quality of Life Measures (EuroQuol [EQ-5D], SF36, SIS, SS-QOL) • Motor Outcomes (gait speed, upper and lower extremity mobility, strength, coordination, number of falls, etc.) • Return to work/community participation/ integration/driving (community mobility) • Speech/language outcomes (communication, etc.) • Neuropsychiatric testing (cognitive status [global], attention, executive function, memory, etc.)",
+          "",
+          ""
+        ],
+        [
+          "12",
+          "",
+          "",
+          "• Functional Outcomes (ADL, IADL [community mobility, transportation], independence, etc.) • Neuropsych testing (Cognitive status [global], Attention, Executive Function, Memory, etc.)",
+          "",
+          "",
+          "• Sensory outcomes (dysesthesia, perception, proprioception, sensation, touch, etc.) • Motor Outcomes (gait speed, upper and lower extremity mobility, strength, coordination, number of falls, etc.) • Quality of Life Measures (EuroQuol [EQ-5D], SF36, SIS, SS-QOL) • Speech/language outcomes (communication, etc.) • Return to work/community participation/ integration/driving (community mobility)",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_aa9a9f7744c0808c",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 140,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        276.57,
+        539.76,
+        691.05
+      ],
+      "section_id": "61ff212c131f7fc3",
+      "section_path": [
+        "Table A-2. Evidence Base for KQs"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "ii. 30 relevant SRs or studies with no usable data to abstract",
+      "footnote_candidates": [],
+      "n_rows": 11,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.4364,
+      "header_row": [
+        "",
+        "KQ",
+        "",
+        "KQ",
+        "Number and Study Type"
+      ],
+      "header_signature": "f1b26a21c4a2",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| KQ |  | KQ | Number and Study Type\n | Number |  |  | \n1 |  |  | In adults with motor deficits following stroke, what is the comparative effectiveness of various modes of rehabilitation for motor weakness? | 35 SRs (in 36 publications)\n2 |  |  | In adults with cognitive and/or speech and language deficits following stroke, what is the comparative effectiveness of rehabilitative and compensatory interventions for improving language and/or cognitive function? | 14 SRs and 7 RCTs\n3 |  |  | In adults with motor deficits following stroke, what intensity and/or frequency of rehabilitation interventions improve recovery? | 7 SRs and 2 RCTs\n4 |  |  | In adults post-stroke with cognitive and/or speech and language deficits, what intensity and/or frequency of cognitive and/or speech/language rehabilitation interventions improve recovery? | 3 SRs\n5 |  |  | In adults following stroke, what technology-assisted tools improve functional, motor, cognitive, sensory and speech outcomes? | 13 SRs and 1 NMA\n6 |  |  | In adults post-stroke, what interventions are effective in preventing or treating mental/behavioral health complications? | 18 SRs\n7 |  |  | In patients with dysphagia following stroke, what treatments are effective in increasing oral intake and decreasing aspiration and/or aspiration pneumonia? | 5 SRs and 13 RCTs\n8 |  |  | What settings and models of care (e.g., case management, and/or interdisciplinary care team approach) improve outcomes? | 6 SRs and 4 RCTs\n9 |  |  | In adults with stroke resulting in spasticity, what is the comparative effectiveness of interventions to improve spasticity and also stroke rehabilitation outcomes? | 7 SRs and 2 RCTs",
+      "rows": [
+        [
+          "",
+          "KQ",
+          "",
+          "KQ",
+          "Number and Study Type"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "",
+          "In adults with motor deficits following stroke, what is the comparative effectiveness of various modes of rehabilitation for motor weakness?",
+          "35 SRs (in 36 publications)"
+        ],
+        [
+          "2",
+          "",
+          "",
+          "In adults with cognitive and/or speech and language deficits following stroke, what is the comparative effectiveness of rehabilitative and compensatory interventions for improving language and/or cognitive function?",
+          "14 SRs and 7 RCTs"
+        ],
+        [
+          "3",
+          "",
+          "",
+          "In adults with motor deficits following stroke, what intensity and/or frequency of rehabilitation interventions improve recovery?",
+          "7 SRs and 2 RCTs"
+        ],
+        [
+          "4",
+          "",
+          "",
+          "In adults post-stroke with cognitive and/or speech and language deficits, what intensity and/or frequency of cognitive and/or speech/language rehabilitation interventions improve recovery?",
+          "3 SRs"
+        ],
+        [
+          "5",
+          "",
+          "",
+          "In adults following stroke, what technology-assisted tools improve functional, motor, cognitive, sensory and speech outcomes?",
+          "13 SRs and 1 NMA"
+        ],
+        [
+          "6",
+          "",
+          "",
+          "In adults post-stroke, what interventions are effective in preventing or treating mental/behavioral health complications?",
+          "18 SRs"
+        ],
+        [
+          "7",
+          "",
+          "",
+          "In patients with dysphagia following stroke, what treatments are effective in increasing oral intake and decreasing aspiration and/or aspiration pneumonia?",
+          "5 SRs and 13 RCTs"
+        ],
+        [
+          "8",
+          "",
+          "",
+          "What settings and models of care (e.g., case management, and/or interdisciplinary care team approach) improve outcomes?",
+          "6 SRs and 4 RCTs"
+        ],
+        [
+          "9",
+          "",
+          "",
+          "In adults with stroke resulting in spasticity, what is the comparative effectiveness of interventions to improve spasticity and also stroke rehabilitation outcomes?",
+          "7 SRs and 2 RCTs"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b0e1f10101b2e5b4",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 142,
+      "table_index": 0,
+      "bbox": [
+        72.29,
+        235.05,
+        539.76,
+        411.47
+      ],
+      "section_id": "22c35ca6fb427ad6",
+      "section_path": [
+        "Table A-3. Bibliographic Database Information"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-3. Bibliographic Database Information",
+      "context_before": "Information regarding the bibliographic databases, date limits, and platform, provider, or\nboth can be found in Table A-3. See Appendix E for additional information on the search\nstrategies, including topic-specific search terms and search strategies.",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "Name",
+        "",
+        "Date Limits",
+        "",
+        "Platform or",
+        ""
+      ],
+      "header_signature": "3ae7e9f2e486",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Name |  | Date Limits |  | Platform or | \n |  |  |  | Provider | \nBibliographic Databases | Embase (Excerpta Medica) and MEDLINE | July 1, 2018 through May 2, 2023 | Elsevier |  | \n | PubMed (In-process, Publisher, and PubMedNotMedline records) | January 1, 2021 through May 2, 2023 | National Library of Medicine |  | \n | PsycInfo | July 1, 2018 through May 2, 2023 | OVID |  | \nGray Literature Resources | Agency for Healthcare Research and Quality (AHRQ) | July 1, 2018 through May 7, 2023 | AHRQ |  | \n | U.S. Department of Veterans Affairs (VA) Evidence Synthesis Program | July 1, 2018 through May 7, 2023 | VA |  |",
+      "rows": [
+        [
+          "Name",
+          "",
+          "Date Limits",
+          "",
+          "Platform or",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Provider",
+          ""
+        ],
+        [
+          "Bibliographic Databases",
+          "Embase (Excerpta Medica) and MEDLINE",
+          "July 1, 2018 through May 2, 2023",
+          "Elsevier",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PubMed (In-process, Publisher, and PubMedNotMedline records)",
+          "January 1, 2021 through May 2, 2023",
+          "National Library of Medicine",
+          "",
+          ""
+        ],
+        [
+          "",
+          "PsycInfo",
+          "July 1, 2018 through May 2, 2023",
+          "OVID",
+          "",
+          ""
+        ],
+        [
+          "Gray Literature Resources",
+          "Agency for Healthcare Research and Quality (AHRQ)",
+          "July 1, 2018 through May 7, 2023",
+          "AHRQ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "U.S. Department of Veterans Affairs (VA) Evidence Synthesis Program",
+          "July 1, 2018 through May 7, 2023",
+          "VA",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f361d988b8e42a2f",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 144,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        420.81,
+        539.76,
+        715.62
+      ],
+      "section_id": "ac53a70bacb14cb9",
+      "section_path": [
+        "Table A-4. GRADE Evidence to Recommendation Framework"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-4. GRADE Evidence to Recommendation Framework",
+      "context_before": "Other implications encompass the potential consequences or other impacts that might\naffect the strength or direction of the recommendation. The options for this domain, for\nexample, include resource use, equity, acceptability, feasibility, and subgroup\nconsiderations. The following are example implications related to equity and subgroup\nconsiderations, respectively: some of the indicated population might be geographically\nremote from an intervention (e.g., complex radiological equipment); a drug might be\ncontraindicated in a subgroup of patients.",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.48,
+      "header_row": [
+        "",
+        "Decision",
+        "",
+        "Questions to Consider",
+        "Judgment"
+      ],
+      "header_signature": "cf75a5998834",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Decision |  | Questions to Consider | Judgment\n | Domain |  |  | \nConfidence in the quality of the evidence |  |  | • Among the designated critical outcomes, what is the lowest quality of relevant evidence? • How likely is further research to change the confidence in the estimate of effect? | • High • Moderate • Low • Very Low\nBalance of desirable and undesirable outcomes |  |  | • What is the magnitude of the anticipated desirable outcomes? • What is the magnitude of the anticipated undesirable outcomes? • Given the best estimate of typical values and preferences, are you confident that benefits outweigh harms/burdens or vice versa? | • Benefits outweigh harms/burdens • Benefits slightly outweigh harms/ burdens • Benefits and harms/burdens are balanced • Harms/burdens slightly outweigh benefits • Harms/burdens outweigh benefits\nPatient values and preferences |  |  | • What are the patients’ values and preferences? • Are values and preferences similar across the target population? • Are you confident about typical values and preferences? | • Similar values • Some variation • Large variation",
+      "rows": [
+        [
+          "",
+          "Decision",
+          "",
+          "Questions to Consider",
+          "Judgment"
+        ],
+        [
+          "",
+          "Domain",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Confidence in the quality of the evidence",
+          "",
+          "",
+          "• Among the designated critical outcomes, what is the lowest quality of relevant evidence? • How likely is further research to change the confidence in the estimate of effect?",
+          "• High • Moderate • Low • Very Low"
+        ],
+        [
+          "Balance of desirable and undesirable outcomes",
+          "",
+          "",
+          "• What is the magnitude of the anticipated desirable outcomes? • What is the magnitude of the anticipated undesirable outcomes? • Given the best estimate of typical values and preferences, are you confident that benefits outweigh harms/burdens or vice versa?",
+          "• Benefits outweigh harms/burdens • Benefits slightly outweigh harms/ burdens • Benefits and harms/burdens are balanced • Harms/burdens slightly outweigh benefits • Harms/burdens outweigh benefits"
+        ],
+        [
+          "Patient values and preferences",
+          "",
+          "",
+          "• What are the patients’ values and preferences? • Are values and preferences similar across the target population? • Are you confident about typical values and preferences?",
+          "• Similar values • Some variation • Large variation"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_7d36a5b8d73d0125",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 145,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        72.33,
+        539.76,
+        238.17
+      ],
+      "section_id": "ac53a70bacb14cb9",
+      "section_path": [
+        "Table A-4. GRADE Evidence to Recommendation Framework"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "A summary of the recommendation categories and definitions is available in Table 2."
+      ],
+      "n_rows": 3,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.5333,
+      "header_row": [
+        "",
+        "Decision",
+        "",
+        "Questions to Consider",
+        "Judgment"
+      ],
+      "header_signature": "cf75a5998834",
+      "continues_table_id": "tbl_f361d988b8e42a2f",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Decision |  | Questions to Consider | Judgment\n | Domain |  |  | \nOther implications (e.g., resource use, equity, acceptability, feasibility, subgroup considerations) |  |  | • What are the costs per resource unit? • Is this intervention generally available? • What is the variability in resource requirements across the target population and settings? • Are the resources worth the expected net benefit from the recommendation? • Is this intervention and its effects worth withdrawing or not allocating resources from other interventions? | Various considerations",
+      "rows": [
+        [
+          "",
+          "Decision",
+          "",
+          "Questions to Consider",
+          "Judgment"
+        ],
+        [
+          "",
+          "Domain",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Other implications (e.g., resource use, equity, acceptability, feasibility, subgroup considerations)",
+          "",
+          "",
+          "• What are the costs per resource unit? • Is this intervention generally available? • What is the variability in resource requirements across the target population and settings? • Are the resources worth the expected net benefit from the recommendation? • Is this intervention and its effects worth withdrawing or not allocating resources from other interventions?",
+          "Various considerations"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f9224f9dfc39bc9c",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 158,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        116.14,
+        719.76,
+        413.31
+      ],
+      "section_id": "92a21116454f0eac",
+      "section_path": [
+        "Table F-1. Evidence Tablea,b,c"
+      ],
+      "heading_level": 1,
+      "caption": "Table F-1. Evidence Tablea,b,c",
+      "context_before": "Appendix F: Evidence Table",
+      "footnote_candidates": [
+        "a Evidence column: The first set of references listed in each row in the evidence column constitutes the evidence base for the recommendation. To be included"
+      ],
+      "n_rows": 6,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.4583,
+      "header_row": [
+        "#",
+        "Recommendation",
+        "2019 Strength of Recommendation",
+        "Evidence",
+        "2024 Strength of Recommendation",
+        "",
+        "2024",
+        ""
+      ],
+      "header_signature": "8c67e3ac24fa",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "# | Recommendation | 2019 Strength of Recommendation | Evidence | 2024 Strength of Recommendation |  | 2024 | \n |  |  |  |  |  | Recommendation | \n |  |  |  |  |  | Category | \n1. | We suggest using case management services at time of discharge from the acute care hospital or post-acute care facility to improve activities of daily living and functional independence. | NA | (38) Additional reference (37) | Weak for | Reviewed, Newadded |  | \n2. | We suggest the following interventions for patients and their caregivers. • Behavioral health/psychosocial interventions to improve patient and caregiver depression • Psychoeducation to improve family function, patient functional independence, and quality of life | NA | (39-42) | Weak for | Reviewed, Newadded |  | \n3. | There is insufficient evidence to recommend for or against implementing transitional care rehabilitation interventions (e.g., home-based services after hospital discharge) or early supported discharge to improve activities of daily living or functional disability following stroke. | Neither for nor against | (43-47) | Neither for nor against | Reviewed, Newreplaced |  |",
+      "rows": [
+        [
+          "#",
+          "Recommendation",
+          "2019 Strength of Recommendation",
+          "Evidence",
+          "2024 Strength of Recommendation",
+          "",
+          "2024",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Recommendation",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Category",
+          ""
+        ],
+        [
+          "1.",
+          "We suggest using case management services at time of discharge from the acute care hospital or post-acute care facility to improve activities of daily living and functional independence.",
+          "NA",
+          "(38) Additional reference (37)",
+          "Weak for",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "2.",
+          "We suggest the following interventions for patients and their caregivers. • Behavioral health/psychosocial interventions to improve patient and caregiver depression • Psychoeducation to improve family function, patient functional independence, and quality of life",
+          "NA",
+          "(39-42)",
+          "Weak for",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "3.",
+          "There is insufficient evidence to recommend for or against implementing transitional care rehabilitation interventions (e.g., home-based services after hospital discharge) or early supported discharge to improve activities of daily living or functional disability following stroke.",
+          "Neither for nor against",
+          "(43-47)",
+          "Neither for nor against",
+          "Reviewed, Newreplaced",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ba54fbb7a3f67082",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 165,
+      "table_index": 0,
+      "bbox": [
+        72.24,
+        116.2,
+        719.76,
+        370.47
+      ],
+      "section_id": "bb34534009b3ef2b",
+      "section_path": [
+        "Table G-1. 2019 Stroke Rehabilitation CPG Recommendation Categorization Tablea,b,c,d,e,f"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-1. 2019 Stroke Rehabilitation CPG Recommendation Categorization Tablea,b,c,d,e,f",
+      "context_before": "Appendix G: 2019 Recommendation Categorization Table",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 23,
+      "empty_cell_ratio": 0.6783,
+      "header_row": [
+        "",
+        "2019 CPG",
+        "Recommendation #",
+        "",
+        "2019 CPG Recommendation Text",
+        "",
+        "2019 CPG Strength",
+        "of Recommendation",
+        "",
+        "",
+        "2019 CPG",
+        "Recommendation",
+        "Category",
+        "",
+        "",
+        "2024 CPG",
+        "Recommendation",
+        "Category",
+        "",
+        "",
+        "2024 CPG",
+        "Recommendation #",
+        ""
+      ],
+      "header_signature": "4a3b486a8117",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| 2019 CPG | Recommendation # |  | 2019 CPG Recommendation Text |  | 2019 CPG Strength | of Recommendation |  |  | 2019 CPG | Recommendation | Category |  |  | 2024 CPG | Recommendation | Category |  |  | 2024 CPG | Recommendation # | \n1. |  |  |  | We recommend a team-based approach in an organized inpatient unit that encompasses comprehensive rehabilitation in order to improve likelihood of discharge to home after acute stroke. | Strong for |  |  |  | Reviewed, Amended |  |  |  |  | Reviewed, Deleted |  |  |  |  | NA |  |  | \n2. |  |  |  | We recommend that rehabilitation therapy should start as soon as medical stability is reached. | Strong for |  |  |  | Not reviewed, Amended |  |  |  |  | Not reviewed, Deleted |  |  |  |  | NA |  |  | \n3. |  |  |  | There is insufficient evidence to recommend for or against implementing very early mobilization (within 24-48 hours) to improve functional outcomes. | Neither for nor against |  |  |  | Reviewed, New-added |  |  |  |  | Not reviewed, Deleted |  |  |  |  | NA |  |  | \n4. |  |  |  | There is insufficient evidence to recommend for or against early supported discharge. | Neither for nor against |  |  |  | Reviewed, Amended |  |  |  |  | Reviewed, New-replaced |  |  |  |  | 3 |  |  |",
+      "rows": [
+        [
+          "",
+          "2019 CPG",
+          "Recommendation #",
+          "",
+          "2019 CPG Recommendation Text",
+          "",
+          "2019 CPG Strength",
+          "of Recommendation",
+          "",
+          "",
+          "2019 CPG",
+          "Recommendation",
+          "Category",
+          "",
+          "",
+          "2024 CPG",
+          "Recommendation",
+          "Category",
+          "",
+          "",
+          "2024 CPG",
+          "Recommendation #",
+          ""
+        ],
+        [
+          "1.",
+          "",
+          "",
+          "",
+          "We recommend a team-based approach in an organized inpatient unit that encompasses comprehensive rehabilitation in order to improve likelihood of discharge to home after acute stroke.",
+          "Strong for",
+          "",
+          "",
+          "",
+          "Reviewed, Amended",
+          "",
+          "",
+          "",
+          "",
+          "Reviewed, Deleted",
+          "",
+          "",
+          "",
+          "",
+          "NA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2.",
+          "",
+          "",
+          "",
+          "We recommend that rehabilitation therapy should start as soon as medical stability is reached.",
+          "Strong for",
+          "",
+          "",
+          "",
+          "Not reviewed, Amended",
+          "",
+          "",
+          "",
+          "",
+          "Not reviewed, Deleted",
+          "",
+          "",
+          "",
+          "",
+          "NA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.",
+          "",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against implementing very early mobilization (within 24-48 hours) to improve functional outcomes.",
+          "Neither for nor against",
+          "",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          "",
+          "",
+          "",
+          "Not reviewed, Deleted",
+          "",
+          "",
+          "",
+          "",
+          "NA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4.",
+          "",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against early supported discharge.",
+          "Neither for nor against",
+          "",
+          "",
+          "",
+          "Reviewed, Amended",
+          "",
+          "",
+          "",
+          "",
+          "Reviewed, New-replaced",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_41da489cb1902232",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 173,
+      "table_index": 0,
+      "bbox": [
+        54.4,
+        116.17,
+        557.78,
+        708.48
+      ],
+      "section_id": "8f68873985606e3c",
+      "section_path": [
+        "Table G-1. EMBASE and MEDLINE in EMBASE.com Syntax"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-1. EMBASE and MEDLINE in EMBASE.com Syntax",
+      "context_before": "Appendix I: Literature Review Search Terms and Strategy",
+      "footnote_candidates": [],
+      "n_rows": 12,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.4167,
+      "header_row": [
+        "KQ",
+        "Set #",
+        "Description",
+        "EMBASE Search String"
+      ],
+      "header_signature": "1c72beaa929e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "KQ | Set # | Description | EMBASE Search String\n | #1 | Stroke | 'cerebrovascular accident'/exp OR 'stroke patient'/de OR 'post stroke':ti,ab OR poststroke:ti,ab OR stroke*:ti,ab\n | #2 |  | ((ischaemi* OR ischemi*) NEAR/3 attack*):ti,ab\n | #3 |  | ((brain* OR cerebral OR 'cerebro vasc*' OR cerebrovasc*) NEAR/3 (accident* OR arrest OR attack* OR disease* OR haemorrhage* OR hemorrhage* OR infarct* OR insufficiency OR insult* OR ischaemi* OR ischemi* OR lesion* OR vasculopathy)):ti,ab\n | #4 |  | #1 OR #2 OR #3\n | #5 | Population subgroup – adults with motor dysfunction | 'apraxia'/de OR 'motor activity'/de OR 'motor dysfunction'/exp OR 'muslce contracture' OR 'physical mobility'/de OR 'physical performance'/exp OR 'spasticity'/de OR (((balance OR gait OR locomot* OR mobility OR motor OR movement OR stand OR standing OR walk*) NEAR/3 (deficien* OR deficit* OR disab* OR disorder* OR disturb* OR dysfunction* OR impair* OR imped* OR limit* OR perform* OR problem* OR trouble* OR weak*)):ti,ab) OR (((muscle* OR muscular) NEAR/5 contract*):ti,ab) OR spastic*:ti,ab\n | #6 | Population final | #4 AND #5\n | #7 | Interventions: Device-related, stimulation | 'biofeedback'/exp OR 'biofeedback software'/de OR 'biofeedback therapy'/de OR 'biofeedback training'/de OR 'brain computer interface'/de OR 'constraint induced therapy'/de OR 'direct current stimulation'/de OR 'electrostimulation'/de OR 'electrostimulator'/de OR 'exoskeleton (rehabilitation)'/exp OR 'functional electrical stimulation'/de OR ('muscle contracture'/de AND ('prevention'/lnk OR 'rehabilitation'/lnk)) OR 'neuromuscular electrical stimulation'/exp OR 'rehabilitation robot'/de OR 'robotics'/de OR 'sensorimotor integration'/de OR 'transcranial electrical stimulation'/de OR 'transcranial electrical stimulator'/exp OR 'transcranial magnetic stimulation'/exp OR 'vagus nerve stimulation'/de OR 'vagus nerve stimulator'/de OR 'virtual reality'/de\nKQ 1 |  |  | \n |  |  | \n | #8 |  | ((anodal OR cathode OR 'direct current' OR electr* OR 'functional electr*' OR neuromuscular OR transcranial OR vagal OR vagus) AND stim*):ti,ab OR (biofeedback OR 'brain machine interface' OR 'brain computer interface' OR ('constraint induced' NEAR/2 therap*) OR 'electr* muscle stimulat*' OR estim OR 'e stim' OR electrostim* OR ekso* OR exoskeleton OR lokomat OR 'functional electr* stimulat*' OR 'functional electrostimulat*' OR (('functional task*' OR 'repetitive task*') NEAR/2 (practice OR train*)) OR neurobiofeedback OR neurofeedback OR robot* OR sensorimotor OR 'virtual reality' OR CIMT OR FES OR NMES OR rTMS OR tDCS):ti,ab\n | #9 | Motor therapy | 'functional training'/de OR 'motor learning'/de OR 'motor recovery'/de OR 'motor rehabilitation'/de OR ((motor OR movement) NEAR/5 (learn* OR 're learn*' OR 're train*' OR recover* OR rehab* OR therap* OR train* OR treat*)):ti,ab OR (motor NEAR/3 (function* OR performance OR intervention*)):ti,ab OR mobilization:ti,ab OR 'recovery of function':ti,ab",
+      "rows": [
+        [
+          "KQ",
+          "Set #",
+          "Description",
+          "EMBASE Search String"
+        ],
+        [
+          "",
+          "#1",
+          "Stroke",
+          "'cerebrovascular accident'/exp OR 'stroke patient'/de OR 'post stroke':ti,ab OR poststroke:ti,ab OR stroke*:ti,ab"
+        ],
+        [
+          "",
+          "#2",
+          "",
+          "((ischaemi* OR ischemi*) NEAR/3 attack*):ti,ab"
+        ],
+        [
+          "",
+          "#3",
+          "",
+          "((brain* OR cerebral OR 'cerebro vasc*' OR cerebrovasc*) NEAR/3 (accident* OR arrest OR attack* OR disease* OR haemorrhage* OR hemorrhage* OR infarct* OR insufficiency OR insult* OR ischaemi* OR ischemi* OR lesion* OR vasculopathy)):ti,ab"
+        ],
+        [
+          "",
+          "#4",
+          "",
+          "#1 OR #2 OR #3"
+        ],
+        [
+          "",
+          "#5",
+          "Population subgroup – adults with motor dysfunction",
+          "'apraxia'/de OR 'motor activity'/de OR 'motor dysfunction'/exp OR 'muslce contracture' OR 'physical mobility'/de OR 'physical performance'/exp OR 'spasticity'/de OR (((balance OR gait OR locomot* OR mobility OR motor OR movement OR stand OR standing OR walk*) NEAR/3 (deficien* OR deficit* OR disab* OR disorder* OR disturb* OR dysfunction* OR impair* OR imped* OR limit* OR perform* OR problem* OR trouble* OR weak*)):ti,ab) OR (((muscle* OR muscular) NEAR/5 contract*):ti,ab) OR spastic*:ti,ab"
+        ],
+        [
+          "",
+          "#6",
+          "Population final",
+          "#4 AND #5"
+        ],
+        [
+          "",
+          "#7",
+          "Interventions: Device-related, stimulation",
+          "'biofeedback'/exp OR 'biofeedback software'/de OR 'biofeedback therapy'/de OR 'biofeedback training'/de OR 'brain computer interface'/de OR 'constraint induced therapy'/de OR 'direct current stimulation'/de OR 'electrostimulation'/de OR 'electrostimulator'/de OR 'exoskeleton (rehabilitation)'/exp OR 'functional electrical stimulation'/de OR ('muscle contracture'/de AND ('prevention'/lnk OR 'rehabilitation'/lnk)) OR 'neuromuscular electrical stimulation'/exp OR 'rehabilitation robot'/de OR 'robotics'/de OR 'sensorimotor integration'/de OR 'transcranial electrical stimulation'/de OR 'transcranial electrical stimulator'/exp OR 'transcranial magnetic stimulation'/exp OR 'vagus nerve stimulation'/de OR 'vagus nerve stimulator'/de OR 'virtual reality'/de"
+        ],
+        [
+          "KQ 1",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "#8",
+          "",
+          "((anodal OR cathode OR 'direct current' OR electr* OR 'functional electr*' OR neuromuscular OR transcranial OR vagal OR vagus) AND stim*):ti,ab OR (biofeedback OR 'brain machine interface' OR 'brain computer interface' OR ('constraint induced' NEAR/2 therap*) OR 'electr* muscle stimulat*' OR estim OR 'e stim' OR electrostim* OR ekso* OR exoskeleton OR lokomat OR 'functional electr* stimulat*' OR 'functional electrostimulat*' OR (('functional task*' OR 'repetitive task*') NEAR/2 (practice OR train*)) OR neurobiofeedback OR neurofeedback OR robot* OR sensorimotor OR 'virtual reality' OR CIMT OR FES OR NMES OR rTMS OR tDCS):ti,ab"
+        ],
+        [
+          "",
+          "#9",
+          "Motor therapy",
+          "'functional training'/de OR 'motor learning'/de OR 'motor recovery'/de OR 'motor rehabilitation'/de OR ((motor OR movement) NEAR/5 (learn* OR 're learn*' OR 're train*' OR recover* OR rehab* OR therap* OR train* OR treat*)):ti,ab OR (motor NEAR/3 (function* OR performance OR intervention*)):ti,ab OR mobilization:ti,ab OR 'recovery of function':ti,ab"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_36987d63e7cd994d",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 208,
+      "table_index": 0,
+      "bbox": [
+        54.0,
+        90.0,
+        558.0,
+        711.42
+      ],
+      "section_id": "b3d3828dc9bda3df",
+      "section_path": [
+        "Table I-2: Pubmed Syntax (All Key Questions)"
+      ],
+      "heading_level": 1,
+      "caption": "Table I-2: Pubmed Syntax (All Key Questions)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 18,
+      "n_cols": 9,
+      "empty_cell_ratio": 0.679,
+      "header_row": [
+        "",
+        "Set #",
+        "",
+        "",
+        "Description",
+        "",
+        "",
+        "PubMed Search String",
+        ""
+      ],
+      "header_signature": "b1665bfa2390",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set # |  |  | Description |  |  | PubMed Search String | \n#1 |  |  | Stroke |  |  | stroke[ti] OR poststroke[ti] OR “post stroke”[ti] |  | \n#2 |  |  |  |  |  | \"ischaemic attack\"[Title:~2] OR \"ischemic attack\"[Title:~2] OR \"ischaemic attacks\"[Title:~2] OR \"ischemic attacks\"[Title:~2] |  | \n#3 |  |  |  |  |  | ((brain[ti] OR cerebral[ti] OR \"cerebro vasc*\"[ti] OR cerebrovasc*[ti] OR intracerebral[ti] OR intra-cerebral[ti] OR intracranial[ti] OR intra-cranial[ti] OR subarachnoid[ti] OR sub-arachnoid[ti]) AND (accident*[ti] OR arrest[ti] OR attack*[ti] OR disease*[ti] OR haemorrhage*[ti] OR hemorrhage*[ti] OR infarct*[ti] OR insufficiency[ti] OR insult*[ti] OR ischaemi*[ti] OR ischemi*[ti] OR lesion*[ti] OR vasculopathy[ti])) |  | \n#4 |  |  | Population |  |  | #1 OR #2 OR #3 |  | \n#5 |  |  | Animals |  |  | ((animal[ti] OR animals[ti] OR canine*[ti] OR dog[ti] OR dogs[ti] OR feline[ti] OR hamster*[ti] OR lamb[ti] OR lambs[ti] OR mice[ti] OR monkey[ti] OR monkeys[ti] OR mouse[ti] OR murine[ti] OR pig[ti] OR piglet*[ti] OR pigs[ti] OR porcine[ti] OR primate*[ti] OR rabbit*[ti] OR rat[ti] OR rats[ti] OR rodent*[ti] OR sheep*[ti] OR swine[ti] OR veterinar*[ti] OR (vitro[ti] NOT vivo[ti])) NOT (human*[ti] OR patient*[ti])) |  | \n#6 |  |  | Undesired publications |  |  | (booksdocs[Filter] OR \"case report\"[ti] OR comment*[ti] OR editorial[ti] OR letter[ti] OR news[ti] OR ((protocol[ti] AND (study[ti] OR trial[ti])) NOT (\"therapy protocol*\"[ti] OR \"treatment protocol*\"[ti]))) |  | \n#7 |  |  | Children and adolescents |  |  | ((adolescen*[ti] OR babies[ti] OR baby[ti] OR boy[ti] OR boys[ti] OR child*[ti] OR girl*[ti] OR infancy[ti] OR infant*[ti] OR juvenile*[ti] OR neonat*[ti] OR newborn*[ti] OR nurser*[ti] OR paediatric*[ti] OR pediatric*[ti] OR preschool*[ti] OR \"school age*\"[ti] OR schoolchildren*[ti] OR teen*[ti] OR toddler*[ti] OR youth*[ti]) NOT (adult*[tiab] OR father*[ti] OR matern*[tiab] OR men[tiab] OR mother*[ti] OR parent*[ti] OR patern*[tiab] OR women[tiab])) |  | \n#8 |  |  | Exclusions |  |  | #5 OR #6 OR #7 |  | \n#9 |  |  | Remove exclusions |  |  | #4 NOT #8 |  | \n#10 |  |  | English language |  |  | english[la] |  | \n#11 |  |  | Publication year |  |  | 2021:2023[pdat] |  | \n#12 |  |  | Entry date |  |  | \"2021/01/01\"[Date - Create] : \"2023/05/02\"[Date - Create] |  | \n#13 |  |  | Unprocessed |  |  | (Inprocess[sb] OR publisher[sb] OR pubmednotmedline[sb]) |  | \n#14 |  |  | Combine Inclusions |  |  | #9 AND #10 AND #11 AND #12 AND #13 |  | \n#15 |  |  | Systematic reviews and meta-analyses |  |  | #14 AND ((\"cochrane database syst rev\"[ta] OR systematic*[ti] OR cochrane*[tiab] OR \"meta analy*\"[tiab] OR metaanaly*[tiab] OR (search*[tiab] AND (cinahl*[tiab] OR databases[tiab] OR ebsco*[tiab] OR embase*[tiab] OR psychinfo*[tiab] OR psycinfo*[tiab] OR \"science direct*\"[tiab] OR sciencedirect*[tiab] OR scopus*[tiab] OR systematic*[tiab] OR \"web of knowledge*\"[tiab] OR \"web of science*\"[tiab])) OR (systematic*[tiab] AND review*[tiab])) NOT ((protocol[ti] AND review[ti]) OR \"review protocol\"[ti] OR \"scoping review\"[ti])) |  | \n#16 |  |  | Randomized controlled trials |  |  | #14 AND (\"phase 3\"[tw] OR \"phase iii\"[tw] OR random*[tw] OR RCT[tw]) |  | \n#17 |  |  | Final set |  |  | #15 OR #16 |  |",
+      "rows": [
+        [
+          "",
+          "Set #",
+          "",
+          "",
+          "Description",
+          "",
+          "",
+          "PubMed Search String",
+          ""
+        ],
+        [
+          "#1",
+          "",
+          "",
+          "Stroke",
+          "",
+          "",
+          "stroke[ti] OR poststroke[ti] OR “post stroke”[ti]",
+          "",
+          ""
+        ],
+        [
+          "#2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "\"ischaemic attack\"[Title:~2] OR \"ischemic attack\"[Title:~2] OR \"ischaemic attacks\"[Title:~2] OR \"ischemic attacks\"[Title:~2]",
+          "",
+          ""
+        ],
+        [
+          "#3",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "((brain[ti] OR cerebral[ti] OR \"cerebro vasc*\"[ti] OR cerebrovasc*[ti] OR intracerebral[ti] OR intra-cerebral[ti] OR intracranial[ti] OR intra-cranial[ti] OR subarachnoid[ti] OR sub-arachnoid[ti]) AND (accident*[ti] OR arrest[ti] OR attack*[ti] OR disease*[ti] OR haemorrhage*[ti] OR hemorrhage*[ti] OR infarct*[ti] OR insufficiency[ti] OR insult*[ti] OR ischaemi*[ti] OR ischemi*[ti] OR lesion*[ti] OR vasculopathy[ti]))",
+          "",
+          ""
+        ],
+        [
+          "#4",
+          "",
+          "",
+          "Population",
+          "",
+          "",
+          "#1 OR #2 OR #3",
+          "",
+          ""
+        ],
+        [
+          "#5",
+          "",
+          "",
+          "Animals",
+          "",
+          "",
+          "((animal[ti] OR animals[ti] OR canine*[ti] OR dog[ti] OR dogs[ti] OR feline[ti] OR hamster*[ti] OR lamb[ti] OR lambs[ti] OR mice[ti] OR monkey[ti] OR monkeys[ti] OR mouse[ti] OR murine[ti] OR pig[ti] OR piglet*[ti] OR pigs[ti] OR porcine[ti] OR primate*[ti] OR rabbit*[ti] OR rat[ti] OR rats[ti] OR rodent*[ti] OR sheep*[ti] OR swine[ti] OR veterinar*[ti] OR (vitro[ti] NOT vivo[ti])) NOT (human*[ti] OR patient*[ti]))",
+          "",
+          ""
+        ],
+        [
+          "#6",
+          "",
+          "",
+          "Undesired publications",
+          "",
+          "",
+          "(booksdocs[Filter] OR \"case report\"[ti] OR comment*[ti] OR editorial[ti] OR letter[ti] OR news[ti] OR ((protocol[ti] AND (study[ti] OR trial[ti])) NOT (\"therapy protocol*\"[ti] OR \"treatment protocol*\"[ti])))",
+          "",
+          ""
+        ],
+        [
+          "#7",
+          "",
+          "",
+          "Children and adolescents",
+          "",
+          "",
+          "((adolescen*[ti] OR babies[ti] OR baby[ti] OR boy[ti] OR boys[ti] OR child*[ti] OR girl*[ti] OR infancy[ti] OR infant*[ti] OR juvenile*[ti] OR neonat*[ti] OR newborn*[ti] OR nurser*[ti] OR paediatric*[ti] OR pediatric*[ti] OR preschool*[ti] OR \"school age*\"[ti] OR schoolchildren*[ti] OR teen*[ti] OR toddler*[ti] OR youth*[ti]) NOT (adult*[tiab] OR father*[ti] OR matern*[tiab] OR men[tiab] OR mother*[ti] OR parent*[ti] OR patern*[tiab] OR women[tiab]))",
+          "",
+          ""
+        ],
+        [
+          "#8",
+          "",
+          "",
+          "Exclusions",
+          "",
+          "",
+          "#5 OR #6 OR #7",
+          "",
+          ""
+        ],
+        [
+          "#9",
+          "",
+          "",
+          "Remove exclusions",
+          "",
+          "",
+          "#4 NOT #8",
+          "",
+          ""
+        ],
+        [
+          "#10",
+          "",
+          "",
+          "English language",
+          "",
+          "",
+          "english[la]",
+          "",
+          ""
+        ],
+        [
+          "#11",
+          "",
+          "",
+          "Publication year",
+          "",
+          "",
+          "2021:2023[pdat]",
+          "",
+          ""
+        ],
+        [
+          "#12",
+          "",
+          "",
+          "Entry date",
+          "",
+          "",
+          "\"2021/01/01\"[Date - Create] : \"2023/05/02\"[Date - Create]",
+          "",
+          ""
+        ],
+        [
+          "#13",
+          "",
+          "",
+          "Unprocessed",
+          "",
+          "",
+          "(Inprocess[sb] OR publisher[sb] OR pubmednotmedline[sb])",
+          "",
+          ""
+        ],
+        [
+          "#14",
+          "",
+          "",
+          "Combine Inclusions",
+          "",
+          "",
+          "#9 AND #10 AND #11 AND #12 AND #13",
+          "",
+          ""
+        ],
+        [
+          "#15",
+          "",
+          "",
+          "Systematic reviews and meta-analyses",
+          "",
+          "",
+          "#14 AND ((\"cochrane database syst rev\"[ta] OR systematic*[ti] OR cochrane*[tiab] OR \"meta analy*\"[tiab] OR metaanaly*[tiab] OR (search*[tiab] AND (cinahl*[tiab] OR databases[tiab] OR ebsco*[tiab] OR embase*[tiab] OR psychinfo*[tiab] OR psycinfo*[tiab] OR \"science direct*\"[tiab] OR sciencedirect*[tiab] OR scopus*[tiab] OR systematic*[tiab] OR \"web of knowledge*\"[tiab] OR \"web of science*\"[tiab])) OR (systematic*[tiab] AND review*[tiab])) NOT ((protocol[ti] AND review[ti]) OR \"review protocol\"[ti] OR \"scoping review\"[ti]))",
+          "",
+          ""
+        ],
+        [
+          "#16",
+          "",
+          "",
+          "Randomized controlled trials",
+          "",
+          "",
+          "#14 AND (\"phase 3\"[tw] OR \"phase iii\"[tw] OR random*[tw] OR RCT[tw])",
+          "",
+          ""
+        ],
+        [
+          "#17",
+          "",
+          "",
+          "Final set",
+          "",
+          "",
+          "#15 OR #16",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_72cf8cf924b44627",
+      "doc_name": "2024 VA_DoD, STROKE REHABILITATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 216,
+      "table_index": 0,
+      "bbox": [
+        71.81,
+        72.34,
+        540.24,
+        718.63
+      ],
+      "section_id": "f569e2622b928eef",
+      "section_path": [
+        "Abbreviation\nDefinition"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 36,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.6667,
+      "header_row": [
+        "",
+        "Abbreviation",
+        "",
+        "",
+        "Definition",
+        ""
+      ],
+      "header_signature": "ebe7fbb2da48",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Abbreviation |  |  | Definition | \n | PSSS |  | Perceived Social Support Scale |  | \n | QoL |  | quality of life |  | \n | RAS |  | rhythmic auditory cueing/stimulation |  | \n | RAT |  | robot-assisted therapy |  | \n | RBANS |  | Repeatable Battery for the Assessment of Neuropsychological Status |  | \n | RBMT |  | Rivermead Behavioral Memory Test |  | \n | RCT |  | randomized controlled trial |  | \n | rESWT |  | radial extracorporeal shockwave therapy |  | \n | RJOE |  | resistive jaw opening exercise |  | \n | RPE |  | rating of perceived exertion |  | \n | RT |  | rehabilitation robots |  | \n | RT |  | resistance training |  | \n | RTSS |  | Rehabilitation Treatment Specification System |  | \n | RT+VR |  | rehabilitation robots and virtual reality |  | \n | rTMS |  | repetitive transcranial magnetic stimulation |  | \n | sEMG |  | surface electromyography |  | \n | SF-36 |  | 36-item Short Form Health Survey |  | \n | SMD |  | standardized mean difference |  | \n | SNRI |  | serotonin-norepinephrine reuptake inhibitor |  | \n | SR |  | systematic review |  | \n | SSA |  | Standardized Swallowing Assessment |  | \n | SSEQ |  | Stroke Self-Efficacy Questionnaire |  | \n | SSRI |  | selective serotonin reuptake inhibitor |  | \n | SUCRA |  | surface under the cumulative ranking curve |  | \n | SWAL-QOL |  | Swallow Quality-of-Life Questionnaire |  | \n | TBI |  | traumatic brain injury |  | \n | TCA |  | tricyclic antidepressant |  | \n | TCM |  | Traditional Chinese Medicine |  | \n | tDCS |  | transcranial direct current stimulation |  | \n | TENS |  | transcutaneous electrical nerve stimulation |  | \n | TES |  | transcranial electrical stimulation |  | \n | TT |  | treadmill training |  | \n | U.S. |  | United States |  | \n | USN |  | unilateral spatial neglect |  | \n | USPSTF |  | United States Preventative Services Task Force |  |",
+      "rows": [
+        [
+          "",
+          "Abbreviation",
+          "",
+          "",
+          "Definition",
+          ""
+        ],
+        [
+          "",
+          "PSSS",
+          "",
+          "Perceived Social Support Scale",
+          "",
+          ""
+        ],
+        [
+          "",
+          "QoL",
+          "",
+          "quality of life",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RAS",
+          "",
+          "rhythmic auditory cueing/stimulation",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RAT",
+          "",
+          "robot-assisted therapy",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RBANS",
+          "",
+          "Repeatable Battery for the Assessment of Neuropsychological Status",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RBMT",
+          "",
+          "Rivermead Behavioral Memory Test",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RCT",
+          "",
+          "randomized controlled trial",
+          "",
+          ""
+        ],
+        [
+          "",
+          "rESWT",
+          "",
+          "radial extracorporeal shockwave therapy",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RJOE",
+          "",
+          "resistive jaw opening exercise",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RPE",
+          "",
+          "rating of perceived exertion",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RT",
+          "",
+          "rehabilitation robots",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RT",
+          "",
+          "resistance training",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RTSS",
+          "",
+          "Rehabilitation Treatment Specification System",
+          "",
+          ""
+        ],
+        [
+          "",
+          "RT+VR",
+          "",
+          "rehabilitation robots and virtual reality",
+          "",
+          ""
+        ],
+        [
+          "",
+          "rTMS",
+          "",
+          "repetitive transcranial magnetic stimulation",
+          "",
+          ""
+        ],
+        [
+          "",
+          "sEMG",
+          "",
+          "surface electromyography",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SF-36",
+          "",
+          "36-item Short Form Health Survey",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SMD",
+          "",
+          "standardized mean difference",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SNRI",
+          "",
+          "serotonin-norepinephrine reuptake inhibitor",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SR",
+          "",
+          "systematic review",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SSA",
+          "",
+          "Standardized Swallowing Assessment",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SSEQ",
+          "",
+          "Stroke Self-Efficacy Questionnaire",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SSRI",
+          "",
+          "selective serotonin reuptake inhibitor",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SUCRA",
+          "",
+          "surface under the cumulative ranking curve",
+          "",
+          ""
+        ],
+        [
+          "",
+          "SWAL-QOL",
+          "",
+          "Swallow Quality-of-Life Questionnaire",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TBI",
+          "",
+          "traumatic brain injury",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TCA",
+          "",
+          "tricyclic antidepressant",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TCM",
+          "",
+          "Traditional Chinese Medicine",
+          "",
+          ""
+        ],
+        [
+          "",
+          "tDCS",
+          "",
+          "transcranial direct current stimulation",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TENS",
+          "",
+          "transcutaneous electrical nerve stimulation",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TES",
+          "",
+          "transcranial electrical stimulation",
+          "",
+          ""
+        ],
+        [
+          "",
+          "TT",
+          "",
+          "treadmill training",
+          "",
+          ""
+        ],
+        [
+          "",
+          "U.S.",
+          "",
+          "United States",
+          "",
+          ""
+        ],
+        [
+          "",
+          "USN",
+          "",
+          "unilateral spatial neglect",
+          "",
+          ""
+        ],
+        [
+          "",
+          "USPSTF",
+          "",
+          "United States Preventative Services Task Force",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

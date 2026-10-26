@@ -1,0 +1,598 @@
+{
+  "schema_version": "2.3",
+  "document": "2025 European Respiratory Society,bronchiectasis.pdf",
+  "doc_family": "ERS_ATS",
+  "doc_family_source": "filename_rule",
+  "organization": "ERS/ATS",
+  "year": 2025,
+  "table_count": 12,
+  "tables": [
+    {
+      "table_id": "tbl_c04a7b31cbefc9e1",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        56.18,
+        79.09,
+        722.49,
+        118.12
+      ],
+      "section_id": "87632321c12460ce",
+      "section_path": [
+        "clearance"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Continued",
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.375,
+      "header_row": [
+        "ation d. al ronic ted may ms, y the s ut ith a re oms. eriod f . ate f . ontinue",
+        ""
+      ],
+      "header_signature": "b7083fce0944",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "ation d. al ronic ted may ms, y the s ut ith a re oms. eriod f . ate f . ontinue | \nga a e ua h ut s m by t es u wi e to pe If d ia of m. o | \nstig by a ce. to alise anu h ch mpu ACTs ptom ed b ent a ude tho ts w seve mpt d p ed. I nued s; opr se o | se o asm C\nves t b enc or t ona ma with h, om n A mp de tm of a ncl wit ent 1 s sym ne ate tin on pro os spa |",
+      "rows": [
+        [
+          "ation d. al ronic ted may ms, y the s ut ith a re oms. eriod f . ate f . ontinue",
+          ""
+        ],
+        [
+          "ga a e ua h ut s m by t es u wi e to pe If d ia of m. o",
+          ""
+        ],
+        [
+          "stig by a ce. to alise anu h ch mpu ACTs ptom ed b ent a ude tho ts w seve mpt d p ed. I nued s; opr se o",
+          "se o asm C"
+        ],
+        [
+          "ves t b enc or t ona ma with h, om n A mp de tm of a ncl wit ent 1 s sym ne ate tin on pro os spa",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_250c0fa1fce4d681",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 6,
+      "table_index": 1,
+      "bbox": [
+        56.18,
+        191.85,
+        722.49,
+        322.13
+      ],
+      "section_id": "6a634b7d09feea3e",
+      "section_path": [
+        "OR 1 exacerbation plus severe daily symptoms.exacerbation"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "nebuliser along with the medication.",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Remarks rom See the relevant section for the a and management consideratio on • Airway clearance techniques respiratory physiotherapy wit • There is no evidence that on another and, therefore, treat • Airway clearance devices ma ACTs. • Previous ERS guidelines limit productive cough. The curren acknowledges that some pat particularly those with mucu tomography, may benefit fro also assist patients during pe such as exacerbations. n, • The choice of mucoactive tre patient’s comorbidities and c burden and tolerability. • Mucoactive treatments are b comprehensive airway cleara personalised airway clearanc devices, and regular physical ents for at • Patients at high risk of exace history of ⩾2 exacerbations i exacerbation OR 1 exacerbat • Inhaled antibiotics should be and treatment response shou ineffective or poorly tolerate • Inhaled antibiotics are drug therefore, patients should be nebuliser along with the med • Many clinicians would perfor",
+        "• Many clinicians would perfor inhaled antibiotics because o"
+      ],
+      "header_signature": "fd9d4e950c42",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Remarks rom See the relevant section for the a and management consideratio on • Airway clearance techniques respiratory physiotherapy wit • There is no evidence that on another and, therefore, treat • Airway clearance devices ma ACTs. • Previous ERS guidelines limit productive cough. The curren acknowledges that some pat particularly those with mucu tomography, may benefit fro also assist patients during pe such as exacerbations. n, • The choice of mucoactive tre patient’s comorbidities and c burden and tolerability. • Mucoactive treatments are b comprehensive airway cleara personalised airway clearanc devices, and regular physical ents for at • Patients at high risk of exace history of ⩾2 exacerbations i exacerbation OR 1 exacerbat • Inhaled antibiotics should be and treatment response shou ineffective or poorly tolerate • Inhaled antibiotics are drug therefore, patients should be nebuliser along with the med • Many clinicians would perfor | • Many clinicians would perfor inhaled antibiotics because o",
+      "rows": [
+        [
+          "Remarks rom See the relevant section for the a and management consideratio on • Airway clearance techniques respiratory physiotherapy wit • There is no evidence that on another and, therefore, treat • Airway clearance devices ma ACTs. • Previous ERS guidelines limit productive cough. The curren acknowledges that some pat particularly those with mucu tomography, may benefit fro also assist patients during pe such as exacerbations. n, • The choice of mucoactive tre patient’s comorbidities and c burden and tolerability. • Mucoactive treatments are b comprehensive airway cleara personalised airway clearanc devices, and regular physical ents for at • Patients at high risk of exace history of ⩾2 exacerbations i exacerbation OR 1 exacerbat • Inhaled antibiotics should be and treatment response shou ineffective or poorly tolerate • Inhaled antibiotics are drug therefore, patients should be nebuliser along with the med • Many clinicians would perfor",
+          "• Many clinicians would perfor inhaled antibiotics because o"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_5d1d9da7620a74b5",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 6,
+      "table_index": 2,
+      "bbox": [
+        56.18,
+        392.37,
+        722.49,
+        503.77
+      ],
+      "section_id": "6a634b7d09feea3e",
+      "section_path": [
+        "OR 1 exacerbation plus severe daily symptoms.exacerbation"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "moderate certainty of evidence.)the intervention,",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "mendation(s) ment of patients with bronchiecta ardised testing to identify the un chiectasis, to evaluate disease sev as risk of poor outcome, and to id associated treatable traits. (Strong ntervention, moderate certainty of tive review of the evidence.) ommend that patients with bronch ht airway clearance techniques. (S e intervention, very low certainty o gest to offer mucoactive treatmen chiectasis where airway clearance toms. (Conditional recommendatio ow certainty of evidence.) gest not to offer recombinant DNa chiectasis. (Conditional recommend vention, very low certainty of evide ommend to offer long-term inhale gh risk of exacerbations and chron ginosa despite standard care. (Stro ntervention, moderate certainty of gest to offer long-term inhaled an risk of exacerbations and chronic ogens other than P. aeruginosa de ditional recommendation for the in inty of evidence.)",
+        ""
+      ],
+      "header_signature": "2892beb01c0a",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "mendation(s) ment of patients with bronchiecta ardised testing to identify the un chiectasis, to evaluate disease sev as risk of poor outcome, and to id associated treatable traits. (Strong ntervention, moderate certainty of tive review of the evidence.) ommend that patients with bronch ht airway clearance techniques. (S e intervention, very low certainty o gest to offer mucoactive treatmen chiectasis where airway clearance toms. (Conditional recommendatio ow certainty of evidence.) gest not to offer recombinant DNa chiectasis. (Conditional recommend vention, very low certainty of evide ommend to offer long-term inhale gh risk of exacerbations and chron ginosa despite standard care. (Stro ntervention, moderate certainty of gest to offer long-term inhaled an risk of exacerbations and chronic ogens other than P. aeruginosa de ditional recommendation for the in inty of evidence.) |",
+      "rows": [
+        [
+          "mendation(s) ment of patients with bronchiecta ardised testing to identify the un chiectasis, to evaluate disease sev as risk of poor outcome, and to id associated treatable traits. (Strong ntervention, moderate certainty of tive review of the evidence.) ommend that patients with bronch ht airway clearance techniques. (S e intervention, very low certainty o gest to offer mucoactive treatmen chiectasis where airway clearance toms. (Conditional recommendatio ow certainty of evidence.) gest not to offer recombinant DNa chiectasis. (Conditional recommend vention, very low certainty of evide ommend to offer long-term inhale gh risk of exacerbations and chron ginosa despite standard care. (Stro ntervention, moderate certainty of gest to offer long-term inhaled an risk of exacerbations and chronic ogens other than P. aeruginosa de ditional recommendation for the in inty of evidence.)",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_bd3139cf089e44f5",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        56.18,
+        114.24,
+        722.49,
+        153.24
+      ],
+      "section_id": "b9ac00ca591090b0",
+      "section_path": [
+        "3 months,would add inhaled antibiotics for 4 weeks to"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "differentbronchiectasis guidelines provide examples of",
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "patients ncludin with a ose wit otherap exclude azithr mes pe educat are im y have risk of g-term n ineff the fir r isolat aerug memb ntibiot culture ative. O 3 mon 7 ERS f differ",
+        ""
+      ],
+      "header_signature": "03f8788a5ecf",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "patients ncludin with a ose wit otherap exclude azithr mes pe educat are im y have risk of g-term n ineff the fir r isolat aerug memb ntibiot culture ative. O 3 mon 7 ERS f differ | \nof p ns, in nts tho ono be e e is e tim ent e -up may igh ong ove r to ther h P. nel ic a um c nega to 2017 es o | \np o on tie nd m d b ide ree tie ow cs m hi s lo pro fer urt ich pan m utu s n ks e 2 ple |",
+      "rows": [
+        [
+          "patients ncludin with a ose wit otherap exclude azithr mes pe educat are im y have risk of g-term n ineff the fir r isolat aerug memb ntibiot culture ative. O 3 mon 7 ERS f differ",
+          ""
+        ],
+        [
+          "of p ns, in nts tho ono be e e is e tim ent e -up may igh ong ove r to ther h P. nel ic a um c nega to 2017 es o",
+          ""
+        ],
+        [
+          "p o on tie nd m d b ide ree tie ow cs m hi s lo pro fer urt ich pan m utu s n ks e 2 ple",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_a5b64c2c2c1d8a73",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 7,
+      "table_index": 1,
+      "bbox": [
+        56.18,
+        297.01,
+        722.49,
+        347.24
+      ],
+      "section_id": "b9ac00ca591090b0",
+      "section_path": [
+        "3 months,would add inhaled antibiotics for 4 weeks to"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "antibiotic strategies [18].",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "R nts at high ainty of • • • • lide oral with nditional ertainty of • with a new tion for the • •",
+        ""
+      ],
+      "header_signature": "5dca05fa2c78",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "R nts at high ainty of • • • • lide oral with nditional ertainty of • with a new tion for the • • |",
+      "rows": [
+        [
+          "R nts at high ainty of • • • • lide oral with nditional ertainty of • with a new tion for the • •",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_0d1b260877731467",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 8,
+      "table_index": 0,
+      "bbox": [
+        56.18,
+        114.24,
+        722.49,
+        316.97
+      ],
+      "section_id": "8c3c53a86f6434bb",
+      "section_path": [
+        "ICS may be appropriate inindication. Discontinuation ofclear"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "be bronchiectasis specific and includeshould ideally",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.6111,
+      "header_row": [
+        "ted fo prese ation t asthma ma or nts wit may b chiect have comm rently roup. ents w e app habilita nclud raged multipl ed ed",
+        "",
+        ""
+      ],
+      "header_signature": "6b20e276332d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "ted fo prese ation t asthma ma or nts wit may b chiect have comm rently roup. ents w e app habilita nclud raged multipl ed ed |  | \nat e da a h n m n t ec rr gr ie be h i ur m e e |  | \nalua The end ith asth atie ICS bron not o re cur is g pati ay b y re nd cou ts m tail tail |  | \neva D. me wi d a pa at I h b do no is thi n p ma ary c a s. enc n i det . det . |  | \ne PD m s ed n ha th d | , s n t in m na ic es e en d el. d el. | \nRemarks PD • Patients with bronchiectasis should be presence of coexisting asthma and COP bronchiectasis does not alter the recom inhaled corticosteroids (ICS) in patients subset of patients with COPD. Suspecte should be appropriately investigated in bronchiectasis. • There is limited evidence suggesting th beneficial in a subgroup of patients wit elevated blood eosinophil counts who other eosinophilic conditions. However on ICS use based on blood eosinophils and we recommend further research in • The use of ICS should be re-evaluated clear indication. Discontinuation of ICS some patients. • The educational component of pulmon should ideally be bronchiectasis specifi discussion of airway clearance strategie • Patients with bronchiectasis should be undertake regular physical activity, give benefits. See the relevant section for the associated recommendations endorsed by the pane s See the relevant section for the associated recommendations endorsed by the pane inosa; NTM: non-tuberculous mycobacteria. |  |",
+      "rows": [
+        [
+          "ted fo prese ation t asthma ma or nts wit may b chiect have comm rently roup. ents w e app habilita nclud raged multipl ed ed",
+          "",
+          ""
+        ],
+        [
+          "at e da a h n m n t ec rr gr ie be h i ur m e e",
+          "",
+          ""
+        ],
+        [
+          "alua The end ith asth atie ICS bron not o re cur is g pati ay b y re nd cou ts m tail tail",
+          "",
+          ""
+        ],
+        [
+          "eva D. me wi d a pa at I h b do no is thi n p ma ary c a s. enc n i det . det .",
+          "",
+          ""
+        ],
+        [
+          "e PD m s ed n ha th d",
+          ", s n t in m na ic es e en d el. d el.",
+          ""
+        ],
+        [
+          "Remarks PD • Patients with bronchiectasis should be presence of coexisting asthma and COP bronchiectasis does not alter the recom inhaled corticosteroids (ICS) in patients subset of patients with COPD. Suspecte should be appropriately investigated in bronchiectasis. • There is limited evidence suggesting th beneficial in a subgroup of patients wit elevated blood eosinophil counts who other eosinophilic conditions. However on ICS use based on blood eosinophils and we recommend further research in • The use of ICS should be re-evaluated clear indication. Discontinuation of ICS some patients. • The educational component of pulmon should ideally be bronchiectasis specifi discussion of airway clearance strategie • Patients with bronchiectasis should be undertake regular physical activity, give benefits. See the relevant section for the associated recommendations endorsed by the pane s See the relevant section for the associated recommendations endorsed by the pane inosa; NTM: non-tuberculous mycobacteria.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9867c5fcb71af47b",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 8,
+      "table_index": 1,
+      "bbox": [
+        56.18,
+        377.23,
+        722.49,
+        407.51
+      ],
+      "section_id": "c445ed190d686ae6",
+      "section_path": [
+        "COPDcoexistingnot havepatients with bronchiectasis who do"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "summary of 11 recommendationsthe relevant section for aSee",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "haled cor do not ha dation ag nce.) reathlessn be offere ation for ary of nin e narrativ ary of 11 of the evid ginosa: Ps",
+        ""
+      ],
+      "header_signature": "72e16ae65bbc",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "haled cor do not ha dation ag nce.) reathlessn be offere ation for ary of nin e narrativ ary of 11 of the evid ginosa: Ps |",
+      "rows": [
+        [
+          "haled cor do not ha dation ag nce.) reathlessn be offere ation for ary of nin e narrativ ary of 11 of the evid ginosa: Ps",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_cf3b1433424b3a62",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 9,
+      "table_index": 0,
+      "bbox": [
+        221.57,
+        146.41,
+        374.07,
+        168.12
+      ],
+      "section_id": "3663c3775231d403",
+      "section_path": [
+        "CFTR genetics"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "• Full blood count\n• Serum electrophoresis\n• Total IgE and Aspergillus specific IgE+IgG\n• Serum immunoglobulins (IgG, IgA and IgM)\n• Sputum for NTM",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Perform additional tes any of the follo",
+        "ts if the patient shows owing features:"
+      ],
+      "header_signature": "37940ab074cc",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Perform additional tes any of the follo | ts if the patient shows owing features:",
+      "rows": [
+        [
+          "Perform additional tes any of the follo",
+          "ts if the patient shows owing features:"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e8d258fefff69fe0",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 9,
+      "table_index": 1,
+      "bbox": [
+        214.1,
+        192.88,
+        381.67,
+        305.43
+      ],
+      "section_id": "3663c3775231d403",
+      "section_path": [
+        "CFTR genetics"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "• Full blood count\n• Serum electrophoresis\n• Total IgE and Aspergillus specific IgE+IgG\n• Serum immunoglobulins (IgG, IgA and IgM)\n• Sputum for NTM",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "• Localised bronchiectasis • HRCT suggestive of NTM or obstructive bronchiectasis",
+        "• Systemic symptoms (e.g. joint pain, skin changes, fatigue) • Coexisting autoimmune disease • Haemoptysis or signs of systemic vasculitis"
+      ],
+      "header_signature": "6e85385463d9",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "• Localised bronchiectasis • HRCT suggestive of NTM or obstructive bronchiectasis | • Systemic symptoms (e.g. joint pain, skin changes, fatigue) • Coexisting autoimmune disease • Haemoptysis or signs of systemic vasculitis",
+      "rows": [
+        [
+          "• Localised bronchiectasis • HRCT suggestive of NTM or obstructive bronchiectasis",
+          "• Systemic symptoms (e.g. joint pain, skin changes, fatigue) • Coexisting autoimmune disease • Haemoptysis or signs of systemic vasculitis"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_0215759988185106",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 9,
+      "table_index": 2,
+      "bbox": [
+        214.1,
+        330.52,
+        381.67,
+        385.8
+      ],
+      "section_id": "3663c3775231d403",
+      "section_path": [
+        "CFTR genetics"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "young age",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Test for NTM-related disease: Bronchoscopy",
+        "Test for autoimmune disease: ANA, RF, ANCA, ENA, anti-CCP antibodies Referral to rheumatologist"
+      ],
+      "header_signature": "1473831130e8",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Test for NTM-related disease: Bronchoscopy | Test for autoimmune disease: ANA, RF, ANCA, ENA, anti-CCP antibodies Referral to rheumatologist",
+      "rows": [
+        [
+          "Test for NTM-related disease: Bronchoscopy",
+          "Test for autoimmune disease: ANA, RF, ANCA, ENA, anti-CCP antibodies Referral to rheumatologist"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e13f4991abbb6fea",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 19,
+      "table_index": 0,
+      "bbox": [
+        295.47,
+        123.99,
+        421.9,
+        149.19
+      ],
+      "section_id": "a3870f774d7391d1",
+      "section_path": [
+        "0\n0\n1–2\n0\n⩾3\n2\nMRC breathlessness score"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Optimise bronchiectasis management\n(including optimal airway clearance, treat underlying\naetiologies, treat comorbidities, up-to-date vaccinations)",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Identify if patient of future ex",
+        "t at increased risk xacerbation#"
+      ],
+      "header_signature": "9d7cf0ad44a2",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Identify if patient of future ex | t at increased risk xacerbation#",
+      "rows": [
+        [
+          "Identify if patient of future ex",
+          "t at increased risk xacerbation#"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e2fa74af49a81e3b",
+      "doc_name": "2025 European Respiratory Society,bronchiectasis.pdf",
+      "doc_family": "ERS_ATS",
+      "doc_family_source": "filename_rule",
+      "organization": "ERS/ATS",
+      "year": 2025,
+      "page": 26,
+      "table_index": 0,
+      "bbox": [
+        166.39,
+        346.59,
+        551.38,
+        675.4
+      ],
+      "section_id": "a3870f774d7391d1",
+      "section_path": [
+        "0\n0\n1–2\n0\n⩾3\n2\nMRC breathlessness score"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Monitoring/evaluation\nMonitoring and evaluation should focus on early identification and timely intervention for patients\nexperiencing disease deterioration, as this is a common feature of bronchiectasis. Regular clinical\nassessment, symptom tracking and objective investigations should be prioritised to detect worsening\nconditions and guide appropriate treatment. Key aspects of monitoring include evaluating exacerbation\nfrequency, response to treatment, microbiology, respiratory function decline and increased need for oxygen\nor ventilatory support.",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "R A P I D I",
+        "• History and physical examination • Adherence to airway clearance and/or pharmacological treatment • Newly developed or worsening comorbidity • The presence of new or evolving treatable traits • A review of airway clearance by an experienced respiratory physiotherapist • A high-resolution computed tomography scan of the chest • Sputum culture for bacteria, fungi and mycobacteria • Bronchoscopy if sputum cannot be obtained or culture results are inconclusive • Tests to reassess underlying causes such as allergic bronchopulmonary aspergillosis • A full pulmonary function assessment • Antibiotic treatment for infection • Eradication therapy for Pseudomonas aeruginosa where appropriate • Targeted treatment for non-tuberculous mycobacteria or fungal lung infections • Disease-specific therapy for newly diagnosed causes of bronchiectasis • Updated strategies for airway clearance and exercise tolerance • New long-term maintenance treatments (e.g. inhaled antibiotics, macrolides) when indicated by the present guidelines • Malnutrition: referral to a dietician; supplemental feeding • Haemoptysis: bronchial artery embolisation or surgical resection in selected cases, following multidisciplinary discussion with a thoracic surgeon experienced in bronchiectasis • Persistent or high-burden infections unresponsive to antibiotics: detailed imaging • Respiratory failure: supplemental oxygen; non-invasive ventilation; referral for lung transplantation • Recognise the deteriorating patient# • Refer to or consult with a bronchiectasis specialist Recognise and refer Assess Perform Initiate Deal with complications"
+      ],
+      "header_signature": "967da82e933c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "R A P I D I | • History and physical examination • Adherence to airway clearance and/or pharmacological treatment • Newly developed or worsening comorbidity • The presence of new or evolving treatable traits • A review of airway clearance by an experienced respiratory physiotherapist • A high-resolution computed tomography scan of the chest • Sputum culture for bacteria, fungi and mycobacteria • Bronchoscopy if sputum cannot be obtained or culture results are inconclusive • Tests to reassess underlying causes such as allergic bronchopulmonary aspergillosis • A full pulmonary function assessment • Antibiotic treatment for infection • Eradication therapy for Pseudomonas aeruginosa where appropriate • Targeted treatment for non-tuberculous mycobacteria or fungal lung infections • Disease-specific therapy for newly diagnosed causes of bronchiectasis • Updated strategies for airway clearance and exercise tolerance • New long-term maintenance treatments (e.g. inhaled antibiotics, macrolides) when indicated by the present guidelines • Malnutrition: referral to a dietician; supplemental feeding • Haemoptysis: bronchial artery embolisation or surgical resection in selected cases, following multidisciplinary discussion with a thoracic surgeon experienced in bronchiectasis • Persistent or high-burden infections unresponsive to antibiotics: detailed imaging • Respiratory failure: supplemental oxygen; non-invasive ventilation; referral for lung transplantation • Recognise the deteriorating patient# • Refer to or consult with a bronchiectasis specialist Recognise and refer Assess Perform Initiate Deal with complications",
+      "rows": [
+        [
+          "R A P I D I",
+          "• History and physical examination • Adherence to airway clearance and/or pharmacological treatment • Newly developed or worsening comorbidity • The presence of new or evolving treatable traits • A review of airway clearance by an experienced respiratory physiotherapist • A high-resolution computed tomography scan of the chest • Sputum culture for bacteria, fungi and mycobacteria • Bronchoscopy if sputum cannot be obtained or culture results are inconclusive • Tests to reassess underlying causes such as allergic bronchopulmonary aspergillosis • A full pulmonary function assessment • Antibiotic treatment for infection • Eradication therapy for Pseudomonas aeruginosa where appropriate • Targeted treatment for non-tuberculous mycobacteria or fungal lung infections • Disease-specific therapy for newly diagnosed causes of bronchiectasis • Updated strategies for airway clearance and exercise tolerance • New long-term maintenance treatments (e.g. inhaled antibiotics, macrolides) when indicated by the present guidelines • Malnutrition: referral to a dietician; supplemental feeding • Haemoptysis: bronchial artery embolisation or surgical resection in selected cases, following multidisciplinary discussion with a thoracic surgeon experienced in bronchiectasis • Persistent or high-burden infections unresponsive to antibiotics: detailed imaging • Respiratory failure: supplemental oxygen; non-invasive ventilation; referral for lung transplantation • Recognise the deteriorating patient# • Refer to or consult with a bronchiectasis specialist Recognise and refer Assess Perform Initiate Deal with complications"
+        ]
+      ]
+    }
+  ]
+}

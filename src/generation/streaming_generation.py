@@ -9,7 +9,7 @@ from src.generation.grounded_generation import GENERATION_MODEL, SYSTEM_PROMPT
 def stream_grounded_generation(
     query: str,
     context_text: str,
-    language: str = "Turkish",
+    language: str = "English",
     temperature: float = 0.0,
     num_predict: int = 300,
     model: str | None = None,
@@ -17,28 +17,20 @@ def stream_grounded_generation(
     """Stream a grounded answer and expose TTFT/generation timing."""
     model = model or GENERATION_MODEL
 
-    if language == "English":
-        instruction = (
-            "Answer in English. Use only the CONTEXT. "
-            "Use at most 4 short bullet points. "
-            "Put [SOURCE X] after each important clinical claim. "
-            "If the requested information is not explicitly in the CONTEXT, "
-            "say that it is not specified and do not guess."
-        )
-    else:
-        instruction = (
-            "Yanıtı Türkçe ver. Yalnızca CONTEXT'i kullan. "
-            "En fazla 4 kısa madde kullan. "
-            "Her önemli klinik iddianın sonunda [SOURCE X] kullan. "
-            "İstenen bilgi CONTEXT'te açıkça yoksa belirtilmediğini söyle ve tahmin etme."
-        )
+    instruction = (
+        "Answer in English. Use only the CONTEXT. "
+        "Use at most 4 short bullet points. "
+        "Put [SOURCE X] after each important clinical claim. "
+        "If the requested information is not explicitly in the CONTEXT, "
+        "say that it is not specified and do not guess."
+    )
 
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
         {
             "role": "user",
             "content": (
-                f"KULLANICI SORUSU:\n{query}\n\n"
+                f"CLINICAL QUESTION:\n{query}\n\n"
                 f"CONTEXT:\n{context_text}\n\n"
                 f"{instruction}"
             ),

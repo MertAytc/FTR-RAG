@@ -1,0 +1,465 @@
+{
+  "schema_version": "2.3",
+  "document": "2017 APTA Neck Pain.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2017,
+  "table_count": 10,
+  "tables": [
+    {
+      "table_id": "tbl_6c6e273535b9b2c0",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 14,
+      "table_index": 0,
+      "bbox": [
+        120.51,
+        76.53,
+        527.01,
+        108.28
+      ],
+      "section_id": "69df9fef88509b5d",
+      "section_path": [
+        "Level\nIntervention/Prevention"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "A systematic review by Kelly et al112 explored the readiness\nfor clinical adoption of 15 formalized prognostic clinical pre\ndiction rules for early identification of the patient at risk of\ntransitioning to chronic neck pain. Of those, 11 remained in\nthe derivation stage, lacking external validation. Four had\nundergone some degree of external validation, but none were\nat the stage of readiness to be endorsed for widespread clini\ncal adoption.112,171"
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Recommended Too",
+        "ols for Developing a Prognosis"
+      ],
+      "header_signature": "36e748d835da",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Recommended Too | ols for Developing a Prognosis",
+      "rows": [
+        [
+          "Recommended Too",
+          "ols for Developing a Prognosis"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_fca576c8721f96f2",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 38,
+      "table_index": 0,
+      "bbox": [
+        120.51,
+        82.03,
+        526.34,
+        125.36
+      ],
+      "section_id": "52ce9bddf000001f",
+      "section_path": [
+        "V"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention Eviden by Intervention T Evidence of Benefit",
+        "nce for Neck Pain With Headache Type, Stage, Levels of Evidence, t or No Benefit, and Comparison"
+      ],
+      "header_signature": "dc00d3aac831",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention Eviden by Intervention T Evidence of Benefit | nce for Neck Pain With Headache Type, Stage, Levels of Evidence, t or No Benefit, and Comparison",
+      "rows": [
+        [
+          "Intervention Eviden by Intervention T Evidence of Benefit",
+          "nce for Neck Pain With Headache Type, Stage, Levels of Evidence, t or No Benefit, and Comparison"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_91282fa6d7cd1bc6",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 38,
+      "table_index": 1,
+      "bbox": [
+        100.5,
+        131.67,
+        526.34,
+        145.94
+      ],
+      "section_id": "64231670b566eeda",
+      "section_path": [
+        "TABLE 9"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 9",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "M",
+        "Manual Therapy"
+      ],
+      "header_signature": "edc0cbf994e2",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "M | Manual Therapy",
+      "rows": [
+        [
+          "M",
+          "Manual Therapy"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_83773b3cc9616c53",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 38,
+      "table_index": 2,
+      "bbox": [
+        100.5,
+        437.03,
+        526.34,
+        451.44
+      ],
+      "section_id": "64231670b566eeda",
+      "section_path": [
+        "TABLE 9"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "• Cervical manipulation alone, when compared to laser and massage, for reducing headache\nintensity or duration, over the immediate term28,163",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "",
+        "Exercise"
+      ],
+      "header_signature": "eb70d1fcdf82",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Exercise",
+      "rows": [
+        [
+          "",
+          "Exercise"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_c91e5a2294eaaaac",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 40,
+      "table_index": 0,
+      "bbox": [
+        120.51,
+        76.53,
+        526.2,
+        119.86
+      ],
+      "section_id": "e767c2472d5ab0be",
+      "section_path": [
+        "NECK PAIN WITH RADIATING PAIN\n2008 Recommendation"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention Evidence by Intervention T Evidence of Benefit",
+        "e for Neck Pain With Radiating Pain Type, Stage, Level of Evidence, t or No Benefit, and Comparison"
+      ],
+      "header_signature": "b81dd8b6258d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention Evidence by Intervention T Evidence of Benefit | e for Neck Pain With Radiating Pain Type, Stage, Level of Evidence, t or No Benefit, and Comparison",
+      "rows": [
+        [
+          "Intervention Evidence by Intervention T Evidence of Benefit",
+          "e for Neck Pain With Radiating Pain Type, Stage, Level of Evidence, t or No Benefit, and Comparison"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_a96d7a72a04f4d3f",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 40,
+      "table_index": 1,
+      "bbox": [
+        100.5,
+        126.17,
+        526.2,
+        140.44
+      ],
+      "section_id": "13c0f9960c38c2be",
+      "section_path": [
+        "TABLE 10"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 10",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "M",
+        "Manual Therapy"
+      ],
+      "header_signature": "edc0cbf994e2",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "M | Manual Therapy",
+      "rows": [
+        [
+          "M",
+          "Manual Therapy"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_3d4dd4d26bde5da3",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 40,
+      "table_index": 2,
+      "bbox": [
+        100.5,
+        250.87,
+        526.2,
+        265.37
+      ],
+      "section_id": "b3052211381f2356",
+      "section_path": [
+        "Stage/Level\nStudy\nEvidence Statement\nAcute"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Downloaded from www.jospt.org at on October 8, 2026. For personal use only. No other uses without permission.",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "",
+        "Exercise"
+      ],
+      "header_signature": "eb70d1fcdf82",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Exercise",
+      "rows": [
+        [
+          "",
+          "Exercise"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_12768ac36ab36f42",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 40,
+      "table_index": 3,
+      "bbox": [
+        100.5,
+        406.74,
+        526.2,
+        421.4
+      ],
+      "section_id": "b3052211381f2356",
+      "section_path": [
+        "Stage/Level\nStudy\nEvidence Statement\nAcute"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Subacute\nNo update evidence identified\nChronic\nNo update evidence identified",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Multimodal: E",
+        "xercise and Manual Therapy"
+      ],
+      "header_signature": "4d5d73f11e5c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Multimodal: E | xercise and Manual Therapy",
+      "rows": [
+        [
+          "Multimodal: E",
+          "xercise and Manual Therapy"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_bffccb7fd3925f98",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 40,
+      "table_index": 4,
+      "bbox": [
+        100.5,
+        586.62,
+        526.2,
+        600.88
+      ],
+      "section_id": "b3052211381f2356",
+      "section_path": [
+        "Stage/Level\nStudy\nEvidence Statement\nAcute"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "exercise, when compared to rigid or soft collar, or when compared to surgery, for reducing pain or improv\ning function, over the immediate and long term.17,178",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "",
+        "Education"
+      ],
+      "header_signature": "24e7451df05e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Education",
+      "rows": [
+        [
+          "",
+          "Education"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_4c5d20c6f9a7cd30",
+      "doc_name": "2017 APTA Neck Pain.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2017,
+      "page": 52,
+      "table_index": 0,
+      "bbox": [
+        293.85,
+        590.04,
+        531.94,
+        622.63
+      ],
+      "section_id": "6e05ab27ed4e9839",
+      "section_path": [
+        "REFERENCES"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "exercise programs for patients with non-specific or specific neck pain:\na systematic review of the literature. J Man Manip Ther. 2016;24:62-73.\nhttps://doi.org/10.1179/2042618613Y.0000000047\n@",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.3333,
+      "header_row": [
+        "@",
+        "MORE INFORMATION WWW.JOSPT.ORG",
+        ""
+      ],
+      "header_signature": "1fa459a6bdc3",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "@ | MORE INFORMATION WWW.JOSPT.ORG |",
+      "rows": [
+        [
+          "@",
+          "MORE INFORMATION WWW.JOSPT.ORG",
+          ""
+        ]
+      ]
+    }
+  ]
+}

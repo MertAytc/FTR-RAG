@@ -1,0 +1,2903 @@
+{
+  "schema_version": "2.3",
+  "document": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+  "doc_family": "VA_DOD",
+  "doc_family_source": "filename_rule",
+  "organization": "VA/DoD",
+  "year": 2024,
+  "table_count": 21,
+  "tables": [
+    {
+      "table_id": "tbl_a1b0065c3fa41340",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 12,
+      "table_index": 0,
+      "bbox": [
+        72.3,
+        281.25,
+        539.03,
+        623.26
+      ],
+      "section_id": "a098597866d42c1f",
+      "section_path": [
+        "Table 1. Guideline Work Group and Guideline Development Team"
+      ],
+      "heading_level": 1,
+      "caption": "Table 1. Guideline Work Group and Guideline Development Team",
+      "context_before": "The Sigma Team (Sigma Health Consulting and Duty First Consulting) were contracted by VA to\nhelp develop this CPG.",
+      "footnote_candidates": [],
+      "n_rows": 21,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.8095,
+      "header_row": [
+        "",
+        "Organization",
+        "",
+        "",
+        "Names*",
+        ""
+      ],
+      "header_signature": "264a71b6f892",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Organization |  |  | Names* | \nDepartment of Veteran Affairs |  |  |  | M. Jason Highsmith, PhD, PT, DPT, CP, | \n |  |  |  | FAAOP (Champion) | \n |  |  |  | Jeffrey T. Heckman, DO (Champion) | \n |  |  |  | Ian Pace, PharmD | \n |  |  | Leif Nelson, PT, DPT, ATP, CSCS |  | \n |  |  |  | Aaron Turner, PhD | \n |  |  |  | Patty Young, MSPT, CP | \n |  |  |  | Michael Carroll, PhD, CPO, FAAOP | \n |  |  |  | Rebecca Speckman, MD, PhD | \n |  |  |  | Teresa Schuck, LCSW | \n |  |  |  | Yvonne Gallegos, DNP | \nDepartment of Defense |  |  |  | Andrea Crunkhorn, PT, DPT (Champion) | \n |  |  |  | Tawnee Sparling, MD (Champion) | \n |  |  |  | Dixie Lee Johnson, MSN, RN, CRRN, CCM | \n |  |  |  | Jessica M. Richards, PhD | \n |  |  |  | Meghan Logeais, OTD, OTR | \n |  |  |  | Robert J. McGill, MD | \n |  |  |  | Robert T. Cook, CPO | \n |  |  |  | Stuart M. Campbell, PT, MPT | \n |  |  |  | James Sall, PhD, FNP-BC |",
+      "rows": [
+        [
+          "",
+          "Organization",
+          "",
+          "",
+          "Names*",
+          ""
+        ],
+        [
+          "Department of Veteran Affairs",
+          "",
+          "",
+          "",
+          "M. Jason Highsmith, PhD, PT, DPT, CP,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "FAAOP (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Jeffrey T. Heckman, DO (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Ian Pace, PharmD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Leif Nelson, PT, DPT, ATP, CSCS",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Aaron Turner, PhD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Patty Young, MSPT, CP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Michael Carroll, PhD, CPO, FAAOP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Rebecca Speckman, MD, PhD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Teresa Schuck, LCSW",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Yvonne Gallegos, DNP",
+          ""
+        ],
+        [
+          "Department of Defense",
+          "",
+          "",
+          "",
+          "Andrea Crunkhorn, PT, DPT (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Tawnee Sparling, MD (Champion)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Dixie Lee Johnson, MSN, RN, CRRN, CCM",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Jessica M. Richards, PhD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Meghan Logeais, OTD, OTR",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Robert J. McGill, MD",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Robert T. Cook, CPO",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "Stuart M. Campbell, PT, MPT",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "James Sall, PhD, FNP-BC",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_0f31476582b65084",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 15,
+      "table_index": 0,
+      "bbox": [
+        72.3,
+        86.94,
+        539.11,
+        198.26
+      ],
+      "section_id": "7a25fc63145fa057",
+      "section_path": [
+        "Table 2. Strength and Direction of Recommendations and General Corresponding Text"
+      ],
+      "heading_level": 1,
+      "caption": "Table 2. Strength and Direction of Recommendations and General Corresponding Text",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.6667,
+      "header_row": [
+        "",
+        "Recommendation Strength and Direction",
+        "",
+        "",
+        "General Corresponding Text",
+        ""
+      ],
+      "header_signature": "a0f5a7e1a90c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Recommendation Strength and Direction |  |  | General Corresponding Text | \nStrong for |  |  | We recommend . . . |  | \nWeak for |  |  | We suggest … |  | \nNeither for nor against |  |  | There is insufficient evidence to recommend for or against . . . |  | \nWeak against |  |  | We suggest against . . . |  | \nStrong against |  |  | We recommend against . . . |  |",
+      "rows": [
+        [
+          "",
+          "Recommendation Strength and Direction",
+          "",
+          "",
+          "General Corresponding Text",
+          ""
+        ],
+        [
+          "Strong for",
+          "",
+          "",
+          "We recommend . . .",
+          "",
+          ""
+        ],
+        [
+          "Weak for",
+          "",
+          "",
+          "We suggest …",
+          "",
+          ""
+        ],
+        [
+          "Neither for nor against",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against . . .",
+          "",
+          ""
+        ],
+        [
+          "Weak against",
+          "",
+          "",
+          "We suggest against . . .",
+          "",
+          ""
+        ],
+        [
+          "Strong against",
+          "",
+          "",
+          "We recommend against . . .",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_76ee56158e796e2e",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 16,
+      "table_index": 0,
+      "bbox": [
+        72.29,
+        157.13,
+        539.84,
+        441.55
+      ],
+      "section_id": "8e50ea1899343d0d",
+      "section_path": [
+        "Table 3. Recommendation Categories and Definitions*"
+      ],
+      "heading_level": 1,
+      "caption": "Table 3. Recommendation Categories and Definitions*",
+      "context_before": "Additional information regarding these categories and their definitions can be found in\nRecommendation Categorization. The 2024 CPG recommendation categories can be found in\nRecommendations. Appendix C outlines the 2017 VA/DOD LLA CPG’s recommendation\ncategories.",
+      "footnote_candidates": [
+        "*Adapted from the NICE guideline manual (2012) (50) and Garcia, et al. (2014) (51)\nAbbreviation: CPG: clinical practice guideline"
+      ],
+      "n_rows": 10,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.6714,
+      "header_row": [
+        "",
+        "Evidence",
+        "",
+        "",
+        "Recommendation",
+        "",
+        "Definition*"
+      ],
+      "header_signature": "b2c997e5065e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Evidence |  |  | Recommendation |  | Definition*\n | Reviewed* |  |  | Category* |  | \nReviewed |  |  | New-added |  |  | New recommendation following review of the evidence\n |  |  | New-replaced |  |  | Recommendation from previous CPG that has been carried over to the updated CPG that has been changed following review of the evidence\n |  |  | Not changed |  |  | Recommendation from previous CPG that has been carried forward to the updated CPG where the evidence has been reviewed but the recommendation is not changed\n |  |  | Amended |  |  | Recommendation from the previous CPG that has been carried forward to the updated CPG where the evidence has been reviewed and a minor amendment has been made\n |  |  | Deleted |  |  | Recommendation from the previous CPG that has been removed based on review of the evidence\nNot reviewed |  |  | Not changed |  |  | Recommendation from previous CPG that has been carried forward to the updated CPG, but for which the evidence has not been reviewed\n |  |  | Amended |  |  | Recommendation from the previous CPG that has been carried forward to the updated CPG where the evidence has not been reviewed and a minor amendment has been made\n |  |  | Deleted |  |  | Recommendation from the previous CPG that has been removed because it was deemed out of scope for the updated CPG",
+      "rows": [
+        [
+          "",
+          "Evidence",
+          "",
+          "",
+          "Recommendation",
+          "",
+          "Definition*"
+        ],
+        [
+          "",
+          "Reviewed*",
+          "",
+          "",
+          "Category*",
+          "",
+          ""
+        ],
+        [
+          "Reviewed",
+          "",
+          "",
+          "New-added",
+          "",
+          "",
+          "New recommendation following review of the evidence"
+        ],
+        [
+          "",
+          "",
+          "",
+          "New-replaced",
+          "",
+          "",
+          "Recommendation from previous CPG that has been carried over to the updated CPG that has been changed following review of the evidence"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Not changed",
+          "",
+          "",
+          "Recommendation from previous CPG that has been carried forward to the updated CPG where the evidence has been reviewed but the recommendation is not changed"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Amended",
+          "",
+          "",
+          "Recommendation from the previous CPG that has been carried forward to the updated CPG where the evidence has been reviewed and a minor amendment has been made"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Deleted",
+          "",
+          "",
+          "Recommendation from the previous CPG that has been removed based on review of the evidence"
+        ],
+        [
+          "Not reviewed",
+          "",
+          "",
+          "Not changed",
+          "",
+          "",
+          "Recommendation from previous CPG that has been carried forward to the updated CPG, but for which the evidence has not been reviewed"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Amended",
+          "",
+          "",
+          "Recommendation from the previous CPG that has been carried forward to the updated CPG where the evidence has not been reviewed and a minor amendment has been made"
+        ],
+        [
+          "",
+          "",
+          "",
+          "Deleted",
+          "",
+          "",
+          "Recommendation from the previous CPG that has been removed because it was deemed out of scope for the updated CPG"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_6e26a6f9d4c2cdbf",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 30,
+      "table_index": 0,
+      "bbox": [
+        72.74,
+        261.45,
+        539.38,
+        712.78
+      ],
+      "section_id": "2a210f4122e523d5",
+      "section_path": [
+        "Table 4. Evidence-Based Clinical Practice Recommendations with Strength and Category"
+      ],
+      "heading_level": 1,
+      "caption": "Table 4. Evidence-Based Clinical Practice Recommendations with Strength and Category",
+      "context_before": "A note regarding the 2024 LLA CPG Recommendation Table: While some of the below\nrecommendations may be an element of a single phase of care, others may be relevant to\nmultiple phases or require consideration throughout the entire continuum of care.",
+      "footnote_candidates": [],
+      "n_rows": 37,
+      "n_cols": 12,
+      "empty_cell_ratio": 0.7905,
+      "header_row": [
+        "",
+        "#",
+        "",
+        "",
+        "Recommendation",
+        "",
+        "",
+        "Strengtha",
+        "",
+        "",
+        "Categoryb",
+        ""
+      ],
+      "header_signature": "b0b2d7842028",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| # |  |  | Recommendation |  |  | Strengtha |  |  | Categoryb | \n1. | 1. |  |  | There is insufficient evidence to recommend one |  |  | Neither for nor |  |  | Not reviewed, | \n |  |  |  | surgical amputation procedure over another. |  |  | against |  |  | Not changed | \n2. |  |  |  | For patients with transfemoral amputation who meet |  | Weak for | Weak for |  | Reviewed, New-added | Reviewed, | \n |  |  |  | eligibility criteria, we suggest osseointegration as an |  |  |  |  |  | New-added | \n |  |  |  | option to improve prosthesis use. |  |  |  |  |  |  | \n3. |  |  |  | There is insufficient evidence to recommend for or |  | Neither for nor against |  |  | Reviewed, New-added |  | \n |  |  |  | against targeted muscle reinnervation or other |  |  |  |  |  |  | \n |  |  |  | peripheral nerve surgical management for phantom |  |  |  |  |  |  | \n |  |  |  | limb pain. |  |  |  |  |  |  | \n4. |  |  |  | We suggest intraoperative placement of a perineural |  | Weak for |  |  | Reviewed, New-added |  | \n |  |  |  | catheter for the post-operative delivery of local |  |  |  |  |  |  | \n |  |  |  | anesthetic to reduce pain following amputation surgery. |  |  |  |  |  |  | \n5. |  |  |  | Post-transtibial amputation, we suggest application of a |  | Weak for |  |  | Not reviewed, Amended |  | \n |  |  |  | rigid or semi-rigid residual limb dressing to promote |  |  |  |  |  |  | \n |  |  |  | healing and early prosthesis use as soon as feasible. |  |  |  |  |  |  | \n6. |  |  |  | We suggest providing post-operative amputation care |  | Weak for |  |  | Reviewed, Amended |  | \n |  |  |  | in an inpatient rehabilitation facility (IRF) over other |  |  |  |  |  |  | \n |  |  |  | settings (e.g., skilled nursing facility (SNF) or home |  |  |  |  |  |  | \n |  |  |  | care). |  |  |  |  |  |  | \n7. |  |  |  | We suggest assessment and treatment to improve |  | Weak for |  |  |  | Reviewed, | \n |  |  |  | behavioral health and psychosocial functioning. |  |  |  |  |  | New-replaced | \n8. |  |  |  | We suggest peer support by a trained peer as a |  | Weak for |  |  | Reviewed, Amended | Reviewed, | \n |  |  |  | component of rehabilitation to improve psychosocial |  |  |  |  |  | Amended | \n |  |  |  | function. |  |  |  |  |  |  | \n9. |  |  |  | We suggest cognitive assessment to inform |  | Weak for |  |  |  | Not reviewed, | \n |  |  |  | rehabilitation goals and prosthetic candidacy. |  |  |  |  |  | Amended | \n10. |  |  |  | We suggest the care team provides patient education |  | Weak for |  |  |  | Reviewed, | \n |  |  |  | throughout amputation rehabilitation. |  |  |  |  |  | Amended | \n11. |  |  |  | We suggest mirror therapy, alone or in combination |  | Weak for |  |  | Reviewed, New-added | Reviewed, | \n |  |  |  | with other therapies, to improve pain, function and |  |  |  |  |  | New-added | \n |  |  |  | quality of life for individuals with phantom limb pain. |  |  |  |  |  |  | \n12. |  |  |  | We suggest an individualized and skilled rehabilitation |  | Weak for |  |  | Reviewed, New-replaced |  | \n |  |  |  | program with exercise and gait training to improve |  |  |  |  |  |  | \n |  |  |  | functional status, walking ability, and quality of life. |  |  |  |  |  |  | \n13. |  |  |  | We suggest using patient-identified sex to inform |  | Weak for |  |  |  | Reviewed, | \n |  |  |  | individualized rehabilitation plans. |  |  |  |  |  | New-replaced |",
+      "rows": [
+        [
+          "",
+          "#",
+          "",
+          "",
+          "Recommendation",
+          "",
+          "",
+          "Strengtha",
+          "",
+          "",
+          "Categoryb",
+          ""
+        ],
+        [
+          "1.",
+          "1.",
+          "",
+          "",
+          "There is insufficient evidence to recommend one",
+          "",
+          "",
+          "Neither for nor",
+          "",
+          "",
+          "Not reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "surgical amputation procedure over another.",
+          "",
+          "",
+          "against",
+          "",
+          "",
+          "Not changed",
+          ""
+        ],
+        [
+          "2.",
+          "",
+          "",
+          "",
+          "For patients with transfemoral amputation who meet",
+          "",
+          "Weak for",
+          "Weak for",
+          "",
+          "Reviewed, New-added",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "eligibility criteria, we suggest osseointegration as an",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "New-added",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "option to improve prosthesis use.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3.",
+          "",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "against targeted muscle reinnervation or other",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "peripheral nerve surgical management for phantom",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "limb pain.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "4.",
+          "",
+          "",
+          "",
+          "We suggest intraoperative placement of a perineural",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "catheter for the post-operative delivery of local",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "anesthetic to reduce pain following amputation surgery.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "5.",
+          "",
+          "",
+          "",
+          "Post-transtibial amputation, we suggest application of a",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Not reviewed, Amended",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "rigid or semi-rigid residual limb dressing to promote",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "healing and early prosthesis use as soon as feasible.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "6.",
+          "",
+          "",
+          "",
+          "We suggest providing post-operative amputation care",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, Amended",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "in an inpatient rehabilitation facility (IRF) over other",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "settings (e.g., skilled nursing facility (SNF) or home",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "care).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "7.",
+          "",
+          "",
+          "",
+          "We suggest assessment and treatment to improve",
+          "",
+          "Weak for",
+          "",
+          "",
+          "",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "behavioral health and psychosocial functioning.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "New-replaced",
+          ""
+        ],
+        [
+          "8.",
+          "",
+          "",
+          "",
+          "We suggest peer support by a trained peer as a",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, Amended",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "component of rehabilitation to improve psychosocial",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Amended",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "function.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "9.",
+          "",
+          "",
+          "",
+          "We suggest cognitive assessment to inform",
+          "",
+          "Weak for",
+          "",
+          "",
+          "",
+          "Not reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "rehabilitation goals and prosthetic candidacy.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Amended",
+          ""
+        ],
+        [
+          "10.",
+          "",
+          "",
+          "",
+          "We suggest the care team provides patient education",
+          "",
+          "Weak for",
+          "",
+          "",
+          "",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "throughout amputation rehabilitation.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Amended",
+          ""
+        ],
+        [
+          "11.",
+          "",
+          "",
+          "",
+          "We suggest mirror therapy, alone or in combination",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-added",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "with other therapies, to improve pain, function and",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "New-added",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "quality of life for individuals with phantom limb pain.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "12.",
+          "",
+          "",
+          "",
+          "We suggest an individualized and skilled rehabilitation",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-replaced",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "program with exercise and gait training to improve",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "functional status, walking ability, and quality of life.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "13.",
+          "",
+          "",
+          "",
+          "We suggest using patient-identified sex to inform",
+          "",
+          "Weak for",
+          "",
+          "",
+          "",
+          "Reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "individualized rehabilitation plans.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "New-replaced",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_7cfde7a689a13a94",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 31,
+      "table_index": 0,
+      "bbox": [
+        72.56,
+        73.28,
+        539.54,
+        671.62
+      ],
+      "section_id": "2a210f4122e523d5",
+      "section_path": [
+        "Table 4. Evidence-Based Clinical Practice Recommendations with Strength and Category"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "a For additional information, please refer to Determining Recommendation Strength and Direction\nb For additional information, please refer to Recommendation Categorization"
+      ],
+      "n_rows": 19,
+      "n_cols": 12,
+      "empty_cell_ratio": 0.7149,
+      "header_row": [
+        "",
+        "#",
+        "",
+        "",
+        "Recommendation",
+        "",
+        "",
+        "Strengtha",
+        "",
+        "",
+        "Categoryb",
+        ""
+      ],
+      "header_signature": "b0b2d7842028",
+      "continues_table_id": "tbl_6e26a6f9d4c2cdbf",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| # |  |  | Recommendation |  |  | Strengtha |  |  | Categoryb | \n14. | 14. |  |  | We suggest screening for factors associated with |  | Weak for | Weak for |  | Not reviewed, Amended | Not reviewed, | \n |  |  |  | rehabilitation outcomes following acquired limb loss, |  |  |  |  |  | Amended | \n |  |  |  | (e.g., smoking, comorbid injuries or illnesses, |  |  |  |  |  |  | \n |  |  |  | psychosocial characteristics and physical function). |  |  |  |  |  |  | \n15. |  |  | For community ambulators, there is insufficient evidence to recommend any specific transfemoral socket design. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n16. |  |  | For community ambulators, there is insufficient evidence to recommend for or against ischial containment or sub-ischial socket designs. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n17. |  |  | For prosthetic ambulators, we suggest prescribing microprocessor knee units over non-microprocessor knee units for reducing falls, optimizing functional mobility, and improving patient satisfaction. |  |  | Weak for |  |  | Reviewed, New-replaced |  | \n18. |  |  | For prosthetic ambulators, there is insufficient evidence to prescribe any specific energy storing and return (ESAR) or microprocessor foot and ankle component over another. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n19. |  |  | For prosthetic ambulators, we suggest energy storing and return (ESAR) or microprocessor-controlled foot and ankle components over solid ankle cushioned heel (SACH) feet to improve ambulation and patient satisfaction. |  |  | Weak for |  |  | Reviewed, New-added |  | \n20. |  |  |  | We suggest using patient-reported and performance- |  | Weak for |  |  | Not reviewed, Amended |  | \n |  |  |  | based measures with acceptable psychometric |  |  |  |  |  |  | \n |  |  |  | properties to assess function. |  |  |  |  |  |  | \n21. |  |  | There is insufficient evidence to recommend for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions for the management of phantom limb pain or residual limb pain. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n22. |  |  | We suggest perineural catheter delivered anesthetic for the treatment of chronic severe phantom limb pain with functional impairment. |  |  | Weak for |  |  | Reviewed, New-added |  | \n23. |  |  | There is insufficient evidence to recommend for or against any systemic pharmacologic intervention for the management of phantom limb pain. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n24. |  |  | For prosthesis users with hyperhidrosis, there is insufficient evidence to recommend for or against Botulinum toxin treatment to reduce sweat production, improve prosthetic function, reduce pain, and improve quality of life. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n25. |  |  | There was insufficient evidence to recommend for or against strategies to prevent re-amputation of the ipsilateral limb or amputation of the contralateral limb. |  |  | Neither for nor against |  |  | Reviewed, New-added |  | \n26. |  |  | There is insufficient evidence to recommend for or against any specific intervention to improve intimacy and sexual health. |  |  | Neither for nor against |  |  | Reviewed, New-added |  |",
+      "rows": [
+        [
+          "",
+          "#",
+          "",
+          "",
+          "Recommendation",
+          "",
+          "",
+          "Strengtha",
+          "",
+          "",
+          "Categoryb",
+          ""
+        ],
+        [
+          "14.",
+          "14.",
+          "",
+          "",
+          "We suggest screening for factors associated with",
+          "",
+          "Weak for",
+          "Weak for",
+          "",
+          "Not reviewed, Amended",
+          "Not reviewed,",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "rehabilitation outcomes following acquired limb loss,",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Amended",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "(e.g., smoking, comorbid injuries or illnesses,",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "psychosocial characteristics and physical function).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "15.",
+          "",
+          "",
+          "For community ambulators, there is insufficient evidence to recommend any specific transfemoral socket design.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "16.",
+          "",
+          "",
+          "For community ambulators, there is insufficient evidence to recommend for or against ischial containment or sub-ischial socket designs.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "17.",
+          "",
+          "",
+          "For prosthetic ambulators, we suggest prescribing microprocessor knee units over non-microprocessor knee units for reducing falls, optimizing functional mobility, and improving patient satisfaction.",
+          "",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-replaced",
+          "",
+          ""
+        ],
+        [
+          "18.",
+          "",
+          "",
+          "For prosthetic ambulators, there is insufficient evidence to prescribe any specific energy storing and return (ESAR) or microprocessor foot and ankle component over another.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "19.",
+          "",
+          "",
+          "For prosthetic ambulators, we suggest energy storing and return (ESAR) or microprocessor-controlled foot and ankle components over solid ankle cushioned heel (SACH) feet to improve ambulation and patient satisfaction.",
+          "",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "20.",
+          "",
+          "",
+          "",
+          "We suggest using patient-reported and performance-",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Not reviewed, Amended",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "based measures with acceptable psychometric",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "properties to assess function.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "21.",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions for the management of phantom limb pain or residual limb pain.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "22.",
+          "",
+          "",
+          "We suggest perineural catheter delivered anesthetic for the treatment of chronic severe phantom limb pain with functional impairment.",
+          "",
+          "",
+          "Weak for",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "23.",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against any systemic pharmacologic intervention for the management of phantom limb pain.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "24.",
+          "",
+          "",
+          "For prosthesis users with hyperhidrosis, there is insufficient evidence to recommend for or against Botulinum toxin treatment to reduce sweat production, improve prosthetic function, reduce pain, and improve quality of life.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "25.",
+          "",
+          "",
+          "There was insufficient evidence to recommend for or against strategies to prevent re-amputation of the ipsilateral limb or amputation of the contralateral limb.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ],
+        [
+          "26.",
+          "",
+          "",
+          "There is insufficient evidence to recommend for or against any specific intervention to improve intimacy and sexual health.",
+          "",
+          "",
+          "Neither for nor against",
+          "",
+          "",
+          "Reviewed, New-added",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_7895877bf1d8c482",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 70,
+      "table_index": 0,
+      "bbox": [
+        72.73,
+        205.04,
+        539.49,
+        436.9
+      ],
+      "section_id": "7e968b42d7af1537",
+      "section_path": [
+        "Table A-1. PICOTS (196)"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-1. PICOTS (196)",
+      "context_before": "To guide this CPG’s systematic evidence review, the Work Group drafted 12 KQs on clinical\ntopics of the highest priority for the VA and DOD populations. The KQs followed the population,\nintervention, comparison, outcome, timing, and setting (PICOTS) framework, as established by\nthe Agency for Healthcare Research and Quality (AHRQ) (see Table A‐1).",
+      "footnote_candidates": [
+        "Abbreviation: PICOTS: population, intervention, comparison, outcome, timing, and setting"
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "P",
+        "Patients, Population, or Problem",
+        "Patients of interest. It includes the condition(s), populations or sub-populations, disease severity or stage, co-occurring conditions, and other patient characteristics or demographics."
+      ],
+      "header_signature": "31cd0bcc3718",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "P | Patients, Population, or Problem | Patients of interest. It includes the condition(s), populations or sub-populations, disease severity or stage, co-occurring conditions, and other patient characteristics or demographics.\nI | Intervention or Exposure | Treatment (e.g., drug, surgery, lifestyle changes), approach (e.g., doses, frequency, methods of administering treatments), or diagnostic/screening test used with the patient or population.\nC | Comparison | Treatment(s) (e.g., placebo, different drugs) or approach(es) (e.g., different dose, different frequency, standard of care) that are being compared with the intervention or exposure of interest described above.\nO | Outcome | Results of interest (e.g., mortality, morbidity, quality of life, complications). Outcomes can include short, intermediate, and long-term outcomes.\n(T) | Timing, if applicable | Duration or follow-up of interest for the particular patient intervention and outcome to occur (or not occur).\n(S) | Setting, if applicable | Setting or context of interest. Setting can be a location (e.g., primary, specialty, inpatient care) or type of practice.",
+      "rows": [
+        [
+          "P",
+          "Patients, Population, or Problem",
+          "Patients of interest. It includes the condition(s), populations or sub-populations, disease severity or stage, co-occurring conditions, and other patient characteristics or demographics."
+        ],
+        [
+          "I",
+          "Intervention or Exposure",
+          "Treatment (e.g., drug, surgery, lifestyle changes), approach (e.g., doses, frequency, methods of administering treatments), or diagnostic/screening test used with the patient or population."
+        ],
+        [
+          "C",
+          "Comparison",
+          "Treatment(s) (e.g., placebo, different drugs) or approach(es) (e.g., different dose, different frequency, standard of care) that are being compared with the intervention or exposure of interest described above."
+        ],
+        [
+          "O",
+          "Outcome",
+          "Results of interest (e.g., mortality, morbidity, quality of life, complications). Outcomes can include short, intermediate, and long-term outcomes."
+        ],
+        [
+          "(T)",
+          "Timing, if applicable",
+          "Duration or follow-up of interest for the particular patient intervention and outcome to occur (or not occur)."
+        ],
+        [
+          "(S)",
+          "Setting, if applicable",
+          "Setting or context of interest. Setting can be a location (e.g., primary, specialty, inpatient care) or type of practice."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b241ca83b996da78",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 70,
+      "table_index": 1,
+      "bbox": [
+        72.73,
+        664.58,
+        539.49,
+        707.8
+      ],
+      "section_id": "0fad6d8f6fe8488e",
+      "section_path": [
+        "b. Interventions and Comparators"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "b. Interventions and Comparators",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.625,
+      "header_row": [
+        "",
+        "KQ",
+        "",
+        "Intervention(s)",
+        "",
+        "",
+        "Comparator(s)",
+        ""
+      ],
+      "header_signature": "80088bfd49b0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| KQ |  | Intervention(s) |  |  | Comparator(s) | \n1 |  |  Acute inpatient  Acute inpatient rehabilitation |  |  | Any of the listed interventions versus another listed intervention |  |",
+      "rows": [
+        [
+          "",
+          "KQ",
+          "",
+          "Intervention(s)",
+          "",
+          "",
+          "Comparator(s)",
+          ""
+        ],
+        [
+          "1",
+          "",
+          " Acute inpatient  Acute inpatient rehabilitation",
+          "",
+          "",
+          "Any of the listed interventions versus another listed intervention",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_72053fb32a73fa47",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 80,
+      "table_index": 0,
+      "bbox": [
+        72.38,
+        92.58,
+        539.8,
+        156.62
+      ],
+      "section_id": "40470d29ec60b554",
+      "section_path": [
+        "e. Setting(s)"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "e. Setting(s)",
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.7083,
+      "header_row": [
+        "",
+        "KQ",
+        "",
+        "",
+        "Setting(s)",
+        ""
+      ],
+      "header_signature": "9f700620e862",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| KQ |  |  | Setting(s) | \n | 1 |  | Any of the intervention settings listed in KQ1 |  | \n | 2 through |  | Any |  | \n | 12 |  |  |  |",
+      "rows": [
+        [
+          "",
+          "KQ",
+          "",
+          "",
+          "Setting(s)",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "",
+          "Any of the intervention settings listed in KQ1",
+          "",
+          ""
+        ],
+        [
+          "",
+          "2 through",
+          "",
+          "Any",
+          "",
+          ""
+        ],
+        [
+          "",
+          "12",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_305a3974ea409bc7",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 84,
+      "table_index": 0,
+      "bbox": [
+        72.38,
+        90.05,
+        539.83,
+        567.99
+      ],
+      "section_id": "b71679a974cb35d6",
+      "section_path": [
+        "Table A-2. Evidence Base for KQs"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-2. Evidence Base for KQs",
+      "context_before": null,
+      "footnote_candidates": [
+        "*Some papers address more than one KQ, and some studies are reported in more than one paper, therefore the total\nnumber for the evidence base is greater than the total number of includes in the study flow diagram and description.\nAbbreviations: KQ: key question; RCT: randomized controlled trial; SR: systematic review"
+      ],
+      "n_rows": 15,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.6417,
+      "header_row": [
+        "",
+        "KQ",
+        "",
+        "KQ",
+        "",
+        "",
+        "Number and",
+        ""
+      ],
+      "header_signature": "2b8af61f453f",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| KQ |  | KQ |  |  | Number and | \n | Number |  |  |  |  | Study Type | \n1 |  |  | What is the comparative effectiveness of different rehabilitation settings for patients with LLA? |  | 1 SR |  | \n2 |  |  | In patients with LLA, which prosthetic components (socket/interface, suspension system, knee, foot, ankle) optimize patient function, safety, and quality of life for the following amputation levels? a. Hip disarticulation; b. Knee disarticulation; c. Ankle disarticulation; d. Transtibial amputation; e. Transfemoral amputation; f. Partial foot amputation |  | 5 SRs 6 crossover RCTs in 7 publications |  | \n3 |  |  | For patients undergoing LLA, what neurostimulation or ablation interventions are effective for pain management and associated outcomes? |  | 3 RCTs in 4 publications |  | \n4 |  |  | Are behavioral health and psychosocial interventions effective in improving rehabilitation outcomes? |  | 1 SR 2 RCTs |  | \n5 |  |  | In patients with LLA, what initial or revision surgical interventions are effective in improving medical, surgical and rehabilitation (including prosthetic use) outcomes? |  | 1 RCT |  | \n6 |  |  | In patients with LLA who have skin and soft tissue complications, what is the effectiveness of dermatological and regenerative medicine approaches on outcomes? |  | 1 SR |  | \n7 |  |  | In patients with LLA, what preventive measures are effective in reducing the risk of further amputation of the affected limb or amputation of the second limb? |  | No studies identified |  | \n8 |  |  | What interventions improve intimacy and sexual health in patients who undergo a LLA? |  | No studies identified |  | \n9 |  |  | What is the effectiveness of different care team models on rehabilitation outcomes? |  | No studies identified |  | \n10 |  |  | In patients with LLA, what is the comparative effectiveness of specific rehabilitation interventions (all phases)? |  | 7 SRs 4 RCTs |  | \n11 |  |  | What factors need to be addressed specifically for female, transgender, and other sex identification living with LLA? What sex/transgender factors influence the rehabilitation outcomes? |  | 1 SR 1 Prospective Cohort |  | \n12 |  |  | For patients undergoing LLA, what pharmacologic interventions are effective for amputation-related limb pain management and associated outcomes in the post-operative periods? |  | 2 SRs 1 RCT |  | \n | Total Evidence Base |  |  |  |  | 38 papers* |",
+      "rows": [
+        [
+          "",
+          "KQ",
+          "",
+          "KQ",
+          "",
+          "",
+          "Number and",
+          ""
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          "",
+          "",
+          "Study Type",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "",
+          "What is the comparative effectiveness of different rehabilitation settings for patients with LLA?",
+          "",
+          "1 SR",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "",
+          "In patients with LLA, which prosthetic components (socket/interface, suspension system, knee, foot, ankle) optimize patient function, safety, and quality of life for the following amputation levels? a. Hip disarticulation; b. Knee disarticulation; c. Ankle disarticulation; d. Transtibial amputation; e. Transfemoral amputation; f. Partial foot amputation",
+          "",
+          "5 SRs 6 crossover RCTs in 7 publications",
+          "",
+          ""
+        ],
+        [
+          "3",
+          "",
+          "",
+          "For patients undergoing LLA, what neurostimulation or ablation interventions are effective for pain management and associated outcomes?",
+          "",
+          "3 RCTs in 4 publications",
+          "",
+          ""
+        ],
+        [
+          "4",
+          "",
+          "",
+          "Are behavioral health and psychosocial interventions effective in improving rehabilitation outcomes?",
+          "",
+          "1 SR 2 RCTs",
+          "",
+          ""
+        ],
+        [
+          "5",
+          "",
+          "",
+          "In patients with LLA, what initial or revision surgical interventions are effective in improving medical, surgical and rehabilitation (including prosthetic use) outcomes?",
+          "",
+          "1 RCT",
+          "",
+          ""
+        ],
+        [
+          "6",
+          "",
+          "",
+          "In patients with LLA who have skin and soft tissue complications, what is the effectiveness of dermatological and regenerative medicine approaches on outcomes?",
+          "",
+          "1 SR",
+          "",
+          ""
+        ],
+        [
+          "7",
+          "",
+          "",
+          "In patients with LLA, what preventive measures are effective in reducing the risk of further amputation of the affected limb or amputation of the second limb?",
+          "",
+          "No studies identified",
+          "",
+          ""
+        ],
+        [
+          "8",
+          "",
+          "",
+          "What interventions improve intimacy and sexual health in patients who undergo a LLA?",
+          "",
+          "No studies identified",
+          "",
+          ""
+        ],
+        [
+          "9",
+          "",
+          "",
+          "What is the effectiveness of different care team models on rehabilitation outcomes?",
+          "",
+          "No studies identified",
+          "",
+          ""
+        ],
+        [
+          "10",
+          "",
+          "",
+          "In patients with LLA, what is the comparative effectiveness of specific rehabilitation interventions (all phases)?",
+          "",
+          "7 SRs 4 RCTs",
+          "",
+          ""
+        ],
+        [
+          "11",
+          "",
+          "",
+          "What factors need to be addressed specifically for female, transgender, and other sex identification living with LLA? What sex/transgender factors influence the rehabilitation outcomes?",
+          "",
+          "1 SR 1 Prospective Cohort",
+          "",
+          ""
+        ],
+        [
+          "12",
+          "",
+          "",
+          "For patients undergoing LLA, what pharmacologic interventions are effective for amputation-related limb pain management and associated outcomes in the post-operative periods?",
+          "",
+          "2 SRs 1 RCT",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Total Evidence Base",
+          "",
+          "",
+          "",
+          "",
+          "38 papers*",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_91345558ed3065e9",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 86,
+      "table_index": 0,
+      "bbox": [
+        72.09,
+        304.51,
+        580.65,
+        480.83
+      ],
+      "section_id": "a8116c87569e25a3",
+      "section_path": [
+        "Table A-3. Bibliographic Database Information"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-3. Bibliographic Database Information",
+      "context_before": "Information regarding the bibliographic databases, date limits, and platform/provider can be found\nin Table A-5, below. Additional information on the search strategies, including topic-specific\nsearch terms and search strategies can be found in Appendix G.",
+      "footnote_candidates": [],
+      "n_rows": 10,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.6375,
+      "header_row": [
+        "Name",
+        "",
+        "",
+        "",
+        "Date Limits",
+        "",
+        "Platform/",
+        ""
+      ],
+      "header_signature": "b6ac46ffc7c0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Name |  |  |  | Date Limits |  | Platform/ | \n |  |  |  |  |  | Provider | \nBibliographic Databases |  |  | The Cochrane Database of Systematic Reviews (Cochrane Reviews) | July 6, 2016, through March 15, 2024 | Wiley |  | \n |  |  | CINAHL | July 6, 2016, through March 15, 2024 | Wiley |  | \n |  |  | EMBASE (Excerpta Medica) | July 6, 2016, through March 15, 2024 | Elsevier |  | \n |  |  | MEDLINE/PreMEDLINE | July 6, 2016, through March 15, 2024 | Elsevier |  | \n |  |  | PsycINFO | July 6, 2016, through March 15, 2024 | OVIDSP |  | \n | Gray |  | PubMed (In-process and Publisher records) | July 6, 2016, through March 15, 2024 | NLM |  | \n | Literature |  | AHRQ | July 6, 2016, through March 15, 2024 | AHRQ |  | \n | Resources |  |  |  |  |  |",
+      "rows": [
+        [
+          "Name",
+          "",
+          "",
+          "",
+          "Date Limits",
+          "",
+          "Platform/",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Provider",
+          ""
+        ],
+        [
+          "Bibliographic Databases",
+          "",
+          "",
+          "The Cochrane Database of Systematic Reviews (Cochrane Reviews)",
+          "July 6, 2016, through March 15, 2024",
+          "Wiley",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "CINAHL",
+          "July 6, 2016, through March 15, 2024",
+          "Wiley",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "EMBASE (Excerpta Medica)",
+          "July 6, 2016, through March 15, 2024",
+          "Elsevier",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "MEDLINE/PreMEDLINE",
+          "July 6, 2016, through March 15, 2024",
+          "Elsevier",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "PsycINFO",
+          "July 6, 2016, through March 15, 2024",
+          "OVIDSP",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Gray",
+          "",
+          "PubMed (In-process and Publisher records)",
+          "July 6, 2016, through March 15, 2024",
+          "NLM",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Literature",
+          "",
+          "AHRQ",
+          "July 6, 2016, through March 15, 2024",
+          "AHRQ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Resources",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_0cd59d21ce260829",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 89,
+      "table_index": 0,
+      "bbox": [
+        72.3,
+        90.04,
+        539.82,
+        566.95
+      ],
+      "section_id": "de8d6fc914b042e9",
+      "section_path": [
+        "Table A-4. GRADE Evidence to Recommendation Framework"
+      ],
+      "heading_level": 1,
+      "caption": "Table A-4. GRADE Evidence to Recommendation Framework",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.4667,
+      "header_row": [
+        "",
+        "Decision",
+        "",
+        "Questions to Consider",
+        "Judgement"
+      ],
+      "header_signature": "e2949e1dbe5c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Decision |  | Questions to Consider | Judgement\n | Domain |  |  | \nBalance of desirable and undesirable outcomes |  |  |  What is the magnitude of the anticipated desirable outcomes?  What is the magnitude of the anticipated undesirable outcomes?  Given the best estimate of typical values and preferences, are you confident that benefits outweigh harms/burdens or vice versa? |  Benefits outweigh harms/burdens  Benefits slightly outweigh harms/burdens  Benefits and harms/burden are balanced  Harms/burden slightly outweigh benefits  Harms/burden outweigh benefits\nConfidence in the quality of evidence |  |  |  Among the designated critical outcomes, what is the lowest quality of relevant evidence?  How unlikely is further research to change the confidence in the estimate of effect? |  High  Moderate  Low  Very low\nPatient values and preferences |  |  |  Are you confident about the typical values and preferences and are they similar across the target population?  What are the patient’s values and preferences?  Are the assumed or identified relative values similar across the target population? |  Similar values  Some variation  Large variation\nOther implications (e.g. resource use, equity, acceptability, feasibility, subgroup considerations) |  |  |  Are the resources worth the expected net benefit from the recommendation?  What are the costs per resource unit?  Is this intervention generally available?  Is this intervention and its effects worth withdrawing or not allocating resources from other interventions?  Is there lots of variability in resource requirements across settings? | Various considerations",
+      "rows": [
+        [
+          "",
+          "Decision",
+          "",
+          "Questions to Consider",
+          "Judgement"
+        ],
+        [
+          "",
+          "Domain",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Balance of desirable and undesirable outcomes",
+          "",
+          "",
+          " What is the magnitude of the anticipated desirable outcomes?  What is the magnitude of the anticipated undesirable outcomes?  Given the best estimate of typical values and preferences, are you confident that benefits outweigh harms/burdens or vice versa?",
+          " Benefits outweigh harms/burdens  Benefits slightly outweigh harms/burdens  Benefits and harms/burden are balanced  Harms/burden slightly outweigh benefits  Harms/burden outweigh benefits"
+        ],
+        [
+          "Confidence in the quality of evidence",
+          "",
+          "",
+          " Among the designated critical outcomes, what is the lowest quality of relevant evidence?  How unlikely is further research to change the confidence in the estimate of effect?",
+          " High  Moderate  Low  Very low"
+        ],
+        [
+          "Patient values and preferences",
+          "",
+          "",
+          " Are you confident about the typical values and preferences and are they similar across the target population?  What are the patient’s values and preferences?  Are the assumed or identified relative values similar across the target population?",
+          " Similar values  Some variation  Large variation"
+        ],
+        [
+          "Other implications (e.g. resource use, equity, acceptability, feasibility, subgroup considerations)",
+          "",
+          "",
+          " Are the resources worth the expected net benefit from the recommendation?  What are the costs per resource unit?  Is this intervention generally available?  Is this intervention and its effects worth withdrawing or not allocating resources from other interventions?  Is there lots of variability in resource requirements across settings?",
+          "Various considerations"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ffe13b5276ed4f07",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 92,
+      "table_index": 0,
+      "bbox": [
+        72.28,
+        116.19,
+        719.82,
+        372.79
+      ],
+      "section_id": "ff747f1db90a2840",
+      "section_path": [
+        "Appendix B: Evidence Table"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Appendix B: Evidence Table",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.4286,
+      "header_row": [
+        "#",
+        "Recommendation",
+        "2017 Strength of Recommendation1",
+        "Evidence2",
+        "2024 Strength of Recommendation3",
+        "",
+        "2024",
+        ""
+      ],
+      "header_signature": "41cf00a18c86",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "# | Recommendation | 2017 Strength of Recommendation1 | Evidence2 | 2024 Strength of Recommendation3 |  | 2024 | \n |  |  |  |  |  | Recommendation | \n |  |  |  |  |  | Category4 | \n1. | There is insufficient evidence to recommend one surgical computation procedure over another. | Very low | Additional References (61-66) | Neither for nor against | Not reviewed, Not changed |  | \n2. | For patients with transfemoral amputation who meet eligibility criteria, we suggest osseointegration as an option to improve prosthesis use. | Not applicable | (67,69) Additional Reference (68) | Weak for | Reviewed, Newadded |  | \n3. | There is insufficient evidence to recommend for or against targeted muscle reinnervation or other peripheral nerve surgical management for phantom limb pain. | Not applicable | (72) Additional References (70,71) | Neither for nor against | Reviewed, Newadded |  | \n4. | We suggest intraoperative placement of a perineural catheter for the post-operative delivery of local anesthetic to reduce pain following amputation surgery. | Not applicable | (73-77) | Weak for | Reviewed, Newadded |  |",
+      "rows": [
+        [
+          "#",
+          "Recommendation",
+          "2017 Strength of Recommendation1",
+          "Evidence2",
+          "2024 Strength of Recommendation3",
+          "",
+          "2024",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Recommendation",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Category4",
+          ""
+        ],
+        [
+          "1.",
+          "There is insufficient evidence to recommend one surgical computation procedure over another.",
+          "Very low",
+          "Additional References (61-66)",
+          "Neither for nor against",
+          "Not reviewed, Not changed",
+          "",
+          ""
+        ],
+        [
+          "2.",
+          "For patients with transfemoral amputation who meet eligibility criteria, we suggest osseointegration as an option to improve prosthesis use.",
+          "Not applicable",
+          "(67,69) Additional Reference (68)",
+          "Weak for",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "3.",
+          "There is insufficient evidence to recommend for or against targeted muscle reinnervation or other peripheral nerve surgical management for phantom limb pain.",
+          "Not applicable",
+          "(72) Additional References (70,71)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "4.",
+          "We suggest intraoperative placement of a perineural catheter for the post-operative delivery of local anesthetic to reduce pain following amputation surgery.",
+          "Not applicable",
+          "(73-77)",
+          "Weak for",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_5305a18849510df4",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 95,
+      "table_index": 0,
+      "bbox": [
+        72.27,
+        72.39,
+        719.83,
+        537.52
+      ],
+      "section_id": "896d567370cfc2cd",
+      "section_path": [
+        "Additional References"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 10,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.375,
+      "header_row": [
+        "#",
+        "Recommendation",
+        "2017 Strength of Recommendation1",
+        "Evidence2",
+        "2024 Strength of Recommendation3",
+        "",
+        "2024",
+        ""
+      ],
+      "header_signature": "41cf00a18c86",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "# | Recommendation | 2017 Strength of Recommendation1 | Evidence2 | 2024 Strength of Recommendation3 |  | 2024 | \n |  |  |  |  |  | Recommendation | \n |  |  |  |  |  | Category4 | \n20. | We suggest using patient-reported and performance-based measures with acceptable psychometric properties to assess function. | Weak for | (83,159,161,162,164,16 5) Additional References (162,163) | Weak for | Not reviewed, Amended |  | \n21. | There is insufficient evidence to recommend for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions for the management of phantom limb pain or residual limb pain. | Not applicable | (166-169,201) Additional References (170) | Neither for nor against | Reviewed, Newadded |  | \n22. | We suggest perineural catheter delivered anesthetic for the treatment of chronic severe phantom limb pain with functional impairment. | Not applicable | (171) | Weak for | Reviewed, Newadded |  | \n23. | There is insufficient evidence to recommend for or against any systemic pharmacologic intervention for the management of phantom limb pain. | Not applicable | (172) Additional References (173-180) | Neither for nor against | Reviewed, Newadded |  | \n24. | For prosthesis users with hyperhidrosis, there is insufficient evidence to recommend for or against Botulinum toxin treatment to reduce sweat production, improve prosthetic function, reduce pain, and improve quality of life. | Not applicable | (183) Additional References (181,182,184) | Neither for nor against | Reviewed, Newadded |  | \n25. | There was insufficient evidence to recommend for or against strategies to prevent re-amputation of the ipsilateral limb or amputation of the contralateral limb. | Not applicable | Additional References (185-188) | Neither for nor against | Reviewed, Newadded |  | \n26. | There is insufficient evidence to recommend for or against any specific | Not applicable | Additional References (189-195) | Neither for nor against | Reviewed, Newadded |  |",
+      "rows": [
+        [
+          "#",
+          "Recommendation",
+          "2017 Strength of Recommendation1",
+          "Evidence2",
+          "2024 Strength of Recommendation3",
+          "",
+          "2024",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Recommendation",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Category4",
+          ""
+        ],
+        [
+          "20.",
+          "We suggest using patient-reported and performance-based measures with acceptable psychometric properties to assess function.",
+          "Weak for",
+          "(83,159,161,162,164,16 5) Additional References (162,163)",
+          "Weak for",
+          "Not reviewed, Amended",
+          "",
+          ""
+        ],
+        [
+          "21.",
+          "There is insufficient evidence to recommend for or against neurostimulation (e.g., peripheral nerve stimulation, or spinal cord stimulation) or neuroablation (e.g., cryoneurolysis, radio frequency ablation) interventions for the management of phantom limb pain or residual limb pain.",
+          "Not applicable",
+          "(166-169,201) Additional References (170)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "22.",
+          "We suggest perineural catheter delivered anesthetic for the treatment of chronic severe phantom limb pain with functional impairment.",
+          "Not applicable",
+          "(171)",
+          "Weak for",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "23.",
+          "There is insufficient evidence to recommend for or against any systemic pharmacologic intervention for the management of phantom limb pain.",
+          "Not applicable",
+          "(172) Additional References (173-180)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "24.",
+          "For prosthesis users with hyperhidrosis, there is insufficient evidence to recommend for or against Botulinum toxin treatment to reduce sweat production, improve prosthetic function, reduce pain, and improve quality of life.",
+          "Not applicable",
+          "(183) Additional References (181,182,184)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "25.",
+          "There was insufficient evidence to recommend for or against strategies to prevent re-amputation of the ipsilateral limb or amputation of the contralateral limb.",
+          "Not applicable",
+          "Additional References (185-188)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ],
+        [
+          "26.",
+          "There is insufficient evidence to recommend for or against any specific",
+          "Not applicable",
+          "Additional References (189-195)",
+          "Neither for nor against",
+          "Reviewed, Newadded",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e5afbc783f7efb2a",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 123,
+      "table_index": 0,
+      "bbox": [
+        67.64,
+        193.74,
+        544.57,
+        718.06
+      ],
+      "section_id": "5f7816d3ed9fe59a",
+      "section_path": [
+        "Table G-1. Concept Tables PubMed and EMBASE"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-1. Concept Tables PubMed and EMBASE",
+      "context_before": "The search strategies employed combinations of free-text keywords as well as controlled\nvocabulary terms including (but not limited to) the following concepts. Strategies for each\nbibliographic database follow this table.",
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 9,
+      "empty_cell_ratio": 0.6667,
+      "header_row": [
+        "",
+        "Concept",
+        "",
+        "",
+        "Controlled Vocabulary",
+        "",
+        "",
+        "Keywords",
+        ""
+      ],
+      "header_signature": "089abe9d1468",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Concept |  |  | Controlled Vocabulary |  |  | Keywords | \nAmputation |  |  | EMBASE (EMTREE) amputee above knee amputation amputation below knee amputation disarticulation foot amputation hemicorporectomy hemipelvectomy knee amputation leg amputation limb amputation traumatic amputation PubMed (MeSH) amputees amputation, traumatic amputation stumps amputation, surgical disarticulation hemipelvectomy |  |  | amputat* Chopart disarticulation exarticulation hemicorporectomy hemipelvectomy limb loss Lisfranc Syme* *word variations have been searched |  | \nAmputation Site |  |  | EMBASE (EMTREE) amputation stump ankle bones of the leg and foot femur fibula foot foot bone hallux hip joint knee leg |  |  | knee* leg legs lower limb* lower extremit* metatarsophalangeal metatars* partial foot patella* phalange* residual limb* supracondylar tansmetatarsal tarsal* |  |",
+      "rows": [
+        [
+          "",
+          "Concept",
+          "",
+          "",
+          "Controlled Vocabulary",
+          "",
+          "",
+          "Keywords",
+          ""
+        ],
+        [
+          "Amputation",
+          "",
+          "",
+          "EMBASE (EMTREE) amputee above knee amputation amputation below knee amputation disarticulation foot amputation hemicorporectomy hemipelvectomy knee amputation leg amputation limb amputation traumatic amputation PubMed (MeSH) amputees amputation, traumatic amputation stumps amputation, surgical disarticulation hemipelvectomy",
+          "",
+          "",
+          "amputat* Chopart disarticulation exarticulation hemicorporectomy hemipelvectomy limb loss Lisfranc Syme* *word variations have been searched",
+          "",
+          ""
+        ],
+        [
+          "Amputation Site",
+          "",
+          "",
+          "EMBASE (EMTREE) amputation stump ankle bones of the leg and foot femur fibula foot foot bone hallux hip joint knee leg",
+          "",
+          "",
+          "knee* leg legs lower limb* lower extremit* metatarsophalangeal metatars* partial foot patella* phalange* residual limb* supracondylar tansmetatarsal tarsal*",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_793be1e865b8df21",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 133,
+      "table_index": 0,
+      "bbox": [
+        67.66,
+        72.4,
+        544.54,
+        487.99
+      ],
+      "section_id": "225104a9b16c3ffa",
+      "section_path": [
+        "Concept\nControlled Vocabulary\nKeywords\nKQ11 Gender\nEMBASE (EMTREE)\nmale to female transgender\ngender nonbinary\nPubMed (MeSH)\ntransgender persons"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 9,
+      "empty_cell_ratio": 0.6667,
+      "header_row": [
+        "",
+        "Concept",
+        "",
+        "",
+        "Controlled Vocabulary",
+        "",
+        "",
+        "Keywords",
+        ""
+      ],
+      "header_signature": "089abe9d1468",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Concept |  |  | Controlled Vocabulary |  |  | Keywords | \nKQ 12 Pharmacological |  |  | EMBASE (EMTREE) amitriptyline botulinum toxin A' capsaicin carbamazepine citalopram clonidine codeine corticosteroid' dronabinol duloxetine epidural drug administration escitalopram fluoxetine' gabapentin ketamine morphine nortriptyline opiate pregabalin serotonin noradrenalin reuptake inhibitor serotonin uptake inhibitor tramadol PubMed (MeSH) Injections, epidural nerve block |  |  | amitriptyline botox injection* botulinum injection* capsaicin carbamazepine citalopram clonidine codeine corticosteroid injection* dronabinol duloxetine epidural injection* escitalopram fluoxetine gabapentin hydrocodone hydomorphone ketamine morphine nerve block* neuroma injection* nortriptyline oxycodone peripheral nerve injection* pregabalin qutenza patch tramadol |  |",
+      "rows": [
+        [
+          "",
+          "Concept",
+          "",
+          "",
+          "Controlled Vocabulary",
+          "",
+          "",
+          "Keywords",
+          ""
+        ],
+        [
+          "KQ 12 Pharmacological",
+          "",
+          "",
+          "EMBASE (EMTREE) amitriptyline botulinum toxin A' capsaicin carbamazepine citalopram clonidine codeine corticosteroid' dronabinol duloxetine epidural drug administration escitalopram fluoxetine' gabapentin ketamine morphine nortriptyline opiate pregabalin serotonin noradrenalin reuptake inhibitor serotonin uptake inhibitor tramadol PubMed (MeSH) Injections, epidural nerve block",
+          "",
+          "",
+          "amitriptyline botox injection* botulinum injection* capsaicin carbamazepine citalopram clonidine codeine corticosteroid injection* dronabinol duloxetine epidural injection* escitalopram fluoxetine gabapentin hydrocodone hydomorphone ketamine morphine nerve block* neuroma injection* nortriptyline oxycodone peripheral nerve injection* pregabalin qutenza patch tramadol",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f6535c39c9b5f2e2",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 133,
+      "table_index": 1,
+      "bbox": [
+        72.24,
+        544.24,
+        539.88,
+        718.06
+      ],
+      "section_id": "3b06a4eefaeb4a04",
+      "section_path": [
+        "Table G-2. EMBASE"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-2. EMBASE",
+      "context_before": "B. Search Strategies",
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n1 |  |  | Amputation | ('amputation'/exp OR 'amputation stump'/exp OR 'disarticulation'/exp OR 'hemicorporectomy'/exp OR 'hemipelvectomy'/exp OR amputation:ti,ab OR chopart:ti,ab OR disarticulation:ti,ab OR exarticulation:ti,ab OR hemicorporectomy:ti,ab OR hemipelvectomy:ti,ab OR 'limb loss':ti,ab OR lisfranc:ti,ab OR syme:ti,ab) AND [humans]/lim AND [english]/lim AND [2016-2024]/py\n2 |  |  | Amputation Sites | ('amputation stump'/exp OR 'ankle'/exp OR 'bones of the leg and foot'/exp OR 'femur'/exp OR 'fibula'/exp OR 'foot'/exp OR 'foot bone'/exp OR 'hallux'/exp OR 'hip joint'/exp OR 'knee'/exp OR 'leg'/exp OR 'leg bone'/exp OR 'lower limb'/exp OR 'metatarsal bone'/exp OR 'patella'/exp OR 'tarsal bone'/exp OR 'tarsometatarsal joint'/exp OR 'tibia'/exp OR 'toe'/exp OR 'toe phalanx'/exp OR 'above knee':ti,ab OR 'above the knee':ti,ab OR 'amputation stump':ti,ab OR ankle*:ti,ab OR 'below knee':ti,ab OR 'below",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "",
+          "Amputation",
+          "('amputation'/exp OR 'amputation stump'/exp OR 'disarticulation'/exp OR 'hemicorporectomy'/exp OR 'hemipelvectomy'/exp OR amputation:ti,ab OR chopart:ti,ab OR disarticulation:ti,ab OR exarticulation:ti,ab OR hemicorporectomy:ti,ab OR hemipelvectomy:ti,ab OR 'limb loss':ti,ab OR lisfranc:ti,ab OR syme:ti,ab) AND [humans]/lim AND [english]/lim AND [2016-2024]/py"
+        ],
+        [
+          "2",
+          "",
+          "",
+          "Amputation Sites",
+          "('amputation stump'/exp OR 'ankle'/exp OR 'bones of the leg and foot'/exp OR 'femur'/exp OR 'fibula'/exp OR 'foot'/exp OR 'foot bone'/exp OR 'hallux'/exp OR 'hip joint'/exp OR 'knee'/exp OR 'leg'/exp OR 'leg bone'/exp OR 'lower limb'/exp OR 'metatarsal bone'/exp OR 'patella'/exp OR 'tarsal bone'/exp OR 'tarsometatarsal joint'/exp OR 'tibia'/exp OR 'toe'/exp OR 'toe phalanx'/exp OR 'above knee':ti,ab OR 'above the knee':ti,ab OR 'amputation stump':ti,ab OR ankle*:ti,ab OR 'below knee':ti,ab OR 'below"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_270c466d70368df1",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 136,
+      "table_index": 0,
+      "bbox": [
+        72.31,
+        72.37,
+        539.81,
+        384.77
+      ],
+      "section_id": "3b06a4eefaeb4a04",
+      "section_path": [
+        "Table G-2. EMBASE"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.56,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n |  |  |  | 'botulinum injection*':ti,ab OR capsaicin:ti,ab OR carbamazepine:ti,ab OR citalopram:ti,ab OR clonidine:ti,ab OR codeine:ti,ab OR 'corticosteriod injection*':ti,ab OR dextromethorphan:ti,ab OR diclofenac:ti,ab OR dronabinol:ti,ab OR duloxetine:ti,ab OR 'epidural injection*':ti,ab OR escitalopram:ti,ab OR fluoxetine:ti,ab OR hydrocodone:ti,ab OR gabapentin:ti,ab OR hydromorphone:ti,ab OR ketamine:ti,ab OR memantine:ti,ab OR mexiletine:ti,ab OR morphine:ti,ab OR 'nerve block*':ti,ab OR 'neuroma injection':ti,ab OR nortriptyline:ti,ab OR oxycodone:ti,ab OR 'peripheral nerve injection':ti,ab OR pregabalin:ti,ab OR 'quentenza patch':ti,ab OR tramadol:ti,ab\n18 |  |  | Exclude Publication Types | 'editorial'/exp OR 'letter'/exp OR 'medical illustration'/exp OR 'book'/exp OR 'poster'/exp OR 'conference abstract'/exp OR 'conference paper'/exp OR 'conferences and congresses'/exp OR 'conference review'/exp OR 'erratum'/exp OR 'symposium'/exp OR 'short survey'/exp OR 'note'/exp OR 'chapter'/it OR 'conference abstract'/it OR 'conference paper'/it OR 'editorial'/it OR 'letter'/it OR 'note'/it OR 'review'/it OR 'short survey'/it OR abstract:nc OR annual:nc OR conference:nc OR 'conference proceeding':pt OR 'conference review':it OR congress:nc OR meeting:nc OR sessions:nc OR symposium:nc OR [conference abstract]/lim OR [conference paper]/lim OR [conference review]/lim OR [editorial]/lim OR [letter]/lim OR [note]/lim OR [short survey]/lim OR comment:ti OR book:pt OR comment:ab,ti OR annual:ab,ti OR 'conference proceeding':ab,ti OR note:ab,ti OR meeting:ab,ti OR sessions:ab,ti OR 'short survey':ab,ti\n19 |  |  | Combine Sets | #3 AND (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17) NOT #18",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "'botulinum injection*':ti,ab OR capsaicin:ti,ab OR carbamazepine:ti,ab OR citalopram:ti,ab OR clonidine:ti,ab OR codeine:ti,ab OR 'corticosteriod injection*':ti,ab OR dextromethorphan:ti,ab OR diclofenac:ti,ab OR dronabinol:ti,ab OR duloxetine:ti,ab OR 'epidural injection*':ti,ab OR escitalopram:ti,ab OR fluoxetine:ti,ab OR hydrocodone:ti,ab OR gabapentin:ti,ab OR hydromorphone:ti,ab OR ketamine:ti,ab OR memantine:ti,ab OR mexiletine:ti,ab OR morphine:ti,ab OR 'nerve block*':ti,ab OR 'neuroma injection':ti,ab OR nortriptyline:ti,ab OR oxycodone:ti,ab OR 'peripheral nerve injection':ti,ab OR pregabalin:ti,ab OR 'quentenza patch':ti,ab OR tramadol:ti,ab"
+        ],
+        [
+          "18",
+          "",
+          "",
+          "Exclude Publication Types",
+          "'editorial'/exp OR 'letter'/exp OR 'medical illustration'/exp OR 'book'/exp OR 'poster'/exp OR 'conference abstract'/exp OR 'conference paper'/exp OR 'conferences and congresses'/exp OR 'conference review'/exp OR 'erratum'/exp OR 'symposium'/exp OR 'short survey'/exp OR 'note'/exp OR 'chapter'/it OR 'conference abstract'/it OR 'conference paper'/it OR 'editorial'/it OR 'letter'/it OR 'note'/it OR 'review'/it OR 'short survey'/it OR abstract:nc OR annual:nc OR conference:nc OR 'conference proceeding':pt OR 'conference review':it OR congress:nc OR meeting:nc OR sessions:nc OR symposium:nc OR [conference abstract]/lim OR [conference paper]/lim OR [conference review]/lim OR [editorial]/lim OR [letter]/lim OR [note]/lim OR [short survey]/lim OR comment:ti OR book:pt OR comment:ab,ti OR annual:ab,ti OR 'conference proceeding':ab,ti OR note:ab,ti OR meeting:ab,ti OR sessions:ab,ti OR 'short survey':ab,ti"
+        ],
+        [
+          "19",
+          "",
+          "",
+          "Combine Sets",
+          "#3 AND (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17) NOT #18"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_fc0e38ccb602f29b",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 136,
+      "table_index": 1,
+      "bbox": [
+        72.31,
+        413.1,
+        539.81,
+        713.98
+      ],
+      "section_id": "987cf04e6d037737",
+      "section_path": [
+        "Table G-3. PubMed"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-3. PubMed",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.48,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n1 |  |  | Amputation | \"Amputation Stumps\"[Mesh] OR \"Amputation, Surgical\"[Mesh] OR \"Disarticulation\"[Mesh] OR \"Hemipelvectomy\"[Mesh] OR amputation[tiab] OR chopart[tiab] OR disarticulation[tiab] OR exarticulation[tiab] OR hemicorporectomy[tiab] OR hemipelvectomy[tiab] OR \"limb loss\"[tiab] OR lisfranc[tiab] OR syme[tiab]\n2 |  |  | Amputation Sites | \"Ankle\"[Mesh] OR \"Femur\"[Mesh] OR \"Fibula\"[Mesh] OR \"Foot\"[Mesh] OR \"Foot Joints\"[Mesh] OR \"Foot Bones\"[Mesh] OR \"Hallux\"[Mesh] OR \"Hip\"[Mesh] OR \"Hip Joint\"[Mesh] OR \"Leg\"[Mesh] OR \"Leg Bones\"[Mesh] OR \"Lower Extremity\"[Mesh] OR \"Metatarsal Bones\"[Mesh] OR \"Patella\"[Mesh] OR \"Tarsal Joints\"[Mesh] OR \"Tarsal Bones\"[Mesh] OR \"Tibia\"[Mesh] OR \"above knee\"[tiab] OR \"above the knee\"[tiab] OR \"amputation stump\"[tiab] OR ankle*[tiab] OR \"below knee\"[tiab] OR \"below the knee\"[tiab] OR bilateral[tiab] OR condyle*[tiab] OR extremit*[tiab] OR feet[tiab] OR femur*[tiab] OR fibula*[tiab] OR foot[tiab] OR hallu*[tiab] OR hip[tiab] OR hips[tiab] OR knee*[tiab] OR leg[tiab] OR legs[tiab] OR \"lower limb*\"[tiab] OR \"lower extremit*\"[tiab] OR metatarsophalangeal[tiab] OR metatars*[tiab] OR \"partial foot\"[tiab] OR patella*[tiab] OR phalange*[tiab] OR \"residual limb*\"[tiab] OR supracondylar[tiab] OR tarsal*[tiab] OR tarsometatarsal[tiab] OR thigh*[tiab] OR \"through knee\"[tiab] OR \"through the knee\"[tiab] OR tibia*[tiab] OR toe[tiab] OR toes[tiab] OR transcondylar[tiab] OR transfemoral[tiab] OR transmalleolar[tiab] OR transmetatarsal[tiab] OR transtarsal[tiab] OR transtibial[tiab] OR unilateral[tiab]\n3 |  |  | Combine Sets | #1 AND #2",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "1",
+          "",
+          "",
+          "Amputation",
+          "\"Amputation Stumps\"[Mesh] OR \"Amputation, Surgical\"[Mesh] OR \"Disarticulation\"[Mesh] OR \"Hemipelvectomy\"[Mesh] OR amputation[tiab] OR chopart[tiab] OR disarticulation[tiab] OR exarticulation[tiab] OR hemicorporectomy[tiab] OR hemipelvectomy[tiab] OR \"limb loss\"[tiab] OR lisfranc[tiab] OR syme[tiab]"
+        ],
+        [
+          "2",
+          "",
+          "",
+          "Amputation Sites",
+          "\"Ankle\"[Mesh] OR \"Femur\"[Mesh] OR \"Fibula\"[Mesh] OR \"Foot\"[Mesh] OR \"Foot Joints\"[Mesh] OR \"Foot Bones\"[Mesh] OR \"Hallux\"[Mesh] OR \"Hip\"[Mesh] OR \"Hip Joint\"[Mesh] OR \"Leg\"[Mesh] OR \"Leg Bones\"[Mesh] OR \"Lower Extremity\"[Mesh] OR \"Metatarsal Bones\"[Mesh] OR \"Patella\"[Mesh] OR \"Tarsal Joints\"[Mesh] OR \"Tarsal Bones\"[Mesh] OR \"Tibia\"[Mesh] OR \"above knee\"[tiab] OR \"above the knee\"[tiab] OR \"amputation stump\"[tiab] OR ankle*[tiab] OR \"below knee\"[tiab] OR \"below the knee\"[tiab] OR bilateral[tiab] OR condyle*[tiab] OR extremit*[tiab] OR feet[tiab] OR femur*[tiab] OR fibula*[tiab] OR foot[tiab] OR hallu*[tiab] OR hip[tiab] OR hips[tiab] OR knee*[tiab] OR leg[tiab] OR legs[tiab] OR \"lower limb*\"[tiab] OR \"lower extremit*\"[tiab] OR metatarsophalangeal[tiab] OR metatars*[tiab] OR \"partial foot\"[tiab] OR patella*[tiab] OR phalange*[tiab] OR \"residual limb*\"[tiab] OR supracondylar[tiab] OR tarsal*[tiab] OR tarsometatarsal[tiab] OR thigh*[tiab] OR \"through knee\"[tiab] OR \"through the knee\"[tiab] OR tibia*[tiab] OR toe[tiab] OR toes[tiab] OR transcondylar[tiab] OR transfemoral[tiab] OR transmalleolar[tiab] OR transmetatarsal[tiab] OR transtarsal[tiab] OR transtibial[tiab] OR unilateral[tiab]"
+        ],
+        [
+          "3",
+          "",
+          "",
+          "Combine Sets",
+          "#1 AND #2"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_3098cc413e0dab22",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 139,
+      "table_index": 0,
+      "bbox": [
+        72.31,
+        72.37,
+        539.82,
+        234.74
+      ],
+      "section_id": "b7402803848ac086",
+      "section_path": [
+        "Set\nNumber\nConcept\nSearch Statement\n4\nRehabilitation\nSettings"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.6,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n |  |  |  | OR \"dogs\"[Title/Abstract] OR \"monkey*\"[Title/Abstract] OR \"ape\"[Title/Abstract] OR \"apes\"[Title/Abstract] OR \"annual\"[Title/Abstract] OR \"book\"[Title/Abstract] OR \"conference\"[Title/Abstract] OR \"conference abstract\"[Title/Abstract] OR \"conference paper\"[Title/Abstract] OR \"conference proceeding\"[Title/Abstract] OR \"conference review\"[Title/Abstract] OR \"congress\"[Title/Abstract] OR \"editorial\"[Title/Abstract] OR \"erratum\"[Title/Abstract] OR \"letter\"[Title/Abstract] OR \"note\"[Title/Abstract] OR \"meeting\"[Title/Abstract] OR \"sessions\"[Title/Abstract] OR \"short survey\"[Title/Abstract] OR \"symposium\"[Title/Abstract]\n19 |  |  | Combine Sets | (#3 AND (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17)) NOT #18",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "OR \"dogs\"[Title/Abstract] OR \"monkey*\"[Title/Abstract] OR \"ape\"[Title/Abstract] OR \"apes\"[Title/Abstract] OR \"annual\"[Title/Abstract] OR \"book\"[Title/Abstract] OR \"conference\"[Title/Abstract] OR \"conference abstract\"[Title/Abstract] OR \"conference paper\"[Title/Abstract] OR \"conference proceeding\"[Title/Abstract] OR \"conference review\"[Title/Abstract] OR \"congress\"[Title/Abstract] OR \"editorial\"[Title/Abstract] OR \"erratum\"[Title/Abstract] OR \"letter\"[Title/Abstract] OR \"note\"[Title/Abstract] OR \"meeting\"[Title/Abstract] OR \"sessions\"[Title/Abstract] OR \"short survey\"[Title/Abstract] OR \"symposium\"[Title/Abstract]"
+        ],
+        [
+          "19",
+          "",
+          "",
+          "Combine Sets",
+          "(#3 AND (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17)) NOT #18"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_d2a47fbd924d0953",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 139,
+      "table_index": 1,
+      "bbox": [
+        72.31,
+        263.11,
+        539.82,
+        714.46
+      ],
+      "section_id": "40a0e7747a84faa3",
+      "section_path": [
+        "Table G-4. CINAHL"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-4. CINAHL",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.4857,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n |  |  | Limits | Limiters - Publication Date: 20160101-20240331; Peer Reviewed; Human; Language: English\n1 |  |  | Amputation | TI ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR AB ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR MM ( \"Amputation Stumps\" OR \"Amputation, Surgical\" OR \"Disarticulation\" OR \"Hemipelvectomy\" )\n2 |  |  | Amputation Sites | TI ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR AB ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR MM ( \"Ankle\" OR \"Femur\" OR \"Fibula\" OR \"Foot\" OR \"Foot Joints\" OR \"Foot Bones\" OR \"Hallux\" OR \"Hip\" OR \"Hip Joint\" OR \"Leg\" OR \"Leg Bones\" OR \"Lower Extremity\" OR \"Metatarsal Bones\" OR \"Patella\" OR \"Tarsal Joints\" OR \"Tarsal Bones\" OR \"Tibia\" )\n3 |  |  | Rehabilitation Settings | TI ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR AB ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR MM ( \"Rehabilitation\" AND \"Ambulatory Care\" )\n4 |  |  | Rehabilitation Interventions | TI ( ((ambulation OR mobility) N/2 training) OR \"activities of daily living\" OR \"augmented reality\" OR \"balance training\" OR \"electromagnetic",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Limits",
+          "Limiters - Publication Date: 20160101-20240331; Peer Reviewed; Human; Language: English"
+        ],
+        [
+          "1",
+          "",
+          "",
+          "Amputation",
+          "TI ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR AB ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR MM ( \"Amputation Stumps\" OR \"Amputation, Surgical\" OR \"Disarticulation\" OR \"Hemipelvectomy\" )"
+        ],
+        [
+          "2",
+          "",
+          "",
+          "Amputation Sites",
+          "TI ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR AB ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR MM ( \"Ankle\" OR \"Femur\" OR \"Fibula\" OR \"Foot\" OR \"Foot Joints\" OR \"Foot Bones\" OR \"Hallux\" OR \"Hip\" OR \"Hip Joint\" OR \"Leg\" OR \"Leg Bones\" OR \"Lower Extremity\" OR \"Metatarsal Bones\" OR \"Patella\" OR \"Tarsal Joints\" OR \"Tarsal Bones\" OR \"Tibia\" )"
+        ],
+        [
+          "3",
+          "",
+          "",
+          "Rehabilitation Settings",
+          "TI ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR AB ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR MM ( \"Rehabilitation\" AND \"Ambulatory Care\" )"
+        ],
+        [
+          "4",
+          "",
+          "",
+          "Rehabilitation Interventions",
+          "TI ( ((ambulation OR mobility) N/2 training) OR \"activities of daily living\" OR \"augmented reality\" OR \"balance training\" OR \"electromagnetic"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b31aa109776efa6a",
+      "doc_name": "2024 VA_DOD,LOWER LIMB AMPUTATION.pdf",
+      "doc_family": "VA_DOD",
+      "doc_family_source": "filename_rule",
+      "organization": "VA/DoD",
+      "year": 2024,
+      "page": 141,
+      "table_index": 0,
+      "bbox": [
+        72.29,
+        90.04,
+        539.83,
+        714.46
+      ],
+      "section_id": "a713beb422a50146",
+      "section_path": [
+        "Table G-5. PsychINFO"
+      ],
+      "heading_level": 1,
+      "caption": "Table G-5. PsychINFO",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.475,
+      "header_row": [
+        "",
+        "Set",
+        "",
+        "Concept",
+        "Search Statement"
+      ],
+      "header_signature": "94b6130a9808",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Set |  | Concept | Search Statement\n | Number |  |  | \n |  |  | Limits | Limiters - Publication Date: 20160101-20240331; Peer Reviewed; Human; Language: English\n1 |  |  | Amputation | TI ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR AB ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR MM ( \"Amputation Stumps\" OR \"Amputation, Surgical\" OR \"Disarticulation\" OR \"Hemipelvectomy\" )\n2 |  |  | Amputation Sites | TI ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR AB ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR MM ( \"Ankle\" OR \"Femur\" OR \"Fibula\" OR \"Foot\" OR \"Foot Joints\" OR \"Foot Bones\" OR \"Hallux\" OR \"Hip\" OR \"Hip Joint\" OR \"Leg\" OR \"Leg Bones\" OR \"Lower Extremity\" OR \"Metatarsal Bones\" OR \"Patella\" OR \"Tarsal Joints\" OR \"Tarsal Bones\" OR \"Tibia\" )\n3 |  |  | Rehabilitation Settings | TI ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR AB ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR MM ( \"Rehabilitation\" AND \"Ambulatory Care\" )\n4 |  |  | Biopsychosocial | TI ( \"eye movement desensitization and reprocessing \" OR therapy OR psychoanalysis OR psychotherapy OR \"mindfulness based stress reduction \" OR peer OR psychoeducation OR \"support group \" OR ((training OR education) AND ( \"assertive communication\" OR \"interpersonal effectiveness\" OR \"pain reprocessing\" OR \"psychological preparation\" OR \"prolonged exposure\" OR \"self management\" OR \"social skills\" OR \"therapeutic pain\")) ) OR AB ( \"eye movement desensitization and reprocessing \" OR therapy OR psychoanalysis OR psychotherapy OR \"mindfulness based stress reduction \" OR peer OR psychoeducation OR \"support group \" OR ((training OR education) AND ( \"assertive communication\" OR \"interpersonal effectiveness\" OR \"pain reprocessing\" OR \"psychological preparation\" OR \"prolonged exposure\" OR \"self management\" OR \"social skills\" OR \"therapeutic pain\")) ) OR MA ( \"Counseling\" OR \"Psychoanalysis\" OR \"Psychotherapy\" )\n5 |  |  | Prevention | TI ( \"charcot restraint orthotic walker\" OR \"crow boot\" OR debridement OR \"diagnostic test*\" OR \"dietary intervention*\" OR \"diet therapy\" OR \"endovascular procedure*\" OR ((education OR training) N/2 foot) OR \"foot",
+      "rows": [
+        [
+          "",
+          "Set",
+          "",
+          "Concept",
+          "Search Statement"
+        ],
+        [
+          "",
+          "Number",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Limits",
+          "Limiters - Publication Date: 20160101-20240331; Peer Reviewed; Human; Language: English"
+        ],
+        [
+          "1",
+          "",
+          "",
+          "Amputation",
+          "TI ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR AB ( amputation OR chopart OR disarticulation OR exarticulation OR hemicorporectomy OR hemipelvectomy OR \"limb loss\" OR lisfranc OR syme ) OR MM ( \"Amputation Stumps\" OR \"Amputation, Surgical\" OR \"Disarticulation\" OR \"Hemipelvectomy\" )"
+        ],
+        [
+          "2",
+          "",
+          "",
+          "Amputation Sites",
+          "TI ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR AB ( \"above knee\" OR \"above the knee\" OR \"amputation stump\" OR ankle* OR \"below knee\" OR \"below the knee\" OR bilateral OR condyle* OR extremit* OR feet OR femur* OR fibula* OR foot OR hallu* OR hip OR hips OR knee* OR leg OR legs OR \"lower limb*\" OR \"lower extremit*\" OR metatarsophalangeal OR metatars* OR \"partial foot\" OR patella* OR phalange* OR \"residual limb*\" OR supracondylar OR tarsal* OR tarsometatarsal OR thigh* OR \"through knee\" OR \"through the knee\" OR tibia* OR toe OR toes OR transcondylar OR transfemoral OR transmalleolar OR transmetatarsal OR transtarsal OR transtibial OR unilateral ) OR MM ( \"Ankle\" OR \"Femur\" OR \"Fibula\" OR \"Foot\" OR \"Foot Joints\" OR \"Foot Bones\" OR \"Hallux\" OR \"Hip\" OR \"Hip Joint\" OR \"Leg\" OR \"Leg Bones\" OR \"Lower Extremity\" OR \"Metatarsal Bones\" OR \"Patella\" OR \"Tarsal Joints\" OR \"Tarsal Bones\" OR \"Tibia\" )"
+        ],
+        [
+          "3",
+          "",
+          "",
+          "Rehabilitation Settings",
+          "TI ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR AB ( rehabilitation AND (\"acute inpatient\" OR \"ambulatory care\" OR \"outpatient\" OR \"skilled nursing facilit*\" OR \"subacute\" OR \"sub-acute\") ) OR MM ( \"Rehabilitation\" AND \"Ambulatory Care\" )"
+        ],
+        [
+          "4",
+          "",
+          "",
+          "Biopsychosocial",
+          "TI ( \"eye movement desensitization and reprocessing \" OR therapy OR psychoanalysis OR psychotherapy OR \"mindfulness based stress reduction \" OR peer OR psychoeducation OR \"support group \" OR ((training OR education) AND ( \"assertive communication\" OR \"interpersonal effectiveness\" OR \"pain reprocessing\" OR \"psychological preparation\" OR \"prolonged exposure\" OR \"self management\" OR \"social skills\" OR \"therapeutic pain\")) ) OR AB ( \"eye movement desensitization and reprocessing \" OR therapy OR psychoanalysis OR psychotherapy OR \"mindfulness based stress reduction \" OR peer OR psychoeducation OR \"support group \" OR ((training OR education) AND ( \"assertive communication\" OR \"interpersonal effectiveness\" OR \"pain reprocessing\" OR \"psychological preparation\" OR \"prolonged exposure\" OR \"self management\" OR \"social skills\" OR \"therapeutic pain\")) ) OR MA ( \"Counseling\" OR \"Psychoanalysis\" OR \"Psychotherapy\" )"
+        ],
+        [
+          "5",
+          "",
+          "",
+          "Prevention",
+          "TI ( \"charcot restraint orthotic walker\" OR \"crow boot\" OR debridement OR \"diagnostic test*\" OR \"dietary intervention*\" OR \"diet therapy\" OR \"endovascular procedure*\" OR ((education OR training) N/2 foot) OR \"foot"
+        ]
+      ]
+    }
+  ]
+}

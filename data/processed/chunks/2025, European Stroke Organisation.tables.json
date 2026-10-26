@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.3",
+  "document": "2025, European Stroke Organisation.pdf",
+  "doc_family": "ESO",
+  "doc_family_source": "filename_rule",
+  "organization": "European Stroke Organisation",
+  "year": 2025,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_da2569325710abfc",
+      "doc_name": "2025, European Stroke Organisation.pdf",
+      "doc_family": "ESO",
+      "doc_family_source": "filename_rule",
+      "organization": "European Stroke Organisation",
+      "year": 2025,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        49.61,
+        83.9,
+        532.91,
+        270.0
+      ],
+      "section_id": "e20c3bdd9de81620",
+      "section_path": [
+        "Data analysis"
+      ],
+      "heading_level": 1,
+      "caption": "Table 2.  Strength of recommendations and corresponding recommendation formatting following the GRADE approach.",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Strength of recommendation",
+        "Balance of desirable and undesirable consequences",
+        "Recommendation formatting"
+      ],
+      "header_signature": "67d111b7313f",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Strength of recommendation | Balance of desirable and undesirable consequences | Recommendation formatting\nStrong recommendation for intervention | The desirable consequences clearly outweigh the undesirable consequences in most settings | ‘We recommend’\nStrong recommendation against intervention | The undesirable consequences clearly outweigh the desirable consequences in most settings | ‘We recommend. . .not’\nWeak recommendation for intervention | The desirable consequences probably outweigh the undesirable consequences in most settings | ‘We suggest’\nWeak recommendation against intervention | The undesirable consequences probably outweigh the desirable consequences in most settings or when the balance between desirable and undesirable consequences is closely balanced or uncertain | ‘We suggest. . .not’\nUngraded consensus-based statement | The desirable consequences probably outweigh the undesirable consequences in most settings, but there is little evidence | ‘We suggest’",
+      "rows": [
+        [
+          "Strength of recommendation",
+          "Balance of desirable and undesirable consequences",
+          "Recommendation formatting"
+        ],
+        [
+          "Strong recommendation for intervention",
+          "The desirable consequences clearly outweigh the undesirable consequences in most settings",
+          "‘We recommend’"
+        ],
+        [
+          "Strong recommendation against intervention",
+          "The undesirable consequences clearly outweigh the desirable consequences in most settings",
+          "‘We recommend. . .not’"
+        ],
+        [
+          "Weak recommendation for intervention",
+          "The desirable consequences probably outweigh the undesirable consequences in most settings",
+          "‘We suggest’"
+        ],
+        [
+          "Weak recommendation against intervention",
+          "The undesirable consequences probably outweigh the desirable consequences in most settings or when the balance between desirable and undesirable consequences is closely balanced or uncertain",
+          "‘We suggest. . .not’"
+        ],
+        [
+          "Ungraded consensus-based statement",
+          "The desirable consequences probably outweigh the undesirable consequences in most settings, but there is little evidence",
+          "‘We suggest’"
+        ]
+      ]
+    }
+  ]
+}

@@ -20,8 +20,8 @@ def run_query(query: str):
     )
 
     print("\nQUERY PROCESSING")
-    print(f"Original Turkish : {query}")
-    print(f"English rewrite  : {processed_query['rewritten_query']}")
+    print(f"Original English : {query}")
+    print(f"Search query      : {processed_query['rewritten_query']}")
     print(f"BM25 query       : {processed_query['expanded_query']}")
     print(f"RRF candidates   : {len(pipeline['rrf_candidates'])}")
 
@@ -48,7 +48,7 @@ def run_query(query: str):
     print(f"Out of scope        : {result.out_of_scope}")
     print("\nENGLISH ANSWER")
     print(result.english_answer)
-    print("\nTURKISH FINAL ANSWER")
+    print("\nFINAL ANSWER")
     print(result.answer)
 
     print("\nSOURCES")
@@ -61,7 +61,7 @@ def run_query(query: str):
 
 
 def main():
-    run_query(input("Turkish FTR question: ").strip())
+    run_query(input("English FTR question: ").strip())
 
 
 if __name__ == "__main__":

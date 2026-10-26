@@ -1,0 +1,1885 @@
+{
+  "schema_version": "2.3",
+  "document": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+  "doc_family": "AHA_ESC",
+  "doc_family_source": "filename_rule",
+  "organization": "AHA/ACC/ESC",
+  "year": 2026,
+  "table_count": 27,
+  "tables": [
+    {
+      "table_id": "tbl_5499a48338e7b1c9",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 10,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        154.76,
+        280.96,
+        525.25
+      ],
+      "section_id": "3a0b0f7595605a14",
+      "section_path": [
+        "2.1. Organization of Poststroke Rehabilitation\nCare (Levels of Care)",
+        "Recommendations for Organization of Poststroke Rehabilitation\nCare (Levels of Care)\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Organization of Poststroke Rehabilitation\nCare (Levels of Care)\n",
+      "context_before": "2.1. Organization of Poststroke Rehabilitation\nCare (Levels of Care)",
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons with stroke who are candidates for\npostacute rehabilitation, organized, coordinated,\ninterprofessional care is recommended to\nachieve maximal functional independence.1,2\n1 | B-NR | 2. In persons with stroke who qualify for IRF care,\ntreatment in an IRF in preference to a SNF\nis recommended to achieve more functional\nimprovement by discharge and higher rates of\ncommunity discharge.3–7\n1 | C-LD | 3. In persons with stroke seeking outpatient or\nhome-based rehabilitation, organized commu\nnity-based and coordinated interprofessional\nrehabilitation care is recommended to achieve\nmore functional improvement.8,9\n2a | C-LD | 4. In persons with stroke who are unable to return\ndirectly home after hospitalization and do not\nqualify for or lack geographic access to IRF\ncare, SNF care can be useful for individuals to\nachieve additional functional improvement.10\n2a | C-EO | 5. In persons with stroke who have completed care\nin an IRF but are unable to return directly home\nbecause of ongoing rehabilitation needs, medi\ncal requirements, or personal care needs, SNF\ncare can be useful to achieve more functional\nimprovement.\n1 | B-R | 6. In persons with stroke with mild to moderate\nactivity limitations, early supported discharge\nwith multidisciplinary services is recommended\nto achieve comparable outcomes to hospitalbased rehabilitation.11–14\n3 | B-R | 7. For persons with stroke, early discharge with\nfamily-led home-based rehabilitation has no\nimpact on outcome compared with early dis\ncharge alone.15–17",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons with stroke who are candidates for\npostacute rehabilitation, organized, coordinated,\ninterprofessional care is recommended to\nachieve maximal functional independence.1,2"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. In persons with stroke who qualify for IRF care,\ntreatment in an IRF in preference to a SNF\nis recommended to achieve more functional\nimprovement by discharge and higher rates of\ncommunity discharge.3–7"
+        ],
+        [
+          "1",
+          "C-LD",
+          "3. In persons with stroke seeking outpatient or\nhome-based rehabilitation, organized commu\nnity-based and coordinated interprofessional\nrehabilitation care is recommended to achieve\nmore functional improvement.8,9"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "4. In persons with stroke who are unable to return\ndirectly home after hospitalization and do not\nqualify for or lack geographic access to IRF\ncare, SNF care can be useful for individuals to\nachieve additional functional improvement.10"
+        ],
+        [
+          "2a",
+          "C-EO",
+          "5. In persons with stroke who have completed care\nin an IRF but are unable to return directly home\nbecause of ongoing rehabilitation needs, medi\ncal requirements, or personal care needs, SNF\ncare can be useful to achieve more functional\nimprovement."
+        ],
+        [
+          "1",
+          "B-R",
+          "6. In persons with stroke with mild to moderate\nactivity limitations, early supported discharge\nwith multidisciplinary services is recommended\nto achieve comparable outcomes to hospitalbased rehabilitation.11–14"
+        ],
+        [
+          "3",
+          "B-R",
+          "7. For persons with stroke, early discharge with\nfamily-led home-based rehabilitation has no\nimpact on outcome compared with early dis\ncharge alone.15–17"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_1327d164d37aabee",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 14,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        86.14,
+        279.32,
+        273.5
+      ],
+      "section_id": "55508abaca7dc2c2",
+      "section_path": [
+        "Recommendations for the Prevention of Skin Breakdown and\nContractures (Continued)",
+        "Recommendations for the Prevention of Skin Breakdown and\nContractures (Continued)"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for the Prevention of Skin Breakdown and\nContractures (Continued)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2b | C-LD | 5. In persons with stroke and hemiplegia, posi\ntioning of the hemiplegic shoulder in external\nrotation, with pain-free shoulder abduction and\nelbow extension twice daily for 30 min while the\npatient is sitting or in bed may be reasonable to\nminimize contracture.17,18\n2b | B-NR | 6. In persons with stroke and hemiplegia affecting\nthe lower limb, wearing resting ankle splints\nwhen in bed may be considered to prevent\ncontracture.19\n2b | B-R | 7. In persons with stroke and mild to moderate\nelbow and wrist contractures, use of serial\ncasting or static adjustable splints may be\nconsidered to reduce contractures.20,21\n2b | C-LD | 8. In persons with substantial elbow contractures\nand pain, surgical release of brachialis, brachio\nradialis, and biceps muscles may be considered\nto reduce pain and improve mobility.22",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2b",
+          "C-LD",
+          "5. In persons with stroke and hemiplegia, posi\ntioning of the hemiplegic shoulder in external\nrotation, with pain-free shoulder abduction and\nelbow extension twice daily for 30 min while the\npatient is sitting or in bed may be reasonable to\nminimize contracture.17,18"
+        ],
+        [
+          "2b",
+          "B-NR",
+          "6. In persons with stroke and hemiplegia affecting\nthe lower limb, wearing resting ankle splints\nwhen in bed may be considered to prevent\ncontracture.19"
+        ],
+        [
+          "2b",
+          "B-R",
+          "7. In persons with stroke and mild to moderate\nelbow and wrist contractures, use of serial\ncasting or static adjustable splints may be\nconsidered to reduce contractures.20,21"
+        ],
+        [
+          "2b",
+          "C-LD",
+          "8. In persons with substantial elbow contractures\nand pain, surgical release of brachialis, brachio\nradialis, and biceps muscles may be considered\nto reduce pain and improve mobility.22"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_960f2cb6c58ffcd7",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 15,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        546.19,
+        278.49,
+        720.18
+      ],
+      "section_id": "fe96fa7aa8e96c18",
+      "section_path": [
+        "8. One study (N=29) followed outcomes of surgical",
+        "3.2. Venous Thromboembolism Prevention",
+        "Recommendations for Venous Thromboembolism Prevention\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Venous Thromboembolism Prevention\n",
+      "context_before": "3.2. Venous Thromboembolism Prevention",
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.1667,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": "tbl_1327d164d37aabee",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-R | 1. In persons with acute stroke who have moder\nate to severe mobility limitations, intermittent\npneumatic compression (IPC) is recommended\nto reduce the risk of venous thromboembolism\n(VTE).1–3\n |  | 2. In persons with stroke, use of elastic compres\nsion stockings is not effective for the prevention\nof VTE.4,5\n2b | A | 3. In persons with acute ischemic stroke who\nare hospitalized and have limited mobility,\nthe benefit of prophylactic-dose subcutane\nous heparin (unfractionated heparin [UFH] or\nlow-molecular-weight heparin [LMWH]) on\nreducing pulmonary embolism (PE), mortality,\nor dependent functioning is unclear given\nthe risk of intracranial hemorrhage (ICH) and\nextracranial hemorrhage.6,7",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-R",
+          "1. In persons with acute stroke who have moder\nate to severe mobility limitations, intermittent\npneumatic compression (IPC) is recommended\nto reduce the risk of venous thromboembolism\n(VTE).1–3"
+        ],
+        [
+          "",
+          "",
+          "2. In persons with stroke, use of elastic compres\nsion stockings is not effective for the prevention\nof VTE.4,5"
+        ],
+        [
+          "2b",
+          "A",
+          "3. In persons with acute ischemic stroke who\nare hospitalized and have limited mobility,\nthe benefit of prophylactic-dose subcutane\nous heparin (unfractionated heparin [UFH] or\nlow-molecular-weight heparin [LMWH]) on\nreducing pulmonary embolism (PE), mortality,\nor dependent functioning is unclear given\nthe risk of intracranial hemorrhage (ICH) and\nextracranial hemorrhage.6,7"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f4181abf2fd4d080",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 17,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        661.38,
+        273.65,
+        714.12
+      ],
+      "section_id": "8daf1198deb1a79a",
+      "section_path": [
+        "3.3. Treatment of Bladder and Bowel\nDysfunction",
+        "Recommendations for the Treatment of Bladder and Bowel\nDysfunction\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for the Treatment of Bladder and Bowel\nDysfunction\n",
+      "context_before": "3.3. Treatment of Bladder and Bowel\nDysfunction",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with stroke, assessment of the\npatient’s premorbid urological issues is recom\nmended to develop a bladder care plan.1,2",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with stroke, assessment of the\npatient’s premorbid urological issues is recom\nmended to develop a bladder care plan.1,2"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9156a54248b0ccfb",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 19,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        630.38,
+        281.13,
+        714.87
+      ],
+      "section_id": "dab995de011b8c8b",
+      "section_path": [
+        "3.4. Assessment, Prevention, and Treatment of\nHemiplegic Shoulder Pain",
+        "Recommendations for Assessment, Prevention, and Treatment of\nHemiplegic Shoulder Pain\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Assessment, Prevention, and Treatment of\nHemiplegic Shoulder Pain\n",
+      "context_before": "3.4. Assessment, Prevention, and Treatment of\nHemiplegic Shoulder Pain",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with stroke, a clinical assessment of\nthe shoulder region to determine the presence\nof shoulder subluxation, spasticity, ROM restric\ntions, and regional sensory changes, and an\nassessment to determine the presence of spatial\nneglect is recommended to guide treatment\nplanning focused on the prevention of shoulder\npain.1–4",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with stroke, a clinical assessment of\nthe shoulder region to determine the presence\nof shoulder subluxation, spasticity, ROM restric\ntions, and regional sensory changes, and an\nassessment to determine the presence of spatial\nneglect is recommended to guide treatment\nplanning focused on the prevention of shoulder\npain.1–4"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b63cb0c927be4348",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 22,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        319.19,
+        280.36,
+        568.93
+      ],
+      "section_id": "08b52af28e170120",
+      "section_path": [
+        "4. Increased muscle tone has been identified as a",
+        "3.5. Central Poststroke Pain",
+        "Recommendations for Central Poststroke Pain\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Central Poststroke Pain\n",
+      "context_before": "3.5. Central Poststroke Pain",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | C-EO | 1. In persons with pain poststroke, a diagnosis\nof central poststroke pain (CPSP) should\nbe based on proposed diagnostic criteria to\nimprove validity and consistency and to help\nplan treatment.\n1 | C-EO | 2. In persons with CPSP, a choice of pharmaco\nlogical treatments individualized to the person’s\nneeds, response, and any adverse effects is\nrecommended to try to reduce pain.\n2a | C-LD | 3. In persons with CPSP, established measures\n(eg, the Numerical Rating Scale, the Visual\nAnalog Scale, or the Faces Pain Scale) are\nreasonable to monitor pain and response to\ntreatment.1\n2a | B-R | 4. In persons with CPSP, duloxetine, lamotrigine,\nor amitriptyline are reasonable first-line treat\nments to reduce pain.2–4\n2a | C-EO | 5. In persons with CPSP, multidisciplinary pain\nmanagement, in conjunction with pharmaco\ntherapy, is reasonable to improve pain and\npsychosocial outcomes.5\n2b | B-NR | 6. In persons with CPSP, pregabalin or gabapentin\nmay be considered as second-line treatments to\nreduce pain.6,7",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "C-EO",
+          "1. In persons with pain poststroke, a diagnosis\nof central poststroke pain (CPSP) should\nbe based on proposed diagnostic criteria to\nimprove validity and consistency and to help\nplan treatment."
+        ],
+        [
+          "1",
+          "C-EO",
+          "2. In persons with CPSP, a choice of pharmaco\nlogical treatments individualized to the person’s\nneeds, response, and any adverse effects is\nrecommended to try to reduce pain."
+        ],
+        [
+          "2a",
+          "C-LD",
+          "3. In persons with CPSP, established measures\n(eg, the Numerical Rating Scale, the Visual\nAnalog Scale, or the Faces Pain Scale) are\nreasonable to monitor pain and response to\ntreatment.1"
+        ],
+        [
+          "2a",
+          "B-R",
+          "4. In persons with CPSP, duloxetine, lamotrigine,\nor amitriptyline are reasonable first-line treat\nments to reduce pain.2–4"
+        ],
+        [
+          "2a",
+          "C-EO",
+          "5. In persons with CPSP, multidisciplinary pain\nmanagement, in conjunction with pharmaco\ntherapy, is reasonable to improve pain and\npsychosocial outcomes.5"
+        ],
+        [
+          "2b",
+          "B-NR",
+          "6. In persons with CPSP, pregabalin or gabapentin\nmay be considered as second-line treatments to\nreduce pain.6,7"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_7cfcbc0f423539f2",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 33,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        298.88,
+        280.95,
+        540.12
+      ],
+      "section_id": "2ec4f30256410364",
+      "section_path": [
+        "4.1. Assessment of Disability and Rehabilitation\nNeeds",
+        "Recommendations for the Assessment of Disability and\nRehabilitation Needs\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for the Assessment of Disability and\nRehabilitation Needs\n",
+      "context_before": "4.1. Assessment of Disability and Rehabilitation\nNeeds",
+      "footnote_candidates": [
+        "A variety of global and modality-specific standard\nized and validated measures have been useful for docu\nmenting stroke severity, identifying disability, predicting\ndischarge destination and long-term recovery, and moni\ntoring progress over time.1,2,4,5,7,8,11,15–17,19,27 CAT may be\nconsidered to assess motor function, postural control,\nand basic ADLs.24,25"
+      ],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with stroke, a formal assessment of\nbody structures and functions, activity limitations\nand participation restrictions, and personal\nand environmental factors is recommended to\ninform treatment planning, care transitions, and\ndischarge planning.1–19\n1 | B-NR | 2. In persons with stroke, valid measurement\ninstruments should be routinely administered,\nbeginning in the acute phase and continuing\nthrough all stages of recovery and rehabilitation,\nto document stroke severity and disabil\nity.4,5,7,8,11,15–17,19\n2a | B-NR | 3. In persons with stroke discharged from acute\nand postacute care, ongoing and repeated\nfollow-up, tailored to the individual’s needs, is\nreasonable for at least the first year poststroke\nto monitor functional recovery, identify participa\ntion restrictions, and reassess rehabilitation\nneeds.20–23\n2b | B-NR | 4. In persons with subacute stroke, computer\nadaptive testing (CAT) with validated assess\nments may be considered to assess motor\nfunction, postural control, and basic ADLs, and\nto improve clinical efficiency.24,25",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with stroke, a formal assessment of\nbody structures and functions, activity limitations\nand participation restrictions, and personal\nand environmental factors is recommended to\ninform treatment planning, care transitions, and\ndischarge planning.1–19"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. In persons with stroke, valid measurement\ninstruments should be routinely administered,\nbeginning in the acute phase and continuing\nthrough all stages of recovery and rehabilitation,\nto document stroke severity and disabil\nity.4,5,7,8,11,15–17,19"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "3. In persons with stroke discharged from acute\nand postacute care, ongoing and repeated\nfollow-up, tailored to the individual’s needs, is\nreasonable for at least the first year poststroke\nto monitor functional recovery, identify participa\ntion restrictions, and reassess rehabilitation\nneeds.20–23"
+        ],
+        [
+          "2b",
+          "B-NR",
+          "4. In persons with subacute stroke, computer\nadaptive testing (CAT) with validated assess\nments may be considered to assess motor\nfunction, postural control, and basic ADLs, and\nto improve clinical efficiency.24,25"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9a2e7500fbe2d4ac",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 35,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        135.97,
+        280.37,
+        488.96
+      ],
+      "section_id": "e1a0bd79cba30da1",
+      "section_path": [
+        "4.2. Assessment of Motor Impairment, Activity,\nand Mobility",
+        "Recommendations for Assessment of Motor Impairment, Activity,\nand Mobility\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Assessment of Motor Impairment, Activity,\nand Mobility\n",
+      "context_before": "4.2. Assessment of Motor Impairment, Activity,\nand Mobility",
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with stroke, handheld or isokinetic\ndynamometry is recommended to quantify upper\nand lower extremity muscle weakness, inform\nthe treatment plan, and monitor progress and\nrecovery/functional gains.1–6\n1 | B-NR | 2. In persons with stroke, a standardized\nassessment should be performed to assess\nupper extremity and lower extremity motor\nimpairments to inform the treatment plan\nand document progress and functional\ngains.5,7–12\n1 | B-NR | 3. In persons with stroke with walking capacity,\nmobility assessment with valid measurement\ninstruments should be performed to inform the\ntreatment plan and monitor progress and func\ntional gains.5,10–18\n1 | B-NR | 4. In persons with stroke, valid measurement\ninstruments should be used to assess upper\nextremity function to inform the treatment\nplan and monitor progress and functional\ngains.5,9,10,12,19,20\n2a | B-NR | 5. In persons with stroke, it is reasonable to use a\nvalid measurement instrument to assess muscle\ntone.5,10,21,22\n2a | B-NR | 6. In persons with stroke, wearable sensors/\ntechnology (eg, accelerometers, inertial\nmeasurement units, step count monitors) can\nbe useful for objectively assessing real-world\nactivity and participation to monitor recov\nery.23–28\n2a | B-NR | 7. In persons with stroke, the use of patientreported outcome measures can be beneficial\nto assess the person’s own perception of their\nmotor impairments, activity limitations, and\nparticipation to deliver patient-centered care.29",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with stroke, handheld or isokinetic\ndynamometry is recommended to quantify upper\nand lower extremity muscle weakness, inform\nthe treatment plan, and monitor progress and\nrecovery/functional gains.1–6"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. In persons with stroke, a standardized\nassessment should be performed to assess\nupper extremity and lower extremity motor\nimpairments to inform the treatment plan\nand document progress and functional\ngains.5,7–12"
+        ],
+        [
+          "1",
+          "B-NR",
+          "3. In persons with stroke with walking capacity,\nmobility assessment with valid measurement\ninstruments should be performed to inform the\ntreatment plan and monitor progress and func\ntional gains.5,10–18"
+        ],
+        [
+          "1",
+          "B-NR",
+          "4. In persons with stroke, valid measurement\ninstruments should be used to assess upper\nextremity function to inform the treatment\nplan and monitor progress and functional\ngains.5,9,10,12,19,20"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "5. In persons with stroke, it is reasonable to use a\nvalid measurement instrument to assess muscle\ntone.5,10,21,22"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "6. In persons with stroke, wearable sensors/\ntechnology (eg, accelerometers, inertial\nmeasurement units, step count monitors) can\nbe useful for objectively assessing real-world\nactivity and participation to monitor recov\nery.23–28"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "7. In persons with stroke, the use of patientreported outcome measures can be beneficial\nto assess the person’s own perception of their\nmotor impairments, activity limitations, and\nparticipation to deliver patient-centered care.29"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_225765d9b9263e3e",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 38,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        414.19,
+        277.93,
+        709.43
+      ],
+      "section_id": "3cf892e8d3f3c913",
+      "section_path": [
+        "Knowledge Gaps and Future Research",
+        "4.3. Assessment of Communication Impairment",
+        "Recommendations for Assessment of Communication Impairment\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Assessment of Communication Impairment\n",
+      "context_before": "4.3. Assessment of Communication Impairment",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with stroke, screening and assess\nment of communication should include speech,\nhearing, and nonverbal and verbal language,\nincluding pragmatic language and cognition,\nby a speech-language pathologist to determine\nrehabilitative targets, provide education, and\nmonitor progress.1\n1 | B-NR | 2. In persons with stroke, the assessment of com\nmunication should include formal and informal\nvalid measurement instruments, including\npatient-reported outcome measures, perfor\nmance-based instruments, clinician-reported\ninstruments, and interviews at baseline and for\nreassessment to identify treatment targets for\nspeech-language services.1\n1 | B-NR | 3. In persons assessed for communication\nimpairments after stroke, consideration of per\nsonal factors, including cultural background,\nprestroke language use, dominant language\nused, and use patterns, is recommended for\noptimal diagnosis, treatment planning, and\nenhancement of social connection and thera\npeutic rapport.2,3\n2a | B-NR | 4. In persons with communication impairments\nafter stroke, the inclusion of discourse or con\nnected language tasks as part of the assess\nment can be beneficial to identify subtle\ncommunication use disorders in speech,\napragmatism, and aphasia, and inform the\ntreatment plan.4–7",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with stroke, screening and assess\nment of communication should include speech,\nhearing, and nonverbal and verbal language,\nincluding pragmatic language and cognition,\nby a speech-language pathologist to determine\nrehabilitative targets, provide education, and\nmonitor progress.1"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. In persons with stroke, the assessment of com\nmunication should include formal and informal\nvalid measurement instruments, including\npatient-reported outcome measures, perfor\nmance-based instruments, clinician-reported\ninstruments, and interviews at baseline and for\nreassessment to identify treatment targets for\nspeech-language services.1"
+        ],
+        [
+          "1",
+          "B-NR",
+          "3. In persons assessed for communication\nimpairments after stroke, consideration of per\nsonal factors, including cultural background,\nprestroke language use, dominant language\nused, and use patterns, is recommended for\noptimal diagnosis, treatment planning, and\nenhancement of social connection and thera\npeutic rapport.2,3"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "4. In persons with communication impairments\nafter stroke, the inclusion of discourse or con\nnected language tasks as part of the assess\nment can be beneficial to identify subtle\ncommunication use disorders in speech,\napragmatism, and aphasia, and inform the\ntreatment plan.4–7"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_1b443e8ecb5b9f56",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 43,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        147.07,
+        279.77,
+        459.81
+      ],
+      "section_id": "7b648e0c6d48638f",
+      "section_path": [
+        "5. SENSORIMOTOR IMPAIRMENTS AND\nACTIVITIES",
+        "5.1. Physical Activity",
+        "Recommendations for Physical Activity\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Physical Activity\n",
+      "context_before": "5.1. Physical Activity",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons with stroke, an individually tailored\nexercise program is indicated to optimize physi\ncal health, including cardiorespiratory fitness\nand mobility, and to reduce the risk of future\nvascular events.1–7\n1 | A | 2. In persons with stroke, participation in a pro\ngram of exercise or physical activity commenc\ning in rehabilitation and continuing at home or\nin the community is recommended to optimize\ncognitive health.8–15\n1 | A | 3. In persons with stroke, exercise guidelines of\n150 to 300 minutes of moderate-intensity physi\ncal activity per week, with 3 to 5 days per week\nof aerobic training and 2 to 3 days per week of\nstrength training and balance training are recom\nmended to achieve health benefits.5\n1 | C-EO | 4. In patients with stroke, clinicians working collab\noratively with persons with stroke, while keeping\nexercise guidelines and the person’s prefer\nences in mind, is recommended to determine\nan appropriate and achievable physical activity\nprogram.\n2a | B-R | 5. In persons with stroke, exercise programs\ncombined with behavior change techniques\ncan be beneficial to increase daily physical\nactivity.16–22\n2a | C-LD | 6. In persons with stroke, physical activity can be\nmeasured with valid measurement instruments,\ndevices, and other technology to guide physical\nactivity planning with the patient and caregiv\ners.23",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons with stroke, an individually tailored\nexercise program is indicated to optimize physi\ncal health, including cardiorespiratory fitness\nand mobility, and to reduce the risk of future\nvascular events.1–7"
+        ],
+        [
+          "1",
+          "A",
+          "2. In persons with stroke, participation in a pro\ngram of exercise or physical activity commenc\ning in rehabilitation and continuing at home or\nin the community is recommended to optimize\ncognitive health.8–15"
+        ],
+        [
+          "1",
+          "A",
+          "3. In persons with stroke, exercise guidelines of\n150 to 300 minutes of moderate-intensity physi\ncal activity per week, with 3 to 5 days per week\nof aerobic training and 2 to 3 days per week of\nstrength training and balance training are recom\nmended to achieve health benefits.5"
+        ],
+        [
+          "1",
+          "C-EO",
+          "4. In patients with stroke, clinicians working collab\noratively with persons with stroke, while keeping\nexercise guidelines and the person’s prefer\nences in mind, is recommended to determine\nan appropriate and achievable physical activity\nprogram."
+        ],
+        [
+          "2a",
+          "B-R",
+          "5. In persons with stroke, exercise programs\ncombined with behavior change techniques\ncan be beneficial to increase daily physical\nactivity.16–22"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "6. In persons with stroke, physical activity can be\nmeasured with valid measurement instruments,\ndevices, and other technology to guide physical\nactivity planning with the patient and caregiv\ners.23"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_0e584b3cbafd5b08",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 46,
+      "table_index": 0,
+      "bbox": [
+        123.25,
+        77.14,
+        438.6,
+        470.18
+      ],
+      "section_id": "e4a88b0fe513e402",
+      "section_path": [
+        "Sample\nactivities"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "average of 12 months poststroke) found that\n24 sessions over 8 weeks of upper limb func\ntional training improved aspects of apraxia (eg,\nideomotor apraxia, imitating gestures, global rec\nognition of gestures) compared with an educa\ntional group.6 It seems that task-practice may be\nundertaken in different formats (eg, functional\ntraining, VR-based training).",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.3333,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n |  | 1. In persons with stroke-related upper extremity\nspasticity, targeted injection of botulinum toxin\ninto localized upper limb muscles is recom\nmended to reduce spasticity, improve passive\nROM and limb positioning, and improve dress\ning and hygiene.1–5",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "",
+          "",
+          "1. In persons with stroke-related upper extremity\nspasticity, targeted injection of botulinum toxin\ninto localized upper limb muscles is recom\nmended to reduce spasticity, improve passive\nROM and limb positioning, and improve dress\ning and hygiene.1–5"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ad922c27e9461af8",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 46,
+      "table_index": 1,
+      "bbox": [
+        59.47,
+        403.69,
+        279.5,
+        725.43
+      ],
+      "section_id": "f242df925592254e",
+      "section_path": [
+        "Knowledge Gaps and Future Research",
+        "5.3. Management of Spasticity",
+        "Recommendations for Management of Spasticity\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Management of Spasticity\n",
+      "context_before": "5.3. Management of Spasticity",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons with stroke-related upper extremity\nspasticity, targeted injection of botulinum toxin\ninto localized upper limb muscles is recom\nmended to reduce spasticity, improve passive\nROM and limb positioning, and improve dress\ning and hygiene.1–5\n1 | A | 2. In persons with stroke-related lower extremity\nspasticity, targeted injection of botulinum\ntoxin into lower limb muscles is recom\nmended to reduce spasticity that interferes\nwith gait.6–8\n1 | B-R | 3. In persons with stroke-related limb spasticity,\ninstrumented guidance for targeting muscles for\nbotulinum injection using ultrasound, electrical\nstimulation, or electromyography (EMG) is\nrecommended to improve the efficacy of the\ninjection.9,10\n2b | A | 4. In persons with stroke with generalized spastic\nity, oral antispasticity agents may be useful for\nreducing spasticity, but may result in doselimiting sedation, weakness, or other adverse\neffects.11–14\n2a | B-R | 5. In persons with stroke and severe spasticity,\nintrathecal baclofen therapy is reasonable for\nreducing spasticity that does not respond to\nother interventions to improve spasticity and\nlimb positioning during care.15–17\n2b | A | 6. In persons with stroke with spastic muscles,\nphysical modalities such as NMES or vibration\napplied to spastic muscles may be reasonable\nas an adjunct to rehabilitation therapy to tempo\nrarily improve spasticity.18–21",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons with stroke-related upper extremity\nspasticity, targeted injection of botulinum toxin\ninto localized upper limb muscles is recom\nmended to reduce spasticity, improve passive\nROM and limb positioning, and improve dress\ning and hygiene.1–5"
+        ],
+        [
+          "1",
+          "A",
+          "2. In persons with stroke-related lower extremity\nspasticity, targeted injection of botulinum\ntoxin into lower limb muscles is recom\nmended to reduce spasticity that interferes\nwith gait.6–8"
+        ],
+        [
+          "1",
+          "B-R",
+          "3. In persons with stroke-related limb spasticity,\ninstrumented guidance for targeting muscles for\nbotulinum injection using ultrasound, electrical\nstimulation, or electromyography (EMG) is\nrecommended to improve the efficacy of the\ninjection.9,10"
+        ],
+        [
+          "2b",
+          "A",
+          "4. In persons with stroke with generalized spastic\nity, oral antispasticity agents may be useful for\nreducing spasticity, but may result in doselimiting sedation, weakness, or other adverse\neffects.11–14"
+        ],
+        [
+          "2a",
+          "B-R",
+          "5. In persons with stroke and severe spasticity,\nintrathecal baclofen therapy is reasonable for\nreducing spasticity that does not respond to\nother interventions to improve spasticity and\nlimb positioning during care.15–17"
+        ],
+        [
+          "2b",
+          "A",
+          "6. In persons with stroke with spastic muscles,\nphysical modalities such as NMES or vibration\napplied to spastic muscles may be reasonable\nas an adjunct to rehabilitation therapy to tempo\nrarily improve spasticity.18–21"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b2dc80b8b59f68e3",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 48,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        391.19,
+        279.64,
+        636.18
+      ],
+      "section_id": "8af19cedb0f3a3a2",
+      "section_path": [
+        "6. There is some evidence for efficacy of nonphar",
+        "5.4. Balance and Ataxia",
+        "Recommendations for Balance and Ataxia\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Balance and Ataxia\n",
+      "context_before": "5.4. Balance and Ataxia",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. Persons with stroke should be prescribed and\nfitted with an AD or orthosis if appropriate to\nimprove balance and decrease fall risk.1\n1 | C-EO | 2. Persons with stroke should be evaluated for\nbalance, balance confidence, and fall risk to\nestablish an appropriate treatment plan.\n2a | C-LD | 3. In persons with poststroke ataxia, postural train\ning and task-oriented therapy are reasonable for\nrehabilitation to improve upper extremity motor\nfunction.2,3\n2a | B-NR | 5. In persons with stroke, VR-based balance\ntraining, including gaming-based interventions\nto address balance impairment, can be useful to\nimprove balance.8–10\n2b | B-R | 7. In persons with stroke, combined cardiorespira\ntory and resistance training may be considered\nto improve cardiovascular fitness, standing bal\nance, comfortable walking speed, and walking\ndistance.15",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. Persons with stroke should be prescribed and\nfitted with an AD or orthosis if appropriate to\nimprove balance and decrease fall risk.1"
+        ],
+        [
+          "1",
+          "C-EO",
+          "2. Persons with stroke should be evaluated for\nbalance, balance confidence, and fall risk to\nestablish an appropriate treatment plan."
+        ],
+        [
+          "2a",
+          "C-LD",
+          "3. In persons with poststroke ataxia, postural train\ning and task-oriented therapy are reasonable for\nrehabilitation to improve upper extremity motor\nfunction.2,3"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "5. In persons with stroke, VR-based balance\ntraining, including gaming-based interventions\nto address balance impairment, can be useful to\nimprove balance.8–10"
+        ],
+        [
+          "2b",
+          "B-R",
+          "7. In persons with stroke, combined cardiorespira\ntory and resistance training may be considered\nto improve cardiovascular fitness, standing bal\nance, comfortable walking speed, and walking\ndistance.15"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_19ad9f4a198dc568",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 50,
+      "table_index": 0,
+      "bbox": [
+        123.25,
+        77.14,
+        438.6,
+        422.43
+      ],
+      "section_id": "329a2b02e1a6ed83",
+      "section_path": [
+        "6. Impairments in trunk function are common post"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "• Interactive gaming-based interventions improve\nfunctional balance in poststroke individuals when\ncompared with other, or absent, interventions, but\nthey did not influence the mobility of individuals\npoststroke. Clinical studies with high methodologi\ncal quality are needed to establish whether interac\ntive video games result in mobility improvement for\npersons with stroke.\n• Research regarding evidence-based interven\ntions for the rehabilitation of poststroke ataxia is\nlacking.",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.1333,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [
+        "possible_hyphenation_artifact"
+      ],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. For persons with stroke, an evidence-based, goal-oriented, multidisciplinary physical rehabili\ntation program is recommended to improve gait\nand mobility.1–6\n1 | A | 2. For persons with stroke, task-specific training focused on overground walking, stepping, and\nbalance is recommended to improve gait and\nmobility.5,7,8\n2a | B-R | 3. For persons with subacute or chronic stroke, moderate- to high-intensity stepping and/\nor high-intensity interval exercise focused on\nwalking speed can be effective to improve\nwalking endurance, walking speed, and bal\nance.2,3,7,9–13\n |  | 4. For persons with stroke, resistance training of",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. For persons with stroke, an evidence-based, goal-oriented, multidisciplinary physical rehabili\ntation program is recommended to improve gait\nand mobility.1–6"
+        ],
+        [
+          "1",
+          "A",
+          "2. For persons with stroke, task-specific training focused on overground walking, stepping, and\nbalance is recommended to improve gait and\nmobility.5,7,8"
+        ],
+        [
+          "2a",
+          "B-R",
+          "3. For persons with subacute or chronic stroke, moderate- to high-intensity stepping and/\nor high-intensity interval exercise focused on\nwalking speed can be effective to improve\nwalking endurance, walking speed, and bal\nance.2,3,7,9–13"
+        ],
+        [
+          "",
+          "",
+          "4. For persons with stroke, resistance training of"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_a3f9deca4d149c46",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 50,
+      "table_index": 1,
+      "bbox": [
+        59.47,
+        262.19,
+        279.68,
+        592.43
+      ],
+      "section_id": "246a21b836fbf461",
+      "section_path": [
+        "6. Impairments in trunk function are common post",
+        "5.5. Gait and Mobility",
+        "Recommendations for Gait and Mobility\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Gait and Mobility\n",
+      "context_before": "5.5. Gait and Mobility",
+      "footnote_candidates": [
+        "*Exergames use interactive video games that combine physical exercise with\ngameplay elements to support the recovery or improvement of physical and cog\nnitive functions in patients."
+      ],
+      "n_rows": 9,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [
+        "possible_hyphenation_artifact"
+      ],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. For persons with stroke, an evidence-based, goal-oriented, multidisciplinary physical rehabili\ntation program is recommended to improve gait\nand mobility.1–6\n1 | A | 2. For persons with stroke, task-specific training focused on overground walking, stepping, and\nbalance is recommended to improve gait and\nmobility.5,7,8\n2a | B-R | 3. For persons with subacute or chronic stroke, moderate- to high-intensity stepping and/\nor high-intensity interval exercise focused on\nwalking speed can be effective to improve\nwalking endurance, walking speed, and bal\nance.2,3,7,9–13\n2a | A | 4. For persons with stroke, resistance training of both the more- affected and less-affected legs,\nthough not the less-affected leg alone, can be\neffective in improving walking endurance, bal\nance, and mobility.11,13–15\n2a | B-R | 5. For persons with stroke, rhythmic auditory stimu lation or cueing interventions can be effective\nin improving walking speed, balance, and gait\nspatiotemporal kinematics.16,17\n2a | B-R | 6. For persons with stroke, lower limb constraint-induced movement therapy\n(CIMT) can be effective in improving walking\nindependence, walking endurance, balance,\nand mobility.18–20\n2a | B-R | 7. For persons with stroke, motor imagery or mirror therapy with bilateral movements can be effec\ntive to improve walking speed.21,22\n2a | B-R | 8. For persons with stroke, interactive gait train ing with *exergames or VR can be effective to\nimprove walking speed, endurance, mobility,\nbalance, and gait spatiotemporal kinemat\nics.6,23–25",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. For persons with stroke, an evidence-based, goal-oriented, multidisciplinary physical rehabili\ntation program is recommended to improve gait\nand mobility.1–6"
+        ],
+        [
+          "1",
+          "A",
+          "2. For persons with stroke, task-specific training focused on overground walking, stepping, and\nbalance is recommended to improve gait and\nmobility.5,7,8"
+        ],
+        [
+          "2a",
+          "B-R",
+          "3. For persons with subacute or chronic stroke, moderate- to high-intensity stepping and/\nor high-intensity interval exercise focused on\nwalking speed can be effective to improve\nwalking endurance, walking speed, and bal\nance.2,3,7,9–13"
+        ],
+        [
+          "2a",
+          "A",
+          "4. For persons with stroke, resistance training of both the more- affected and less-affected legs,\nthough not the less-affected leg alone, can be\neffective in improving walking endurance, bal\nance, and mobility.11,13–15"
+        ],
+        [
+          "2a",
+          "B-R",
+          "5. For persons with stroke, rhythmic auditory stimu lation or cueing interventions can be effective\nin improving walking speed, balance, and gait\nspatiotemporal kinematics.16,17"
+        ],
+        [
+          "2a",
+          "B-R",
+          "6. For persons with stroke, lower limb constraint-induced movement therapy\n(CIMT) can be effective in improving walking\nindependence, walking endurance, balance,\nand mobility.18–20"
+        ],
+        [
+          "2a",
+          "B-R",
+          "7. For persons with stroke, motor imagery or mirror therapy with bilateral movements can be effec\ntive to improve walking speed.21,22"
+        ],
+        [
+          "2a",
+          "B-R",
+          "8. For persons with stroke, interactive gait train ing with *exergames or VR can be effective to\nimprove walking speed, endurance, mobility,\nbalance, and gait spatiotemporal kinemat\nics.6,23–25"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_6a41aaebbbb6294e",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 56,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        86.14,
+        280.23,
+        224.25
+      ],
+      "section_id": "8065b59802a38013",
+      "section_path": [
+        "Recommendations for Upper Extremity Activity, Including ADLs,\nIADLs, Touch, and Proprioception (Continued)",
+        "Recommendations for Upper Extremity Activity, Including ADLs,\nIADLs, Touch, and Proprioception (Continued)"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Upper Extremity Activity, Including ADLs,\nIADLs, Touch, and Proprioception (Continued)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 4,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2a | B-R | 13. In persons with stroke and moderate to severe\nupper limb hemiparesis, bilateral training para\ndigms can be useful to improve motor function\nand ADLs.40,41\n2b | B-R | 14. For eligible persons with stroke and upper limb\nhemiparesis, vagus nerve stimulation (VNS)\npaired with high-dose task-specific training may\nbe considered to improve upper limb function\nand impairment42–46\n3 | B-R | 15. For persons with stroke and hemiparesis, neu\nrodevelopmental training (Bobath technique) is\nnot recommended for improving motor skills and\nstrength of the upper limb.47,48",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2a",
+          "B-R",
+          "13. In persons with stroke and moderate to severe\nupper limb hemiparesis, bilateral training para\ndigms can be useful to improve motor function\nand ADLs.40,41"
+        ],
+        [
+          "2b",
+          "B-R",
+          "14. For eligible persons with stroke and upper limb\nhemiparesis, vagus nerve stimulation (VNS)\npaired with high-dose task-specific training may\nbe considered to improve upper limb function\nand impairment42–46"
+        ],
+        [
+          "3",
+          "B-R",
+          "15. For persons with stroke and hemiparesis, neu\nrodevelopmental training (Bobath technique) is\nnot recommended for improving motor skills and\nstrength of the upper limb.47,48"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_4a040af84791a5b2",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 62,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        86.14,
+        281.06,
+        358.25
+      ],
+      "section_id": "b44d8c2c5f6141f2",
+      "section_path": [
+        "Recommendations for Lifestyle Modification and Management\n(Continued)",
+        "Recommendations for Lifestyle Modification and Management\n(Continued)"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Lifestyle Modification and Management\n(Continued)",
+      "context_before": null,
+      "footnote_candidates": [
+        "*Any combination of aerobic exercise (continuous activity that engages large\nmuscle groups) and resistance exercise (activity that induces muscle contractions\nagainst an external load).",
+        "†Emphasizing vegetables, fruits, whole grains, legumes; limit saturated fats,\ntrans fats, refined carbs; choose lean proteins and fish.",
+        "‡Nicotine replacement, bupropion, or varenicline.\n§For example, amphetamines, amphetamine derivatives, cocaine, or khat.\n∥Including behavioral therapy and pharmacotherapy.\nThe recommendations above have been adapted or modified from the AHA/\nASA 2024 Primary Prevention of Stroke Guideline.18"
+      ],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 7. In persons with stroke who smoke tobacco, counseling with or without drug therapy‡ is\nrecommended to assist in quitting smoking.9,10\n1 | B-NR | 8. Persons with stroke should avoid secondhand smoke to reduce poststroke mortality and recur\nrent stroke risk.11,12\n1 | B-NR | 9. In persons with stroke who have >2 drinks of alcohol per day for men and >1 drink of alcohol\nper day for women, counseling, education, and\nbehavioral strategies to abstain from or reduce\nalcohol consumption should be offered to\ndecrease stroke and major cardiovascular event\nrisk.13\n1 | C-EO | 10. In persons with stroke who abuse stimulants§\nor have infective endocarditis in the context\nof intravenous drug use, health care providers\nshould counsel them to stop and/or refer them\nto appropriate addiction programs to reduce the\nrisk of recurrent stroke.14,15\n1 | B-NR | 11. In persons with stroke who have a substance\nuse disorder (drugs or alcohol), specialized\naddiction treatment∥ is recommended to manage\ndependency and reduce risk of recurrent stroke\nand mortality.16,17",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "7. In persons with stroke who smoke tobacco, counseling with or without drug therapy‡ is\nrecommended to assist in quitting smoking.9,10"
+        ],
+        [
+          "1",
+          "B-NR",
+          "8. Persons with stroke should avoid secondhand smoke to reduce poststroke mortality and recur\nrent stroke risk.11,12"
+        ],
+        [
+          "1",
+          "B-NR",
+          "9. In persons with stroke who have >2 drinks of alcohol per day for men and >1 drink of alcohol\nper day for women, counseling, education, and\nbehavioral strategies to abstain from or reduce\nalcohol consumption should be offered to\ndecrease stroke and major cardiovascular event\nrisk.13"
+        ],
+        [
+          "1",
+          "C-EO",
+          "10. In persons with stroke who abuse stimulants§\nor have infective endocarditis in the context\nof intravenous drug use, health care providers\nshould counsel them to stop and/or refer them\nto appropriate addiction programs to reduce the\nrisk of recurrent stroke.14,15"
+        ],
+        [
+          "1",
+          "B-NR",
+          "11. In persons with stroke who have a substance\nuse disorder (drugs or alcohol), specialized\naddiction treatment∥ is recommended to manage\ndependency and reduce risk of recurrent stroke\nand mortality.16,17"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_cec936da20d151b1",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 64,
+      "table_index": 0,
+      "bbox": [
+        123.25,
+        86.14,
+        438.6,
+        440.87
+      ],
+      "section_id": "06ad787c5aa961d2",
+      "section_path": [
+        "7. Smoking cessation is critical for secondary stroke"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "• For smoking, stroke-specific cessation trials are\nlacking, particularly regarding timing of interven\ntion, inpatient-to-outpatient transition, digital tools,\nand tailoring strategies for survivors with aphasia,\ncognitive deficits, or co-occurring substance use;\nthe impact of cessation on recovery trajectories is\nalso uncertain.\n• For substance use, randomized trials of alcohol\nreduction and pharmacotherapies for alcohol use\ndisorder are absent, and the differential effects of\nalcohol, stimulants, and opioids by stroke subtype\nand interaction with atrial fibrillation and anticoagu\nlation requ",
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons with convergence insufficiency\npoststroke, eye exercises are recommended to\nimprove ocular convergence.1,2\n2a | B-R | 2. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving performance of ADLs.3,4",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons with convergence insufficiency\npoststroke, eye exercises are recommended to\nimprove ocular convergence.1,2"
+        ],
+        [
+          "2a",
+          "B-R",
+          "2. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving performance of ADLs.3,4"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_88c1e859e3bb6858",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 64,
+      "table_index": 1,
+      "bbox": [
+        59.47,
+        356.88,
+        278.75,
+        708.87
+      ],
+      "section_id": "f91943525f2ca04a",
+      "section_path": [
+        "5.9. Treatment and Interventions for Visual\nImpairments",
+        "Recommendations for Treatment and Interventions for Visual\nImpairments\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Treatment and Interventions for Visual\nImpairments\n",
+      "context_before": "5.9. Treatment and Interventions for Visual\nImpairments",
+      "footnote_candidates": [],
+      "n_rows": 9,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons with convergence insufficiency\npoststroke, eye exercises are recommended to\nimprove ocular convergence.1,2\n2a | B-R | 2. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving performance of ADLs.3,4\n2a | C-LD | 3. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving scanning and reading outcomes.5,6\n2a | B-R | 4. In persons with stroke with deficits in visual\nfields, prisms can be useful to help compensate\nfor visual field cuts.7–9\n2a | B-R | 5. In persons with stroke with deficits in visual\nfields, compensatory scanning training can be\nuseful for improving vision-related quality of life\nafter visual field loss, but it is not effective at\nimproving visual field deficits.8–13\n2b | B-R | 6. In persons with stroke with deficits in visual\nfields, computerized vision restoration training\nmay be considered to expand visual fields and\nto improve vision-related quality of life.14–18\n1 | B-R | 7. In persons with stroke with visual-spatial/per\nceptual deficits, audio-visual spatial explora\ntion training, in comparison with visual spatial\nexploration training alone, is recommended to\nimprove visual scanning.19–21\n2b | B-NR | 8. In persons with stroke with visual-spatial/\nperceptual deficits, the use of VR therapy may\nbe considered to improve visual-spatial and\nperceptual functioning.22,23",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons with convergence insufficiency\npoststroke, eye exercises are recommended to\nimprove ocular convergence.1,2"
+        ],
+        [
+          "2a",
+          "B-R",
+          "2. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving performance of ADLs.3,4"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "3. In persons with eye movement deficits post\nstroke, compensatory training can be useful for\nimproving scanning and reading outcomes.5,6"
+        ],
+        [
+          "2a",
+          "B-R",
+          "4. In persons with stroke with deficits in visual\nfields, prisms can be useful to help compensate\nfor visual field cuts.7–9"
+        ],
+        [
+          "2a",
+          "B-R",
+          "5. In persons with stroke with deficits in visual\nfields, compensatory scanning training can be\nuseful for improving vision-related quality of life\nafter visual field loss, but it is not effective at\nimproving visual field deficits.8–13"
+        ],
+        [
+          "2b",
+          "B-R",
+          "6. In persons with stroke with deficits in visual\nfields, computerized vision restoration training\nmay be considered to expand visual fields and\nto improve vision-related quality of life.14–18"
+        ],
+        [
+          "1",
+          "B-R",
+          "7. In persons with stroke with visual-spatial/per\nceptual deficits, audio-visual spatial explora\ntion training, in comparison with visual spatial\nexploration training alone, is recommended to\nimprove visual scanning.19–21"
+        ],
+        [
+          "2b",
+          "B-NR",
+          "8. In persons with stroke with visual-spatial/\nperceptual deficits, the use of VR therapy may\nbe considered to improve visual-spatial and\nperceptual functioning.22,23"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b1633e3d3b48394b",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 67,
+      "table_index": 0,
+      "bbox": [
+        123.25,
+        86.14,
+        438.6,
+        430.12
+      ],
+      "section_id": "ef0b13fe5a882918",
+      "section_path": [
+        "examine both the short- and long-term effects of\nthese interventions on daily life.26,29"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "examine both the short- and long-term effects of\nthese interventions on daily life.26,29",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-R | 1. For persons with acute stroke, dysphagia\nscreening should be performed as soon as\npossible (within 24 hours of admission) and\nbefore the person begins eating, drinking, or\nreceiving oral medications to identify individu\nals for a full evaluation.1–3\n1 | B-NR | 2. For persons with stroke, dysphagia screening\nshould be performed using a formal, validated\ntool that, at minimum, includes observing\nattempts to swallow liquids of different volumes\nto identify those at risk for dysphagia.3–9\n1 | B-NR | 3. For persons with stroke and suspected\ndysphagia, instrumented swallow studies\nshould be chosen over noninstrumented or\n“bedside” swallow studies to verify the pres\nence/absence of aspiration, to determine\nthe biomechanical reasons for dysphagia, to\nidentify the least restrictive oral diet, and to\nguide the treatment plan with greater preci\nsion.2,9–18\n2a | C-LD | 4. For persons with stroke, it is reasonable\nto perform dysphagia screening within 24\nhours of admission to a new care setting\nto identify patients who remain at risk for\ndysphagia.19",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-R",
+          "1. For persons with acute stroke, dysphagia\nscreening should be performed as soon as\npossible (within 24 hours of admission) and\nbefore the person begins eating, drinking, or\nreceiving oral medications to identify individu\nals for a full evaluation.1–3"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. For persons with stroke, dysphagia screening\nshould be performed using a formal, validated\ntool that, at minimum, includes observing\nattempts to swallow liquids of different volumes\nto identify those at risk for dysphagia.3–9"
+        ],
+        [
+          "1",
+          "B-NR",
+          "3. For persons with stroke and suspected\ndysphagia, instrumented swallow studies\nshould be chosen over noninstrumented or\n“bedside” swallow studies to verify the pres\nence/absence of aspiration, to determine\nthe biomechanical reasons for dysphagia, to\nidentify the least restrictive oral diet, and to\nguide the treatment plan with greater preci\nsion.2,9–18"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "4. For persons with stroke, it is reasonable\nto perform dysphagia screening within 24\nhours of admission to a new care setting\nto identify patients who remain at risk for\ndysphagia.19"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_06ac45641dc286a1",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 67,
+      "table_index": 1,
+      "bbox": [
+        59.47,
+        179.88,
+        278.47,
+        519.62
+      ],
+      "section_id": "83fb86895779e85a",
+      "section_path": [
+        "5.10. Dysphagia Screening, Management, and\nNutritional Support",
+        "Recommendations for Dysphagia Screening, Management, and\nNutritional Support\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Dysphagia Screening, Management, and\nNutritional Support\n",
+      "context_before": "5.10. Dysphagia Screening, Management, and\nNutritional Support",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-R | 1. For persons with acute stroke, dysphagia\nscreening should be performed as soon as\npossible (within 24 hours of admission) and\nbefore the person begins eating, drinking, or\nreceiving oral medications to identify individu\nals for a full evaluation.1–3\n1 | B-NR | 2. For persons with stroke, dysphagia screening\nshould be performed using a formal, validated\ntool that, at minimum, includes observing\nattempts to swallow liquids of different volumes\nto identify those at risk for dysphagia.3–9\n1 | B-NR | 3. For persons with stroke and suspected\ndysphagia, instrumented swallow studies\nshould be chosen over noninstrumented or\n“bedside” swallow studies to verify the pres\nence/absence of aspiration, to determine\nthe biomechanical reasons for dysphagia, to\nidentify the least restrictive oral diet, and to\nguide the treatment plan with greater preci\nsion.2,9–18\n2a | C-LD | 4. For persons with stroke, it is reasonable\nto perform dysphagia screening within 24\nhours of admission to a new care setting\nto identify patients who remain at risk for\ndysphagia.19\n2a | B-R | 5. For persons with stroke, dysphagia screening is\nreasonable by a speech-language pathologist,\nnurse, or other trained health care provider to\nidentify those at risk for dysphagia.2,3,20,21\n2a | B-NR | 6. In persons with stroke receiving instru\nmented swallow studies, it is reasonable to\nassess pill swallowing to determine safe and\nefficient methods of oral medication adminis\ntration.22,23",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-R",
+          "1. For persons with acute stroke, dysphagia\nscreening should be performed as soon as\npossible (within 24 hours of admission) and\nbefore the person begins eating, drinking, or\nreceiving oral medications to identify individu\nals for a full evaluation.1–3"
+        ],
+        [
+          "1",
+          "B-NR",
+          "2. For persons with stroke, dysphagia screening\nshould be performed using a formal, validated\ntool that, at minimum, includes observing\nattempts to swallow liquids of different volumes\nto identify those at risk for dysphagia.3–9"
+        ],
+        [
+          "1",
+          "B-NR",
+          "3. For persons with stroke and suspected\ndysphagia, instrumented swallow studies\nshould be chosen over noninstrumented or\n“bedside” swallow studies to verify the pres\nence/absence of aspiration, to determine\nthe biomechanical reasons for dysphagia, to\nidentify the least restrictive oral diet, and to\nguide the treatment plan with greater preci\nsion.2,9–18"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "4. For persons with stroke, it is reasonable\nto perform dysphagia screening within 24\nhours of admission to a new care setting\nto identify patients who remain at risk for\ndysphagia.19"
+        ],
+        [
+          "2a",
+          "B-R",
+          "5. For persons with stroke, dysphagia screening is\nreasonable by a speech-language pathologist,\nnurse, or other trained health care provider to\nidentify those at risk for dysphagia.2,3,20,21"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "6. In persons with stroke receiving instru\nmented swallow studies, it is reasonable to\nassess pill swallowing to determine safe and\nefficient methods of oral medication adminis\ntration.22,23"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_96a602c71b84e389",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 75,
+      "table_index": 0,
+      "bbox": [
+        57.53,
+        459.19,
+        278.45,
+        722.18
+      ],
+      "section_id": "d018d026fa8f4341",
+      "section_path": [
+        "4. A systematic review and meta-analysis of 24 stud",
+        "6.2. Acquired Communication Disorders",
+        "Recommendations for Acquired Communication Disorders\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Acquired Communication Disorders\n",
+      "context_before": "6.2. Acquired Communication Disorders",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2a | B-NR | 1. In persons with stroke and apragmatism,\na referral to speech-language pathology is\nreasonable to facilitate restorative or com\npensatory communication related to prosody,\nlanguage understanding, and language use.1–5\n1 | A | 2. In persons with stroke and aphasia, a variety\nof speech and language treatment approaches\nshould be administered to facilitate restorative\nor compensatory communication.6–17\n1 | B-NR | 3. In persons with stroke and aphasia, supported\ncommunication training is recommended as a\ntherapeutic complement to improve facilitation\nskills important to enhancing the communica\ntion of persons with aphasia.18–21\n2a | B-R | 4. In persons with stroke and aphasia, the admin\nistration of intensive aphasia treatment can be\nuseful to facilitate restorative or compensatory\ncommunication.22–31\n2a | A | 5. In persons with stroke and aphasia, use of\ntelerehabilitation is reasonable when face-toface treatment is not possible or impractical\nto facilitate access to skilled speech-language\npathology treatment.32–37",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2a",
+          "B-NR",
+          "1. In persons with stroke and apragmatism,\na referral to speech-language pathology is\nreasonable to facilitate restorative or com\npensatory communication related to prosody,\nlanguage understanding, and language use.1–5"
+        ],
+        [
+          "1",
+          "A",
+          "2. In persons with stroke and aphasia, a variety\nof speech and language treatment approaches\nshould be administered to facilitate restorative\nor compensatory communication.6–17"
+        ],
+        [
+          "1",
+          "B-NR",
+          "3. In persons with stroke and aphasia, supported\ncommunication training is recommended as a\ntherapeutic complement to improve facilitation\nskills important to enhancing the communica\ntion of persons with aphasia.18–21"
+        ],
+        [
+          "2a",
+          "B-R",
+          "4. In persons with stroke and aphasia, the admin\nistration of intensive aphasia treatment can be\nuseful to facilitate restorative or compensatory\ncommunication.22–31"
+        ],
+        [
+          "2a",
+          "A",
+          "5. In persons with stroke and aphasia, use of\ntelerehabilitation is reasonable when face-toface treatment is not possible or impractical\nto facilitate access to skilled speech-language\npathology treatment.32–37"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_fde569b57a5a78ed",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 78,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        86.14,
+        279.93,
+        184.0
+      ],
+      "section_id": "62cb1c8adc66d8d3",
+      "section_path": [
+        "Recommendations for Motor Speech Disorders: Dysarthria and\nApraxia of Speech (Continued)",
+        "Recommendations for Motor Speech Disorders: Dysarthria and\nApraxia of Speech (Continued)"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Motor Speech Disorders: Dysarthria and\nApraxia of Speech (Continued)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2b | C-LD | 6. In persons with poststroke motor speech disor\nders, telerehabilitation may be useful when faceto-face treatment is impossible or impracticable\nto improve communication effectiveness.19,20\n3 | B-R | 7. In persons with poststroke motor speech\ndisorders, nonspeech oral-motor exercises are\nnot an effective adjuvant to traditional behavioral\nspeech interventions to improve communication\neffectiveness.21,22",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2b",
+          "C-LD",
+          "6. In persons with poststroke motor speech disor\nders, telerehabilitation may be useful when faceto-face treatment is impossible or impracticable\nto improve communication effectiveness.19,20"
+        ],
+        [
+          "3",
+          "B-R",
+          "7. In persons with poststroke motor speech\ndisorders, nonspeech oral-motor exercises are\nnot an effective adjuvant to traditional behavioral\nspeech interventions to improve communication\neffectiveness.21,22"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_1b842c731e32c490",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 80,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        613.19,
+        279.06,
+        710.93
+      ],
+      "section_id": "3449575612859652",
+      "section_path": [
+        "7. Nonspeech oral motor exercises (NSOMEs), such",
+        "6.4. Spatial Neglect",
+        "Recommendations for Spatial Neglect\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Spatial Neglect\n",
+      "context_before": "6.4. Spatial Neglect",
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n2a | A | 1. In persons with stroke and spatial neglect, it is\nreasonable to use visual eye movement training\napproaches such as optokinetic stimulation or\nsaccadic/smooth pursuit eye movement training\nto improve visual-spatial impairment.1–6\n2a | B-R | 2. In persons with spatial neglect after stroke,\nmirror therapy in combination with conventional\ntherapy is reasonable to improve functional\nindependence.7,8",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "2a",
+          "A",
+          "1. In persons with stroke and spatial neglect, it is\nreasonable to use visual eye movement training\napproaches such as optokinetic stimulation or\nsaccadic/smooth pursuit eye movement training\nto improve visual-spatial impairment.1–6"
+        ],
+        [
+          "2a",
+          "B-R",
+          "2. In persons with spatial neglect after stroke,\nmirror therapy in combination with conventional\ntherapy is reasonable to improve functional\nindependence.7,8"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_5ebc3c9f0bba6b23",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 87,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        265.88,
+        280.52,
+        511.37
+      ],
+      "section_id": "a914bf6455d552a9",
+      "section_path": [
+        "7.4. Community Rehabilitation and\nTelerehabilitation",
+        "Recommendations for Community Rehabilitation and\nTelerehabilitation\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Community Rehabilitation and\nTelerehabilitation\n",
+      "context_before": "7.4. Community Rehabilitation and\nTelerehabilitation",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [
+        "possible_hyphenation_artifact"
+      ],
+      "text": "COR | LOE | Recommendations\n1 | A | 1. In persons discharging from hospital with recent\nstroke, ongoing community- or home-based\nrehabilitation is recommended, when feasible, to\nachieve functional goals.1\n2a | B-R | 2. For persons living at home after stroke, homebased multidisciplinary rehabilitation is a reason\nable alternative to clinic-based rehabilitation to\nachieve functional goals in mobility, self-care,\nand cognitive/communicative function.2–6\n2a | B-R | 3. For persons living at home after mild to moder\nate stroke, telerehabilitation therapies are rea\nsonable alternatives to in-person therapies when\naccess to these in-person therapies is limited or\nabsent.7–11\n2a | C-LD | 4. For persons with mild to moderate stroke, partic\nipation in community-based exercise programs\ncan be useful to improve strength, mobility, and\ncardiovascular health.12–16\n2b | C-LD | 5. In persons with stroke, coordinated education,\ntherapy, and support services during and\nthrough the transition from hospital to home\nmay be reasonable to improve stroke survivor\nself-efficacy, functional ability, and quality of\nlife.17–21",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "A",
+          "1. In persons discharging from hospital with recent\nstroke, ongoing community- or home-based\nrehabilitation is recommended, when feasible, to\nachieve functional goals.1"
+        ],
+        [
+          "2a",
+          "B-R",
+          "2. For persons living at home after stroke, homebased multidisciplinary rehabilitation is a reason\nable alternative to clinic-based rehabilitation to\nachieve functional goals in mobility, self-care,\nand cognitive/communicative function.2–6"
+        ],
+        [
+          "2a",
+          "B-R",
+          "3. For persons living at home after mild to moder\nate stroke, telerehabilitation therapies are rea\nsonable alternatives to in-person therapies when\naccess to these in-person therapies is limited or\nabsent.7–11"
+        ],
+        [
+          "2a",
+          "C-LD",
+          "4. For persons with mild to moderate stroke, partic\nipation in community-based exercise programs\ncan be useful to improve strength, mobility, and\ncardiovascular health.12–16"
+        ],
+        [
+          "2b",
+          "C-LD",
+          "5. In persons with stroke, coordinated education,\ntherapy, and support services during and\nthrough the transition from hospital to home\nmay be reasonable to improve stroke survivor\nself-efficacy, functional ability, and quality of\nlife.17–21"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_1067e11385654fdc",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 89,
+      "table_index": 0,
+      "bbox": [
+        59.47,
+        669.38,
+        279.22,
+        726.87
+      ],
+      "section_id": "bfcc8f4bd5484a22",
+      "section_path": [
+        "7.6. Recreational, Leisure, and Social Activity\nParticipation",
+        "Recommendations for Recreational, Leisure, and Social Activity\nParticipation\n"
+      ],
+      "heading_level": 2,
+      "caption": "Recommendations for Recreational, Leisure, and Social Activity\nParticipation\n",
+      "context_before": "7.6. Recreational, Leisure, and Social Activity\nParticipation",
+      "footnote_candidates": [
+        "*Although an individual’s leisure is highly personalized and contextualized, con\nsider the utilization of the evidence-based activities for those who can tolerate\nand engage in these activities safely.",
+        "†Please see Table 11 for a further description of these activities."
+      ],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | B-NR | 1. In persons with subacute and chronic stroke, an\nindividualized assessment and treatment plan\nis recommended to address changes in leisure\nand social participation patterns to improve\nquality of life, health, and leisure satisfaction.1–4",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "B-NR",
+          "1. In persons with subacute and chronic stroke, an\nindividualized assessment and treatment plan\nis recommended to address changes in leisure\nand social participation patterns to improve\nquality of life, health, and leisure satisfaction.1–4"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f4d2f0f180b326fd",
+      "doc_name": "2026 AHA_ASA,Adult Stroke Rehabilitation.pdf",
+      "doc_family": "AHA_ESC",
+      "doc_family_source": "filename_rule",
+      "organization": "AHA/ACC/ESC",
+      "year": 2026,
+      "page": 96,
+      "table_index": 0,
+      "bbox": [
+        57.53,
+        635.69,
+        279.0,
+        702.18
+      ],
+      "section_id": "fda1171e553fb730",
+      "section_path": [
+        "4. Poststroke fatigue, mood disorders, and cogni",
+        "7.8. Return to Driving",
+        "Recommendations for Return to Driving\n"
+      ],
+      "heading_level": 3,
+      "caption": "Recommendations for Return to Driving\n",
+      "context_before": "7.8. Return to Driving",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "COR",
+        "LOE",
+        "Recommendations"
+      ],
+      "header_signature": "e69b3b57372c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": true,
+      "cell_extraction": "positioned_text",
+      "emitted_as_recommendation_chunks": true,
+      "quality_flags": [],
+      "text": "COR | LOE | Recommendations\n1 | C-LD | 1. For persons with stroke who have impair\nments that could impact safe driving (such as\ncognitive, perceptual, or physical impairments),\nreferral for an on-road test administered by an\nauthorized person is recommended to deter\nmine fitness to drive.1–4",
+      "rows": [
+        [
+          "COR",
+          "LOE",
+          "Recommendations"
+        ],
+        [
+          "1",
+          "C-LD",
+          "1. For persons with stroke who have impair\nments that could impact safe driving (such as\ncognitive, perceptual, or physical impairments),\nreferral for an on-road test administered by an\nauthorized person is recommended to deter\nmine fitness to drive.1–4"
+        ]
+      ]
+    }
+  ]
+}

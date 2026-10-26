@@ -1,0 +1,1499 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 WHO Neurological conditions.pdf",
+  "doc_family": "WHO",
+  "doc_family_source": "filename_rule",
+  "organization": "World Health Organization",
+  "year": 2023,
+  "table_count": 14,
+  "tables": [
+    {
+      "table_id": "tbl_4836781d0fda18f0",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 21,
+      "table_index": 0,
+      "bbox": [
+        42.64,
+        42.64,
+        799.4,
+        551.25
+      ],
+      "section_id": "2b4db7d0d644e5e0",
+      "section_path": [
+        "Positioning for the"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 13,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8242,
+      "header_row": [
+        "",
+        "sts) t ctitioner/ t",
+        "",
+        "ner/ ner/ ner/ ner/",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "ee1278cdef20",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t ctitioner/ t |  | ner/ ner/ ner/ ner/ |  |  | \n |  |  | t ctition ctition ctition | t t t | ctition | \nMaterial resources Occupations | cialis rapist l prac rapist rapist l prac l prac l prac rapist nal rapist rapist l prac |  |  |  |  | \n | p bilitation spe upational ther siotherapist cialist medical M physician upational ther siotherapist upational ther siotherapist cialist medical M physician cialist medical M physician cialist medical M physician upational ther siotherapist sing profession upational ther siotherapist upational ther siotherapist cialist medical M physician |  |  |  |  | \n | p (rehab • Occu • Phys • Spec PRM • Occu • Phys • Occu • Phys • Spec PRM • Spec PRM • Spec PRM • Occu • Phys • Nurs • Occu • Phys • Occu • Phys • Spec PRM |  |  |  |  | \n | bles ges |  |  |  |  | \n | Consumab – – – ofen nidine linum toxin es hol wipes dles and syring sound gel – – – |  |  |  |  | \n | • Baclo • Tizan • Botu • Glove • Alcoh • Need • Ultra |  |  |  |  | \n | ment mometer s e putty ner dges |  |  |  |  | \n | Equipm nt table d dynam ce bands mat exercise nt table nt table mmer – nt table nd scann nt table ers/wed kit |  |  |  |  | \n | • Treatmen • Handheld • Weights • Resistanc • Exercise m • Resistive • Treatmen • Treatmen • Reflex ham • Treatmen • Ultrasoun • Treatmen • Pillows • Foam roll • Orthoses • Timer |  |  |  |  | \n |  |  |  |  |  | \n | e products – – – – – – wer limb per limb lints) otor control) – |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t ctitioner/ t",
+          "",
+          "ner/ ner/ ner/ ner/",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t ctition ctition ctition",
+          "t t t",
+          "ctition",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "cialis rapist l prac rapist rapist l prac l prac l prac rapist nal rapist rapist l prac",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p bilitation spe upational ther siotherapist cialist medical M physician upational ther siotherapist upational ther siotherapist cialist medical M physician cialist medical M physician cialist medical M physician upational ther siotherapist sing profession upational ther siotherapist upational ther siotherapist cialist medical M physician",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p (rehab • Occu • Phys • Spec PRM • Occu • Phys • Occu • Phys • Spec PRM • Spec PRM • Spec PRM • Occu • Phys • Nurs • Occu • Phys • Occu • Phys • Spec PRM",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "bles ges",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consumab – – – ofen nidine linum toxin es hol wipes dles and syring sound gel – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• Baclo • Tizan • Botu • Glove • Alcoh • Need • Ultra",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ment mometer s e putty ner dges",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equipm nt table d dynam ce bands mat exercise nt table nt table mmer – nt table nd scann nt table ers/wed kit",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• Treatmen • Handheld • Weights • Resistanc • Exercise m • Resistive • Treatmen • Treatmen • Reflex ham • Treatmen • Ultrasoun • Treatmen • Pillows • Foam roll • Orthoses • Timer",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "e products – – – – – – wer limb per limb lints) otor control) –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_caa29ea59a608447",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 23,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        509.58
+      ],
+      "section_id": "fa4d3abe7efe9c16",
+      "section_path": [
+        "Target: Mobility"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8214,
+      "header_row": [
+        "",
+        "sts) t",
+        "t",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "965ebf1e37ff",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t | t |  |  |  | \n |  |  | t | t t |  | \nMaterial resources Occupations | p (rehabilitation specialis • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist |  |  |  |  | \n | Consumables – – – – – |  |  |  |  | \n |  |  |  |  |  | \n | e) varying eet mic) aily aily |  |  |  |  | \n | Equipment xercise mat ones amps (temporary/mobil teps (stackable) tools/small benches of v eight raining stairs ransfer boards/slide she asting kit plinting kit (static/dynam rthoses kit Measuring tape pper limb workstation tensils for activities of da ving ocks Mittens loves rm activity kit asting kit plinting kit pper limb workstation tensils for activities of da ving |  |  |  |  | \n | s • Ex • Co • Ra • St • St he • Tr • Tr s hair) wered) • Ca • Sp • O • M • Up • Ut liv • So • M • G • Ar • Ca • Sp • Up • Ut liv |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t",
+          "t",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t",
+          "t t",
+          "",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "p (rehabilitation specialis • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consumables – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "e) varying eet mic) aily aily",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equipment xercise mat ones amps (temporary/mobil teps (stackable) tools/small benches of v eight raining stairs ransfer boards/slide she asting kit plinting kit (static/dynam rthoses kit Measuring tape pper limb workstation tensils for activities of da ving ocks Mittens loves rm activity kit asting kit plinting kit pper limb workstation tensils for activities of da ving",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "s • Ex • Co • Ra • St • St he • Tr • Tr s hair) wered) • Ca • Sp • O • M • Up • Ut liv • So • M • G • Ar • Ca • Sp • Up • Ut liv",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_23047ffb1d8780a3",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 24,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        518.45
+      ],
+      "section_id": "562b14acebb88e27",
+      "section_path": [
+        "Functional training for"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 10,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8143,
+      "header_row": [
+        "",
+        "sts) ctitioner/",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "3ef946b57262",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) ctitioner/ |  |  |  |  | \n |  |  | t t | t t |  | \nOccupations | cialis l prac rapist rapist rapist rapist |  |  |  |  | \n | itation spe therapist list medical hysician therapist ational ther therapist ational ther therapist ational ther therapist ational ther therapist |  |  |  |  | \n | p (rehabili • Physiot • Special PRM ph • Physiot • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot |  |  |  |  | \nMaterial resources | bles |  |  |  |  | \n | Consumab – – – – – – |  |  |  |  | \n | or leg) or leg) of daily of daily toileting rinking dressing ent) |  |  |  |  | \n | Equipment gometer (arm te monitor gometer (arm mat ce bands ball for activities o for activities o e products for t d eating and d s e products for d eality equipm – ng tape |  |  |  |  | \n | cts • Timer • Cycle erg • Heart rat • Cycle erg • Exercise • Resistan • Weights • Exercise • Timer • Utensils living • Utensils living • Assistive • Adapted products • Assistive • (Virtual re toileting drinking dressing or pit light/ vice • Measurin |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) ctitioner/",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t t",
+          "t t",
+          "",
+          ""
+        ],
+        [
+          "Occupations",
+          "cialis l prac rapist rapist rapist rapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "itation spe therapist list medical hysician therapist ational ther therapist ational ther therapist ational ther therapist ational ther therapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p (rehabili • Physiot • Special PRM ph • Physiot • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Material resources",
+          "bles",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consumab – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "or leg) or leg) of daily of daily toileting rinking dressing ent)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equipment gometer (arm te monitor gometer (arm mat ce bands ball for activities o for activities o e products for t d eating and d s e products for d eality equipm – ng tape",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "cts • Timer • Cycle erg • Heart rat • Cycle erg • Exercise • Resistan • Weights • Exercise • Timer • Utensils living • Utensils living • Assistive • Adapted products • Assistive • (Virtual re toileting drinking dressing or pit light/ vice • Measurin",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_25e08cba6846daf0",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 29,
+      "table_index": 0,
+      "bbox": [
+        56.82,
+        133.89,
+        552.76,
+        152.16
+      ],
+      "section_id": "81a9bec7cfefebe9",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_c307199aa76cdff7",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 42,
+      "table_index": 0,
+      "bbox": [
+        42.64,
+        42.64,
+        799.4,
+        530.85
+      ],
+      "section_id": "3f35dea68869a43d",
+      "section_path": [
+        "the use of incontinence"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 14,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8061,
+      "header_row": [
+        "",
+        "sts) ctitioner/ ctitioner/",
+        "t",
+        "ner/ ner/",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "6775741076cf",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) ctitioner/ ctitioner/ | t | ner/ ner/ |  |  | \n |  |  | t ctition t t | t t ctition t |  | \nOccupations | cialis nal l prac l prac nal rapist rapist l prac rapist rapist rapist l prac rapist |  |  |  |  | \n | tation spe g profession ist medical hysician ist medical hysician g profession ational ther herapist ational ther herapist ist medical hysician ational ther herapist ational ther herapist ational ther herapist ist medical hysician ational ther herapist |  |  |  |  | \n | p (rehabilit • Nursing • Special PRM ph • Special PRM ph • Nursing • Occupa • Physiot • Occupa • Physiot • Special PRM ph • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot • Special PRM ph • Occupa • Physiot |  |  |  |  | \n | bles |  |  |  |  | \nMaterial resources | mab – ne – – – – – – |  |  |  |  | \n | Consu Midodrine Fludrocortison |  |  |  |  | \n | • M • F |  |  |  |  | \n | ment |  |  |  |  | \n | ent easurem ometer putty |  |  |  |  | \n | uipm re me – – ble pe ble ble ble namo ands rcise ble |  |  |  |  | \n | Equ Blood pressur device Treatment tab Measuring tap Goniometer Treatment tab Treatment tab Exercise mat Treatment tab Handheld dyn Weights Resistance ba Exercise mat Resistive exer Treatment tab |  |  |  |  | \n | oducts n) • pression s, stockings, • • • • • • • • • • • • • |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) ctitioner/ ctitioner/",
+          "t",
+          "ner/ ner/",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t ctition t t",
+          "t t ctition t",
+          "",
+          ""
+        ],
+        [
+          "Occupations",
+          "cialis nal l prac l prac nal rapist rapist l prac rapist rapist rapist l prac rapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "tation spe g profession ist medical hysician ist medical hysician g profession ational ther herapist ational ther herapist ist medical hysician ational ther herapist ational ther herapist ational ther herapist ist medical hysician ational ther herapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p (rehabilit • Nursing • Special PRM ph • Special PRM ph • Nursing • Occupa • Physiot • Occupa • Physiot • Special PRM ph • Occupa • Physiot • Occupa • Physiot • Occupa • Physiot • Special PRM ph • Occupa • Physiot",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "bles",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Material resources",
+          "mab – ne – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consu Midodrine Fludrocortison",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• M • F",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ment",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ent easurem ometer putty",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "uipm re me – – ble pe ble ble ble namo ands rcise ble",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equ Blood pressur device Treatment tab Measuring tap Goniometer Treatment tab Treatment tab Exercise mat Treatment tab Handheld dyn Weights Resistance ba Exercise mat Resistive exer Treatment tab",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "oducts n) • pression s, stockings, • • • • • • • • • • • • •",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_20ea184479f470e7",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 45,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        553.39
+      ],
+      "section_id": "02af22a4eab9fbe8",
+      "section_path": [
+        "Motor functions and mobility"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 11,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8052,
+      "header_row": [
+        "",
+        "sts) t",
+        "",
+        "ner/",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "1351799e8679",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t |  | ner/ |  |  | \n |  |  | ctition t | t t t | t | \nOccupations | p (rehabilitation specialis • Occupational therapist • Physiotherapist • Physiotherapist • Specialist medical prac PRM physician • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Nursing professional • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist |  |  |  |  | \n |  |  |  |  |  | \n | umables – – – – – – – |  |  |  |  | \n | Consu |  |  |  |  | \nMaterial resources | eg) eg) ily ily eting ing ssing |  |  |  |  | \n | ent arm or le arm or le es of da es of da for toile nd drinki for dres |  |  |  |  | \n | Equipme • Measuring tape • Timer • Cycle ergometer (a • Heart rate monitor • Cycle ergometer (a • Exercise mat • Resistance bands • Weights • Exercise ball • Timer • Utensils for activiti living • Utensils for activiti living • Assistive products • Adapted eating an products • Assistive products – • Measuring tape |  |  |  |  | \n | ucts d kers or elchair) • • • • • • • • • • • • • • • or toileting drinking or dressing • |  |  |  |  | \n | ve produ tetrapod mes/walk rds manual hion for whee – – – – ducts fo ing and ducts fo |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t",
+          "",
+          "ner/",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "ctition t",
+          "t t t",
+          "t",
+          ""
+        ],
+        [
+          "Occupations",
+          "p (rehabilitation specialis • Occupational therapist • Physiotherapist • Physiotherapist • Specialist medical prac PRM physician • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Nursing professional • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "umables – – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consu",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Material resources",
+          "eg) eg) ily ily eting ing ssing",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ent arm or le arm or le es of da es of da for toile nd drinki for dres",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equipme • Measuring tape • Timer • Cycle ergometer (a • Heart rate monitor • Cycle ergometer (a • Exercise mat • Resistance bands • Weights • Exercise ball • Timer • Utensils for activiti living • Utensils for activiti living • Assistive products • Adapted eating an products • Assistive products – • Measuring tape",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ucts d kers or elchair) • • • • • • • • • • • • • • • or toileting drinking or dressing •",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ve produ tetrapod mes/walk rds manual hion for whee – – – – ducts fo ing and ducts fo",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_ff5cbc8808c61cfa",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 69,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        549.63
+      ],
+      "section_id": "6e8d3e4d85061612",
+      "section_path": [
+        "Cardiovascular functions"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 12,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8095,
+      "header_row": [
+        "",
+        "sts) t ctitioner/",
+        "",
+        "ner/",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "b4711caf9a26",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t ctitioner/ |  | ner/ |  |  | \n |  |  | t t | t st t ctition t |  | \nOccupations | tion specialis professional onal therapist erapist medical prac sician onal therapist erapist onal therapist erapist onal therapist erapist st and orthotis onal therapist erapist medical prac sician onal therapist erapist |  |  |  |  | \n | p bilitat ing p upatio iothe ialist phys upatio iothe upatio iothe upatio iothe hetis upatio iothe ialist phys upatio iothe |  |  |  |  | \n | p (rehab mables – • Nursi • Occu • Physi – • Spec PRM – • Occu • Physi – • Occu • Physi – • Occu • Physi • Prost – • Occu • Physi • Spec PRM – • Occu • Physi |  |  |  |  | \nMaterial resources | nsum – – – – – – – |  |  |  |  | \n | Co |  |  |  |  | \n | ement amic) r |  |  |  |  | \n | uipment – re measure er r ble pe ble static/dyna ble namomete ands rcise putty ble |  |  |  |  | \n | Equ essu imete cope meter nt tab eter ng ta nt tab kit g kit (s s kit nt tab d dy ce ba e exer mat nt tab |  |  |  |  | \n | • Blood pre device • Pulse oxi • Stethosc • Thermom • Treatmen • Goniome • Measurin • Treatmen • Casting k • Splinting • Orthoses • Treatmen • Handhel • Weights • Resistanc • Resistive • Exercise • Treatmen |  |  |  |  | \n | e products compression ments, stockings, syndrome – – – wer limb per limb – – |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t ctitioner/",
+          "",
+          "ner/",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t t",
+          "t st t ctition t",
+          "",
+          ""
+        ],
+        [
+          "Occupations",
+          "tion specialis professional onal therapist erapist medical prac sician onal therapist erapist onal therapist erapist onal therapist erapist st and orthotis onal therapist erapist medical prac sician onal therapist erapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p bilitat ing p upatio iothe ialist phys upatio iothe upatio iothe upatio iothe hetis upatio iothe ialist phys upatio iothe",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p (rehab mables – • Nursi • Occu • Physi – • Spec PRM – • Occu • Physi – • Occu • Physi – • Occu • Physi • Prost – • Occu • Physi • Spec PRM – • Occu • Physi",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Material resources",
+          "nsum – – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Co",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ement amic) r",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "uipment – re measure er r ble pe ble static/dyna ble namomete ands rcise putty ble",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equ essu imete cope meter nt tab eter ng ta nt tab kit g kit (s s kit nt tab d dy ce ba e exer mat nt tab",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• Blood pre device • Pulse oxi • Stethosc • Thermom • Treatmen • Goniome • Measurin • Treatmen • Casting k • Splinting • Orthoses • Treatmen • Handhel • Weights • Resistanc • Resistive • Exercise • Treatmen",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "e products compression ments, stockings, syndrome – – – wer limb per limb – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_646dacdc2b8a70a3",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 71,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        518.98
+      ],
+      "section_id": "ec0fd97a2b7d8087",
+      "section_path": [
+        "Assessment of gait pattern"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8163,
+      "header_row": [
+        "",
+        "sts)",
+        "t",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "c0b7f0df3a3b",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) | t |  |  |  | \n |  |  | t t | t st |  | \nMaterial resources Occupations | p (rehabilitation specialis • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Prosthetist and orthotis |  |  |  |  | \n |  |  |  |  |  | \n | umables – – – – |  |  |  |  | \n | Consu eet le) le) varying eet mic) |  |  |  |  | \n | cts Equipment • Assistant support belt • Canes/sticks/tetrapod • Crutches, axillary/elbow • Mobile mirror • Parallel bar • Rollators • Training stairs • Walking frames/walkers • (Treadmill) • Transfer boards/slide she • Ramps (temporary/mobi • Timer • Exercise mat • Cones • Ramps (temporary/mobi • Steps (stackable) • Stools/small benches of height • Training stairs • Transfer boards/slide she ow ers or lchair) powered) • Casting kit • Splinting kit (static/dyna • Orthoses kit • Measuring tape |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts)",
+          "t",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t t",
+          "t st",
+          "",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "p (rehabilitation specialis • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Prosthetist and orthotis",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "umables – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consu eet le) le) varying eet mic)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "cts Equipment • Assistant support belt • Canes/sticks/tetrapod • Crutches, axillary/elbow • Mobile mirror • Parallel bar • Rollators • Training stairs • Walking frames/walkers • (Treadmill) • Transfer boards/slide she • Ramps (temporary/mobi • Timer • Exercise mat • Cones • Ramps (temporary/mobi • Steps (stackable) • Stools/small benches of height • Training stairs • Transfer boards/slide she ow ers or lchair) powered) • Casting kit • Splinting kit (static/dyna • Orthoses kit • Measuring tape",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_bc33feb794dc423c",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 78,
+      "table_index": 0,
+      "bbox": [
+        42.6,
+        133.89,
+        538.69,
+        163.16
+      ],
+      "section_id": "81a9bec7cfefebe9",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_3705df797c93eb86",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 98,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        568.12
+      ],
+      "section_id": "02af22a4eab9fbe8",
+      "section_path": [
+        "Motor functions and mobility"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 10,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8143,
+      "header_row": [
+        "",
+        "sts) t t",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "965ebf1e37ff",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [
+        "possible_hyphenation_artifact"
+      ],
+      "text": "| sts) t t |  |  |  |  | \n |  |  | t t st | t | t | \nMaterial resources Occupations | cialis rapist rapist nal rapist rapist thotis rapist rapist |  |  |  |  | \n | itation spe ational ther therapist ational ther therapist g profession ational ther therapist ational ther therapist etist and ort ational ther therapist ational ther therapist |  |  |  |  | \n | p (rehabili ables • Occupa • Physiot • Occupa • Physiot • Nursing • Occupa • Physiot • Occupa • Physiot • Prosthe • Occupa • Physiot • Occupa • Physiot |  |  |  |  | \n | Consuma – – – – – – |  |  |  |  | \n | Equipment • Transfer boards/slide sheet • Ramps (temporary/mobile) • Timer • Exercise mat • Cones • Ramps (temporary/mobile) • Steps (stackable) • Stools/small benches of varying height • Training stairs • Transfer boards/slide sheet • Pillows • Foam rollers/wedges • Casting kit • Splinting kit (static/dynamic) • Orthoses kit • Measuring tape • Upper limb workstation • Utensils for activities of daily living • Upper limb workstation • Utensils for activities of daily living |  |  |  |  | \n | • • • • • • • • • • • • ) • • • • • • • • |  |  |  |  | \n | ducts ir seating late, tray od lbow lkers b al or eelchair) g-powered) |  |  |  |  | \n | istive prod – – seating wheelcha ble, hand pl cks/tetrapo s, axillary/el frames/wal s, lower limb eet boards d slings air (manua l) ble (for whe cushion arm- or leg – – |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t t",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t t st",
+          "t",
+          "t",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "cialis rapist rapist nal rapist rapist thotis rapist rapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "itation spe ational ther therapist ational ther therapist g profession ational ther therapist ational ther therapist etist and ort ational ther therapist ational ther therapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "p (rehabili ables • Occupa • Physiot • Occupa • Physiot • Nursing • Occupa • Physiot • Occupa • Physiot • Prosthe • Occupa • Physiot • Occupa • Physiot",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consuma – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equipment • Transfer boards/slide sheet • Ramps (temporary/mobile) • Timer • Exercise mat • Cones • Ramps (temporary/mobile) • Steps (stackable) • Stools/small benches of varying height • Training stairs • Transfer boards/slide sheet • Pillows • Foam rollers/wedges • Casting kit • Splinting kit (static/dynamic) • Orthoses kit • Measuring tape • Upper limb workstation • Utensils for activities of daily living • Upper limb workstation • Utensils for activities of daily living",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• • • • • • • • • • • • ) • • • • • • • •",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ducts ir seating late, tray od lbow lkers b al or eelchair) g-powered)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "istive prod – – seating wheelcha ble, hand pl cks/tetrapo s, axillary/el frames/wal s, lower limb eet boards d slings air (manua l) ble (for whe cushion arm- or leg – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e2dc44a4c5718c8b",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 106,
+      "table_index": 0,
+      "bbox": [
+        42.6,
+        133.89,
+        538.62,
+        152.16
+      ],
+      "section_id": "81a9bec7cfefebe9",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_157b2e0ada5958dd",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 124,
+      "table_index": 0,
+      "bbox": [
+        42.63,
+        42.64,
+        799.4,
+        470.91
+      ],
+      "section_id": "fa4d3abe7efe9c16",
+      "section_path": [
+        "Target: Mobility"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8036,
+      "header_row": [
+        "",
+        "sts) t",
+        "t",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "965ebf1e37ff",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t | t |  |  |  | \n |  |  | t t | t |  | \nMaterial resources Occupations | p (rehabilitation specialis • Occupational therapist • Physiotherapist • Nursing professional • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist |  |  |  |  | \n | bles |  |  |  |  | \n | Consumab – – – – – |  |  |  |  | \n | uipment C porary/mobile) able) benches of varying rs rds/slide sheet /wedges – (static/dynamic) ape workstation ctivities of daily |  |  |  |  | \n | Equ mat temp tacka mall b stair boar llers/ kit g kit ( s kit ng ta mb w for a |  |  |  |  | \n | • Exercise • Cones • Ramps (t • Steps (st • Stools/sm height • Training • Transfer • Pillows • Foam ro • Casting • Splinting • Orthoses • Measurin • Upper lim • Utensils living |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t",
+          "t",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t t",
+          "t",
+          "",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "p (rehabilitation specialis • Occupational therapist • Physiotherapist • Nursing professional • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist • Occupational therapist • Physiotherapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "bles",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Consumab – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "uipment C porary/mobile) able) benches of varying rs rds/slide sheet /wedges – (static/dynamic) ape workstation ctivities of daily",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equ mat temp tacka mall b stair boar llers/ kit g kit ( s kit ng ta mb w for a",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "• Exercise • Cones • Ramps (t • Steps (st • Stools/sm height • Training • Transfer • Pillows • Foam ro • Casting • Splinting • Orthoses • Measurin • Upper lim • Utensils living",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_dfc60f8f98f0ab39",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 131,
+      "table_index": 0,
+      "bbox": [
+        56.78,
+        133.89,
+        552.67,
+        163.16
+      ],
+      "section_id": "81a9bec7cfefebe9",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8fab31f5427c89ec",
+      "doc_name": "2023 WHO Neurological conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 170,
+      "table_index": 0,
+      "bbox": [
+        70.99,
+        70.99,
+        525.83,
+        89.26
+      ],
+      "section_id": "0993da170cbf85e3",
+      "section_path": [
+        "Person-tailored\nactivities"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "A variety of physical exercises (e.g. aerobic or strengthening exercises, balance or\ncoordination exercises, mind–body exercises), with or without weight-bearing, are\nsuitable to improve exercise capacity, muscle strength, joint mobility, voluntary\nmovement, balance, gait and walking, as well as helping to reduce pain and fatigue.\nRegular physical exercise training (including education and advice on exercises)\nis planned according to an individual’s needs, guided or assisted and, if feasible,\nperformed self-directed following education and advice on the appropriate exercises."
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention",
+        "Description of the intervention"
+      ],
+      "header_signature": "adae9af98472",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention | Description of the intervention",
+      "rows": [
+        [
+          "Intervention",
+          "Description of the intervention"
+        ]
+      ]
+    }
+  ]
+}
