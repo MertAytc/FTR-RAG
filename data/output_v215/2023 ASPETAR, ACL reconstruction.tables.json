@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 ASPETAR, ACL reconstruction.pdf",
+  "doc_family": "ASPETAR",
+  "doc_family_source": "filename_rule",
+  "organization": "Aspetar",
+  "year": 2023,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_3ff01001395d3c4e",
+      "doc_name": "2023 ASPETAR, ACL reconstruction.pdf",
+      "doc_family": "ASPETAR",
+      "doc_family_source": "filename_rule",
+      "organization": "Aspetar",
+      "year": 2023,
+      "page": 2,
+      "table_index": 0,
+      "bbox": [
+        41.99,
+        659.46,
+        553.28,
+        747.76
+      ],
+      "section_id": "ea8561e609bc7eb1",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": null,
+      "context_before": "As an additional step, we summarised the evidence findings, in\na clinically meaningful way, following the a priori-defined rules:\n(1) When available, we prioritised pooled results coming from\nmore than one study, over results from single studies. (2) For",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.5556,
+      "header_row": [
+        "Table 1  Certainty of evidence grades",
+        "",
+        ""
+      ],
+      "header_signature": "a92e5de0ed76",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Table 1  Certainty of evidence grades |  | \nGrade | Letter | Definition\nHigh A We are very confident that the true effect lies close to that of the estimate of the effect |  | \nModerate B We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different |  | \nLow C Our confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect. |  | \nVery low D We have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect |  |",
+      "rows": [
+        [
+          "Table 1  Certainty of evidence grades",
+          "",
+          ""
+        ],
+        [
+          "Grade",
+          "Letter",
+          "Definition"
+        ],
+        [
+          "High A We are very confident that the true effect lies close to that of the estimate of the effect",
+          "",
+          ""
+        ],
+        [
+          "Moderate B We are moderately confident in the effect estimate: The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different",
+          "",
+          ""
+        ],
+        [
+          "Low C Our confidence in the effect estimate is limited: The true effect may be substantially different from the estimate of the effect.",
+          "",
+          ""
+        ],
+        [
+          "Very low D We have very little confidence in the effect estimate: The true effect is likely to be substantially different from the estimate of effect",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

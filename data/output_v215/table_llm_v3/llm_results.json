@@ -1,0 +1,264 @@
+[
+  {
+    "table_id": "tbl_8eb9f2fcdc8841c9",
+    "table_type": "evidence_summary",
+    "chunks": [
+      {
+        "chunk_title": "Evidence levels I through V",
+        "source_row_indices": [
+          1
+        ],
+        "text": " | I Evidence obtained from systematic reviews, high-quality diagnostic studies, prospective studies, or randomized controlled trials II Evidence obtained from systematic reviews, lesser-quality diagnostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up) III Case-control studies or retrospective studies IV Case series V Expert opinion",
+        "embedding_text": "Table: Untitled table (Section: IMPLEMENTING EXERCISE-BASED KNEE INJURY PREVENTION PROGRAMS).\nI: Evidence obtained from systematic reviews, high-quality diagnostic studies, prospective studies, or randomized controlled trials.\nII: Evidence obtained from systematic reviews, lesser-quality diagnostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up).\nIII: Case-control studies or retrospective studies.\nIV: Case series.\nV: Expert opinion."
+      }
+    ],
+    "unparsed_rows": [
+      2
+    ],
+    "warnings": [
+      "row 1 contains multiple evidence levels packed into one cell; item labels were separated as written.",
+      "row 2 is empty and was not parsed."
+    ]
+  },
+  {
+    "table_id": "tbl_f562db12652c053d",
+    "table_type": "evidence_summary",
+    "chunks": [
+      {
+        "chunk_title": "Evidence levels I through V",
+        "source_row_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "I | Evidence obtained from systematic reviews, high-quality diagnos tic studies, prospective studies, or randomized controlled trials\nII | Evidence obtained from systematic reviews, lesser-quality diag nostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)\nIII | Case-control studies or retrospective studies\nIV | Case series\nV | Expert opinion",
+        "embedding_text": "Table: Untitled table (Section: INTERVENTIONS – NEUROMUSCULAR ELECTRICAL STIMULATION/BIOFEEDBACK 2018 Recommendation).\nI: Evidence obtained from systematic reviews, high-quality diagnos tic studies, prospective studies, or randomized controlled trials.\nII: Evidence obtained from systematic reviews, lesser-quality diag nostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up).\nIII: Case-control studies or retrospective studies.\nIV: Case series.\nV: Expert opinion."
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": []
+  },
+  {
+    "table_id": "tbl_2719b2c788ae95e4",
+    "table_type": "evidence_summary",
+    "chunks": [
+      {
+        "chunk_title": "Grades A to C recommendation evidence",
+        "source_row_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "GRADES OF RECOMMENDATION BASED ON |  | STRENGTH OF EVIDENCE\nA | Strong evidence | A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study\nB | Moderate evidence | A single high-quality randomized controlled trial or a preponderance of level II studies support the recommendation\nC | Weak evidence | A single level II study or a preponderance of level III and IV studies, including statements of consensus by content experts, support the recommendation",
+        "embedding_text": "Table: Untitled table (Section: INTERVENTIONS – NEUROMUSCULAR ELECTRICAL STIMULATION/BIOFEEDBACK 2018 Recommendation).\nFor grade A, the recommendation grade is Strong evidence; strength of evidence: A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study.\nFor grade B, the recommendation grade is Moderate evidence; strength of evidence: A single high-quality randomized controlled trial or a preponderance of level II studies support the recommendation.\nFor grade C, the recommendation grade is Weak evidence; strength of evidence: A single level II study or a preponderance of level III and IV studies, including statements of consensus by content experts, support the recommendation."
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": []
+  },
+  {
+    "table_id": "tbl_94649ce9690e6296",
+    "table_type": "evidence_summary",
+    "chunks": [
+      {
+        "chunk_title": "Grades D to F recommendation evidence",
+        "source_row_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "GRADES OF RECOMMENDATION BASED ON |  | STRENGTH OF EVIDENCE\nD | Conflicting evidence | Higher-quality studies conducted on this topic disagree with respect to their conclusions. The recommendation is based on these conflicting studies\nE | Theoretical/ foundational evidence | A preponderance of evidence from animal or cadaver studies, from conceptual models/ principles, or from basic science/bench research support this conclusion\nF | Expert opinion | Best practice based on the clinical experi ence of the guidelines development team",
+        "embedding_text": "Table: Untitled table (Section: INTERVENTIONS – NEUROMUSCULAR ELECTRICAL STIMULATION/BIOFEEDBACK 2018 Recommendation).\nFor grade D, the recommendation grade is Conflicting evidence; strength of evidence: Higher-quality studies conducted on this topic disagree with respect to their conclusions. The recommendation is based on these conflicting studies.\nFor grade E, the recommendation grade is Theoretical/ foundational evidence; strength of evidence: A preponderance of evidence from animal or cadaver studies, from conceptual models/ principles, or from basic science/bench research support this conclusion.\nFor grade F, the recommendation grade is Expert opinion; strength of evidence: Best practice based on the clinical experi ence of the guidelines development team."
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": []
+  },
+  {
+    "table_id": "tbl_2669c3e00577c987",
+    "table_type": "classification_or_staging",
+    "chunks": [
+      {
+        "chunk_title": "AHA/ACC stages and NYHA functional classes",
+        "source_row_indices": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "AHA/ACC Stage | Description | NYHA Class | Description\nStage A | At high risk for developing HF. No identified structural or functional abnormality, no signs or symptoms of HF. | N/A | \nStage B | Structural heart disease that is strongly associated with the development of HF but no signs and symptoms of HF. | I | No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\nStage C | Symptomatic HF, associated with underlying structural heart disease. | I | No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\n |  | II | Slight limitation of physical activity; comfortable at rest but ordinary activity results in fatigue, palpitations, or dyspnea.\n |  | III | Marked limitation of physical activity; comfortable at rest but less than ordinary activity results in fatigue, palpitations, or dyspnea.\n |  | IV | Symptoms at rest; unable to do any physical activity without symptomology.\nStage D | Advanced structural disease with marked symptomology at rest despite maximal medical therapy. | IV | Symptoms at rest; unable to do any physical activity without symptomology.",
+        "embedding_text": "Table: Table 1.\nAmerican Heart Association/American College of Cardiology (AHA/ACC) Stages and New York Heart Association (NYHA)\nFunctional Classes of Heart Failurea.\nFor AHA/ACC Stage A, the description is: At high risk for developing HF. No identified structural or functional abnormality, no signs or symptoms of HF. NYHA Class: N/A.\nFor AHA/ACC Stage B, the description is: Structural heart disease that is strongly associated with the development of HF but no signs and symptoms of HF. NYHA Class I: No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\nFor AHA/ACC Stage C, the description is: Symptomatic HF, associated with underlying structural heart disease. NYHA Class I: No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\nUnder Stage C, NYHA Class II: Slight limitation of physical activity; comfortable at rest but ordinary activity results in fatigue, palpitations, or dyspnea.\nUnder Stage C, NYHA Class III: Marked limitation of physical activity; comfortable at rest but less than ordinary activity results in fatigue, palpitations, or dyspnea.\nUnder Stage C, NYHA Class IV: Symptoms at rest; unable to do any physical activity without symptomology.\nFor AHA/ACC Stage D, the description is: Advanced structural disease with marked symptomology at rest despite maximal medical therapy. NYHA Class IV: Symptoms at rest; unable to do any physical activity without symptomology."
+      }
+    ],
+    "unparsed_rows": [
+      1
+    ],
+    "warnings": [
+      "row 1: repeated header row excluded.",
+      "rows 5-7: blank first cells attached to Stage C (row 4)."
+    ]
+  },
+  {
+    "table_id": "tbl_faecd567e82c01b0",
+    "table_type": "risk_factors_or_screening",
+    "chunks": [
+      {
+        "chunk_title": "Heart failure green, yellow and red zones",
+        "source_row_indices": [
+          2,
+          3,
+          4
+        ],
+        "text": "Zone Color | Signs and Symptoms | Physical Therapist Recommendations\nGreen zone | • No shortness of breath • No swelling • No weight gain • No chest pain • No decrease in your ability to maintain your activity level | Continue activity and therapy as tolerated.\nYellow zone | • Weight gain of 2–3 lbs in 24 hrs • Increased cough • Peripheral edema: increased distal extremity swelling • Increase in shortness of breath with activity • Orthopnea: increase in the number of pillows needed | Symptoms may indicate an adjustment in medications and therefore warrants communication with the physician.\nRed zone | • Shortness of breath at rest • Unrelieved chest pain • Wheezing or chest tightness at rest • Paroxysmal nocturnal dyspnea: requiring to sit in chair to sleep • Weight gain or loss of more than 5 lbs in 3 days • Confusion | Symptoms indicate overt decompensation and an immediate visit to the emergency department or physician office.",
+        "embedding_text": "Table: Table 2.\nDefinitions of Zone Colors Associated With Clinical Manifestations and Physical Therapist Recommendationsa.\nFor the Green zone, signs and symptoms are: No shortness of breath; No swelling; No weight gain; No chest pain; No decrease in your ability to maintain your activity level. The physical therapist recommendation is: Continue activity and therapy as tolerated.\nFor the Yellow zone, signs and symptoms are: Weight gain of 2?3 lbs in 24 hrs; Increased cough; Peripheral edema: increased distal extremity swelling; Increase in shortness of breath with activity; Orthopnea: increase in the number of pillows needed. The physical therapist recommendation is: Symptoms may indicate an adjustment in medications and therefore warrants communication with the physician.\nFor the Red zone, signs and symptoms are: Shortness of breath at rest; Unrelieved chest pain; Wheezing or chest tightness at rest; Paroxysmal nocturnal dyspnea: requiring to sit in chair to sleep; Weight gain or loss of more than 5 lbs in 3 days; Confusion. The physical therapist recommendation is: Symptoms indicate overt decompensation and an immediate visit to the emergency department or physician office."
+      }
+    ],
+    "unparsed_rows": [
+      1
+    ],
+    "warnings": [
+      "row 1: repeated header row excluded."
+    ]
+  },
+  {
+    "table_id": "tbl_6dcffcb855ef5159",
+    "table_type": "recommendation_summary",
+    "chunks": [
+      {
+        "chunk_title": "Advocate for increased total daily physical activity",
+        "source_row_indices": [
+          2
+        ],
+        "text": "Number | Statement | Key Phrase\n1 | Physical therapists and other health care practitioners should advocate for increased total daily physical activity as an essential component of care in patients with stable heart failure. (Evidence Quality I; Recommendation Strength: A—Strong) | Advocate for increased total daily physical activity as an essential component of care",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 1: Physical therapists and other health care practitioners should advocate for increased total daily physical activity as an essential component of care in patients with stable heart failure. (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Advocate for increased total daily physical activity as an essential component of care."
+      },
+      {
+        "chunk_title": "Educate on chronic disease management behaviors",
+        "source_row_indices": [
+          3
+        ],
+        "text": "Number | Statement | Key Phrase\n2 | Physical therapists must educate on and facilitate components of chronic disease management behaviors to reduce the risk of hospital readmission. These measures include education on daily weight assessment, signs and symptoms of an exacerbation, nutrition, and medication management/medication reconciliation. (Evidence Quality I; Recommendation Strength: A—Strong) | Educate on and facilitate chronic disease management behaviors",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 2: Physical therapists must educate on and facilitate components of chronic disease management behaviors to reduce the risk of hospital readmission. These measures include education on daily weight assessment, signs and symptoms of an exacerbation, nutrition, and medication management/medication reconciliation. (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Educate on and facilitate chronic disease management behaviors."
+      },
+      {
+        "chunk_title": "Prescribe aerobic exercise training",
+        "source_row_indices": [
+          4
+        ],
+        "text": "Number | Statement | Key Phrase\n3 | Physical therapists must prescribe aerobic exercise training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: 20–60 min; Intensity: 50%–90% of peak VO2 or peak work; Frequency: 3–5/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer or dancing (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe aerobic exercise training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 3: Physical therapists must prescribe aerobic exercise training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: 20?60 min; Intensity: 50%?90% of peak VO2 or peak work; Frequency: 3?5/wk; Duration: at least 8?12 wks; Mode: treadmill or cycle ergometer or dancing (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Prescribe aerobic exercise training."
+      },
+      {
+        "chunk_title": "Prescribe high-intensity interval exercise training",
+        "source_row_indices": [
+          5
+        ],
+        "text": "Number | Statement | Key Phrase\n4 | Physical therapists should prescribe high-intensity interval exercise training in selected patients for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: >35 min; Intensity: >90%–95% of peak VO2 or peak work; Frequency: 2–3/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer. HIIT total weekly exercise doses should be at least 460 kcal, 114 mins, or 5.4 MET-hrs. (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe high intensity interval training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 4: Physical therapists should prescribe high-intensity interval exercise training in selected patients for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: >35 min; Intensity: >90%?95% of peak VO2 or peak work; Frequency: 2?3/wk; Duration: at least 8?12 wks; Mode: treadmill or cycle ergometer. HIIT total weekly exercise doses should be at least 460 kcal, 114 mins, or 5.4 MET-hrs. (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Prescribe high intensity interval training."
+      },
+      {
+        "chunk_title": "Prescribe resistance training",
+        "source_row_indices": [
+          6
+        ],
+        "text": "Number | Statement | Key Phrase\n5 | Physical therapists should prescribe resistance training exercise for upper and lower body major muscle groups for patients with stable, NYHA Class II-III HFrEF using the following parameters: 2–3 sets per muscle group, 60%–80% 1RM, 45–60 mins per session, 3 times per week for at least 8–12 wks (Evidence Quality I; Recommendation Strength: A- Strong) | Prescribe upper and lower body resistance training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 5: Physical therapists should prescribe resistance training exercise for upper and lower body major muscle groups for patients with stable, NYHA Class II-III HFrEF using the following parameters: 2?3 sets per muscle group, 60%?80% 1RM, 45?60 mins per session, 3 times per week for at least 8?12 wks (Evidence Quality I; Recommendation Strength: A- Strong). Key phrase: Prescribe upper and lower body resistance training."
+      },
+      {
+        "chunk_title": "Prescribe combined resistance and aerobic training",
+        "source_row_indices": [
+          7
+        ],
+        "text": "Number | Statement | Key Phrase\n6 | Physical therapists may prescribe combined resistance and aerobic training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Combine 20–30 minutes of aerobic training with 20–30 mins of resistive training, 2–3 sets per major muscle group, 60%–80% 1RM, 3 times per week for at least 8–12 wks. (Evidence Quality II; Recommendation Strength: B- Moderate) | Prescribe combined aerobic exercise and resistance training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 6: Physical therapists may prescribe combined resistance and aerobic training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Combine 20?30 minutes of aerobic training with 20?30 mins of resistive training, 2?3 sets per major muscle group, 60%?80% 1RM, 3 times per week for at least 8?12 wks. (Evidence Quality II; Recommendation Strength: B- Moderate). Key phrase: Prescribe combined aerobic exercise and resistance training."
+      },
+      {
+        "chunk_title": "Prescribe inspiratory muscle training",
+        "source_row_indices": [
+          8
+        ],
+        "text": "Number | Statement | Key Phrase\n7 | Physical therapists should prescribe inspiratory muscle training with a threshold∗(or similar) devices (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe inspiratory muscle training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 7: Physical therapists should prescribe inspiratory muscle training with a threshold?(or similar) devices (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5?7 days/wk, for at least 8?12 wks. (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Prescribe inspiratory muscle training."
+      },
+      {
+        "chunk_title": "Prescribe combined inspiratory muscle and aerobic training",
+        "source_row_indices": [
+          9
+        ],
+        "text": "Number | Statement | Key Phrase\n8 | Physical therapists may prescribe combined inspiratory muscle training and aerobic exercise training with a threshold (or similar) device (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality: II, Recommendation Strength: B –Moderate) | Prescribe combined inspiratory muscle training and aerobic exercise training",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 8: Physical therapists may prescribe combined inspiratory muscle training and aerobic exercise training with a threshold (or similar) device (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5?7 days/wk, for at least 8?12 wks. (Evidence Quality: II, Recommendation Strength: B ?Moderate). Key phrase: Prescribe combined inspiratory muscle training and aerobic exercise training."
+      },
+      {
+        "chunk_title": "Prescribe neuromuscular electrical stimulation",
+        "source_row_indices": [
+          10
+        ],
+        "text": "Number | Statement | Key Phrase\n9 | Physical therapists should prescribe NMES in patients with stable, NYHA Class II-III HFrEF using the following parameters: biphasic symmetrical pulses at 15 to 50 hertz, on/off time 2/5 seconds, pulse width for larger muscles of the lower extremity should be 200 to 700 us and for small lower extremity muscles 0.5 to 0.7 ms, 20%–30% of MVIC, intensity to muscle contraction, 5–7 days/week for at least 5–10 wks to the quadriceps, gluteals, hamstrings, and gastrocnemius (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe neuromuscular electrical stimulation",
+        "embedding_text": "Table: Table 4.\nKey Action Statementsa.\nStatement 9: Physical therapists should prescribe NMES in patients with stable, NYHA Class II-III HFrEF using the following parameters: biphasic symmetrical pulses at 15 to 50 hertz, on/off time 2/5 seconds, pulse width for larger muscles of the lower extremity should be 200 to 700 us and for small lower extremity muscles 0.5 to 0.7 ms, 20%?30% of MVIC, intensity to muscle contraction, 5?7 days/week for at least 5?10 wks to the quadriceps, gluteals, hamstrings, and gastrocnemius (Evidence Quality I; Recommendation Strength: A?Strong). Key phrase: Prescribe neuromuscular electrical stimulation."
+      }
+    ],
+    "unparsed_rows": [
+      1
+    ],
+    "warnings": [
+      "row 1: repeated header row excluded."
+    ]
+  },
+  {
+    "table_id": "tbl_eb1d616bda5c6f6d",
+    "table_type": "dosage_or_parameters",
+    "chunks": [
+      {
+        "chunk_title": "Statin recommendations for people aged 20-39 years",
+        "source_row_indices": [
+          1
+        ],
+        "text": "In people 20-39 years of age |  | Consider statin therapy if there are additional ASCVD risk factors.*",
+        "embedding_text": "Table: Untitled table (Section: Secondary Prevention).\nFor people 20-39 years of age: Consider statin therapy if there are additional ASCVD risk factors.*"
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": []
+  },
+  {
+    "table_id": "tbl_57dfdba74851a7fe",
+    "table_type": "dosage_or_parameters",
+    "chunks": [
+      {
+        "chunk_title": "Statin recommendations for people >75 years",
+        "source_row_indices": [
+          1
+        ],
+        "text": "In people >75 years of age |  | Continue current statin therapy or consider initiating a moderate-intensity statin after weighing benefits and risks. tesA",
+        "embedding_text": "Table: Untitled table (Section: years of age).\nFor people >75 years of age: Continue current statin therapy or consider initiating a moderate-intensity statin after weighing benefits and risks. tesA"
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": [
+      "The source cell ends with the extraction artifact ?tesA?; retained as written."
+    ]
+  },
+  {
+    "table_id": "tbl_0215759988185106",
+    "table_type": "risk_factors_or_screening",
+    "chunks": [
+      {
+        "chunk_title": "NTM and autoimmune disease tests",
+        "source_row_indices": [
+          1
+        ],
+        "text": "Test for NTM-related disease: Bronchoscopy | Test for autoimmune disease: ANA, RF, ANCA, ENA, anti-CCP antibodies Referral to rheumatologist",
+        "embedding_text": "Table: Untitled table (Section: CFTR genetics).\nFor NTM-related disease, the listed test is Bronchoscopy.\nFor autoimmune disease, the listed tests are ANA, RF, ANCA, ENA, anti-CCP antibodies. The row also lists Referral to rheumatologist."
+      }
+    ],
+    "unparsed_rows": [],
+    "warnings": [
+      "The source has no header row; both populated cells are retained as separate facts."
+    ]
+  }
+]

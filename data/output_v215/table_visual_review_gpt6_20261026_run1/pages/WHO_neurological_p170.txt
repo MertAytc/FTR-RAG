@@ -1,0 +1,71 @@
+Intervention          Description of the intervention
+
+Phosphodiesterase-5  Prescription and/or administration (if injection) of the medicine and providing
+inhibitors             education and advice on the safe intake or administration (if self-directed) and
+                         potential adverse effects of the medicine.
+
+Physical exercise    A variety of physical exercises (e.g. aerobic or strengthening exercises, balance or
+training               coordination exercises, mind–body exercises), with or without weight-bearing, are
+                         suitable to improve exercise capacity, muscle strength, joint mobility, voluntary
+                   movement, balance, gait and walking, as well as helping to reduce pain and fatigue.
+                      Regular physical exercise training (including education and advice on exercises)
+                               is planned according to an individual’s needs, guided or assisted and, if feasible,
+                     performed self-directed following education and advice on the appropriate exercises.
+
+Positioning for        Elevated positioning is one approach to oedema management. The swollen limb
+oedema control       should be positioned above the level of the heart. Devices (pillows, rollers) may help
+                        to keep the limb in a stable position. Elevated positioning can be combined with other
+                    means, such as compression bandages or range of motion exercises. Education and
+                      advice are provided to the person to facilitate the self-directed positioning. Positioning
+                               is performed by a health worker and, if feasible, performed self-directed following
+                     education and advice on the appropriate positioning.
+
+Positioning for         Positioning for pressure relief aims to prevent damage of the skin and tissue by placing
+pressure relief        the body, or parts of the body, in positions where they are not, or only slightly, exposed
+                        to pressure. Pressure-relief positioning is applied by a health worker and, if feasible, by
+                      the patient or caregiver after receiving training in the appropriate technique.
+
+Positioning for         Positioning for the prevention of contractures places parts of the body, or joints, in
+the prevention of      positions that reduce the risk for contractures that may occur due to lack of active
+contractures         movement. Positioning for the prevention of contractures may utilize orthosis, splint, or
+                         castings, or use standing frames for applying prolonged stretching through a standing
+                         position. The positioning is applied by a trained health worker and, if feasible, by the
+                        patient or caregiver following education and advice on the appropriate techniques.
+
+Proton pump          Prescription and/or administration (if injection) of the medicine and providing
+inhibitor              education and advice on the safe intake or administration (if self-directed) and
+                         potential adverse effects of the medicine.
+
+Provision and          Provision of adapted seating equipment supports a person to maintain an appropriate
+training in the use      sitting position whenever the person is able to both achieve and maintain this position
+of adapted seating    independently. Provision includes the identification of the specific needs, selection,
+equipment           manufacturing or modification, and adjustment of the appropriate device. Following
+                         provision, the patient will be trained in the use and care of the products.
+
+Provision and        The provision of assistive products (e.g. pill organizers, time management products,
+training in the use of   global positioning system locators, simplified mobile phones, personal emergency
+assistive products     alarm systems) to support people’s cognitive functions. Provision includes
+for cognition           identification of the specific needs of the individual, as well as the selection,
+                     manufacture or modification, and adjustment of the appropriate product. Following
+                         provision, the patient will be trained in the use and care of the products.
+
+Provision and        The provision of assistive products (e.g. communication boards/books/cards,
+training in the use of   electronic device and communication software, augmentative and alternative
+assistive products    communication devices) to support communication. Provision includes identification
+for communication    of the specific needs of the individual, as well as the selection, manufacture or
+                        modification, and adjustment of the appropriate product. Following provision, the
+                        patient will be trained in the use and care of the products.
+
+Provision and          Assistive products for compression therapy comprise stockings (pieces of clothes that
+training in the use of     fit tightly around a body part), garments or bandages. Compression therapy supports
+assistive products    blood vessel functions (e.g. to maintain blood pressure), and also helps to reduce
+for compression     oedema and scarring. Provision includes identification of the specific needs of the
+therapy                 individual, as well as the selection, manufacture or modification, and adjustment of the
+                     compression garment. Following provision, the user will be trained in the garment’s
+                    use and care.
+
+
+
+
+
+                                          164

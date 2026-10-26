@@ -1,0 +1,458 @@
+{
+  "schema_version": "2.3",
+  "document": "2022 APTA Geriatrics,Osteoporosis.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2022,
+  "table_count": 5,
+  "tables": [
+    {
+      "table_id": "tbl_c32bc04479f86aa5",
+      "doc_name": "2022 APTA Geriatrics,Osteoporosis.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 4,
+      "table_index": 0,
+      "bbox": [
+        36.49,
+        548.77,
+        522.0,
+        731.5
+      ],
+      "section_id": "36e68fb94345fbf0",
+      "section_path": [
+        "Table 1. AGREE II Rigor and Quality Scores for Osteoporosis Clinical Practice Guidelines"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "The team evaluated these 3 CPGs for relevance to the use\nof exercise interventions by physical therapists in managing\npatients with osteoporosis. We reviewed: (1) SIGN publica\ntion no. 142: Management of osteoporosis and the preven\ntion of fragility fractures21; (2) Too Fit to Fracture: exercise",
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0833,
+      "header_row": [
+        "Guideline Title",
+        "AGREE II Rigor Score",
+        "AGREE II Quality Score"
+      ],
+      "header_signature": "b84e852d7f50",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Guideline Title | AGREE II Rigor Score | AGREE II Quality Score\nManagement of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate Guidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21 | 93% | 95%\nToo Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic vertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation. (Canada, 2013)27 | 85% | 85%\nNational Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and treatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited. (Britain/United Kingdom, 2017)26 | 71% | 65%\n2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis Society. (Saudi Arabia, 2015)25 | 41% | 56%\nClinical guidelines for the prevention and treatment of osteoporosis: Summary statements and recommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23 | 26% | 47%\nTaiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24 | 21% | 38%\nAbbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation. |  |",
+      "rows": [
+        [
+          "Guideline Title",
+          "AGREE II Rigor Score",
+          "AGREE II Quality Score"
+        ],
+        [
+          "Management of osteoporosis and the prevention of fragility fractures. Scottish Intercollegiate Guidelines Network (SIGN). (Scotland, 2015, updated 2020 and 2021)21",
+          "93%",
+          "95%"
+        ],
+        [
+          "Too Fit to Fracture: Exercise recommendations for individuals with osteoporosis or osteoporotic vertebral fracture. International Osteoporosis Foundation and National Osteoporosis Foundation. (Canada, 2013)27",
+          "85%",
+          "85%"
+        ],
+        [
+          "National Osteoporosis Guideline Group (NOGG) 2017: Clinical guideline for the prevention and treatment of osteoporosis. National Institute for Health and Care Excellence (NICE) accredited. (Britain/United Kingdom, 2017)26",
+          "71%",
+          "65%"
+        ],
+        [
+          "2015 Guidelines for Osteoporosis in Saudi Arabia: Recommendations from the Saudi Osteoporosis Society. (Saudi Arabia, 2015)25",
+          "41%",
+          "56%"
+        ],
+        [
+          "Clinical guidelines for the prevention and treatment of osteoporosis: Summary statements and recommendations from the Italian Society of Orthopedics and Traumatology. (Italy, 2017)23",
+          "26%",
+          "47%"
+        ],
+        [
+          "Taiwanese Guidelines for the Prevention and Treatment of Osteoporosis. (Taiwan, 2014)24",
+          "21%",
+          "38%"
+        ],
+        [
+          "Abbreviation: AGREE, Appraisal of Guidelines for Research & Evaluation.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f5380d3471e582da",
+      "doc_name": "2022 APTA Geriatrics,Osteoporosis.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 5,
+      "table_index": 0,
+      "bbox": [
+        36.44,
+        631.5,
+        521.53,
+        731.5
+      ],
+      "section_id": "cf7217483252d4e7",
+      "section_path": [
+        "Sign Exercise Recommendations for Postmenopausal\nWomen"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "SIGN summary: Dynamic weight-bearing exercise with\nlow force (DWBLF) performed standing (ie, walking, tai\nchi) showed no effect on fracture outcomes.33 Dynamic\nweight-bearing exercise with low force mitigated the\ndecline in spine BMD as demonstrated in a meta-analysis of\n7 studies (mean difference in spine BMD between exercise",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Exercise",
+        "Definition33"
+      ],
+      "header_signature": "6306d6bc91a6",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Exercise | Definition33\nSWB | Static weight-bearing exercise including single-leg standing.\nDWBLF | Dynamic weight-bearing exercise with low force including walking and tai chi.\nDWBHF | Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform.\nNWBLF | Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training.\nNWBHF | Non–weight-bearing exercise high force, eg, progressive resisted strength training.\nCOMB | Combination of exercise types with more than one of the above exercise interventions.",
+      "rows": [
+        [
+          "Exercise",
+          "Definition33"
+        ],
+        [
+          "SWB",
+          "Static weight-bearing exercise including single-leg standing."
+        ],
+        [
+          "DWBLF",
+          "Dynamic weight-bearing exercise with low force including walking and tai chi."
+        ],
+        [
+          "DWBHF",
+          "Dynamic weight-bearing exercise with high force including jogging, jumping, running, dancing, and vibration platform."
+        ],
+        [
+          "NWBLF",
+          "Non–weight-bearing exercise with low force, eg, low-load high-repetition strength training."
+        ],
+        [
+          "NWBHF",
+          "Non–weight-bearing exercise high force, eg, progressive resisted strength training."
+        ],
+        [
+          "COMB",
+          "Combination of exercise types with more than one of the above exercise interventions."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b5c38d8452816636",
+      "doc_name": "2022 APTA Geriatrics,Osteoporosis.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        35.99,
+        90.95,
+        522.01,
+        273.68
+      ],
+      "section_id": "9995dd26f20afb3e",
+      "section_path": [
+        "Table 3. Grades/Strength of Recommendation"
+      ],
+      "heading_level": 1,
+      "caption": "Table 3. Grades/Strength of Recommendation",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0833,
+      "header_row": [
+        "Letter Grade",
+        "Strength of Recommendation",
+        "Definition35"
+      ],
+      "header_signature": "4758aecc6fc7",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Letter Grade | Strength of Recommendation | Definition35\nA | Strong | A high level of certainty of moderate to substantial benefit, harm, or cost, or a moderate level of certainty for substantial benefit, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study).\nB | Moderate | A high level of certainty of slight to moderate benefit, harm, or cost, or a moderate level of certainty for a moderate level of benefit, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT).\nC | Weak | A moderate level of certainty of slight benefit, harm, or cost, or a weak level of certainty for moderate to substantial benefit, harm, or cost (based on level 2 through 5 evidence).\nD | Theoretical/ foundational | A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or from basic science/bench research, or published expert opinion in peer-reviewed journals that supports the recommendation.\nP | Best practice | Recommended practice based on current clinical practice norms, exceptional situations in which validating studies have not or cannot be performed; yet, there is a clear benefit, harm, or cost, expert opinion.\nR | Research | An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic.\nAbbreviation: RCT, randomized clinical trial. |  |",
+      "rows": [
+        [
+          "Letter Grade",
+          "Strength of Recommendation",
+          "Definition35"
+        ],
+        [
+          "A",
+          "Strong",
+          "A high level of certainty of moderate to substantial benefit, harm, or cost, or a moderate level of certainty for substantial benefit, harm, or cost (based on a preponderance of level 1 or 2 evidence with at least 1 level 1 study)."
+        ],
+        [
+          "B",
+          "Moderate",
+          "A high level of certainty of slight to moderate benefit, harm, or cost, or a moderate level of certainty for a moderate level of benefit, harm, or cost (based on a preponderance of level 2 evidence, or a single high-quality RCT)."
+        ],
+        [
+          "C",
+          "Weak",
+          "A moderate level of certainty of slight benefit, harm, or cost, or a weak level of certainty for moderate to substantial benefit, harm, or cost (based on level 2 through 5 evidence)."
+        ],
+        [
+          "D",
+          "Theoretical/ foundational",
+          "A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or from basic science/bench research, or published expert opinion in peer-reviewed journals that supports the recommendation."
+        ],
+        [
+          "P",
+          "Best practice",
+          "Recommended practice based on current clinical practice norms, exceptional situations in which validating studies have not or cannot be performed; yet, there is a clear benefit, harm, or cost, expert opinion."
+        ],
+        [
+          "R",
+          "Research",
+          "An absence of research on the topic or disagreement among conclusions from high-quality studies on the topic."
+        ],
+        [
+          "Abbreviation: RCT, randomized clinical trial.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_2e5c5920af192f33",
+      "doc_name": "2022 APTA Geriatrics,Osteoporosis.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 9,
+      "table_index": 0,
+      "bbox": [
+        93.96,
+        76.45,
+        478.41,
+        731.55
+      ],
+      "section_id": "1c6e9c2991b478c5",
+      "section_path": [
+        "ADAPTED EXERCISE RECOMMENDATIONS FOR\nPOSTMENOPAUSAL WOMEN"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.1042,
+      "header_row": [
+        "Evidence Summary",
+        "Evidence supported a modest positive impact of static weight-bearing exercises on hip BMD",
+        "Evidence supported weight-bearing low-force exercises to slow spine BMD loss Evidence did not support weight-bearing low-force exer cises to increase spine BMD",
+        "Evidence did not support dynamic weight bearing: high force exercises to improve or maintain BMD at the spine or the hip",
+        "Evidence did not support non–weight-bearing low-force exercises in nonosteoporotic postmenopausal women",
+        "Evidence supported modest positive impact of non– weight-bearing high-force exercises on BMD at both the spine and the femoral neck",
+        "Evidence supported a modest positive impact of com bination exercises on BMD at both the spine and the femoral neck Evidence also suggested that combination exercise pro grams substantially reduced the risk of fractures",
+        "Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity."
+      ],
+      "header_signature": "eb2dfe48941f",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Evidence Summary | Evidence supported a modest positive impact of static weight-bearing exercises on hip BMD | Evidence supported weight-bearing low-force exercises to slow spine BMD loss Evidence did not support weight-bearing low-force exer cises to increase spine BMD | Evidence did not support dynamic weight bearing: high force exercises to improve or maintain BMD at the spine or the hip | Evidence did not support non–weight-bearing low-force exercises in nonosteoporotic postmenopausal women | Evidence supported modest positive impact of non– weight-bearing high-force exercises on BMD at both the spine and the femoral neck | Evidence supported a modest positive impact of com bination exercises on BMD at both the spine and the femoral neck Evidence also suggested that combination exercise pro grams substantially reduced the risk of fractures | Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity.\nAdverse Events | None reported | Exercise and control groups reported injuries. One exercisespecific injury reported | One injury reported in an intervention group | None reported | None reported | None reported | \nParticipants | 94 Japanese women, mean age: 68 y (age range: 61-85 y) | Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia | Healthy postmenopausal women, women with os teopenia or osteoporosis Age: 40-65 y United States | Healthy postmenopausal women Age: 41-82 y | Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis | Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis | \nExercise Dose | 1 min per limb 3 times per day 24 wk | 50-60 min 3 times per week 40-54 wk | 50-55 min per session 2-3 d/wk 52 wk | ∼40% 1RM 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk | 1-3 sets ∼70%-85% 1RM 2-3 times per week 24-104 wk | 2-7 d/wk 52 wk Intensity not reported | \nExercise | Single-leg standing | Walking, tai chi | Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra tion platforms | Seated low-load, high-repe tition strength training | Seated progressive resis tive, high-load strength training Some programs included both upper and lower extremity exercise | Combinations of any 2 of the exercise types described previously | \nExercise Type | Static weight bearing33 | Dynamic weight bearing: Low force33,36,37 | Dynamic weight bearing: High force33,38 | Non–weight bearing: Low force33 | Non–weight bearing: High force33,39 | Combination of exercise types33,37,38,40-42 |",
+      "rows": [
+        [
+          "Evidence Summary",
+          "Evidence supported a modest positive impact of static weight-bearing exercises on hip BMD",
+          "Evidence supported weight-bearing low-force exercises to slow spine BMD loss Evidence did not support weight-bearing low-force exer cises to increase spine BMD",
+          "Evidence did not support dynamic weight bearing: high force exercises to improve or maintain BMD at the spine or the hip",
+          "Evidence did not support non–weight-bearing low-force exercises in nonosteoporotic postmenopausal women",
+          "Evidence supported modest positive impact of non– weight-bearing high-force exercises on BMD at both the spine and the femoral neck",
+          "Evidence supported a modest positive impact of com bination exercises on BMD at both the spine and the femoral neck Evidence also suggested that combination exercise pro grams substantially reduced the risk of fractures",
+          "Abbreviations: BMD, bone mineral density; RM, repetition maximum; UE, upper extremity."
+        ],
+        [
+          "Adverse Events",
+          "None reported",
+          "Exercise and control groups reported injuries. One exercisespecific injury reported",
+          "One injury reported in an intervention group",
+          "None reported",
+          "None reported",
+          "None reported",
+          ""
+        ],
+        [
+          "Participants",
+          "94 Japanese women, mean age: 68 y (age range: 61-85 y)",
+          "Healthy postmenopausal women, women with UE fracture, women with osteopenia Age: 46-92 y North America, Europe, Asia, and Australia",
+          "Healthy postmenopausal women, women with os teopenia or osteoporosis Age: 40-65 y United States",
+          "Healthy postmenopausal women Age: 41-82 y",
+          "Healthy postmenopausal women Age: 41-75 y North and South America and Australia 2 studies excluded women with osteoporosis",
+          "Postmenopausal women Age: 53-87 y Europe and Asia 2 studies included women with osteoporosis",
+          ""
+        ],
+        [
+          "Exercise Dose",
+          "1 min per limb 3 times per day 24 wk",
+          "50-60 min 3 times per week 40-54 wk",
+          "50-55 min per session 2-3 d/wk 52 wk",
+          "∼40% 1RM 1-3 sets of 10-20 repetitions 3-7 times per week 24-104 wk",
+          "1-3 sets ∼70%-85% 1RM 2-3 times per week 24-104 wk",
+          "2-7 d/wk 52 wk Intensity not reported",
+          ""
+        ],
+        [
+          "Exercise",
+          "Single-leg standing",
+          "Walking, tai chi",
+          "Standing weight lifting Walking/jogging or hopping Stair climbing with weighted vests, jumping, running, dancing, vibra tion platforms",
+          "Seated low-load, high-repe tition strength training",
+          "Seated progressive resis tive, high-load strength training Some programs included both upper and lower extremity exercise",
+          "Combinations of any 2 of the exercise types described previously",
+          ""
+        ],
+        [
+          "Exercise Type",
+          "Static weight bearing33",
+          "Dynamic weight bearing: Low force33,36,37",
+          "Dynamic weight bearing: High force33,38",
+          "Non–weight bearing: Low force33",
+          "Non–weight bearing: High force33,39",
+          "Combination of exercise types33,37,38,40-42",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_87732a7b8b7b04c1",
+      "doc_name": "2022 APTA Geriatrics,Osteoporosis.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 11,
+      "table_index": 0,
+      "bbox": [
+        109.55,
+        75.99,
+        462.81,
+        732.01
+      ],
+      "section_id": "736bc067b5c42945",
+      "section_path": [
+        "DISCUSSION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 8,
+      "empty_cell_ratio": 0.1042,
+      "header_row": [
+        "Evidence Summary",
+        "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+        "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+        "Evidence supported the positive impact of dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck",
+        "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+        "Evidence supported modest positive impact of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck",
+        "Evidence supported that combination exer cises were effective in increasing BMD at the femoral neck and the lumbar spine",
+        "Abbreviations: BMD, bone mineral density; RM, repetition maximum."
+      ],
+      "header_signature": "1605f8b0b3a5",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Evidence Summary | There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD | There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD | Evidence supported the positive impact of dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck | There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD | Evidence supported modest positive impact of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck | Evidence supported that combination exer cises were effective in increasing BMD at the femoral neck and the lumbar spine | Abbreviations: BMD, bone mineral density; RM, repetition maximum.\nAdverse Events | Not applicable | Not applicable | None reported | Not applicable | None reported | None reported | \nParticipants | Not applicable | Not applicable | Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe | Not applicable | Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives | Healthy premenopausal women. Age: 24-41 y North America | \nExercise Dose | No systematic reviews available | No systematic reviews available | Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y | No systematic reviews available | 60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo | 2-9 sets of 8-12 repetitions 3 d/wk 12 mo | \nExercise | Single-leg standing | Walking, tai chi | Jumping, jogging, skipping, running, dancing, vibration platforms | Progressive resistive, low-load strength training | Seated progressive resistive, high-load strength training | Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping | \nExercise Type | Static weight bearing | Dynamic weight bearing: low force47 | Dynamic weight bear ing: high force48 | Non–weight bearing: Low force | Non–weight bearing: High force49 | Combination of exercise types48 |",
+      "rows": [
+        [
+          "Evidence Summary",
+          "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+          "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+          "Evidence supported the positive impact of dynamic weight-bearing high-force exer cises in reducing BMD decline only at the femoral neck",
+          "There is insufficient evidence to make any conclusion about this type of exercise specifically for BMD",
+          "Evidence supported modest positive impact of non–weight-bearing high-force exercises on BMD at the lumbar spine but not the femoral neck",
+          "Evidence supported that combination exer cises were effective in increasing BMD at the femoral neck and the lumbar spine",
+          "Abbreviations: BMD, bone mineral density; RM, repetition maximum."
+        ],
+        [
+          "Adverse Events",
+          "Not applicable",
+          "Not applicable",
+          "None reported",
+          "Not applicable",
+          "None reported",
+          "None reported",
+          ""
+        ],
+        [
+          "Participants",
+          "Not applicable",
+          "Not applicable",
+          "Healthy, premenopausal women Age: 20-48 y North America, Asia, and Europe",
+          "Not applicable",
+          "Healthy, premenopausal women Age: 20-50 y North America Some studies excluded women on oral contraceptives",
+          "Healthy premenopausal women. Age: 24-41 y North America",
+          ""
+        ],
+        [
+          "Exercise Dose",
+          "No systematic reviews available",
+          "No systematic reviews available",
+          "Jumping 5 sets of 10 repetitions 100 jumps per day 40-min skipping Jumping with weighted vest 2-6 d/wk 6-18 mo High-impact aerobics 60 min/session 3 times per week 1-2 y",
+          "No systematic reviews available",
+          "60% 1RM 5 sets of 20 repetitions 2-3 d/wk 5-18 mo",
+          "2-9 sets of 8-12 repetitions 3 d/wk 12 mo",
+          ""
+        ],
+        [
+          "Exercise",
+          "Single-leg standing",
+          "Walking, tai chi",
+          "Jumping, jogging, skipping, running, dancing, vibration platforms",
+          "Progressive resistive, low-load strength training",
+          "Seated progressive resistive, high-load strength training",
+          "Circuit strength and high-impact aerobics Skipping and strength training Resistance training and jumping",
+          ""
+        ],
+        [
+          "Exercise Type",
+          "Static weight bearing",
+          "Dynamic weight bearing: low force47",
+          "Dynamic weight bear ing: high force48",
+          "Non–weight bearing: Low force",
+          "Non–weight bearing: High force49",
+          "Combination of exercise types48",
+          ""
+        ]
+      ]
+    }
+  ]
+}

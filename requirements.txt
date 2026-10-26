@@ -1,11 +1,8 @@
-chromadb
-rank-bm25
-PyMuPDF
-ollama
-requests
-streamlit
-torch
-pytest
-sentence-transformers
-nano-jev
-ragas
+# Full project runtime. Colab users can install the smaller retrieval set with
+# requirements-colab.txt instead.
+-r requirements-colab.txt
+PyMuPDF>=1.24.0
+requests>=2.32.0
+streamlit>=1.40.0
+openpyxl>=3.1.0
+ragas>=0.2.0

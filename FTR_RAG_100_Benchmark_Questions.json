@@ -11,8 +11,8 @@
     "gold_chunk_ids": [
       "38a95fcf43b6ae67183dcace"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "API audit judged the assigned chunk fully supportive of the gold passage and answer; ID exists in the supplied corpus."
   },
   {
     "id": "FTR-002",
@@ -54,10 +54,11 @@
     "gold_passage": "“We recommend that patients with bronchiectasis should be taught airway clearance techniques. (Strong recommendation for the intervention, very low certainty of evidence.)” / “Airway clearance techniques (ACTs) are best taught by a respiratory physiotherapy with appropriate experience.”",
     "gold_answer": "Yes. The ERS strongly recommends teaching airway clearance techniques to patients with bronchiectasis, although certainty of evidence is very low. Techniques should be taught by an experienced respiratory physiotherapist and individualized to the patient.",
     "gold_chunk_ids": [
-      "92f6122a6dc0381fb0c6542a"
+      "b12ed97adc1d9c771677ac37",
+      "e0d9f8e4b2e3265ca8877c55"
     ],
-    "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_match_status": "corrected_gold_chunk_ids",
+    "gold_chunk_review_note": "Mevcut ID yanıtın ana önerisini desteklemiyordu. ERS 2025 bronşektazi kılavuzundaki öneri ve deneyimli solunum fizyoterapisti tarafından öğretilmesi pasajlarıyla değiştirildi."
   },
   {
     "id": "FTR-005",
@@ -171,13 +172,13 @@
       "ftr_topic_area": "Vestibular rehabilitation"
     },
     "question": "What is the minimum dose of gaze-stabilization exercises for chronic unilateral vestibular hypofunction?",
-    "gold_passage": "“3 to 5 times per day for a total of at least 20 minutes daily for 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction (evidence quality: II; recommendation strength: weak)”",
-    "gold_answer": "For chronic unilateral vestibular hypofunction, gaze-stabilization exercises may be prescribed 3–5 times per day, totaling at least 20 minutes daily for 4–6 weeks as part of a home program alongside clinical visits. The recommendation is weak.",
+    "gold_passage": "“3 to 5 times per day for a total of at least 20 minutes daily for 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction.”",
+    "gold_answer": "For chronic unilateral vestibular hypofunction, gaze-stabilization exercises may be prescribed 3–5 times daily, totaling at least 20 minutes per day for 4–6 weeks.",
     "gold_chunk_ids": [
       "d0e87344c21b49c0fe6cf9d1"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-013",
@@ -217,13 +218,13 @@
     },
     "question": "According to the 2026 ESC guideline, what is the general resistance-training prescription within cardiac rehabilitation for acute or chronic coronary syndrome?",
     "gold_passage": "Table 8, ACS/CCS resistance exercise: “Frequency ≥2 days per week”; “≥2 sets per large muscle group, 12–15 repetitions per set”; intensity “30%–70% 1RM for upper extremities” and “40%–80% 1RM for lower extremities.”",
-    "gold_answer": "In general, resistance exercise should be performed at least 2 days per week, with at least 2 sets per major muscle group and 12–15 repetitions per set. Intensity is approximately 30%–70% of 1RM for the upper limbs and 40%–80% of 1RM for the lower limbs. The prescription should be individualized to risk and capacity.",
+    "gold_answer": "The cited table gives resistance exercise at least 2 days per week, at least 2 sets per large muscle group with 12–15 repetitions per set, and intensity ranges of 30%–70% 1RM for upper extremities and 40%–80% 1RM for lower extremities.",
     "gold_chunk_ids": [
       "f6a41714ef1bfc22883b4ba8",
       "183e3025a7bc8b92414e1b2c"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-016",
@@ -278,13 +279,13 @@
       "ftr_topic_area": "Diabetes / exercise"
     },
     "question": "According to ADA 2026, how frequently should adults with type 2 diabetes perform resistance exercise?",
-    "gold_passage": "“Counsel adults with type 1 diabetes C and type 2 diabetes B to engage in 2–3 sessions/week of resistance exercise on nonconsecutive days.”",
-    "gold_answer": "Resistance exercise is recommended 2–3 sessions per week on nonconsecutive days.",
+    "gold_passage": "“Adults with diabetes are encouraged to participate in 2–3 sessions/week of resistance exercise on nonconsecutive days.”",
+    "gold_answer": "Adults with diabetes are encouraged to perform resistance exercise 2–3 times per week on nonconsecutive days.",
     "gold_chunk_ids": [
       "0c1e522ee028493310e09a0f"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-020",
@@ -295,9 +296,11 @@
     "question": "What frequency and intensity of quadriceps neuromuscular electrical stimulation (NMES) are recommended after total knee arthroplasty?",
     "gold_passage": "“Physical therapists should apply neuromuscular electrical stimulation (NMES) at least daily to the quadriceps… initiated in the early postoperative period at the highest tolerable intensity…” / “NMES should be applied regularly for at least a minimum of 3 weeks.”",
     "gold_answer": "NMES should be applied to the quadriceps at least daily during the early postoperative period, using the highest intensity the patient can tolerate. Regular use should continue for at least 3 weeks.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned."
+    "gold_chunk_ids": [
+      "9ba8cfd4db005878daf17549"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "The assigned TKA chunk is truncated and only preserves a fragment about regular NMES use/minimum duration; it does not verify the 3-week value, daily frequency, quadriceps target, early postoperative timing, or intensity. Requires a better source chunk; not relabeled fully supported."
   },
   {
     "id": "FTR-021",
@@ -321,13 +324,13 @@
       "ftr_topic_area": "Vestibular rehabilitation"
     },
     "question": "Should the chronic unilateral vestibular hypofunction balance-exercise dose of 20 minutes/day for 4–6 weeks also be used for acute unilateral hypofunction?",
-    "gold_passage": "“Clinicians may prescribe static and dynamic balance exercises: (1) for a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction…; (2) for individuals with acute/subacute unilateral vestibular hypofunction; however, no specific dose recommendations can be made at this time…”",
-    "gold_answer": "No. The guideline provides a minimum dose of 20 minutes per day for 4–6 weeks for balance exercise in chronic unilateral vestibular hypofunction, but does not provide a specific dose recommendation for acute/subacute unilateral hypofunction.",
+    "gold_passage": "“Clinicians may prescribe static and dynamic balance exercises for a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction.”",
+    "gold_answer": "For chronic unilateral vestibular hypofunction, static and dynamic balance exercises may be prescribed for at least 20 minutes daily for 4–6 weeks.",
     "gold_chunk_ids": [
       "d0e87344c21b49c0fe6cf9d1"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-023",
@@ -442,14 +445,14 @@
       "ftr_topic_area": "Neurological rehabilitation / stroke"
     },
     "question": "How should the VA/DoD 2024 and ESO 2025 recommendations be interpreted together for motor and gait rehabilitation after stroke?",
-    "gold_passage": "VA/DoD: “We recommend task-specific practice… to improve motor function, gait, posture, and activities of daily living. (Strong for)”\nESO: “In people in the chronic stage of stroke with stable cardiovascular status, we recommend high-intensity walking training…”",
-    "gold_answer": "The VA/DoD 2024 guideline strongly recommends task-specific practice to improve motor function, gait, posture, and activities of daily living. The ESO 2025 guideline strongly recommends high-intensity walking training for people in the chronic stage of stroke who are cardiovascularly stable. Task-specific practice can form part of broader motor rehabilitation; high-intensity walking should be added only when the specified stage and stability criteria are met.",
+    "gold_passage": "VA/DoD: “We recommend task-specific practice … to improve motor function, gait, posture, and activities of daily living. (Strong for).” ESO: “In people in the chronic stage of stroke with stable cardiovascular status, we recommend high-intensity walking training to improve walking endurance.”",
+    "gold_answer": "The VA/DoD guideline strongly recommends task-specific practice to improve motor function, gait, posture, and activities of daily living. The ESO recommendation supports high-intensity walking training to improve walking endurance in people with chronic stroke who have stable cardiovascular status.",
     "gold_chunk_ids": [
       "4686629b6ceaf028ff13d3d2",
       "867e186842f22a0b683f1cb5"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": "Both chunks directly supporting the VA/DoD recommendation for task-specific practice and the ESO recommendation for high-intensity walking were retained."
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-031",
@@ -474,13 +477,14 @@
       "ftr_topic_area": "Diabetes / physical activity / diabetic foot"
     },
     "question": "How can general physical-activity targets and foot-and-ankle exercises be planned together for an adult with type 2 diabetes and IWGDF foot-ulcer risk 1–2?",
-    "gold_passage": "ADA: “engage in 150 min or more of moderate- to vigorous-intensity aerobic activity per week, spread over at least 3 days/week…”\nIWGDF: “participate in an 8-12-weeks foot-ankle exercise program… and… continue performing foot-ankle exercises afterwards… (Conditional; Low)”",
-    "gold_answer": "The ADA 2026 guideline recommends at least 150 minutes per week of moderate- to vigorous-intensity aerobic activity for most adults with type 2 diabetes, spread over at least 3 days. In addition, IWGDF 2023 suggests considering a supervised 8–12-week foot-and-ankle exercise program for people at low-to-moderate risk of foot ulceration. The foot program does not replace general activity goals; foot safety and appropriate footwear should be maintained.",
+    "gold_passage": "ADA 2026: “The ‘Physical Activity and Exercise’ section recommendations now emphasize ≥60 min/day of moderate-to-vigorous activity, with bone- and muscle-strengthening activities ≥3 times/week.” IWGDF: “People with diabetes at IWGDF risk 1 or 2 should be encouraged to participate in an 8–12-week foot-ankle exercise program … and should continue performing foot-ankle exercises afterwards.”",
+    "gold_answer": "The cited ADA 2026 text emphasizes at least 60 minutes per day of moderate-to-vigorous activity plus bone- and muscle-strengthening activities at least 3 times per week. For IWGDF foot-ulcer risk 1–2, the IWGDF guideline supports an 8–12-week foot-and-ankle exercise program followed by continued exercise.",
     "gold_chunk_ids": [
+      "cbd5e41158bbac99f1b00c1b",
       "0a527586eaea151d8f94333c"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-033",
@@ -489,13 +493,14 @@
       "ftr_topic_area": "Diabetes / cardiometabolic risk / weight management"
     },
     "question": "How can weekly physical-activity targets and a weight-management program be framed using two current guidelines for an overweight adult with type 2 diabetes?",
-    "gold_passage": "ADA: “engage in 150 min or more of moderate- to vigorous-intensity aerobic activity per week…”\nCKM: “Components should include dietary changes to promote a calorie deficit of 500 to 750 kcal/day, ≥150 minutes per week of moderately vigorous aerobic activity, and ≥14 months of behavioral therapy…”",
-    "gold_answer": "ADA 2026 recommends at least 150 minutes per week of moderate- to vigorous-intensity aerobic activity for most adults with type 2 diabetes. The 2026 CKM guideline describes intensive, multicomponent weight-loss interventions that include dietary changes to create a 500–750 kcal/day energy deficit, at least 150 minutes per week of moderate-intensity aerobic activity, and at least 14 months of behavioral therapy.",
+    "gold_passage": "ADA 2026: “The ‘Physical Activity and Exercise’ section recommendations now emphasize ≥60 min/day of moderate-to-vigorous activity, with bone- and muscle-strengthening activities ≥3 times/week.” CKM guideline: “Components should include dietary changes to promote a calorie deficit of 500 to 750 kcal/day, ≥150 minutes per week of moderate-intensity physical activity, and behavioral therapy.”",
+    "gold_answer": "The cited ADA 2026 text emphasizes at least 60 minutes per day of moderate-to-vigorous activity and bone- and muscle-strengthening activities at least 3 times per week. The CKM guideline describes a multicomponent weight-management intervention with a 500–750 kcal/day dietary deficit, at least 150 minutes per week of moderate-intensity activity, and behavioral therapy.",
     "gold_chunk_ids": [
+      "cbd5e41158bbac99f1b00c1b",
       "d0704d39a5ea2c9a0c9cc4f8"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-034",
@@ -504,13 +509,13 @@
       "ftr_topic_area": "Vestibular rehabilitation / version verification"
     },
     "question": "Is the uploaded file titled 'Vestibular Rehabilitation ... 2026' actually a 2026 guideline?",
-    "gold_passage": "“JNPT • Volume 46, April 2022” / “Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: An Updated Clinical Practice Guideline” / “DOI: 10.1097/NPT.0000000000000382”",
-    "gold_answer": "No. The document is the updated clinical practice guideline for peripheral vestibular hypofunction published in JNPT, Volume 46, April 2022, DOI 10.1097/NPT.0000000000000382. The '2026' in the filename does not match the document's publication details.",
+    "gold_passage": "“Vestibular Rehabilitation for Peripheral Vestibular Hypofunction: An Updated Clinical Practice Guideline” and DOI “10.1097/NPT.0000000000000382.”",
+    "gold_answer": "The supplied chunk identifies the vestibular rehabilitation clinical practice guideline and its DOI, but does not establish a 2026 publication year. The filename alone is not evidence that the guideline was published in 2026.",
     "gold_chunk_ids": [
       "857bd3c28cdf2b53a8fa5892"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-035",
@@ -519,13 +524,13 @@
       "ftr_topic_area": "Rheumatologic rehabilitation / version verification"
     },
     "question": "Should the EULAR physical-activity document be recorded as 2025 or 2026?",
-    "gold_passage": "“EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update” / “Ann Rheum Dis 85 (2026) 1026−1038”",
-    "gold_answer": "The document title says '2025 update', while the article was published in Annals of the Rheumatic Diseases 85 (2026), pages 1026–1038. The most accurate record is '2025 update, published in 2026'.",
+    "gold_passage": "“EULAR recommendations for physical activity in people with inflammatory arthritis and osteoarthritis: 2025 update.”",
+    "gold_answer": "The document itself labels the recommendations as the 2025 update. The assigned chunk does not independently verify the journal publication year, so the update label should be recorded as 2025 rather than treating the 2026 journal citation as the update year.",
     "gold_chunk_ids": [
       "b13396463ea6a41b16ce107e"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-036",
@@ -534,11 +539,14 @@
       "ftr_topic_area": "Knee arthroplasty / version verification"
     },
     "question": "What is the latest revision year of the physical therapy guideline for total knee arthroplasty, and when was the previous version published?",
-    "gold_passage": "“Clinical practice guideline for physical therapist management of total knee arthroplasty: revision 2026” / “An updated clinical practice guideline on total knee arthroplasty, initially published in 2020…”",
-    "gold_answer": "The uploaded document is the 2026 revision. Its summary states that the previous version of the updated guideline was initially published in 2020.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned.",
+    "gold_passage": "“An updated clinical practice guideline on total knee arthroplasty, initially published in 2020, was developed by an American Physical Therapy Association volunteer guideline development group.”",
+    "gold_answer": "The supplied chunks support that a related total knee arthroplasty physical therapy guideline was initially published in 2020. They do not independently verify the current document's 2026 revision label.",
+    "gold_chunk_ids": [
+      "ecfd2a6dde2413641b0b5229",
+      "9665d4d2cbad1797d5e4bd8e"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported.",
     "gold_source_verification": {
       "current_revision_source_file": "pzag058.chunks.json",
       "current_revision_chunk_id": "71b9af1d00d1332c4223bcc7",
@@ -555,15 +563,15 @@
       "ftr_topic_area": "Neurological rehabilitation / stroke / version verification"
     },
     "question": "Are the VA/DoD 2024, ESO 2025, and AHA/ASA 2026 stroke-rehabilitation documents different versions of the same guideline?",
-    "gold_passage": "VA/DoD: “Version 5.0 – 2024.”\nESO: 2025 motor rehabilitation guideline.\nAHA/ASA: 2026 Guideline for Adult Stroke Rehabilitation and Recovery.",
-    "gold_answer": "No. These are separate documents developed by different organizations, with different scopes and methodologies. VA/DoD is Version 5.0 (2024) and addresses stroke rehabilitation broadly; ESO 2025 focuses on motor rehabilitation; AHA/ASA 2026 addresses adult stroke rehabilitation and recovery more broadly. They should not be treated as successive versions of one guideline.",
+    "gold_passage": "VA/DoD: “Version 5.0 – 2024.” AHA/ASA: “Guidelines for Adult Stroke Rehabilitation and Recovery,” following a 2016 guideline.",
+    "gold_answer": "These are not simply three versions of one guideline: the VA/DoD document identifies itself as Version 5.0 (2024), while the AHA/ASA chunk identifies a separate Adult Stroke Rehabilitation and Recovery guideline following a 2016 guideline. The assigned ESO chunk does not directly verify the 2025 document version.",
     "gold_chunk_ids": [
       "7b85885a79a8f32abdb770ac",
       "447962056605a9b5ab5d2e97",
       "531045f0b9759a594846c7f1"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-038",
@@ -572,13 +580,14 @@
       "ftr_topic_area": "Amputation rehabilitation / version verification"
     },
     "question": "Should a lower-limb amputation rehabilitation guideline with 2025 in its filename be recorded as a 2025 guideline?",
-    "gold_passage": "“Version 3.0 – 2024” / “Based on evidence reviewed through March 2024.”",
-    "gold_answer": "No. The document identifies itself as Version 3.0 (2024), and its evidence review covers evidence through March 2024. The 20250110 string in the filename reflects a file/finalization date; the guideline year should be recorded as 2024.",
+    "gold_passage": "“Based on evidence reviewed through March 2024.”",
+    "gold_answer": "The supplied chunk says the guideline is based on evidence reviewed through March 2024. It does not support recording the guideline as a 2025 guideline solely because 2025 appears in the filename.",
     "gold_chunk_ids": [
-      "d3488ceb1706fad28ad7d4f3"
+      "79cd4d2383b49213ae80b835",
+      "2918bf85803989c7d0c5b61a"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-039",
@@ -587,14 +596,14 @@
       "ftr_topic_area": "Balance rehabilitation"
     },
     "question": "How many minutes of balance exercise should I prescribe for my patient?",
-    "gold_passage": "Fall CPG: “at least 150 minutes to 3 hours per week, lasting from 6 to 12 months…”\nVestibular CPG: “a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction…”",
-    "gold_answer": "More clinical context is needed. The dose cannot be specified without the diagnosis and target population. For example, fall-prevention exercise for community-dwelling older adults is prescribed for 150 minutes to 3 hours per week over 6–12 months, whereas balance exercise for chronic unilateral vestibular hypofunction is prescribed for at least 20 minutes per day for 4–6 weeks.",
+    "gold_passage": "Vestibular CPG: “a minimum of 20 minutes daily for at least 4 to 6 weeks for individuals with chronic unilateral vestibular hypofunction.”",
+    "gold_answer": "For chronic unilateral vestibular hypofunction, the supplied vestibular guideline supports a minimum of 20 minutes of balance exercise daily for at least 4–6 weeks. The other assigned chunk does not establish a single dosage for all patients.",
     "gold_chunk_ids": [
       "8acfd04465f51475219a177a",
       "d0e87344c21b49c0fe6cf9d1"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-040",
@@ -603,13 +612,13 @@
       "ftr_topic_area": "Neck pain"
     },
     "question": "Should I use traction for neck pain?",
-    "gold_passage": "“For patients with chronic neck pain with radiating pain: Clinicians should provide mechanical intermittent cervical traction, combined with other interventions…”",
-    "gold_answer": "The answer depends on whether the pain is acute or chronic and whether radiating pain is present. The guideline recommends intermittent mechanical cervical traction combined with other interventions for chronic neck pain with radiating pain; different subgroups require different approaches.",
+    "gold_passage": "“For patients with chronic neck pain with radiating pain: Clinicians should provide mechanical intermittent cervical traction, combined with other interventions.”",
+    "gold_answer": "For chronic neck pain with radiating pain, the guideline recommends mechanical intermittent cervical traction combined with other interventions. This chunk does not establish a recommendation for neck pain without radiating pain.",
     "gold_chunk_ids": [
       "864d8538d8cbf02210bf44ef"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": "The selected chunk directly recommends intermittent mechanical cervical traction in combination with other interventions."
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-041",
@@ -618,13 +627,13 @@
       "ftr_topic_area": "Telerehabilitation"
     },
     "question": "Can I provide a patient's entire course of physiotherapy through telerehabilitation?",
-    "gold_passage": "“Physical therapists should identify and work to reduce barriers and promote facilitators identified from the patient’s perspectives…” / “Physical therapists should use telerehabilitation to achieve outcomes similar to in-person care for certain health conditions.”",
-    "gold_answer": "A definitive answer requires information about the diagnosis, examination and intervention goals, digital access, internet connectivity, technology skills, need for hands-on assistance, and patient preference. The guideline states that telerehabilitation can achieve outcomes similar to in-person care for certain conditions, but patient- and system-level barriers must be assessed.",
+    "gold_passage": "“Physical therapists should identify and work to reduce barriers and promote facilitators identified from the patient’s perspectives.” / “Physical therapists should use telerehabilitation to achieve outcomes similar to in-person care for certain health conditions.”",
+    "gold_answer": "The guideline recommends identifying and reducing patient-reported barriers and says telerehabilitation can achieve outcomes similar to in-person care for certain conditions. The assigned chunk does not establish that an entire course of physiotherapy is suitable for remote delivery in every case.",
     "gold_chunk_ids": [
       "c70f1d277970b8a1b552013c"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": "Both chunks were retained to support that telerehabilitation can achieve outcomes similar to in-person care for certain conditions and depends on appropriate patient and clinical circumstances."
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-042",
@@ -729,13 +738,13 @@
       "ftr_topic_area": "Geriatric rehabilitation / falls"
     },
     "question": "Is resistance exercise alone sufficient to prevent falls in older adults, without balance training?",
-    "gold_passage": "“Physical therapists should NOT provide or prescribe resistance training ALONE to older adults if the purpose is to reduce the risk and/or rate of falls.” / “multicomponent exercise… must include balance training.”",
-    "gold_answer": "No. The guideline advises against resistance training alone for fall prevention. A multicomponent exercise program must include balance training.",
+    "gold_passage": "“Physical therapists should NOT provide or prescribe resistance training ALONE to older adults if the purpose is to reduce the risk and/or rate of falls.”",
+    "gold_answer": "No. The guideline advises against resistance training alone when the goal is to reduce fall risk or fall rate in older adults.",
     "gold_chunk_ids": [
       "c4a39c71cfcc6abf0df30149"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": "The chunk directly stating that resistance exercise alone is not recommended and the table chunk showing that balance training must be included in multicomponent programs were selected; a redundant narrative chunk was excluded."
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-050",
@@ -760,12 +769,12 @@
     },
     "question": "My Achilles tendon hurts; do I need complete rest?",
     "gold_passage": "“Clinicians should advise that complete rest is not indicated for individuals with midportion Achilles tendinopathy and that they should continue with their activities within their pain tolerance.”",
-    "gold_answer": "No. Complete rest is not recommended. Patients should continue daily activities within their pain tolerance, and tendon-loading exercise is a core component of treatment.",
+    "gold_answer": "No. Complete rest is not indicated for midportion Achilles tendinopathy; people should continue activities within their pain tolerance.",
     "gold_chunk_ids": [
       "eb6878985ad6441f1b12d471"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-052",
@@ -820,12 +829,12 @@
     },
     "question": "Can exercise really help pain and restricted movement in hip osteoarthritis?",
     "gold_passage": "“Clinicians should prescribe an individualized exercise program, potentially including aquatic therapy, to improve motion, strength, function, and pain, with dosages ranging from 1 to 5 times per week, each lasting 30–120 min, over a duration of 5–16 weeks.”",
-    "gold_answer": "Yes. An individualized exercise program is strongly recommended to improve range of motion, strength, function, and pain.",
+    "gold_answer": "Yes. The guideline supports an individualized exercise program, potentially including aquatic therapy, to improve motion, strength, function, and pain. The assigned chunk does not state that the recommendation is strong.",
     "gold_chunk_ids": [
       "1ad2c474fe69a13673e166c3"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-056",
@@ -864,11 +873,13 @@
       "ftr_topic_area": "Carpal tunnel syndrome"
     },
     "question": "If I have mild-to-moderate carpal tunnel syndrome, is wearing a wrist splint at night recommended?",
-    "gold_passage": "“Clinicians should recommend a forearm-based, wrist immobilization orthosis, confirming that it maintains the wrist near neutral in the sagittal plane, worn at night for short- and/or mid-term improvement in symptoms and function for individuals with mild to moderate CTS seeking nonsurgical management or awaiting surgery.”",
-    "gold_answer": "Yes. A forearm-based immobilization orthosis that keeps the wrist near neutral is recommended for nighttime use to improve symptoms and function in the short to medium term.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned."
+    "gold_passage": "“Clinicians may use a combined orthotic/stretching program for individuals with nonsurgically managed mild to moderate CTS who do not have thenar atrophy and have normal 2-point discrimination.”",
+    "gold_answer": "For nonsurgically managed mild-to-moderate carpal tunnel syndrome, clinicians may use a combined orthotic and stretching program when thenar atrophy is absent and 2-point discrimination is normal. The assigned chunk does not verify the more specific nighttime neutral-wrist splint recommendation.",
+    "gold_chunk_ids": [
+      "d8a86539c245da68e34b556a"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "The revised passage reflects the support actually present for a combined orthotic/stretching program in selected mild-to-moderate CTS cases; it does not verify nighttime use or neutral wrist positioning asked in the question. Keep for manual review."
   },
   {
     "id": "FTR-059",
@@ -937,11 +948,13 @@
       "ftr_topic_area": "Total knee arthroplasty"
     },
     "question": "How often and for how long should NMES be used after knee replacement surgery?",
-    "gold_passage": "“Physical therapists should apply neuromuscular electrical stimulation (NMES) at least daily to the quadriceps for patients who have undergone TKA, initiated in the early postoperative period at the highest tolerable intensity, to improve quadriceps muscle strength, gait performance, and performance-based outcomes.”\n“NMES should be applied regularly for at least a minimum of 3 weeks.”",
-    "gold_answer": "NMES should be applied to the quadriceps at least daily during the early postoperative period at the highest tolerable intensity, with regular use for at least 3 weeks.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned."
+    "gold_passage": "“NMES should be applied regularly for at least a minimum of 3 weeks.”",
+    "gold_answer": "The assigned chunk supports regular NMES use for a minimum duration, but the extracted text does not preserve the duration value or verify the frequency, target muscle, postoperative timing, or intensity. The exact dosage cannot be fully verified from this chunk.",
+    "gold_chunk_ids": [
+      "9ba8cfd4db005878daf17549"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "The assigned TKA chunk is truncated and does not preserve the duration value or verify frequency, target muscle, postoperative timing, or intensity. Requires a better source chunk; not relabeled fully supported."
   },
   {
     "id": "FTR-064",
@@ -980,13 +993,13 @@
       "ftr_topic_area": "Shoulder stabilization surgery"
     },
     "question": "When can resisted exercise begin after shoulder stabilization surgery?",
-    "gold_passage": "“Through range movements can commence after 4 weeks, resisted movements at 6 weeks.”",
-    "gold_answer": "According to consensus, movements through the available range may begin after 4 weeks and resisted movements at approximately 6 weeks.",
+    "gold_passage": "“Patients should be able to resume through-range (outside of the safe zone) resisted movement after 6 weeks.”",
+    "gold_answer": "The shoulder-stabilization consensus source supports resuming resisted movement outside the safe zone after 6 weeks. It does not verify the separate claim that through-range movement may begin after 4 weeks.",
     "gold_chunk_ids": [
-      "f48146c6f45c93ecbe68acdf"
+      "71fd40a1ddc503223c577cee"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-067",
@@ -1011,12 +1024,12 @@
     },
     "question": "What types of strengthening exercises can be used for tennis elbow?",
     "gold_passage": "“Clinicians should use isometric, concentric, and/or eccentric therapeutic resisted exercises of the wrist extensors in the treatment of individuals with subacute or chronic LET.”",
-    "gold_answer": "Isometric, concentric, and/or eccentric resisted exercises targeting the wrist extensors may be used, with progression based on clinical tolerance.",
+    "gold_answer": "For subacute or chronic lateral elbow tendinopathy, the guideline supports isometric, concentric, and/or eccentric resisted exercises targeting the wrist extensors.",
     "gold_chunk_ids": [
       "d007f4a41d52a9e4d64b5fcd"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-069",
@@ -1176,14 +1189,14 @@
       "ftr_topic_area": "Shoulder pain"
     },
     "question": "Is the exercise approach the same for rotator cuff tendinopathy and shoulder osteoarthritis?",
-    "gold_passage": "Rotator Cuff CPG 2025: “Clinicians should prescribe or recommend an active rehabilitation exercise program, which may include motor control and/or resistance training exercises of various load, as an initial treatment modality to reduce pain and disability in adults with RC tendinopathy.”\nGHOA CPG 2023: “In the absence of high or moderate quality evidence, the opinion of the GDG based on clinical expertise is that physical therapist services may benefit patients with GHOA who have not undergone TSA. Evidence Quality: insufficient; Recommendation Strength: best practice.”",
-    "gold_answer": "Not exactly. Active rehabilitation exercise is a first-line approach for rotator cuff tendinopathy. In glenohumeral osteoarthritis, the diagnosis, loss of joint motion, and any postoperative restrictions after total shoulder arthroplasty may change the plan. The diagnosis and clinical presentation should be established first.",
+    "gold_passage": "Rotator Cuff CPG 2025: “Clinicians should prescribe or recommend an active rehabilitation exercise program, which may include motor control and/or resistance training exercises of various load, as an initial treatment modality to reduce pain and disability in adults with RC tendinopathy.” GHOA CPG 2023: “In the absence of high or moderate quality evidence, the opinion of the GDG based on clinical expertise is that physical therapist services may benefit patients with GHOA who have not undergone TSA. Evidence Quality: insufficient; Recommendation Strength: best practice.”",
+    "gold_answer": "The approaches are not identical in the cited recommendations. For rotator cuff tendinopathy, an active rehabilitation exercise program is recommended as an initial treatment. For glenohumeral osteoarthritis in patients who have not undergone total shoulder arthroplasty, the guideline offers a best-practice opinion that physical therapist services may be beneficial despite insufficient evidence.",
     "gold_chunk_ids": [
       "0bf937b7248dc13e37ba05ea",
       "bcf74d5835bc63d79dea3bbb"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-080",
@@ -1208,13 +1221,13 @@
       "ftr_topic_area": "Wrist and hand"
     },
     "question": "My wrist hurts and my hand feels numb; is rehabilitation after a wrist fracture the same as treatment for carpal tunnel syndrome?",
-    "gold_passage": "Distal Radius CPG 2024: “Clinicians should initiate early therapy that consists of hand, wrist, and shoulder active range of motion (AROM) exercises along with light daily activity within the first 3 weeks after a surgically repaired DRF…”\nCTS CPG 2026: “Clinicians should recommend a forearm-based, wrist immobilization orthosis, confirming that it maintains the wrist near neutral in the sagittal plane, worn at night for short- and/or mid-term improvement in symptoms and function for individuals with mild to moderate CTS seeking nonsurgical management or awaiting surgery.”",
-    "gold_answer": "No. After distal radius fracture, early active movement, appropriately timed strengthening, and fracture healing are priorities. For carpal tunnel syndrome, nighttime neutral-wrist orthosis and modification of symptom-provoking activities are emphasized in mild-to-moderate cases. The diagnosis should first be clarified.",
+    "gold_passage": "Distal Radius CPG 2024: “Clinicians should initiate early therapy that consists of hand, wrist, and shoulder active range of motion exercises along with light daily activity within the first 3 weeks after a surgically repaired distal radius fracture.”",
+    "gold_answer": "After a surgically repaired distal radius fracture, the guideline supports early therapy with active range-of-motion exercises for the hand, wrist, and shoulder plus light daily activity within the first 3 weeks. The assigned chunk does not establish the carpal-tunnel portion of the comparison.",
     "gold_chunk_ids": [
       "0783f50cf6aa7e09f281865c"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "The assigned chunk verifies the distal-radius-fracture portion only; the carpal-tunnel comparison is not verified by this gold mapping. Keep for manual review."
   },
   {
     "id": "FTR-082",
@@ -1223,14 +1236,14 @@
       "ftr_topic_area": "Ankle / Achilles tendon"
     },
     "question": "My posterior heel hurts and I recently sprained my ankle; is the exercise approach the same for both conditions?",
-    "gold_passage": "Achilles CPG 2024: “Clinicians should use tendon loading exercise, with loads as high as tolerated, as a first-line treatment to improve function and decrease pain for individuals with midportion Achilles tendinopathy who do not have presumed frailty of the tendon structure.”\nLateral Ankle Sprain CPG 2021: “Clinicians should advise patients with an acute LAS to use external supports, such as braces or taping, and to progressively bear weight on the affected limb.”",
-    "gold_answer": "No. The primary approach for Achilles tendinopathy is progressive tendon loading, recommended at least 3 times per week. For an acute ankle sprain, early external support, progressive weight-bearing, range-of-motion, balance, and neuromuscular exercises are emphasized.",
+    "gold_passage": "Achilles CPG 2024: “Clinicians should use tendon loading exercise, with loads as high as tolerated, as a first-line treatment to improve function and decrease pain for individuals with midportion Achilles tendinopathy who do not have presumed frailty of the tendon structure.” Lateral Ankle Sprain CPG 2021: “Clinicians should advise patients with an acute LAS to use external supports, such as braces or taping, and to progressively bear weight on the affected limb.”",
+    "gold_answer": "The recommendations differ. For midportion Achilles tendinopathy without presumed tendon structural frailty, tendon-loading exercise as high as tolerated is a first-line treatment. For acute lateral ankle sprain, external support and progressive weight-bearing are recommended. The assigned chunks do not verify a specific weekly exercise frequency or the additional ankle-exercise details.",
     "gold_chunk_ids": [
       "3d0f8bd18f365ef323aa4fdd",
       "9c2bea72a4421e9a97f8c983"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-083",
@@ -1239,13 +1252,13 @@
       "ftr_topic_area": "Achilles tendinopathy / version verification"
     },
     "question": "What is the year of the current JOSPT guideline for Achilles tendinopathy?",
-    "gold_passage": "“Achilles Pain, Stiffness, and Muscle Power Deficits: Midportion Achilles Tendinopathy Revision – 2024”\n“J Orthop Sports Phys Ther 2024;54(12):CPG1-CPG32. Epub 27 November 2024.”",
-    "gold_answer": "The current uploaded JOSPT document is the 2024 revision and was published online on November 27, 2024.",
+    "gold_passage": "“Achilles Pain, Stiffness, and Muscle Power Deficits: Midportion Achilles Tendinopathy Revision – 2024.”",
+    "gold_answer": "The current guideline is labeled the 2024 revision. The assigned chunk does not verify the online publication date.",
     "gold_chunk_ids": [
       "c15759c65dacfdb5b707cda9"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-084",
@@ -1254,13 +1267,13 @@
       "ftr_topic_area": "Hip osteoarthritis / version verification"
     },
     "question": "What is the latest revision year of the physiotherapy guideline for hip osteoarthritis?",
-    "gold_passage": "“Hip Pain and Mobility Deficits—Hip Osteoarthritis: Revision 2025”\n“J Orthop Sports Phys Ther 2025;55(11):CPG1-CPG31. Epub 12 September 2025.”",
-    "gold_answer": "The current uploaded document is the 2025 revision, published in JOSPT 2025;55(11).",
+    "gold_passage": "“Hip Pain and Mobility Deficits—Hip Osteoarthritis: Revision 2025.”",
+    "gold_answer": "The current guideline is labeled the 2025 revision. The assigned chunk supports a 2025 journal issue but does not contain the full title or verify the online publication date.",
     "gold_chunk_ids": [
-      "55123194494dec181f92462f"
+      "0f296c51c36a27c72470fed0"
     ],
-    "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_match_status": "matched_text_verified",
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-085",
@@ -1269,11 +1282,13 @@
       "ftr_topic_area": "Carpal tunnel syndrome / version verification"
     },
     "question": "Is the latest revision of the carpal tunnel physiotherapy guideline from 2026?",
-    "gold_passage": "“Hand Pain and Sensory Deficits: Carpal Tunnel Syndrome: Revision 2026”\n“J Orthop Sports Phys Ther 2026;56(4):CPG1-CPG79. Epub 12 February 2026.”",
-    "gold_answer": "Yes. The uploaded document is the 2026 revision, published in JOSPT 2026;56(4) and online on February 12, 2026.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned."
+    "gold_passage": "“journal of orthopaedic & sports physical therapy | volume 56 | number 4 | april 2026.”",
+    "gold_answer": "The uploaded carpal-tunnel guideline appears in the April 2026 issue of JOSPT, volume 56, number 4. The assigned chunk does not verify the exact online publication date or independently quote the revision title.",
+    "gold_chunk_ids": [
+      "6e7848a4e02f7c0efdf1c482"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-086",
@@ -1282,11 +1297,14 @@
       "ftr_topic_area": "Total knee arthroplasty / version verification"
     },
     "question": "Is the latest revision of the total knee arthroplasty physiotherapy guideline from 2026, and when was the previous core version published?",
-    "gold_passage": "“Clinical practice guideline for physical therapist management of total knee arthroplasty: revision 2026”\n“An updated clinical practice guideline on total knee arthroplasty, initially published in 2020, was developed by an American Physical Therapy Association volunteer guideline development group…”",
-    "gold_answer": "Yes. The current document is the 2026 revision, and it states that the first version of the guideline was published in 2020.",
-    "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
-    "gold_chunk_review_note": "No current processed chunk could be matched reliably to this spreadsheet gold passage. Review the source PDF/chunk output; no chunk ID is assigned."
+    "gold_passage": "“An updated clinical practice guideline on total knee arthroplasty, initially published in 2020, was developed by an American Physical Therapy Association volunteer guideline development group.”",
+    "gold_answer": "The supplied chunks support that the related total knee arthroplasty guideline was initially published in 2020. They do not independently establish that the current document is the 2026 revision.",
+    "gold_chunk_ids": [
+      "ecfd2a6dde2413641b0b5229",
+      "9665d4d2cbad1797d5e4bd8e"
+    ],
+    "gold_chunk_match_status": "partial_match_manual_review",
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-087",
@@ -1295,13 +1313,13 @@
       "ftr_topic_area": "Osteoarthritis / NICE guideline version"
     },
     "question": "The NICE osteoarthritis PDF shows a 2026 copyright date; does that make it a 2026 guideline?",
-    "gold_passage": "“Published: 19 October 2022”\n“September 2022: This guideline updates and replaces NICE guideline CG177 (published February 2014).”",
-    "gold_answer": "No. NG226 was published in September/October 2022 and replaced the 2014 guideline CG177. The 2026 copyright notice on the current PDF does not change the guideline's clinical publication year to 2026.",
+    "gold_passage": "“September 2022: This guideline updates and replaces NICE guideline CG177 (published February 2014).”",
+    "gold_answer": "No. The supplied chunk dates the NICE guideline update to September 2022 and says it replaces CG177 from February 2014. A 2026 copyright notice alone does not establish a new clinical guideline publication year, but that copyright interpretation is not directly stated in the assigned chunk.",
     "gold_chunk_ids": [
       "cd05daab85a35624312cad4e"
     ],
     "gold_chunk_match_status": "partial_match_manual_review",
-    "gold_chunk_review_note": "Current chunk candidate(s) match part of the spreadsheet gold passage or differ in extracted wording; manually confirm coverage before treating this mapping as final."
+    "gold_chunk_review_note": "Gold passage/answer revised to remove unsupported claims where possible, but the current assigned chunks do not fully verify the question's complete target claim. Retained for manual review; do not treat as fully supported."
   },
   {
     "id": "FTR-088",
@@ -1310,14 +1328,14 @@
       "ftr_topic_area": "Low back pain"
     },
     "question": "My back hurts; which exercise should I do?",
-    "gold_passage": "“Exercise training interventions can be broadly recommended to reduce pain and disability for individuals with chronic LBP. There is no clear evidence of superiority of one exercise type or approach over another when exercise protocols are directly compared.”\n“Physical therapists should use specific trunk muscle activation and movement control exercise for patients with chronic LBP and movement control impairment.”",
-    "gold_answer": "A single exercise cannot be selected without more information. The duration of pain, radiating symptoms, movement control, irritability, and signs of serious pathology should be assessed before selecting an appropriate exercise category.",
+    "gold_passage": "“Exercise training interventions can be broadly recommended to reduce pain and disability for individuals with chronic LBP. There is no clear evidence of superiority of one exercise type or approach over another when exercise protocols are directly compared.” / “Physical therapists should use specific trunk muscle activation and movement control exercise for patients with chronic LBP and movement control impairment.”",
+    "gold_answer": "For chronic low back pain, exercise can reduce pain and disability, and no single exercise type is clearly superior overall. Specific trunk-muscle activation and movement-control exercises are recommended when movement-control impairment is present.",
     "gold_chunk_ids": [
       "bbe0877d5672d0f9cd806772",
       "39613dd6769f6e310c6a0eb6"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-089",
@@ -1327,12 +1345,12 @@
     },
     "question": "The front of my knee hurts; should I use foot orthoses?",
     "gold_passage": "“Clinicians should prescribe prefabricated foot orthoses for patients with greater than normal pronation to reduce pain, but only in the short term (up to 6 weeks). If prescribed, foot orthoses should be combined with an exercise therapy program.”",
-    "gold_answer": "The diagnosis of patellofemoral pain and degree of foot pronation should be assessed first. Orthoses may be considered in the short term, alongside exercise, particularly for patients with patellofemoral pain and excessive pronation.",
+    "gold_answer": "For patients with greater-than-normal pronation, prefabricated foot orthoses may be used for short-term pain reduction (up to 6 weeks) and should be combined with exercise therapy.",
     "gold_chunk_ids": [
       "15f6c6218ce0a2f2ecf6679a"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-090",
@@ -1342,12 +1360,12 @@
     },
     "question": "I sprained my ankle; when can I start putting weight on it?",
     "gold_passage": "“Clinicians should advise patients with an acute LAS to use external supports, such as braces or taping, and to progressively bear weight on the affected limb. The type of external support and gait assistive device recommended should be based on the severity of the injury, phase of tissue healing, level of protection indicated, extent of pain, and patient preference.”",
-    "gold_answer": "The exact timing depends on injury severity and clinical assessment. For an acute lateral ankle sprain, progressive weight-bearing as tolerated with external support is recommended; severe injuries may require a short period of immobilization.",
+    "gold_answer": "For an acute lateral ankle sprain, the guideline recommends external support and progressive weight-bearing. The choice of support or walking aid should account for injury severity, healing phase, required protection, pain, and patient preference; the chunk does not establish an exact start time or the phrase “as tolerated.”",
     "gold_chunk_ids": [
       "9c2bea72a4421e9a97f8c983"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-091",
@@ -1356,14 +1374,14 @@
       "ftr_topic_area": "Shoulder pain"
     },
     "question": "My shoulder hurts; which exercise should I do?",
-    "gold_passage": "Rotator Cuff CPG 2025: “Clinicians should prescribe or recommend an active rehabilitation exercise program, which may include motor control and/or resistance training exercises of various load, as an initial treatment modality to reduce pain and disability in adults with RC tendinopathy.”\nGHOA CPG 2023: “In the absence of high or moderate quality evidence, the opinion of the GDG based on clinical expertise is that physical therapist services may benefit patients with GHOA who have not undergone TSA. Evidence Quality: insufficient; Recommendation Strength: best practice.”",
-    "gold_answer": "A single exercise protocol cannot be prescribed without knowing the diagnosis, loss of range of motion or strength, red flags, and any surgical restrictions.",
+    "gold_passage": "Rotator Cuff CPG 2025: “Clinicians should prescribe or recommend an active rehabilitation exercise program, which may include motor control and/or resistance training exercises of various load, as an initial treatment modality to reduce pain and disability in adults with RC tendinopathy.” GHOA CPG 2023: “Physical therapist services may benefit patients with GHOA who have not undergone TSA. Evidence Quality: insufficient; Recommendation Strength: best practice.”",
+    "gold_answer": "The cited guidance supports active rehabilitation, including motor-control and/or resistance exercises, as an initial treatment for rotator cuff tendinopathy. For glenohumeral osteoarthritis in patients who have not undergone total shoulder arthroplasty, physical therapist services may be beneficial, although the evidence is insufficient and the recommendation is best-practice opinion.",
     "gold_chunk_ids": [
       "0bf937b7248dc13e37ba05ea",
       "bcf74d5835bc63d79dea3bbb"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-092",
@@ -1373,12 +1391,12 @@
     },
     "question": "My hand feels numb; should I do nerve-gliding exercises?",
     "gold_passage": "“There is conflicting evidence for the use of neurodynamic mobilizations for management of mild- or moderate-severity CTS, and no recommendation can be made.”",
-    "gold_answer": "The cause and severity of the numbness should first be established, including whether it is due to carpal tunnel syndrome. Because evidence for nerve mobilization in CTS is conflicting, it should not be recommended automatically.",
+    "gold_answer": "For mild- or moderate-severity carpal tunnel syndrome, evidence for neurodynamic mobilization is conflicting, so the guideline makes no recommendation. The assigned chunk does not establish the cause or severity of a person's numbness.",
     "gold_chunk_ids": [
       "6e7848a4e02f7c0efdf1c482"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-093",
@@ -1390,8 +1408,8 @@
     "gold_passage": "No gold passage: the guideline does not define one mandatory set-and-repetition prescription for everyone.",
     "gold_answer": "The guideline recommends at least 3 sessions per week at an intensity as high as tolerated, but it does not specify one exact set-and-repetition scheme for everyone. The dose should be individualized.",
     "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_gold_in_corpus_expected",
-    "gold_chunk_review_note": "Labeled as outside the corpus; no gold chunk ID should be assigned. Abstention is expected."
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "gold_chunk_review_note": "Gold Chunk ID bilerek boş bırakıldı. İncelenen koleksiyonda bu sorunun beklediği yanıtı doğrudan desteklediği doğrulanmış bir chunk bulunmadığından yalnızca konu benzerliğine göre ID atanmadı."
   },
   {
     "id": "FTR-094",
@@ -1403,8 +1421,8 @@
     "gold_passage": "No gold passage: one universal set-and-repetition volume is not specified for everyone.",
     "gold_answer": "The guideline supports structured exercise but notes substantial variation among programs and does not establish one specific set-and-repetition prescription for everyone.",
     "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_gold_in_corpus_expected",
-    "gold_chunk_review_note": "Labeled as outside the corpus; no gold chunk ID should be assigned. Abstention is expected."
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "gold_chunk_review_note": "Gold Chunk ID bilerek boş bırakıldı. İncelenen koleksiyonda bu sorunun beklediği yanıtı doğrudan desteklediği doğrulanmış bir chunk bulunmadığından yalnızca konu benzerliğine göre ID atanmadı."
   },
   {
     "id": "FTR-095",
@@ -1416,8 +1434,8 @@
     "gold_passage": "No gold passage: one mandatory squat angle for all patients with patellofemoral pain is not provided.",
     "gold_answer": "The guideline does not define one squat angle for all patients. Squat depth and loading should be adjusted to pain, load tolerance, movement control, and individual findings.",
     "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_gold_in_corpus_expected",
-    "gold_chunk_review_note": "Labeled as outside the corpus; no gold chunk ID should be assigned. Abstention is expected."
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "gold_chunk_review_note": "Gold Chunk ID bilerek boş bırakıldı. İncelenen koleksiyonda bu sorunun beklediği yanıtı doğrudan desteklediği doğrulanmış bir chunk bulunmadığından yalnızca konu benzerliğine göre ID atanmadı."
   },
   {
     "id": "FTR-096",
@@ -1429,8 +1447,8 @@
     "gold_passage": "No gold passage: the guideline does not identify one exercise as superior for all patients.",
     "gold_answer": "The guideline does not identify a single 'best' exercise. A program combining strengthening, endurance, flexibility, and, when appropriate, aquatic exercise should be selected according to individual needs.",
     "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_gold_in_corpus_expected",
-    "gold_chunk_review_note": "Labeled as outside the corpus; no gold chunk ID should be assigned. Abstention is expected."
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "gold_chunk_review_note": "Gold Chunk ID bilerek boş bırakıldı. İncelenen koleksiyonda bu sorunun beklediği yanıtı doğrudan desteklediği doğrulanmış bir chunk bulunmadığından yalnızca konu benzerliğine göre ID atanmadı."
   },
   {
     "id": "FTR-097",
@@ -1442,8 +1460,8 @@
     "gold_passage": "No gold passage: the guideline does not specify one exact daily repetition count for nerve-gliding exercises that applies to everyone.",
     "gold_answer": "The 2026 guideline reports conflicting evidence for nerve mobilization and does not recommend a universal, exact daily repetition dose.",
     "gold_chunk_ids": [],
-    "gold_chunk_match_status": "no_gold_in_corpus_expected",
-    "gold_chunk_review_note": "Labeled as outside the corpus; no gold chunk ID should be assigned. Abstention is expected."
+    "gold_chunk_match_status": "no_verified_chunk_match_manual_review",
+    "gold_chunk_review_note": "Gold Chunk ID bilerek boş bırakıldı. İncelenen koleksiyonda bu sorunun beklediği yanıtı doğrudan desteklediği doğrulanmış bir chunk bulunmadığından yalnızca konu benzerliğine göre ID atanmadı."
   },
   {
     "id": "FTR-098",
@@ -1453,12 +1471,12 @@
     },
     "question": "Is it true that I should avoid all exercise until Achilles tendinopathy pain has completely resolved?",
     "gold_passage": "“Clinicians should advise that complete rest is not indicated for individuals with midportion Achilles tendinopathy and that they should continue with their activities within their pain tolerance.”",
-    "gold_answer": "No. The guideline states that complete rest is not indicated; activities should continue within pain tolerance, and tendon-loading exercise should be used.",
+    "gold_answer": "No. Complete rest is not indicated for midportion Achilles tendinopathy; activities should continue within the person's pain tolerance. This chunk alone does not establish a separate tendon-loading exercise prescription.",
     "gold_chunk_ids": [
       "eb6878985ad6441f1b12d471"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-099",
@@ -1468,12 +1486,12 @@
     },
     "question": "Can ultrasound or electrotherapy replace exercise for anterior knee pain?",
     "gold_passage": "“Clinicians should not use biophysical agents, including ultrasound, cryotherapy, phonophoresis, iontophoresis, electrical stimulation, and therapeutic laser, for the treatment of patients with PFP.”",
-    "gold_answer": "No. The guideline does not recommend ultrasound, electrical stimulation, therapeutic laser, or similar biophysical agents for patellofemoral pain. Exercise therapy is a core component.",
+    "gold_answer": "No. The guideline recommends against biophysical agents such as ultrasound, cryotherapy, phonophoresis, iontophoresis, electrical stimulation, and therapeutic laser for patellofemoral pain. The assigned chunk does not establish the separate claim that exercise is a core component.",
     "gold_chunk_ids": [
       "9ba39ce462f65a6662624f1f"
     ],
     "gold_chunk_match_status": "matched_text_verified",
-    "gold_chunk_review_note": null
+    "gold_chunk_review_note": "Revised to include only claims directly supported by the assigned chunk(s); unsupported additions removed. Gold chunk IDs checked against the supplied corpus."
   },
   {
     "id": "FTR-100",

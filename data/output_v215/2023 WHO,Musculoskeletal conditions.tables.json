@@ -1,0 +1,418 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 WHO,Musculoskeletal conditions.pdf",
+  "doc_family": "WHO",
+  "doc_family_source": "filename_rule",
+  "organization": "World Health Organization",
+  "year": 2023,
+  "table_count": 6,
+  "tables": [
+    {
+      "table_id": "tbl_0bfaece824dff22c",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 28,
+      "table_index": 0,
+      "bbox": [
+        42.6,
+        133.89,
+        538.44,
+        152.16
+      ],
+      "section_id": "939fd76ce23abdb3",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_13bee401aa8e886f",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 49,
+      "table_index": 0,
+      "bbox": [
+        56.79,
+        133.89,
+        552.41,
+        152.16
+      ],
+      "section_id": "939fd76ce23abdb3",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_7cba1af3941c0615",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 64,
+      "table_index": 0,
+      "bbox": [
+        42.64,
+        133.89,
+        538.21,
+        152.16
+      ],
+      "section_id": "939fd76ce23abdb3",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_10a2a0f1c529f361",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 76,
+      "table_index": 0,
+      "bbox": [
+        42.64,
+        42.64,
+        799.75,
+        535.1
+      ],
+      "section_id": "51ceab4d8eb227f0",
+      "section_path": [
+        "therapy"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 14,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.8367,
+      "header_row": [
+        "",
+        "sts) t t t",
+        "t",
+        "ner/ ner/",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "82bb602f9a09",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| sts) t t t | t | ner/ ner/ |  |  | \n |  |  | t ctition t t | ctition t |  | \nMaterial resources Occupations | cialis rapist rapist rapist rapist l prac rapist rapist l prac rapist |  |  |  |  | \n | itation spe ational ther therapist ational ther therapist ational ther therapist ational ther therapist list medical hysician ational ther therapist ational ther therapist list medical hysician ational ther therapist therapist |  |  |  |  | \n | rehabili Occupa Physiot Occupa Physiot Occupa Physiot Occupa Physiot Special PRM ph Occupa Physiot Occupa Physiot Special PRM ph Occupa Physiot Physiot |  |  |  |  | \n | ( • • • • • • • • • • • • • • • • • |  |  |  |  | \n |  |  |  |  |  | \n | onsumables – – – – – – – – |  |  |  |  | \n | C |  |  |  |  | \n | e |  |  |  |  | \n | ipment le pe le le le namometer le nds pe d/cushion es, adjustable pe |  |  |  |  | \n | Equi • Treatment tab • Goniometer • Measuring tap • Treatment tab • Treatment tab • Exercise mats • Treatment tab • Handheld dyn • Treatment tab • Weights • Resistance ba • Exercise mats • Timer • Measuring tap • Parallel bars • Balance board • Exercise mat • Timer • Standing fram • Timer • Measuring tap • Parallel bars |  |  |  |  | \n |  |  |  |  |  | \n | roducts ce) |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "sts) t t t",
+          "t",
+          "ner/ ner/",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "t ctition t t",
+          "ctition t",
+          "",
+          ""
+        ],
+        [
+          "Material resources Occupations",
+          "cialis rapist rapist rapist rapist l prac rapist rapist l prac rapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "itation spe ational ther therapist ational ther therapist ational ther therapist ational ther therapist list medical hysician ational ther therapist ational ther therapist list medical hysician ational ther therapist therapist",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "rehabili Occupa Physiot Occupa Physiot Occupa Physiot Occupa Physiot Special PRM ph Occupa Physiot Occupa Physiot Special PRM ph Occupa Physiot Physiot",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "( • • • • • • • • • • • • • • • • •",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "onsumables – – – – – – – –",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "C",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "e",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "ipment le pe le le le namometer le nds pe d/cushion es, adjustable pe",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Equi • Treatment tab • Goniometer • Measuring tap • Treatment tab • Treatment tab • Exercise mats • Treatment tab • Handheld dyn • Treatment tab • Weights • Resistance ba • Exercise mats • Timer • Measuring tap • Parallel bars • Balance board • Exercise mat • Timer • Standing fram • Timer • Measuring tap • Parallel bars",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "roducts ce)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9a1e317d73cd86a0",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 83,
+      "table_index": 0,
+      "bbox": [
+        56.82,
+        133.89,
+        552.13,
+        152.16
+      ],
+      "section_id": "939fd76ce23abdb3",
+      "section_path": [
+        "Material resources"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Material resources",
+      "footnote_candidates": [],
+      "n_rows": 1,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Assistive products (for prescription)",
+        "Equipment (for service facilities)",
+        "Consumables (for service facilities)"
+      ],
+      "header_signature": "193b42878fa0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Assistive products (for prescription) | Equipment (for service facilities) | Consumables (for service facilities)",
+      "rows": [
+        [
+          "Assistive products (for prescription)",
+          "Equipment (for service facilities)",
+          "Consumables (for service facilities)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_aea8be2bbf8b7b7f",
+      "doc_name": "2023 WHO,Musculoskeletal conditions.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 95,
+      "table_index": 0,
+      "bbox": [
+        70.99,
+        70.99,
+        524.41,
+        89.26
+      ],
+      "section_id": "0514f5025cde3dcb",
+      "section_path": [
+        "Participation focused\ninterventions"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "A variety of physical exercises (e.g. aerobic or strengthening exercises, balance or\ncoordination exercises, mind–body exercises), with or without weight-bearing, are\nsuitable to improve exercise capacity, muscle strength, joint mobility, voluntary\nmovement, balance, gait and walking, as well as helping to reduce pain and\nfatigue. Regular physical exercise training (including education and advice on\nexercises) is planned according to an individual’s need, guided or assisted and, if\nfeasible, performed self-directed following education and advice on the appropriate\nexercises."
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention",
+        "Description of the intervention"
+      ],
+      "header_signature": "adae9af98472",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention | Description of the intervention",
+      "rows": [
+        [
+          "Intervention",
+          "Description of the intervention"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "source_artifact": "data/output_v215/table_llm_v3/table_chunks.json",
+  "problem_occurrences": {
+    "row_index_out_of_range": 17,
+    "table_level": 96,
+    "embedding_numbers_not_in_source": 37,
+    "text_missing_source_row": 47
+  },
+  "unique_tables_by_problem": {
+    "row_index_out_of_range": 17,
+    "table_level": 36,
+    "embedding_numbers_not_in_source": 20,
+    "text_missing_source_row": 20
+  },
+  "examples": [
+    {
+      "problem_type": "table_level",
+      "table_id": "tbl_4f178e6e26d729e1",
+      "document": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "page": 4,
+      "validation_problems": [
+        "table_level:rows_not_covered:[1]"
+      ],
+      "source_row_indices_in_chunk": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "comparison_source_rows": [
+        {
+          "index": 1,
+          "cells": [
+            "Practice Guideline Recommendation",
+            "ns6 g y Lymphology (ISL)5",
+            "Description of Stages"
+          ]
+        }
+      ],
+      "generated_text": "Patient Presentation From the Clinic | cal Stages From International Society of | Description of Stages\nPractice Guideline Recommendation | ns6 g y Lymphology (ISL)5 | Description of Stages\nAt Risk | NA In wi im | dividuals with insult to the lymphatic system but ithout symptoms or signs of lymphatic transport mpairment.\nSubclinical | Stage 0 Su lym m m | ubclinical state where swelling is not visible, but mphatic transport is impaired by clinical easures. Symptoms and subtle tissue changes ay be noted.\nEarly Lymphedema | Stage I Ea wi | arly onset of swelling that is visible and subsides ith elevation. Pitting may be present.\nModerate Lymphedema | Stage II Co Ele pr | onsistent volume change with pitting present. evation rarely reduces the swelling and rogressive tissue fibrosis occurs.\nLate Lymphedema | Stage III Sk hy de ve | kin changes such as thickening, yperpigmentation, increased skin folds, fat eposits, and warty overgrowths occur. Tissue is ery fibrotic and pitting is absent.",
+      "generated_embedding_text": "Table: Table 2. Lymphedema Staging Model.\nFor At Risk, the stage entry is “NA In wi im” and the description is “dividuals with insult to the lymphatic system but ithout symptoms or signs of lymphatic transport mpairment.”\nFor Subclinical, the stage entry is “Stage 0 Su lym m m” and the description is “ubclinical state where swelling is not visible, but mphatic transport is impaired by clinical easures. Symptoms and subtle tissue changes ay be noted.”\nFor Early Lymphedema, the stage entry is “Stage I Ea wi” and the description is “arly onset of swelling that is visible and subsides ith elevation. Pitting may be present.”\nFor Moderate Lymphedema, the stage entry is “Stage II Co Ele pr” and the description is “onsistent volume change with pitting present. evation rarely reduces the swelling and rogressive tissue fibrosis occurs.”\nFor Late Lymphedema, the stage entry is “Stage III Sk hy de ve” and the description is “kin changes such as thickening, yperpigmentation, increased skin folds, fat eposits, and warty overgrowths occur. Tissue is ery fibrotic and pitting is absent.”"
+    },
+    {
+      "problem_type": "text_missing_source_row",
+      "table_id": "tbl_63e29611fa43e90d",
+      "document": "2021 VA_DoD,TRAUMATIC BRAIN INJURY.pdf",
+      "page": 112,
+      "validation_problems": [
+        "text_missing_source_row:18",
+        "table_level:rows_not_covered:[1]"
+      ],
+      "source_row_indices_in_chunk": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "comparison_source_rows": [
+        {
+          "index": 18,
+          "cells": [
+            "Evaluating risk of violence towards others in context of PTSD",
+            "",
+            "",
+            "https://www.ptsd.va.gov/professional/treat/cooccurring/assessing_risk_violence.asp"
+          ]
+        }
+      ],
+      "generated_text": " | Question or Mental |  | Mental Health Reference Materials and Websites to Learn More\n | Health Need |  | \nTeaching Tools for trainees on understanding neuroanatomy and neuropsychiatry |  |  | https://www.mirecc.va.gov/visn6/Tools-Tips.asp\nPTSD Guides and references for providers |  |  | https://www.ptsd.va.gov/professional/index.asp\nPTSD Guides and references for Veterans and families |  |  | https://www.ptsd.va.gov/family/effects_ptsd.asp\nCommon Post-deployment Symptom Education Guides for patients |  |  | https://www.mirecc.va.gov/visn6/Readjustment.asp\nOverview of PTSD and violence towards others |  |  | https://www.ptsd.va.gov/professional/treat/cooccurring/research_violence.asp",
+      "generated_embedding_text": "Table: Untitled table (Section: Table I-1. Reference Guide for Providers, Veterans, Families: Accessing Mental Health Services after Traumatic Brain Injury).\nFor Teaching Tools for trainees on understanding neuroanatomy and neuropsychiatry, the reference is https://www.mirecc.va.gov/visn6/Tools-Tips.asp.\nFor PTSD Guides and references for providers, the reference is https://www.ptsd.va.gov/professional/index.asp.\nFor PTSD Guides and references for Veterans and families, the reference is https://www.ptsd.va.gov/family/effects_ptsd.asp.\nFor Common Post-deployment Symptom Education Guides for patients, the reference is https://www.mirecc.va.gov/visn6/Readjustment.asp.\nFor Overview of PTSD and violence towards others, the reference is https://www.ptsd.va.gov/professional/treat/cooccurring/research_violence.asp."
+    },
+    {
+      "problem_type": "embedding_numbers_not_in_source",
+      "table_id": "tbl_17a542703dfbbf68",
+      "document": "2021 VA_DoD,TRAUMATIC BRAIN INJURY.pdf",
+      "page": 58,
+      "validation_problems": [
+        "embedding_numbers_not_in_source:['49', '50']",
+        "table_level:rows_not_covered:[14]"
+      ],
+      "source_row_indices_in_chunk": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "comparison_source_rows": [
+        {
+          "index": 14,
+          "cells": [
+            "Total Evidence Base",
+            "",
+            "",
+            "",
+            "49 studies (in 50 publications)",
+            ""
+          ]
+        }
+      ],
+      "generated_text": " | KQ |  | KQ | Number and Study Type | \n7 |  |  | In adults with mTBI, what is the effectiveness of complementary and integrative health (CIH) interventions in improving outcomes? | 1 SR and 7 RCTs | \n8 |  |  | a) In adults with mTBI and post-concussive symptoms of impaired attention, concentration and/or memory, what is the evidence that automated (computer-based) cognitive rehabilitation has equal or superior efficacy compared to clinician-based services in improving chronic symptoms at 1 month or more after initiation of the intervention? b) In adults with persistent cognitive symptoms or functional cognitive complaints, do specific cognitive rehabilitation interventions improve outcomes? | 1 SR and 7 RCTs (in 8 publications) | \n9 |  |  | For individuals with persistent symptoms attributable to mTBI, what is the evidence supporting the optimal timing for referral from a primary care clinician to a TBI/symptom specialist? | 4 cohort studies | \n10 |  |  | Are adults with mTBI and multiple brain injuries at increased risk of neurocognitive decline? a) What are demographic and clinical and management factors that may alter risks of these conditions? | 1 SR and 6 prognostic studies (1 cohort, 5 cross-sectional) | \n11 |  |  | What is the comparative effectiveness of mTBI treatment programs to improve morbidity, function, and return to work? | 1 RCT | \n12 |  |  | In adults with mTBI and co-morbidities (PTSD, SUD, and mood disorders), what interventions are effective for improving outcomes? | 2 SRs and 1 RCT\nTotal Evidence Base |  |  |  | 49 studies (in 50 publications) | ",
+      "generated_embedding_text": "Table: Table A-2. Evidence Base for KQs (Section: Table A-2. Evidence Base for KQs).\nFor KQ 7, the question is: In adults with mTBI, what is the effectiveness of complementary and integrative health (CIH) interventions in improving outcomes? The number and study type are 1 SR (systematic review) and 7 RCTs.\nFor KQ 8, the questions are: a) In adults with mTBI and post-concussive symptoms of impaired attention, concentration and/or memory, what is the evidence that automated (computer-based) cognitive rehabilitation has equal or superior efficacy compared to clinician-based services in improving chronic symptoms at 1 month or more after initiation of the intervention? b) In adults with persistent cognitive symptoms or functional cognitive complaints, do specific cognitive rehabilitation interventions improve outcomes? The number and study type are 1 SR (systematic review) and 7 RCTs (in 8 publications).\nFor KQ 9, the question is: For individuals with persistent symptoms attributable to mTBI, what is the evidence supporting the optimal timing for referral from a primary care clinician to a TBI/symptom specialist? The number and study type are 4 cohort studies.\nFor KQ 10, the questions are: Are adults with mTBI and multiple brain injuries at increased risk of neurocognitive decline? a) What are demographic and clinical and management factors that may alter risks of these conditions? The number and study type are 1 SR (systematic review) and 6 prognostic studies (1 cohort, 5 cross-sectional).\nFor KQ 11, the question is: What is the comparative effectiveness of mTBI treatment programs to improve morbidity, function, and return to work? The number and study type are 1 RCT.\nFor KQ 12, the question is: In adults with mTBI and co-morbidities (PTSD, SUD, and mood disorders), what interventions are effective for improving outcomes? The number and study type are 2 SRs and 1 RCT.\nThe Total Evidence Base is 49 studies (in 50 publications)."
+    }
+  ]
+}

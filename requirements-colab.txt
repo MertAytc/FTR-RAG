@@ -1,0 +1,7 @@
+# Runtime dependencies for English FTR-RAG retrieval and generation in Colab.
+# Colab provides PyTorch; sentence-transformers uses that installed build.
+chromadb>=0.5.0
+rank-bm25>=0.2.2
+ollama>=0.5.0
+sentence-transformers>=3.0.0
+numpy>=1.24.0

@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from typing import Dict, List
+import os
 import re
 
 try:
@@ -7,7 +8,7 @@ try:
 except ImportError:
     ollama = None
 
-GENERATION_MODEL = "qwen2.5:7b-instruct"
+GENERATION_MODEL = os.getenv("FTR_GENERATION_MODEL", "qwen3:8b")
 
 ENGLISH_SYSTEM_PROMPT = """You are a physiotherapy and rehabilitation evidence assistant.
 Answer ONLY from the supplied CONTEXT.
@@ -108,6 +109,7 @@ def generate_grounded_answer(
             {"role": "system", "content": ENGLISH_SYSTEM_PROMPT},
             {"role": "user", "content": f"CLINICAL QUESTION:\n{english_query}\n\nCONTEXT:\n{context_text}\n\nAnswer only from the context."},
         ],
+        think=False,
         options={"temperature": 0.0, "num_predict": 300},
     )
 

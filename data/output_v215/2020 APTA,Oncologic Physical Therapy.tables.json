@@ -1,0 +1,429 @@
+{
+  "schema_version": "2.3",
+  "document": "2020 APTA,Oncologic Physical Therapy.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2020,
+  "table_count": 5,
+  "tables": [
+    {
+      "table_id": "tbl_025e1f0f4a03859f",
+      "doc_name": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 3,
+      "table_index": 0,
+      "bbox": [
+        53.23,
+        134.74,
+        537.7,
+        676.67
+      ],
+      "section_id": "0374aa36e7e675ec",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 1.\nOverview of Practice Recommendationsa",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Interventions by Stage",
+        "Practice Recommendations"
+      ],
+      "header_signature": "3ff685bee4b0",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Interventions by Stage | Practice Recommendations\nInterventions by Stage | Practice Recommendations\nEarly Postoperative Care/Early Preventive Intervention | Postoperative exercise and resumption of activity should be coordinated with the interprofessional team and an individualized exercise program should be gradually increased while monitoring for adverse events. (Best Practice) Individually tailored exercises should be included postoperatively and gradually progressed. (Grade B) In individuals who have undergone axillary lymph node dissection: • The addition of therapist-provided manual lymphatic drainage (MLD) to the postoperative care plan may not reduce the risk of developing BCRL. (Grade C) • Provision of a fitted compression garment to patients at high risk of developing lymphedema, when paired with upper extremity exercise and diaphragmatic breathing, may reduce development of lymphedema. (Grade B)\nProspective Surveillance Model and Identified Subclinical (ISL Stage 0) Lymphedema | Early identification of subclinical lymphedema in high-risk groups through prospective surveillance may improve outcomes. (Grade C) • Monitoring with bioelectric impedance spectroscopy or volume measures may begin with a preoperative assessment, repeated every 3 months for the first year postoperatively, and then biannually for up to 5 years. (Grade C) Intervention for subclinical lymphedema may include education, self-massage, and use of compression garments. (Grade C) If early subclinical lymphedema persists or progresses after initial conservative intervention, individuals may benefit from more intensive interventions, such as complete decongestive therapy (CDT). (Grade C)\nExercise for Individuals at Risk for or With Subclinical (ISL Stage 0) BCRL | Progressive resistance training is safe when an individualized program is supervised beginning at least 1 month postsurgery. (Grade A) Individualized aerobic exercise programs should be provided. (Grade A) Monitoring for exercise tolerance and adverse effects should initially occur at least weekly and then taper according to clinical presentation. (Grade A)\nInterventions Recommended for Individuals Diagnosed With BCRL | Early Lymphedema (ISL Stage I): If early signs and/or symptoms of lymphedema are noted, the patient should be individually fitted with a compression garment, instructed in an exercise program, and provided education as first-line treatment. (Grade A) • If first-line treatment is not successful for early lymphedema, then CDT may be recommended. (Grade B) • Compression (garment or bandaging) should be tailored for the individual’s lymphedema stage and impairments, in consultation with the patient. (Grade A) Moderate and Late Lymphedema (ISL Stages II and III): CDT should be used to reduce limb volume in those diagnosed with moderate and late BCRL. (Grade B) • Compression bandaging and exercise are key components of CDT and should be used. (Grade A) • Modifying CDT, specifically shortening or omitting the MLD component, may yield similar results on long-term volume reduction. (Grade B) • In all treatment phases, compression interventions should be tailored for the individual’s lymphedema stage, impairments, and preferences. (Grade A) • Kinesiotape may reduce volume but cannot be recommended to replace short-stretch compression bandaging in stage II and III BCRL. (Grade B) If kinesiotape is used in BCRL, clinicians should closely monitor for adverse events. (Grade B) • Once a stable volume reduction is achieved with phase I clinical treatment, a program of home care including self-MLD, individually fitted compression garment, appropriate nightly compression if indicated, and exercise should be recommended. (Grade B) • Use of a standard or advanced intermittent pneumatic compression device may be considered in phase II home care treatment. (Grade C) • Monitoring for volume changes with follow-up care may be an important component for optimal long-term volume reduction. (Grade C) Low-level laser therapy may be considered either in combination with compression or CDT in patients with established lymphedema of the upper extremity. (Grade B) For All Stages (ISL Stages 0–III) in Relation to Other Therapeutic Modalities: The addition of myofascial therapy to stretching, exercise, and scar massage may be safe in patients greater than 3 months post–radiation therapy who are at risk for BCRL. (Grade C) Acupuncture has insufficient evidence to support use for volume reduction. (Grade C)",
+      "rows": [
+        [
+          "Interventions by Stage",
+          "Practice Recommendations"
+        ],
+        [
+          "Interventions by Stage",
+          "Practice Recommendations"
+        ],
+        [
+          "Early Postoperative Care/Early Preventive Intervention",
+          "Postoperative exercise and resumption of activity should be coordinated with the interprofessional team and an individualized exercise program should be gradually increased while monitoring for adverse events. (Best Practice) Individually tailored exercises should be included postoperatively and gradually progressed. (Grade B) In individuals who have undergone axillary lymph node dissection: • The addition of therapist-provided manual lymphatic drainage (MLD) to the postoperative care plan may not reduce the risk of developing BCRL. (Grade C) • Provision of a fitted compression garment to patients at high risk of developing lymphedema, when paired with upper extremity exercise and diaphragmatic breathing, may reduce development of lymphedema. (Grade B)"
+        ],
+        [
+          "Prospective Surveillance Model and Identified Subclinical (ISL Stage 0) Lymphedema",
+          "Early identification of subclinical lymphedema in high-risk groups through prospective surveillance may improve outcomes. (Grade C) • Monitoring with bioelectric impedance spectroscopy or volume measures may begin with a preoperative assessment, repeated every 3 months for the first year postoperatively, and then biannually for up to 5 years. (Grade C) Intervention for subclinical lymphedema may include education, self-massage, and use of compression garments. (Grade C) If early subclinical lymphedema persists or progresses after initial conservative intervention, individuals may benefit from more intensive interventions, such as complete decongestive therapy (CDT). (Grade C)"
+        ],
+        [
+          "Exercise for Individuals at Risk for or With Subclinical (ISL Stage 0) BCRL",
+          "Progressive resistance training is safe when an individualized program is supervised beginning at least 1 month postsurgery. (Grade A) Individualized aerobic exercise programs should be provided. (Grade A) Monitoring for exercise tolerance and adverse effects should initially occur at least weekly and then taper according to clinical presentation. (Grade A)"
+        ],
+        [
+          "Interventions Recommended for Individuals Diagnosed With BCRL",
+          "Early Lymphedema (ISL Stage I): If early signs and/or symptoms of lymphedema are noted, the patient should be individually fitted with a compression garment, instructed in an exercise program, and provided education as first-line treatment. (Grade A) • If first-line treatment is not successful for early lymphedema, then CDT may be recommended. (Grade B) • Compression (garment or bandaging) should be tailored for the individual’s lymphedema stage and impairments, in consultation with the patient. (Grade A) Moderate and Late Lymphedema (ISL Stages II and III): CDT should be used to reduce limb volume in those diagnosed with moderate and late BCRL. (Grade B) • Compression bandaging and exercise are key components of CDT and should be used. (Grade A) • Modifying CDT, specifically shortening or omitting the MLD component, may yield similar results on long-term volume reduction. (Grade B) • In all treatment phases, compression interventions should be tailored for the individual’s lymphedema stage, impairments, and preferences. (Grade A) • Kinesiotape may reduce volume but cannot be recommended to replace short-stretch compression bandaging in stage II and III BCRL. (Grade B) If kinesiotape is used in BCRL, clinicians should closely monitor for adverse events. (Grade B) • Once a stable volume reduction is achieved with phase I clinical treatment, a program of home care including self-MLD, individually fitted compression garment, appropriate nightly compression if indicated, and exercise should be recommended. (Grade B) • Use of a standard or advanced intermittent pneumatic compression device may be considered in phase II home care treatment. (Grade C) • Monitoring for volume changes with follow-up care may be an important component for optimal long-term volume reduction. (Grade C) Low-level laser therapy may be considered either in combination with compression or CDT in patients with established lymphedema of the upper extremity. (Grade B) For All Stages (ISL Stages 0–III) in Relation to Other Therapeutic Modalities: The addition of myofascial therapy to stretching, exercise, and scar massage may be safe in patients greater than 3 months post–radiation therapy who are at risk for BCRL. (Grade C) Acupuncture has insufficient evidence to support use for volume reduction. (Grade C)"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_4f178e6e26d729e1",
+      "doc_name": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 4,
+      "table_index": 0,
+      "bbox": [
+        56.44,
+        499.1,
+        540.67,
+        690.04
+      ],
+      "section_id": "0374aa36e7e675ec",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 2.\nLymphedema Staging Model",
+      "context_before": "Figure.\nEvidence flow chart showing literature inclusion and exclusion.",
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Patient Presentation From the Clinic",
+        "cal Stages From International Society of",
+        "Description of Stages"
+      ],
+      "header_signature": "89694a52c747",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Patient Presentation From the Clinic | cal Stages From International Society of | Description of Stages\nPractice Guideline Recommendation | ns6 g y Lymphology (ISL)5 | Description of Stages\nAt Risk | NA In wi im | dividuals with insult to the lymphatic system but ithout symptoms or signs of lymphatic transport mpairment.\nSubclinical | Stage 0 Su lym m m | ubclinical state where swelling is not visible, but mphatic transport is impaired by clinical easures. Symptoms and subtle tissue changes ay be noted.\nEarly Lymphedema | Stage I Ea wi | arly onset of swelling that is visible and subsides ith elevation. Pitting may be present.\nModerate Lymphedema | Stage II Co Ele pr | onsistent volume change with pitting present. evation rarely reduces the swelling and rogressive tissue fibrosis occurs.\nLate Lymphedema | Stage III Sk hy de ve | kin changes such as thickening, yperpigmentation, increased skin folds, fat eposits, and warty overgrowths occur. Tissue is ery fibrotic and pitting is absent.",
+      "rows": [
+        [
+          "Patient Presentation From the Clinic",
+          "cal Stages From International Society of",
+          "Description of Stages"
+        ],
+        [
+          "Practice Guideline Recommendation",
+          "ns6 g y Lymphology (ISL)5",
+          "Description of Stages"
+        ],
+        [
+          "At Risk",
+          "NA In wi im",
+          "dividuals with insult to the lymphatic system but ithout symptoms or signs of lymphatic transport mpairment."
+        ],
+        [
+          "Subclinical",
+          "Stage 0 Su lym m m",
+          "ubclinical state where swelling is not visible, but mphatic transport is impaired by clinical easures. Symptoms and subtle tissue changes ay be noted."
+        ],
+        [
+          "Early Lymphedema",
+          "Stage I Ea wi",
+          "arly onset of swelling that is visible and subsides ith elevation. Pitting may be present."
+        ],
+        [
+          "Moderate Lymphedema",
+          "Stage II Co Ele pr",
+          "onsistent volume change with pitting present. evation rarely reduces the swelling and rogressive tissue fibrosis occurs."
+        ],
+        [
+          "Late Lymphedema",
+          "Stage III Sk hy de ve",
+          "kin changes such as thickening, yperpigmentation, increased skin folds, fat eposits, and warty overgrowths occur. Tissue is ery fibrotic and pitting is absent."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8f7d0e045ea70d29",
+      "doc_name": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 5,
+      "table_index": 0,
+      "bbox": [
+        53.26,
+        110.31,
+        537.7,
+        215.87
+      ],
+      "section_id": "0374aa36e7e675ec",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 3.\nQuality Rating Scale for Individual Articles7",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0833,
+      "header_row": [
+        "Level",
+        "Criteriaa"
+      ],
+      "header_signature": "5dab48859b38",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Level | Criteriaa\nLevel | Criteriaa\nI | High-quality randomized controlled trials: met all 8 essential scoring items on Critical Appraisal Tool for Experimental Intervention Studies (CAT-EI), including: randomized controlled trial of appropriate patient population and sample size, blinding of assessment, reliable and valid outcome measure, adequate follow-up, and appropriate statistical analysis.\nII | Acceptable quality: evidence obtained from lesser quality clinical trials and met 6 of 8 quality indicators (eg, no blinding, short follow-up), high-quality prospective cohort studies or outcomes research.\nIII | Low quality: case-controlled studies, retrospective cohort studies, or other low-quality trials; met between 2 and 5 of essential scoring items on CAT-EI.\n | Unacceptable: met 0 or 1 of the essential scoring items on CAT-EI.",
+      "rows": [
+        [
+          "Level",
+          "Criteriaa"
+        ],
+        [
+          "Level",
+          "Criteriaa"
+        ],
+        [
+          "I",
+          "High-quality randomized controlled trials: met all 8 essential scoring items on Critical Appraisal Tool for Experimental Intervention Studies (CAT-EI), including: randomized controlled trial of appropriate patient population and sample size, blinding of assessment, reliable and valid outcome measure, adequate follow-up, and appropriate statistical analysis."
+        ],
+        [
+          "II",
+          "Acceptable quality: evidence obtained from lesser quality clinical trials and met 6 of 8 quality indicators (eg, no blinding, short follow-up), high-quality prospective cohort studies or outcomes research."
+        ],
+        [
+          "III",
+          "Low quality: case-controlled studies, retrospective cohort studies, or other low-quality trials; met between 2 and 5 of essential scoring items on CAT-EI."
+        ],
+        [
+          "",
+          "Unacceptable: met 0 or 1 of the essential scoring items on CAT-EI."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_39aab3aba8a8ae05",
+      "doc_name": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 5,
+      "table_index": 1,
+      "bbox": [
+        53.26,
+        289.23,
+        537.7,
+        493.42
+      ],
+      "section_id": "0374aa36e7e675ec",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 4.\nNumbers of Articles by Quality Rating",
+      "context_before": "aSee Supplementary Data for full details.",
+      "footnote_candidates": [],
+      "n_rows": 15,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention",
+        "High Quality",
+        "Acceptable Quality",
+        "Low Quality",
+        "Unacceptable Quality"
+      ],
+      "header_signature": "4b2d8a71ccb1",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention | High Quality | Acceptable Quality | Low Quality | Unacceptable Quality\nIntervention | High Quality | Acceptable Quality | Low Quality | Unacceptable Quality\nEarly intervention | 0 | 3 | 5 | 0\nProspective surveillance model | 0 | 0 | 8 | 0\nComplete decongestive therapy | 1 | 6 | 38 | 10\nCompression garments | 0 | 1 | 12 | 2\nCompression devices | 0 | 0 | 10 | 6\nExercise | 5 | 9 | 39 | 6\nLaser | 0 | 1 | 11 | 0\nKinesiotape | 0 | 1 | 6 | 1\nManual therapy | 0 | 1 | 1 | 0\nComplementary and alternative medicine/ acupuncture | 0 | 3 | 5 | 2\nYoga | 0 | 0 | 4 | 0\nOther | 0 | 0 | 8 | 4\nTotals | 6 | 25 | 147 | 31",
+      "rows": [
+        [
+          "Intervention",
+          "High Quality",
+          "Acceptable Quality",
+          "Low Quality",
+          "Unacceptable Quality"
+        ],
+        [
+          "Intervention",
+          "High Quality",
+          "Acceptable Quality",
+          "Low Quality",
+          "Unacceptable Quality"
+        ],
+        [
+          "Early intervention",
+          "0",
+          "3",
+          "5",
+          "0"
+        ],
+        [
+          "Prospective surveillance model",
+          "0",
+          "0",
+          "8",
+          "0"
+        ],
+        [
+          "Complete decongestive therapy",
+          "1",
+          "6",
+          "38",
+          "10"
+        ],
+        [
+          "Compression garments",
+          "0",
+          "1",
+          "12",
+          "2"
+        ],
+        [
+          "Compression devices",
+          "0",
+          "0",
+          "10",
+          "6"
+        ],
+        [
+          "Exercise",
+          "5",
+          "9",
+          "39",
+          "6"
+        ],
+        [
+          "Laser",
+          "0",
+          "1",
+          "11",
+          "0"
+        ],
+        [
+          "Kinesiotape",
+          "0",
+          "1",
+          "6",
+          "1"
+        ],
+        [
+          "Manual therapy",
+          "0",
+          "1",
+          "1",
+          "0"
+        ],
+        [
+          "Complementary and alternative medicine/ acupuncture",
+          "0",
+          "3",
+          "5",
+          "2"
+        ],
+        [
+          "Yoga",
+          "0",
+          "0",
+          "4",
+          "0"
+        ],
+        [
+          "Other",
+          "0",
+          "0",
+          "8",
+          "4"
+        ],
+        [
+          "Totals",
+          "6",
+          "25",
+          "147",
+          "31"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_123f83c3f9798616",
+      "doc_name": "2020 APTA,Oncologic Physical Therapy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        56.38,
+        110.31,
+        540.84,
+        206.91
+      ],
+      "section_id": "0374aa36e7e675ec",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 5.\nEvidence Grades Based on the Quality of Evidence8",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Grade",
+        "Recommendation",
+        "Criteria and Strength of Recommendation"
+      ],
+      "header_signature": "525acb9e4f9b",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Grade | Recommendation | Criteria and Strength of Recommendation\nGrade | Recommendation | Criteria and Strength of Recommendation\nA | Strong | High-quality studies (level I) with moderate to substantial benefit/harm—“must/should” or “must not/should not”\nB | Moderate | High-quality studies (level I) with slight benefit/harm OR acceptable-quality studies (level II) for moderate benefit/harm—“should” or “should not”\nC | Weak | Acceptable-quality studies (level II) for slight benefit/harm OR low-quality studies (level III) for substantial benefit/harm—“may” or “may not”\nBest Practice | Best Practice | Based on current clinical norms or expert opinion",
+      "rows": [
+        [
+          "Grade",
+          "Recommendation",
+          "Criteria and Strength of Recommendation"
+        ],
+        [
+          "Grade",
+          "Recommendation",
+          "Criteria and Strength of Recommendation"
+        ],
+        [
+          "A",
+          "Strong",
+          "High-quality studies (level I) with moderate to substantial benefit/harm—“must/should” or “must not/should not”"
+        ],
+        [
+          "B",
+          "Moderate",
+          "High-quality studies (level I) with slight benefit/harm OR acceptable-quality studies (level II) for moderate benefit/harm—“should” or “should not”"
+        ],
+        [
+          "C",
+          "Weak",
+          "Acceptable-quality studies (level II) for slight benefit/harm OR low-quality studies (level III) for substantial benefit/harm—“may” or “may not”"
+        ],
+        [
+          "Best Practice",
+          "Best Practice",
+          "Based on current clinical norms or expert opinion"
+        ]
+      ]
+    }
+  ]
+}

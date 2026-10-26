@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.3",
+  "document": "2025 EULAR,inflammatory arthritis and osteoarthritis.pdf",
+  "doc_family": "EULAR",
+  "doc_family_source": "filename_rule",
+  "organization": "EULAR",
+  "year": 2025,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_35810c88243a712b",
+      "doc_name": "2025 EULAR,inflammatory arthritis and osteoarthritis.pdf",
+      "doc_family": "EULAR",
+      "doc_family_source": "filename_rule",
+      "organization": "EULAR",
+      "year": 2025,
+      "page": 1,
+      "table_index": 0,
+      "bbox": [
+        69.74,
+        57.15,
+        493.17,
+        128.44
+      ],
+      "section_id": "c9fc4a4756459326",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "*Correspondence to Dr Anne-Kathrin Rausch."
+      ],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.5,
+      "header_row": [
+        "",
+        "Contents lists available at ScienceDirect"
+      ],
+      "header_signature": "196267e8dcfb",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Contents lists available at ScienceDirect\n | Contents lists available at ScienceDirect Annals of the Rheumatic Diseases journal homepage: https://www.sciencedirect.com/journal/annals-of-the-rheumatic-diseases",
+      "rows": [
+        [
+          "",
+          "Contents lists available at ScienceDirect"
+        ],
+        [
+          "",
+          "Contents lists available at ScienceDirect Annals of the Rheumatic Diseases journal homepage: https://www.sciencedirect.com/journal/annals-of-the-rheumatic-diseases"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.3",
+  "document": "2024 APTA,Achilles Tendinopathy.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2024,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_d2317f7375ce8509",
+      "doc_name": "2024 APTA,Achilles Tendinopathy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2024,
+      "page": 5,
+      "table_index": 0,
+      "bbox": [
+        44.5,
+        598.99,
+        280.0,
+        708.0
+      ],
+      "section_id": "821d1522e8bf289a",
+      "section_path": [
+        "METHODS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "LEVELS OF EVIDENCE\nIndividual clinical research articles were graded according\nto criteria adapted from the Centre for Evidence-Based\nMedicine, Oxford, United Kingdom, for diagnostic, prospective, and therapeutic studies. In teams of two, each reviewer independently assigned a level of evidence and\nevaluated the quality of each article using a critical appraisal tool. (See APPENDICES E and F for the Levels of Evidence\ntable and details on procedures used for assigning levels of\nevidence, available at www.orthopt.org). The evidence update was organized from the highest level of evidence to the\n",
+      "footnote_candidates": [
+        "A\nStrong evidence\nA preponderance of level I and/or level II",
+        "B\nModerate evidence\nA single high-quality randomized con-",
+        "A preponderance of evidence from animal"
+      ],
+      "n_rows": 5,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "I",
+        "Evidence obtained from high quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials"
+      ],
+      "header_signature": "6b87da65193e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "I | Evidence obtained from high quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials\nII | Evidence obtained from lesser-quality diagnostic studies, systematic reviews, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)\nIII | Case-control studies or retrospective studies\nIV | Case series\nV | Expert opinion",
+      "rows": [
+        [
+          "I",
+          "Evidence obtained from high quality diagnostic studies, prospective studies, systematic reviews, or randomized controlled trials"
+        ],
+        [
+          "II",
+          "Evidence obtained from lesser-quality diagnostic studies, systematic reviews, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)"
+        ],
+        [
+          "III",
+          "Case-control studies or retrospective studies"
+        ],
+        [
+          "IV",
+          "Case series"
+        ],
+        [
+          "V",
+          "Expert opinion"
+        ]
+      ]
+    }
+  ]
+}

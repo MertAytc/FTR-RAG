@@ -1,0 +1,58 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 WHO, Cardiopulmonary conditions_.pdf",
+  "doc_family": "WHO",
+  "doc_family_source": "filename_rule",
+  "organization": "World Health Organization",
+  "year": 2023,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_1af14d12ca839b10",
+      "doc_name": "2023 WHO, Cardiopulmonary conditions_.pdf",
+      "doc_family": "WHO",
+      "doc_family_source": "filename_rule",
+      "organization": "World Health Organization",
+      "year": 2023,
+      "page": 36,
+      "table_index": 0,
+      "bbox": [
+        70.99,
+        70.99,
+        524.41,
+        89.26
+      ],
+      "section_id": "a0571a750c583d05",
+      "section_path": [
+        "Energy\nconservation\ntechniques"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [
+        "A variety of physical exercises (e.g. aerobic or strengthening exercises, balance or\ncoordination exercises, mind–body exercises), with or without weight-bearing, are\nsuitable to improve exercise capacity, muscle strength, joint mobility, voluntary\nmovement, balance, gait and walking, as well as helping to reduce pain and fatigue.\nRegular physical exercise training (including education and advice on exercises)\nis planned according to an individual’s needs, guided or assisted and, if feasible,\nperformed self-directed following education and advice on the appropriate exercises."
+      ],
+      "n_rows": 1,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Intervention",
+        "Description of the intervention"
+      ],
+      "header_signature": "adae9af98472",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Intervention | Description of the intervention",
+      "rows": [
+        [
+          "Intervention",
+          "Description of the intervention"
+        ]
+      ]
+    }
+  ]
+}

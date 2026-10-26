@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 APTA Ligament  Injury.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2023,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_8eb9f2fcdc8841c9",
+      "doc_name": "2023 APTA Ligament  Injury.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2023,
+      "page": 5,
+      "table_index": 0,
+      "bbox": [
+        282.45,
+        600.15,
+        531.25,
+        714.08
+      ],
+      "section_id": "4e5e235ea2248bf4",
+      "section_path": [
+        "IMPLEMENTING EXERCISE-BASED KNEE\nINJURY PREVENTION PROGRAMS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "LEVELS OF EVIDENCE\nArticles were graded according to criteria adapted from the\nCentre for Evidence-based Medicine, Oxford, United Kingdom, for diagnostic, prospective, and therapeutic studies.31\nOne team of four authors (A.A., C.D., R.K., D.L.) came to consensus and assigned a level of evidence based on the quality\nassessment of each article​, the entire author group then approved the decisions (see APPENDICES F and G for the evidence\ntable and details on procedures used for assigning levels of\nevidence, available at www.orthopt.org). An abbreviated version of the grading system is provided be",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "I Evidence obtained from systematic reviews, high-quality diagnostic studies, prospective studies, or randomized controlled trials II Evidence obtained from systematic reviews, lesser-quality diagnostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up) III Case-control studies or retrospective studies IV Case series V Expert opinion"
+      ],
+      "header_signature": "a95fe62a15d5",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| I Evidence obtained from systematic reviews, high-quality diagnostic studies, prospective studies, or randomized controlled trials II Evidence obtained from systematic reviews, lesser-quality diagnostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up) III Case-control studies or retrospective studies IV Case series V Expert opinion\n |",
+      "rows": [
+        [
+          "",
+          "I Evidence obtained from systematic reviews, high-quality diagnostic studies, prospective studies, or randomized controlled trials II Evidence obtained from systematic reviews, lesser-quality diagnostic studies, prospective studies, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up) III Case-control studies or retrospective studies IV Case series V Expert opinion"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

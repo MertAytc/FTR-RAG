@@ -1,0 +1,346 @@
+{
+  "schema_version": "2.3",
+  "document": "2020 APTA Heart Failure.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2020,
+  "table_count": 4,
+  "tables": [
+    {
+      "table_id": "tbl_2669c3e00577c987",
+      "doc_name": "2020 APTA Heart Failure.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 4,
+      "table_index": 0,
+      "bbox": [
+        51.82,
+        119.11,
+        539.11,
+        329.07
+      ],
+      "section_id": "6a5d322b78897979",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 1.\nAmerican Heart Association/American College of Cardiology (AHA/ACC) Stages and New York Heart Association (NYHA)\nFunctional Classes of Heart Failurea",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 9,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.1944,
+      "header_row": [
+        "AHA/ACC Stage",
+        "Description",
+        "NYHA Class",
+        "Description"
+      ],
+      "header_signature": "f5f75cbb9072",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "AHA/ACC Stage | Description | NYHA Class | Description\nAHA/ACC Stage | Description | NYHA Class | Description\nStage A | At high risk for developing HF. No identified structural or functional abnormality, no signs or symptoms of HF. | N/A | \nStage B | Structural heart disease that is strongly associated with the development of HF but no signs and symptoms of HF. | I | No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\nStage C | Symptomatic HF, associated with underlying structural heart disease. | I | No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea.\n |  | II | Slight limitation of physical activity; comfortable at rest but ordinary activity results in fatigue, palpitations, or dyspnea.\n |  | III | Marked limitation of physical activity; comfortable at rest but less than ordinary activity results in fatigue, palpitations, or dyspnea.\n |  | IV | Symptoms at rest; unable to do any physical activity without symptomology.\nStage D | Advanced structural disease with marked symptomology at rest despite maximal medical therapy. | IV | Symptoms at rest; unable to do any physical activity without symptomology.",
+      "rows": [
+        [
+          "AHA/ACC Stage",
+          "Description",
+          "NYHA Class",
+          "Description"
+        ],
+        [
+          "AHA/ACC Stage",
+          "Description",
+          "NYHA Class",
+          "Description"
+        ],
+        [
+          "Stage A",
+          "At high risk for developing HF. No identified structural or functional abnormality, no signs or symptoms of HF.",
+          "N/A",
+          ""
+        ],
+        [
+          "Stage B",
+          "Structural heart disease that is strongly associated with the development of HF but no signs and symptoms of HF.",
+          "I",
+          "No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea."
+        ],
+        [
+          "Stage C",
+          "Symptomatic HF, associated with underlying structural heart disease.",
+          "I",
+          "No limitation in physical activity; ordinary physical activity does not cause fatigue, palpitations, or dyspnea."
+        ],
+        [
+          "",
+          "",
+          "II",
+          "Slight limitation of physical activity; comfortable at rest but ordinary activity results in fatigue, palpitations, or dyspnea."
+        ],
+        [
+          "",
+          "",
+          "III",
+          "Marked limitation of physical activity; comfortable at rest but less than ordinary activity results in fatigue, palpitations, or dyspnea."
+        ],
+        [
+          "",
+          "",
+          "IV",
+          "Symptoms at rest; unable to do any physical activity without symptomology."
+        ],
+        [
+          "Stage D",
+          "Advanced structural disease with marked symptomology at rest despite maximal medical therapy.",
+          "IV",
+          "Symptoms at rest; unable to do any physical activity without symptomology."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_faecd567e82c01b0",
+      "doc_name": "2020 APTA Heart Failure.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 4,
+      "table_index": 1,
+      "bbox": [
+        51.82,
+        389.48,
+        539.11,
+        563.23
+      ],
+      "section_id": "6a5d322b78897979",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 2.\nDefinitions of Zone Colors Associated With Clinical Manifestations and Physical Therapist Recommendationsa",
+      "context_before": "aHF = heart failure; N/A = not applicable.",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Zone Color",
+        "Signs and Symptoms",
+        "Physical Therapist Recommendations"
+      ],
+      "header_signature": "081519559980",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Zone Color | Signs and Symptoms | Physical Therapist Recommendations\nZone Color | Signs and Symptoms | Physical Therapist Recommendations\nGreen zone | • No shortness of breath • No swelling • No weight gain • No chest pain • No decrease in your ability to maintain your activity level | Continue activity and therapy as tolerated.\nYellow zone | • Weight gain of 2–3 lbs in 24 hrs • Increased cough • Peripheral edema: increased distal extremity swelling • Increase in shortness of breath with activity • Orthopnea: increase in the number of pillows needed | Symptoms may indicate an adjustment in medications and therefore warrants communication with the physician.\nRed zone | • Shortness of breath at rest • Unrelieved chest pain • Wheezing or chest tightness at rest • Paroxysmal nocturnal dyspnea: requiring to sit in chair to sleep • Weight gain or loss of more than 5 lbs in 3 days • Confusion | Symptoms indicate overt decompensation and an immediate visit to the emergency department or physician office.",
+      "rows": [
+        [
+          "Zone Color",
+          "Signs and Symptoms",
+          "Physical Therapist Recommendations"
+        ],
+        [
+          "Zone Color",
+          "Signs and Symptoms",
+          "Physical Therapist Recommendations"
+        ],
+        [
+          "Green zone",
+          "• No shortness of breath • No swelling • No weight gain • No chest pain • No decrease in your ability to maintain your activity level",
+          "Continue activity and therapy as tolerated."
+        ],
+        [
+          "Yellow zone",
+          "• Weight gain of 2–3 lbs in 24 hrs • Increased cough • Peripheral edema: increased distal extremity swelling • Increase in shortness of breath with activity • Orthopnea: increase in the number of pillows needed",
+          "Symptoms may indicate an adjustment in medications and therefore warrants communication with the physician."
+        ],
+        [
+          "Red zone",
+          "• Shortness of breath at rest • Unrelieved chest pain • Wheezing or chest tightness at rest • Paroxysmal nocturnal dyspnea: requiring to sit in chair to sleep • Weight gain or loss of more than 5 lbs in 3 days • Confusion",
+          "Symptoms indicate overt decompensation and an immediate visit to the emergency department or physician office."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_605a0a79d39520d7",
+      "doc_name": "2020 APTA Heart Failure.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 8,
+      "table_index": 0,
+      "bbox": [
+        51.82,
+        108.15,
+        539.11,
+        224.67
+      ],
+      "section_id": "6a5d322b78897979",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 3.\nGrades of Recommendation for Action Statements",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 8,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Grade",
+        "Recommendation",
+        "Quality"
+      ],
+      "header_signature": "2bccb10cb071",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Grade | Recommendation | Quality\nGrade | Recommendation | Quality\nA | Strong | A preponderance of level I studies\nB | Moderate | A preponderance of level II studies\nC | Weak | Single level II study or a preponderance of level III and IV studies, including consensus statements\nD | Theory | A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or from basic science/bench research, or published expert opinion.\nP | Best practice | Recommended practice based on current clinical practice norms.\nR | Research | An absence of research on the topic, or conclusions from higher-quality studies on the topic are in disagreement.",
+      "rows": [
+        [
+          "Grade",
+          "Recommendation",
+          "Quality"
+        ],
+        [
+          "Grade",
+          "Recommendation",
+          "Quality"
+        ],
+        [
+          "A",
+          "Strong",
+          "A preponderance of level I studies"
+        ],
+        [
+          "B",
+          "Moderate",
+          "A preponderance of level II studies"
+        ],
+        [
+          "C",
+          "Weak",
+          "Single level II study or a preponderance of level III and IV studies, including consensus statements"
+        ],
+        [
+          "D",
+          "Theory",
+          "A preponderance of evidence from animal or cadaver studies, from conceptual/theoretical models/principles, or from basic science/bench research, or published expert opinion."
+        ],
+        [
+          "P",
+          "Best practice",
+          "Recommended practice based on current clinical practice norms."
+        ],
+        [
+          "R",
+          "Research",
+          "An absence of research on the topic, or conclusions from higher-quality studies on the topic are in disagreement."
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_6dcffcb855ef5159",
+      "doc_name": "2020 APTA Heart Failure.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2020,
+      "page": 9,
+      "table_index": 0,
+      "bbox": [
+        54.99,
+        110.3,
+        542.26,
+        553.05
+      ],
+      "section_id": "6a5d322b78897979",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": "Table 4.\nKey Action Statementsa",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 11,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "Number",
+        "Statement",
+        "Key Phrase"
+      ],
+      "header_signature": "58461bdf0bdf",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Number | Statement | Key Phrase\nNumber | Statement | Key Phrase\n1 | Physical therapists and other health care practitioners should advocate for increased total daily physical activity as an essential component of care in patients with stable heart failure. (Evidence Quality I; Recommendation Strength: A—Strong) | Advocate for increased total daily physical activity as an essential component of care\n2 | Physical therapists must educate on and facilitate components of chronic disease management behaviors to reduce the risk of hospital readmission. These measures include education on daily weight assessment, signs and symptoms of an exacerbation, nutrition, and medication management/medication reconciliation. (Evidence Quality I; Recommendation Strength: A—Strong) | Educate on and facilitate chronic disease management behaviors\n3 | Physical therapists must prescribe aerobic exercise training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: 20–60 min; Intensity: 50%–90% of peak VO2 or peak work; Frequency: 3–5/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer or dancing (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe aerobic exercise training\n4 | Physical therapists should prescribe high-intensity interval exercise training in selected patients for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: >35 min; Intensity: >90%–95% of peak VO2 or peak work; Frequency: 2–3/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer. HIIT total weekly exercise doses should be at least 460 kcal, 114 mins, or 5.4 MET-hrs. (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe high intensity interval training\n5 | Physical therapists should prescribe resistance training exercise for upper and lower body major muscle groups for patients with stable, NYHA Class II-III HFrEF using the following parameters: 2–3 sets per muscle group, 60%–80% 1RM, 45–60 mins per session, 3 times per week for at least 8–12 wks (Evidence Quality I; Recommendation Strength: A- Strong) | Prescribe upper and lower body resistance training\n6 | Physical therapists may prescribe combined resistance and aerobic training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Combine 20–30 minutes of aerobic training with 20–30 mins of resistive training, 2–3 sets per major muscle group, 60%–80% 1RM, 3 times per week for at least 8–12 wks. (Evidence Quality II; Recommendation Strength: B- Moderate) | Prescribe combined aerobic exercise and resistance training\n7 | Physical therapists should prescribe inspiratory muscle training with a threshold∗(or similar) devices (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe inspiratory muscle training\n8 | Physical therapists may prescribe combined inspiratory muscle training and aerobic exercise training with a threshold (or similar) device (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality: II, Recommendation Strength: B –Moderate) | Prescribe combined inspiratory muscle training and aerobic exercise training\n9 | Physical therapists should prescribe NMES in patients with stable, NYHA Class II-III HFrEF using the following parameters: biphasic symmetrical pulses at 15 to 50 hertz, on/off time 2/5 seconds, pulse width for larger muscles of the lower extremity should be 200 to 700 us and for small lower extremity muscles 0.5 to 0.7 ms, 20%–30% of MVIC, intensity to muscle contraction, 5–7 days/week for at least 5–10 wks to the quadriceps, gluteals, hamstrings, and gastrocnemius (Evidence Quality I; Recommendation Strength: A—Strong) | Prescribe neuromuscular electrical stimulation",
+      "rows": [
+        [
+          "Number",
+          "Statement",
+          "Key Phrase"
+        ],
+        [
+          "Number",
+          "Statement",
+          "Key Phrase"
+        ],
+        [
+          "1",
+          "Physical therapists and other health care practitioners should advocate for increased total daily physical activity as an essential component of care in patients with stable heart failure. (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Advocate for increased total daily physical activity as an essential component of care"
+        ],
+        [
+          "2",
+          "Physical therapists must educate on and facilitate components of chronic disease management behaviors to reduce the risk of hospital readmission. These measures include education on daily weight assessment, signs and symptoms of an exacerbation, nutrition, and medication management/medication reconciliation. (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Educate on and facilitate chronic disease management behaviors"
+        ],
+        [
+          "3",
+          "Physical therapists must prescribe aerobic exercise training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: 20–60 min; Intensity: 50%–90% of peak VO2 or peak work; Frequency: 3–5/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer or dancing (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Prescribe aerobic exercise training"
+        ],
+        [
+          "4",
+          "Physical therapists should prescribe high-intensity interval exercise training in selected patients for patients with stable, NYHA Class II-III HFrEF using the following parameters: Time: >35 min; Intensity: >90%–95% of peak VO2 or peak work; Frequency: 2–3/wk; Duration: at least 8–12 wks; Mode: treadmill or cycle ergometer. HIIT total weekly exercise doses should be at least 460 kcal, 114 mins, or 5.4 MET-hrs. (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Prescribe high intensity interval training"
+        ],
+        [
+          "5",
+          "Physical therapists should prescribe resistance training exercise for upper and lower body major muscle groups for patients with stable, NYHA Class II-III HFrEF using the following parameters: 2–3 sets per muscle group, 60%–80% 1RM, 45–60 mins per session, 3 times per week for at least 8–12 wks (Evidence Quality I; Recommendation Strength: A- Strong)",
+          "Prescribe upper and lower body resistance training"
+        ],
+        [
+          "6",
+          "Physical therapists may prescribe combined resistance and aerobic training for patients with stable, NYHA Class II-III HFrEF using the following parameters: Combine 20–30 minutes of aerobic training with 20–30 mins of resistive training, 2–3 sets per major muscle group, 60%–80% 1RM, 3 times per week for at least 8–12 wks. (Evidence Quality II; Recommendation Strength: B- Moderate)",
+          "Prescribe combined aerobic exercise and resistance training"
+        ],
+        [
+          "7",
+          "Physical therapists should prescribe inspiratory muscle training with a threshold∗(or similar) devices (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Prescribe inspiratory muscle training"
+        ],
+        [
+          "8",
+          "Physical therapists may prescribe combined inspiratory muscle training and aerobic exercise training with a threshold (or similar) device (ie, device where resistance is not flow-dependent) for outpatients in the home and clinic setting with stable, Class II and III HFrEF with or without baseline inspiratory muscle weakness using the following parameters: 30 min/day at >30% maximal inspiratory pressure (PIMax or MIP), 5–7 days/wk, for at least 8–12 wks. (Evidence Quality: II, Recommendation Strength: B –Moderate)",
+          "Prescribe combined inspiratory muscle training and aerobic exercise training"
+        ],
+        [
+          "9",
+          "Physical therapists should prescribe NMES in patients with stable, NYHA Class II-III HFrEF using the following parameters: biphasic symmetrical pulses at 15 to 50 hertz, on/off time 2/5 seconds, pulse width for larger muscles of the lower extremity should be 200 to 700 us and for small lower extremity muscles 0.5 to 0.7 ms, 20%–30% of MVIC, intensity to muscle contraction, 5–7 days/week for at least 5–10 wks to the quadriceps, gluteals, hamstrings, and gastrocnemius (Evidence Quality I; Recommendation Strength: A—Strong)",
+          "Prescribe neuromuscular electrical stimulation"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2223 @@
+{
+  "schema_version": "2.3",
+  "document": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2025,
+  "table_count": 16,
+  "tables": [
+    {
+      "table_id": "tbl_80b9a8c3e102657d",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 3,
+      "table_index": 0,
+      "bbox": [
+        35.97,
+        387.17,
+        519.55,
+        724.45
+      ],
+      "section_id": "86483bbdc0163577",
+      "section_path": [
+        "Table 1. Summary of Recommendations"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Patient Population\nThis CPG addresses the management of falls and fall\nrisk in community-dwelling older adults. It is not\nintended to address the management of falls and fall\nrisk in older adults who are institutionalized. Those\nwho are institutionalized may be at a greater risk of\nfalls but require care specific to the acute condition,\nnursing home facility, or change in cognition, to name\na few examples. This CPG specifically defines community-dwelling older adults as 65 or over who do not\nhave major health conditions that prevent them from\ninteracting in their environment without substantia",
+      "footnote_candidates": [],
+      "n_rows": 13,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0513,
+      "header_row": [
+        "Recommendation",
+        "Level of Evidence",
+        "Strength of Recommendation"
+      ],
+      "header_signature": "78e873e00af5",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Recommendation | Level of Evidence | Strength of Recommendation\nPhysical therapists should participate in multifactoriala management programs addressing falls and fall risk for older adults. | I | Strong\nPhysical therapists must provide or prescribe multicomponentb exercise to older adults to reduce risk and rate of falls and it must include balance training and may include other exercise modes. | I | Strong\nPhysical therapists must prescribe exercise programs to older adults to be performed at least 150 minutes to 3 hours per week, lasting from 6 to 12 months, and must include progressive and sufficiently challenging balance training. | I | Strong\nPhysical therapists must provide or prescribe balance training to older adults that is progressive and sufficiently challenging as evidenced by movement of the limbs and whole body in multiple directions, changing the base of support, and reducing upper limb support either alone or as part of a multicomponent program to reduce the risk and rate of falls. | I | Strong\nBalance training must include volitional step training and/or gait adaptability training. | I | Strong\nBalance training may also include reactive step (perturbation) training. | II | Weak\nPhysical therapists should NOT provide or prescribe resistance training ALONE to older adults if the purpose is to reduce the risk and/or rate of falls. | II | Moderate\nPhysical therapists should prescribe Tai Chi for older adults to reduce the risk and rate of falls. | I | Strong\nPhysical therapists should NOT provide education ALONE to older adults to reduce the risk and/or rate of falls. | I | Strong\nPhysical therapists should provide tailored education combined with individualized exercise intervention to older adults. The tailored education should include specific actions to address identified risk factors, including home hazards and strength and balance impairments, and should also include referral to appropriate providers for risk factors outside of PT scope of practice. | V | Expert opinion\nPhysical therapists should provide environmental assessment and recommend modifications to older adults at high risk of falls. | I | Strong\naMultifactorial management includes screening, assessment, referral to appropriate provider, and interventions within physical therapist scope of practice. bMulticomponent exercise refers to exercise that includes more than one category of exercise according to the PROFANE1 taxonomy (balance and functional, flexibility, resistance training, 3-D). |  |",
+      "rows": [
+        [
+          "Recommendation",
+          "Level of Evidence",
+          "Strength of Recommendation"
+        ],
+        [
+          "Physical therapists should participate in multifactoriala management programs addressing falls and fall risk for older adults.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Physical therapists must provide or prescribe multicomponentb exercise to older adults to reduce risk and rate of falls and it must include balance training and may include other exercise modes.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Physical therapists must prescribe exercise programs to older adults to be performed at least 150 minutes to 3 hours per week, lasting from 6 to 12 months, and must include progressive and sufficiently challenging balance training.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Physical therapists must provide or prescribe balance training to older adults that is progressive and sufficiently challenging as evidenced by movement of the limbs and whole body in multiple directions, changing the base of support, and reducing upper limb support either alone or as part of a multicomponent program to reduce the risk and rate of falls.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Balance training must include volitional step training and/or gait adaptability training.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Balance training may also include reactive step (perturbation) training.",
+          "II",
+          "Weak"
+        ],
+        [
+          "Physical therapists should NOT provide or prescribe resistance training ALONE to older adults if the purpose is to reduce the risk and/or rate of falls.",
+          "II",
+          "Moderate"
+        ],
+        [
+          "Physical therapists should prescribe Tai Chi for older adults to reduce the risk and rate of falls.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Physical therapists should NOT provide education ALONE to older adults to reduce the risk and/or rate of falls.",
+          "I",
+          "Strong"
+        ],
+        [
+          "Physical therapists should provide tailored education combined with individualized exercise intervention to older adults. The tailored education should include specific actions to address identified risk factors, including home hazards and strength and balance impairments, and should also include referral to appropriate providers for risk factors outside of PT scope of practice.",
+          "V",
+          "Expert opinion"
+        ],
+        [
+          "Physical therapists should provide environmental assessment and recommend modifications to older adults at high risk of falls.",
+          "I",
+          "Strong"
+        ],
+        [
+          "aMultifactorial management includes screening, assessment, referral to appropriate provider, and interventions within physical therapist scope of practice. bMulticomponent exercise refers to exercise that includes more than one category of exercise according to the PROFANE1 taxonomy (balance and functional, flexibility, resistance training, 3-D).",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_22a5a1fa3191a365",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        36.11,
+        452.93,
+        519.91,
+        724.5
+      ],
+      "section_id": "6eeec6aa9dfd98df",
+      "section_path": [
+        "LOWER RISK"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "RESULTS\nThe search strategies are provided in Supplemental Digital\nContent, Appendix I (available at: http://links.lww.com/\nJGPT/A267). The initial search was conducted in 2015,\nwith updates in 2018 and 2022. Therefore, the final search\nresults included studies from 2005 through 2022. In total\n1549 articles were identified and 55 were included. See\nFigure 2 and Supplemental Digital Content, Appendix II",
+      "footnote_candidates": [],
+      "n_rows": 11,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.2121,
+      "header_row": [
+        "Level of Evidence",
+        "Types of Studies: Intervention/Prevention",
+        "Notes"
+      ],
+      "header_signature": "d85b21b574c1",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Level of Evidence | Types of Studies: Intervention/Prevention | Notes\nI. Evidence obtained from high-quality systematic reviews, diagnostic studies, prospective studies, or randomized controlled trials (RCTs) | Systematic review of high-quality RCTs | High-quality RCT >80% follow-up, blinding, appropriate randomization procedures\nII. Evidence obtained from lesser-quality studies or RCTs (eg, weaker diagnostic criteria, and reference standards, improper randomization, no blinding, less than 80% follow-up) | Systematic review of high-quality cohort studies, lower quality SRs/RCTs | High-quality or dramatic effect cohort study includes >80% follow-up\nIII. Case-controlled studies or retrospective studies | Systematic review of case-controlled studies | \nIV. Case Series | Case series. | NA\nV. Expert Opinion | Expert Opinion | Insufficient Evidence\nStrength of Recommendation | Operational Definitions Based on Magnitude of Effect and Certaintya | \nStrong | A high level of certainty of moderate to substantial benefit, harm, or cost, or a moderate level of certainty for substantial benefit, harm, or cost (based on a preponderance of Level I or II evidence with at least one level I study) | \nModerate | A high level of certainty of slight to moderate benefit, harm, or cost, or a moderate level of certainty for a moderate level of benefit, harm, or cost (based on a preponderance of Level II evidence, or a single high-quality RCT) | \nWeak | A moderate level of certainty of slight benefit, harm, or cost, or a weak level of certainty for moderate to substantial benefit, harm, or cost (based on Level II through V evidence) | \naThe GDG adjusted the strength of recommendation based on the benefit-harm ratio, value judgments, and role of preferences of older adults, as appropriate. |  |",
+      "rows": [
+        [
+          "Level of Evidence",
+          "Types of Studies: Intervention/Prevention",
+          "Notes"
+        ],
+        [
+          "I. Evidence obtained from high-quality systematic reviews, diagnostic studies, prospective studies, or randomized controlled trials (RCTs)",
+          "Systematic review of high-quality RCTs",
+          "High-quality RCT >80% follow-up, blinding, appropriate randomization procedures"
+        ],
+        [
+          "II. Evidence obtained from lesser-quality studies or RCTs (eg, weaker diagnostic criteria, and reference standards, improper randomization, no blinding, less than 80% follow-up)",
+          "Systematic review of high-quality cohort studies, lower quality SRs/RCTs",
+          "High-quality or dramatic effect cohort study includes >80% follow-up"
+        ],
+        [
+          "III. Case-controlled studies or retrospective studies",
+          "Systematic review of case-controlled studies",
+          ""
+        ],
+        [
+          "IV. Case Series",
+          "Case series.",
+          "NA"
+        ],
+        [
+          "V. Expert Opinion",
+          "Expert Opinion",
+          "Insufficient Evidence"
+        ],
+        [
+          "Strength of Recommendation",
+          "Operational Definitions Based on Magnitude of Effect and Certaintya",
+          ""
+        ],
+        [
+          "Strong",
+          "A high level of certainty of moderate to substantial benefit, harm, or cost, or a moderate level of certainty for substantial benefit, harm, or cost (based on a preponderance of Level I or II evidence with at least one level I study)",
+          ""
+        ],
+        [
+          "Moderate",
+          "A high level of certainty of slight to moderate benefit, harm, or cost, or a moderate level of certainty for a moderate level of benefit, harm, or cost (based on a preponderance of Level II evidence, or a single high-quality RCT)",
+          ""
+        ],
+        [
+          "Weak",
+          "A moderate level of certainty of slight benefit, harm, or cost, or a weak level of certainty for moderate to substantial benefit, harm, or cost (based on Level II through V evidence)",
+          ""
+        ],
+        [
+          "aThe GDG adjusted the strength of recommendation based on the benefit-harm ratio, value judgments, and role of preferences of older adults, as appropriate.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_4011238ba393e4a6",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 8,
+      "table_index": 0,
+      "bbox": [
+        36.11,
+        495.15,
+        268.24,
+        724.82
+      ],
+      "section_id": "6eeec6aa9dfd98df",
+      "section_path": [
+        "LOWER RISK"
+      ],
+      "heading_level": 1,
+      "caption": "Table 3. Medical History and Measures with Highest\nPost-test Probability for Falls Risk13",
+      "context_before": "Screening\nPhysical therapists’ management of falls is predicated on\ntheir ability to identify fall risk and movement dysfunction\nas part of a multifactorial evaluation process to guide treatment choice. In 2017, through the Geriatrics Evidence\nDatabase to Guide Effectiveness Initiative (GeriEDGE) task\nforce, Lusardi et al published a systematic review of history\nquestions, self-report measures, and performance-based\nmeasures for assessing fall risk of community-dwelling\nolder adults.13 This CPG developed a screening process\nusing these results13 and the previous guidance statement\nrecommendati",
+      "footnote_candidates": [],
+      "n_rows": 14,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.2619,
+      "header_row": [
+        "Category",
+        "Measure",
+        "Risk threshold"
+      ],
+      "header_signature": "e251c47e3314",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Category | Measure | Risk threshold\nMedical history questions | Any previous falls | Yes\n | Psychoactive medication | Yes\n | Requiring ADL equipment | Yes\n | Self-reported fear of falling | Yes\n | AD for ambulation | Yes\nSelf-report measures | Geriatric Depression Scale – 15 | >6 points\n | Falls Efficacy Scale – International | >24 points\nPerformancebased measures | Berg balance scale | <50 points\n | Timed up and go Test | >11 sec\n | Single leg stance – eyes open | <6.5 sec\n | Five time sit-to-stand test | >12 sec\n | Self-selected walking speed | <1.0 m/sec\naAdapted from Lusardi MM, Fritz S, Middleton A, et al. Determining risk of falls in community Dwelling older adults: a systematic review and meta-analysis using posttest probability. J Geriatr Phys Ther. 2017;40(1):1-36. doi: 10.1519/JPT.0000000000000099. |  |",
+      "rows": [
+        [
+          "Category",
+          "Measure",
+          "Risk threshold"
+        ],
+        [
+          "Medical history questions",
+          "Any previous falls",
+          "Yes"
+        ],
+        [
+          "",
+          "Psychoactive medication",
+          "Yes"
+        ],
+        [
+          "",
+          "Requiring ADL equipment",
+          "Yes"
+        ],
+        [
+          "",
+          "Self-reported fear of falling",
+          "Yes"
+        ],
+        [
+          "",
+          "AD for ambulation",
+          "Yes"
+        ],
+        [
+          "Self-report measures",
+          "Geriatric Depression Scale – 15",
+          ">6 points"
+        ],
+        [
+          "",
+          "Falls Efficacy Scale – International",
+          ">24 points"
+        ],
+        [
+          "Performancebased measures",
+          "Berg balance scale",
+          "<50 points"
+        ],
+        [
+          "",
+          "Timed up and go Test",
+          ">11 sec"
+        ],
+        [
+          "",
+          "Single leg stance – eyes open",
+          "<6.5 sec"
+        ],
+        [
+          "",
+          "Five time sit-to-stand test",
+          ">12 sec"
+        ],
+        [
+          "",
+          "Self-selected walking speed",
+          "<1.0 m/sec"
+        ],
+        [
+          "aAdapted from Lusardi MM, Fritz S, Middleton A, et al. Determining risk of falls in community Dwelling older adults: a systematic review and meta-analysis using posttest probability. J Geriatr Phys Ther. 2017;40(1):1-36. doi: 10.1519/JPT.0000000000000099.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_d83b578b7d3acdc4",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 10,
+      "table_index": 0,
+      "bbox": [
+        36.11,
+        92.13,
+        519.91,
+        433.18
+      ],
+      "section_id": "6eeec6aa9dfd98df",
+      "section_path": [
+        "LOWER RISK"
+      ],
+      "heading_level": 1,
+      "caption": "Table 4. Estimate of Risk and Rate Reduction for Multifactorial Studies of Fall Prevention Interventions",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 24,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.1528,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)"
+      ],
+      "header_signature": "01bff7e3061e",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI)\nCampbell 200741 | 0.78 (0.68-0.89) | NR\nCaristia 202148 | 0.63 (0.41-0.98) | 0.77 (0.65-0.90)\naCheng 201846 | NR | OR: 0.64 (0.53-0.77)\nChoi 201245 | NR | 0.86 (0.74-0.99)\nCostello 200842 | NR | NR\nDautzenberg39 | 0.87 (0.80-0.95) | 0.95 (0.89-1.01)\naGates 200838 | NR | 0.91 (0.82-1.02)\n | Higher fall risk: 0.77 (0.66-0.90) | Higher fall risk: 0.94 (0.85-1.03)\n | Lower fall risk: 0.57 (0.23-1.38) | Lower fall risk: 0.92 (0.76-1.11)\n | Active exercise included: 0.74 (0.61-0.89) | Active exercise included: 0.87 (0.76-0.98)\n | Referral or information only: 0.82 (0.71-0.95) | Referral or information only: 1.02 (0.93-1.12)\naGillespie 201234 | 0.76 (0.67-0.86) | NR\naGiurgis-Blake 201835 | 0.79 (0.68-0.91) | 0.95 (0.89-1.01)\nPetridou 200944 | NR | 0.90 (0.82-1.00)\naMichael 201033 | NR | 0.75 (0.58-0.99)\nHopewell 202037 | 0.79 (0.70-0.88) | 0.95 (0.90-1.00)\naLee 202038 | 0.68 (0.58-0.81) | OR: 0.83 (0.72-0.95)\n | Higher risk: 0.66 (0.52-0.84) | Higher risk: 0.84 (0.69-1.01)\n | “Healthy”: 0.72 (0.58-0.89) | “Healthy”: 0.77 (0.62-0.95)\n | Exercise included: 0.66 (0.54-0.80) | Exercise included: 0.79 (0.66-0.95)\n | EAM included: 0.65 (0.54-0.79) | EAM included: 0.80 (0.68-0.95)\n | Active components only: 0.64 (0.51-0.80) | Active components only: 0.73 (0.60-0.89)\nAbbreviations: EAM, environmental assessment and modification, NR, not reported; OR, odds ratio. aHigh-quality SR/meta-analysis. |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)"
+        ],
+        [
+          "Campbell 200741",
+          "0.78 (0.68-0.89)",
+          "NR"
+        ],
+        [
+          "Caristia 202148",
+          "0.63 (0.41-0.98)",
+          "0.77 (0.65-0.90)"
+        ],
+        [
+          "aCheng 201846",
+          "NR",
+          "OR: 0.64 (0.53-0.77)"
+        ],
+        [
+          "Choi 201245",
+          "NR",
+          "0.86 (0.74-0.99)"
+        ],
+        [
+          "Costello 200842",
+          "NR",
+          "NR"
+        ],
+        [
+          "Dautzenberg39",
+          "0.87 (0.80-0.95)",
+          "0.95 (0.89-1.01)"
+        ],
+        [
+          "aGates 200838",
+          "NR",
+          "0.91 (0.82-1.02)"
+        ],
+        [
+          "",
+          "Higher fall risk: 0.77 (0.66-0.90)",
+          "Higher fall risk: 0.94 (0.85-1.03)"
+        ],
+        [
+          "",
+          "Lower fall risk: 0.57 (0.23-1.38)",
+          "Lower fall risk: 0.92 (0.76-1.11)"
+        ],
+        [
+          "",
+          "Active exercise included: 0.74 (0.61-0.89)",
+          "Active exercise included: 0.87 (0.76-0.98)"
+        ],
+        [
+          "",
+          "Referral or information only: 0.82 (0.71-0.95)",
+          "Referral or information only: 1.02 (0.93-1.12)"
+        ],
+        [
+          "aGillespie 201234",
+          "0.76 (0.67-0.86)",
+          "NR"
+        ],
+        [
+          "aGiurgis-Blake 201835",
+          "0.79 (0.68-0.91)",
+          "0.95 (0.89-1.01)"
+        ],
+        [
+          "Petridou 200944",
+          "NR",
+          "0.90 (0.82-1.00)"
+        ],
+        [
+          "aMichael 201033",
+          "NR",
+          "0.75 (0.58-0.99)"
+        ],
+        [
+          "Hopewell 202037",
+          "0.79 (0.70-0.88)",
+          "0.95 (0.90-1.00)"
+        ],
+        [
+          "aLee 202038",
+          "0.68 (0.58-0.81)",
+          "OR: 0.83 (0.72-0.95)"
+        ],
+        [
+          "",
+          "Higher risk: 0.66 (0.52-0.84)",
+          "Higher risk: 0.84 (0.69-1.01)"
+        ],
+        [
+          "",
+          "“Healthy”: 0.72 (0.58-0.89)",
+          "“Healthy”: 0.77 (0.62-0.95)"
+        ],
+        [
+          "",
+          "Exercise included: 0.66 (0.54-0.80)",
+          "Exercise included: 0.79 (0.66-0.95)"
+        ],
+        [
+          "",
+          "EAM included: 0.65 (0.54-0.79)",
+          "EAM included: 0.80 (0.68-0.95)"
+        ],
+        [
+          "",
+          "Active components only: 0.64 (0.51-0.80)",
+          "Active components only: 0.73 (0.60-0.89)"
+        ],
+        [
+          "Abbreviations: EAM, environmental assessment and modification, NR, not reported; OR, odds ratio. aHigh-quality SR/meta-analysis.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_cfd5f75badd83e4b",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 11,
+      "table_index": 0,
+      "bbox": [
+        35.97,
+        438.06,
+        519.55,
+        725.45
+      ],
+      "section_id": "6eeec6aa9dfd98df",
+      "section_path": [
+        "LOWER RISK"
+      ],
+      "heading_level": 1,
+      "caption": "Table 5. Estimates of Risk and Rate Reduction for Mixed Single- and Multi-component Exercise Programs",
+      "context_before": "Multicomponent exercise interventions provided by\na health professional and by a trained instructor who is\nnot a health professional are effective in reducing falls\nrate.28 The GDG valued having a health professional\ntrained in exercise prescription to monitor and progress\nmulticomponent exercise programs. The GDG judged this\nto be particularly important in populations with movement dysfunction or health conditions that may impact\nthe ability to exercise. Older adults with lower fall risk\nwho are safe to exercise alone may benefit equally from\na physical therapist delivering a tailored interve",
+      "footnote_candidates": [],
+      "n_rows": 13,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.1231,
+      "header_row": [
+        "Study",
+        "Population",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "b89d884b0a19",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Population | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCheng, 201846 | Community-dwelling older adults | NR | 0.67 (0.52-0.84) | Network MA\naDautzenberg, 202139 | Community-dwelling older adults | 0.90 (0.86-0.95) | 0.92 (0.88-0.97) | Network MA, limited to studies that included falls as primary outcome\nEl Khoury, 201355 | Community-dwelling older adults | 0.63 (0.51-0.77) | NR | All injurious falls\nFinnegan, 201956 | Community-dwelling older adults | 0.79 (0.71-0.88) | 0.83 (0.76-0.92) | SRs included only studies with longer than 12 month follow-up\naGuirguis-Blake, 201835 | Community-dwelling older adults | 0.87 (0.75-1.00) | 0.89 (0.81-0.97) | \naHamed, 201857 | Healthy older adults | 0.68 (0.58-0.80) | 0.78 (0.68-0.89) | SRs included only studies with longer than 6 month follow-up\nSherrington, 201114 | Not specified | 0.84 (0.77-0.91) | NR | \nSherrington, 201754 | Not specified | 0.79 (0.73-0.85) | NR | \naSherrington, 201928 | Not specified | 0.77 (0.71-0.83) | 0.85 (0.81-0.89) | \naSherrington, 202015 | Not specified | 0.77 (0.73-0.83) | NR | No difference based on whether participants are >75 or <75, high risk vs not high risk, HP delivered vs not HP delivered, and group vs individual\nWong, 202058 | Community-dwelling older adults | 0.71 (0.62-0.82) | NR | Only included studies in which both falls and fractures were reported.\nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Population",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Cheng, 201846",
+          "Community-dwelling older adults",
+          "NR",
+          "0.67 (0.52-0.84)",
+          "Network MA"
+        ],
+        [
+          "aDautzenberg, 202139",
+          "Community-dwelling older adults",
+          "0.90 (0.86-0.95)",
+          "0.92 (0.88-0.97)",
+          "Network MA, limited to studies that included falls as primary outcome"
+        ],
+        [
+          "El Khoury, 201355",
+          "Community-dwelling older adults",
+          "0.63 (0.51-0.77)",
+          "NR",
+          "All injurious falls"
+        ],
+        [
+          "Finnegan, 201956",
+          "Community-dwelling older adults",
+          "0.79 (0.71-0.88)",
+          "0.83 (0.76-0.92)",
+          "SRs included only studies with longer than 12 month follow-up"
+        ],
+        [
+          "aGuirguis-Blake, 201835",
+          "Community-dwelling older adults",
+          "0.87 (0.75-1.00)",
+          "0.89 (0.81-0.97)",
+          ""
+        ],
+        [
+          "aHamed, 201857",
+          "Healthy older adults",
+          "0.68 (0.58-0.80)",
+          "0.78 (0.68-0.89)",
+          "SRs included only studies with longer than 6 month follow-up"
+        ],
+        [
+          "Sherrington, 201114",
+          "Not specified",
+          "0.84 (0.77-0.91)",
+          "NR",
+          ""
+        ],
+        [
+          "Sherrington, 201754",
+          "Not specified",
+          "0.79 (0.73-0.85)",
+          "NR",
+          ""
+        ],
+        [
+          "aSherrington, 201928",
+          "Not specified",
+          "0.77 (0.71-0.83)",
+          "0.85 (0.81-0.89)",
+          ""
+        ],
+        [
+          "aSherrington, 202015",
+          "Not specified",
+          "0.77 (0.73-0.83)",
+          "NR",
+          "No difference based on whether participants are >75 or <75, high risk vs not high risk, HP delivered vs not HP delivered, and group vs individual"
+        ],
+        [
+          "Wong, 202058",
+          "Community-dwelling older adults",
+          "0.71 (0.62-0.82)",
+          "NR",
+          "Only included studies in which both falls and fractures were reported."
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_70ff52f35b4beafd",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 12,
+      "table_index": 0,
+      "bbox": [
+        36.24,
+        82.39,
+        519.8,
+        735.91
+      ],
+      "section_id": "9e636aa2a3c010f0",
+      "section_path": [
+        "Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs"
+      ],
+      "heading_level": 1,
+      "caption": "Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 34,
+      "n_cols": 5,
+      "empty_cell_ratio": 0.4412,
+      "header_row": [
+        "Study",
+        "Population",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "b89d884b0a19",
+      "continues_table_id": "tbl_cfd5f75badd83e4b",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Population | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCaristia, 202148 | Apparently healthy older adults not diagnosed as frail | 0.69 (0.52-0.89) | NR | SR included all RCTs in Cochrane reviews\nFinnegan, 201956 | Community-dwelling older adults | 0.82 (0.74-0.91) | 0.91 (0.85-0.96) | SRs included only studies with longer than 12 month follow-up\n |  | GBFT, RT, Flex, 3D 0.65 (0.43-0.99) (3 studies) | Too few studies | \n |  | GBFT, RT, Flex 0.76 (0.620.93) (3 studies) | GBFT, RT, Flex 0.87 (0.790.95) (3 studies) | \naGarcia-Hermoso, 202068 | Community-dwelling older adults with a few cohorts of institutionalized older adults | NR | 0.89 (0.83-0.96) | SR only included studies of interventions lasting longer than 12 months\naGillespie, 201234 | Community-dwelling older adults | Group | Group | \n |  | 0.71 (0.63-0.82) | 0.85 (0.76-0.96) | \n |  | Individual | Individual | \n |  | 0.68 (0.58-0.80) | 0.78 (0.64-0.94) | \n |  | Selected for high risk | Selected for high risk | \n |  | 0.70 (0.58-0.85) | 0.87 (0.78-0.97) | \n |  | Not selected for high risk | Not selected for high risk | \n |  | 0.72 (0.58-0.90) | 0.85 (0.68-1.06) | \nHill, 201561 | Community-dwelling older adults including those recently d/c from hospital | NR | 0.93 (0.72-1.21) | Home-based individualized exercise program\n | Community-dwelling older adults excluding those recently d/c from hospital | NR | 0.84 (0.72-0.99) | \naLee, 202038 | Community-dwelling older adults | 0.66 (0.54-0.80) | 0.79 (0.66-0.95) | Multicomponent exercise as part of multifactorial intervention\nLiu, 201760 | Community-dwelling older adults at risk of reduced physical capacity | 0.63 (0.49-0.80) | NR | \naPapalia, 202062 | Not specified | 0.64 (0.49-0.83) | 0.88 (0.79-0.98) | \nPetridou, 200944 | Community-dwelling older adults with high risk of falls | NR | 0.45 (0.29-0.71) | \naSherrington, 201928 | Community-dwelling older adults | 0.66 (0.50-0.88) | 0.78 (0.64-0.96) | \n |  | Selected for high risk | Selected for high risk | \n |  | 0.77 (0.63-0.94) | 0.84 (0.71-1.00) | \n |  | Not selected for high risk | Not selected for high risk | \n |  | 0.54 (0.29-0.99) | 0.71 (0.41-1.19) | \n |  | Delivered by HP | Delivered by HP | \n |  | 0.65 (0.43-0.99) | 0.81 (0.65-1.02) | \n |  | Not delivered by HP | Not delivered by HP | \n |  | 0.66 (0.44-0.99) | 0.70 (0.45-0.91) | \n |  | Group program: | Group program | \n |  | 0.64 (0.46-0.89) | 0.77 (0.60-1.00) | \n |  | Too few studies | Individualized program | \n |  |  | 0.86 (0.72-1.03) | \n(continues) |  |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Population",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Caristia, 202148",
+          "Apparently healthy older adults not diagnosed as frail",
+          "0.69 (0.52-0.89)",
+          "NR",
+          "SR included all RCTs in Cochrane reviews"
+        ],
+        [
+          "Finnegan, 201956",
+          "Community-dwelling older adults",
+          "0.82 (0.74-0.91)",
+          "0.91 (0.85-0.96)",
+          "SRs included only studies with longer than 12 month follow-up"
+        ],
+        [
+          "",
+          "",
+          "GBFT, RT, Flex, 3D 0.65 (0.43-0.99) (3 studies)",
+          "Too few studies",
+          ""
+        ],
+        [
+          "",
+          "",
+          "GBFT, RT, Flex 0.76 (0.620.93) (3 studies)",
+          "GBFT, RT, Flex 0.87 (0.790.95) (3 studies)",
+          ""
+        ],
+        [
+          "aGarcia-Hermoso, 202068",
+          "Community-dwelling older adults with a few cohorts of institutionalized older adults",
+          "NR",
+          "0.89 (0.83-0.96)",
+          "SR only included studies of interventions lasting longer than 12 months"
+        ],
+        [
+          "aGillespie, 201234",
+          "Community-dwelling older adults",
+          "Group",
+          "Group",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.71 (0.63-0.82)",
+          "0.85 (0.76-0.96)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Individual",
+          "Individual",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.68 (0.58-0.80)",
+          "0.78 (0.64-0.94)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Selected for high risk",
+          "Selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.70 (0.58-0.85)",
+          "0.87 (0.78-0.97)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Not selected for high risk",
+          "Not selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.72 (0.58-0.90)",
+          "0.85 (0.68-1.06)",
+          ""
+        ],
+        [
+          "Hill, 201561",
+          "Community-dwelling older adults including those recently d/c from hospital",
+          "NR",
+          "0.93 (0.72-1.21)",
+          "Home-based individualized exercise program"
+        ],
+        [
+          "",
+          "Community-dwelling older adults excluding those recently d/c from hospital",
+          "NR",
+          "0.84 (0.72-0.99)",
+          ""
+        ],
+        [
+          "aLee, 202038",
+          "Community-dwelling older adults",
+          "0.66 (0.54-0.80)",
+          "0.79 (0.66-0.95)",
+          "Multicomponent exercise as part of multifactorial intervention"
+        ],
+        [
+          "Liu, 201760",
+          "Community-dwelling older adults at risk of reduced physical capacity",
+          "0.63 (0.49-0.80)",
+          "NR",
+          ""
+        ],
+        [
+          "aPapalia, 202062",
+          "Not specified",
+          "0.64 (0.49-0.83)",
+          "0.88 (0.79-0.98)",
+          ""
+        ],
+        [
+          "Petridou, 200944",
+          "Community-dwelling older adults with high risk of falls",
+          "NR",
+          "0.45 (0.29-0.71)",
+          ""
+        ],
+        [
+          "aSherrington, 201928",
+          "Community-dwelling older adults",
+          "0.66 (0.50-0.88)",
+          "0.78 (0.64-0.96)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Selected for high risk",
+          "Selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.77 (0.63-0.94)",
+          "0.84 (0.71-1.00)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Not selected for high risk",
+          "Not selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.54 (0.29-0.99)",
+          "0.71 (0.41-1.19)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Delivered by HP",
+          "Delivered by HP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.65 (0.43-0.99)",
+          "0.81 (0.65-1.02)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Not delivered by HP",
+          "Not delivered by HP",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.66 (0.44-0.99)",
+          "0.70 (0.45-0.91)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Group program:",
+          "Group program",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.64 (0.46-0.89)",
+          "0.77 (0.60-1.00)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Too few studies",
+          "Individualized program",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "0.86 (0.72-1.03)",
+          ""
+        ],
+        [
+          "(continues)",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_2ef5cd65c441db0e",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 13,
+      "table_index": 0,
+      "bbox": [
+        28.09,
+        76.61,
+        527.82,
+        207.4
+      ],
+      "section_id": "9e636aa2a3c010f0",
+      "section_path": [
+        "Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 7,
+      "empty_cell_ratio": 0.5306,
+      "header_row": [
+        "T",
+        "Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs (Continued)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "6239c134e335",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "T | Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs (Continued) |  |  |  |  | \n |  |  |  |  |  | \n | Study | Population | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments | \n | aSherrington, 202015 | Community-dwelling older adults | 0.72 (0.56-0.93) | NR | Update of Sherrington 2019 | \n | Teng, 202063 | Community-dwelling older adults with identified risk factors for falls | NR | 0.86 (0.68-1.08) | Combined group + homebased | \n | Thomas, 201059 | Community-dwelling older adults | NR | 0.86 (0.56-0.79) | OTAGO program | \n | Abbreviations: Flex, flexibility exercises; GBFT, Gait, balance and functional training; NR, not reported; RT, resistance training, 3D, three dimensional exercises (ie, dance, Tai Chi). aHigh-quality SR/meta-analysis. |  |  |  |  |",
+      "rows": [
+        [
+          "T",
+          "Table 6. Estimates of Risk and Rate Reduction for Multi-component Exercise Programs (Continued)",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Study",
+          "Population",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments",
+          ""
+        ],
+        [
+          "",
+          "aSherrington, 202015",
+          "Community-dwelling older adults",
+          "0.72 (0.56-0.93)",
+          "NR",
+          "Update of Sherrington 2019",
+          ""
+        ],
+        [
+          "",
+          "Teng, 202063",
+          "Community-dwelling older adults with identified risk factors for falls",
+          "NR",
+          "0.86 (0.68-1.08)",
+          "Combined group + homebased",
+          ""
+        ],
+        [
+          "",
+          "Thomas, 201059",
+          "Community-dwelling older adults",
+          "NR",
+          "0.86 (0.56-0.79)",
+          "OTAGO program",
+          ""
+        ],
+        [
+          "",
+          "Abbreviations: Flex, flexibility exercises; GBFT, Gait, balance and functional training; NR, not reported; RT, resistance training, 3D, three dimensional exercises (ie, dance, Tai Chi). aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8878a02ed06dae3c",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 15,
+      "table_index": 0,
+      "bbox": [
+        36.05,
+        92.13,
+        519.55,
+        377.47
+      ],
+      "section_id": "9540df8d06081c5b",
+      "section_path": [
+        "Table 7. Components, Doses, or Intensity in Single and Multi-component Exercise Programs"
+      ],
+      "heading_level": 1,
+      "caption": "Table 7. Components, Doses, or Intensity in Single and Multi-component Exercise Programs",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 20,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.2833,
+      "header_row": [
+        "Study",
+        "Component or quality",
+        "Rate ratio (95% CI)"
+      ],
+      "header_signature": "25a39634c058",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Component or quality | Rate ratio (95% CI)\nSherrington, 201114 | Includes mod-high challenge balance | 0.78 (0.70-0.86)\n | Includes high challenge balance | 0.75 (0.66-0.85)\n | Dose >50 hours | 0.77 (0.68-0.87)\n | Includes walking | 0.90 (0.78-1.00)\n | High risk population | 0.90 (0.80-1.00)\n | Includes balance, no walking, >50 hours | 0.62 (0.54-0.73)\n | Includes balance, walking, >50 hours | 0.79 (0.70-0.89)\nSherrington, 201754 | Includes mod-high intensity strength training | 0.97 (0.82-1.15)\n | Includes high intensity strength training | 1.23 (0.96-1.57)\n | Includes mod-high intensity balance training | 0.85 (0.71-1.00)\n | Includes high intensity balance training | 0.85 (0.73-1.00)\n | Includes >2 hours/week | 0.98 (0.83-1.16)\n | Includes >3 hours/week | 0.77 (0.65-0.91)\n | Includes >3 hours per week and high intensity balance training | 0.61 (0.53-0.72)\n | Includes walking | 1.01 (0.86-1.20)\naSherrington, 202015 | Includes >3 hours/week | 0.83 (0.60-1.15)\n | Includes balance/functional training | 0.76 (0.69-0.83)\n | Includes >3 hours/week and balance functional training | 0.50 (0.45-0.76)\nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |",
+      "rows": [
+        [
+          "Study",
+          "Component or quality",
+          "Rate ratio (95% CI)"
+        ],
+        [
+          "Sherrington, 201114",
+          "Includes mod-high challenge balance",
+          "0.78 (0.70-0.86)"
+        ],
+        [
+          "",
+          "Includes high challenge balance",
+          "0.75 (0.66-0.85)"
+        ],
+        [
+          "",
+          "Dose >50 hours",
+          "0.77 (0.68-0.87)"
+        ],
+        [
+          "",
+          "Includes walking",
+          "0.90 (0.78-1.00)"
+        ],
+        [
+          "",
+          "High risk population",
+          "0.90 (0.80-1.00)"
+        ],
+        [
+          "",
+          "Includes balance, no walking, >50 hours",
+          "0.62 (0.54-0.73)"
+        ],
+        [
+          "",
+          "Includes balance, walking, >50 hours",
+          "0.79 (0.70-0.89)"
+        ],
+        [
+          "Sherrington, 201754",
+          "Includes mod-high intensity strength training",
+          "0.97 (0.82-1.15)"
+        ],
+        [
+          "",
+          "Includes high intensity strength training",
+          "1.23 (0.96-1.57)"
+        ],
+        [
+          "",
+          "Includes mod-high intensity balance training",
+          "0.85 (0.71-1.00)"
+        ],
+        [
+          "",
+          "Includes high intensity balance training",
+          "0.85 (0.73-1.00)"
+        ],
+        [
+          "",
+          "Includes >2 hours/week",
+          "0.98 (0.83-1.16)"
+        ],
+        [
+          "",
+          "Includes >3 hours/week",
+          "0.77 (0.65-0.91)"
+        ],
+        [
+          "",
+          "Includes >3 hours per week and high intensity balance training",
+          "0.61 (0.53-0.72)"
+        ],
+        [
+          "",
+          "Includes walking",
+          "1.01 (0.86-1.20)"
+        ],
+        [
+          "aSherrington, 202015",
+          "Includes >3 hours/week",
+          "0.83 (0.60-1.15)"
+        ],
+        [
+          "",
+          "Includes balance/functional training",
+          "0.76 (0.69-0.83)"
+        ],
+        [
+          "",
+          "Includes >3 hours/week and balance functional training",
+          "0.50 (0.45-0.76)"
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_fe16e201ea201443",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 15,
+      "table_index": 1,
+      "bbox": [
+        36.05,
+        558.59,
+        519.55,
+        724.49
+      ],
+      "section_id": "5bd93508ff5195a7",
+      "section_path": [
+        "Table 8. Intensity and Duration of Intervention in Multicomponent Exercise Interventions"
+      ],
+      "heading_level": 1,
+      "caption": "Table 8. Intensity and Duration of Intervention in Multicomponent Exercise Interventions",
+      "context_before": "intervention from SRs of multicomponent interventions\nare found in Table 8.",
+      "footnote_candidates": [],
+      "n_rows": 12,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.4375,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCaristia, 202148 | >150 minutes weekly | NR | SR included all RCTs in Cochrane reviews\n | 0.53 (0.36-0.77) |  | \n | <150 minutes weekly | NR | \n | 0.88 (0.62-1.25) |  | \nFinnegan, 201956 | >12 months | >12 months | SRs included only studies with longer than 12-month follow-up\n | 0.88 (0.82-0.94) | 0.91 (0.85-0.98) | \n | 6-12 months | 6-12 months | \n | 0.67 (0.56-0.80) | 0.64 (0.48-0.85) | \n | <12 months | <12 months | \n | 0.79 (0.72-0.87) | 0.89 (0.77-1.03) | \nAbbreviation: NR, not reported. |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Caristia, 202148",
+          ">150 minutes weekly",
+          "NR",
+          "SR included all RCTs in Cochrane reviews"
+        ],
+        [
+          "",
+          "0.53 (0.36-0.77)",
+          "",
+          ""
+        ],
+        [
+          "",
+          "<150 minutes weekly",
+          "NR",
+          ""
+        ],
+        [
+          "",
+          "0.88 (0.62-1.25)",
+          "",
+          ""
+        ],
+        [
+          "Finnegan, 201956",
+          ">12 months",
+          ">12 months",
+          "SRs included only studies with longer than 12-month follow-up"
+        ],
+        [
+          "",
+          "0.88 (0.82-0.94)",
+          "0.91 (0.85-0.98)",
+          ""
+        ],
+        [
+          "",
+          "6-12 months",
+          "6-12 months",
+          ""
+        ],
+        [
+          "",
+          "0.67 (0.56-0.80)",
+          "0.64 (0.48-0.85)",
+          ""
+        ],
+        [
+          "",
+          "<12 months",
+          "<12 months",
+          ""
+        ],
+        [
+          "",
+          "0.79 (0.72-0.87)",
+          "0.89 (0.77-1.03)",
+          ""
+        ],
+        [
+          "Abbreviation: NR, not reported.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_839215eace6676d3",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 16,
+      "table_index": 0,
+      "bbox": [
+        36.11,
+        103.14,
+        268.24,
+        182.9
+      ],
+      "section_id": "60e4bf5f453481c9",
+      "section_path": [
+        "Table 9. Risk and Rate Reduction for Studies that Include\nLonger Follow-up Times"
+      ],
+      "heading_level": 1,
+      "caption": "Table 9. Risk and Rate Reduction for Studies that Include\nLonger Follow-up Times",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.3,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": "tbl_fe16e201ea201443",
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nFinnegan, 201956 | >24 months | >24 months | SR included all RCTs in Cochrane reviews\n | 0.80 (0.60-1.06) | 0.79 (0.61-1.03) | \n | 12-24 months | 12-24 months | \n | 0.79 (0.70-0.88) | 0.83 (0.75-0.93) |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Finnegan, 201956",
+          ">24 months",
+          ">24 months",
+          "SR included all RCTs in Cochrane reviews"
+        ],
+        [
+          "",
+          "0.80 (0.60-1.06)",
+          "0.79 (0.61-1.03)",
+          ""
+        ],
+        [
+          "",
+          "12-24 months",
+          "12-24 months",
+          ""
+        ],
+        [
+          "",
+          "0.79 (0.70-0.88)",
+          "0.83 (0.75-0.93)",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_cba06559af489c4d",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 17,
+      "table_index": 0,
+      "bbox": [
+        35.97,
+        103.14,
+        268.49,
+        679.15
+      ],
+      "section_id": "60e4bf5f453481c9",
+      "section_path": [
+        "Table 9. Risk and Rate Reduction for Studies that Include\nLonger Follow-up Times"
+      ],
+      "heading_level": 1,
+      "caption": "Table 10. Estimates of Risk and Rate Reduction for Programs\nthat Include, Gait, Balance, and Functional Training",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 25,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.29,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": "tbl_839215eace6676d3",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nDennett, 201572 | NR | 0.19 (−0.450.83) (note that this is a SMD, not a risk ratio) | Clinical technology for balance training vs traditional balance training.\nFinnegan, 201956 | 0.45 (0.28-0.74) | 0.66 (0.33-1.12) | Long term followup\naGillespie, 201234 | 0.72 (0.55-0.94) | 0.81 (0.62-1.07) | Group exercise only\nMansfield, 201573 | 0.54 (0.34-0.85) | 0.71 (0.52-0.96) | Perturbation training, some studies with people with Parkinson’s disease\naNorgaard, 202171 | 0.58 (0.43-0.79) | 0.57 (0.40-0.80) | Gait adaptability (volitional) training\naOkubo, 201769 | 0.48 (0.36-0.65) | 0.51 (0.38-0.68) | Step training\n | 0.43 (0.27-0.68) | 0.48 (0.36-0.65) | Volitional step training\n | 0.42 (0.28-0.64) | 0.60 (0.40-0.90) | Reactive step (perturbation) training\naPapadimitriou, 201770 | NR | 0.89 (0.70-1.12) | Perturbation training\naSherrington, 201928 | 0.76 (0.70-0.81) | 0.87 (0.82-0.91) | Gait, balance and functional training\n | Not selected for high risk | Not selected for high risk | \n | 0.80 (0.72-0.90) | 0.88 (0.80-0.97) | \n | Selected for high risk | Selected for high risk | \n | 0.72 (0.65-0.80) | 0.86 (0.81-0.91) | \n | HP delivered | HP delivered | \n | 0.67 (0.58-0.76) | 0.82 (0.75-0.90) | \n | Non-HP delivered | Non-HP delivered | \n | 0.82 (0.76-0.88) | 0.89 (0.84-0.94) | \n | Group | Group | \n | 0.73 (0.65-0.82) | 0.87 (0.80-0.95) | \n | Individual | Individual | \n | 0.77 (0.70-0.85) | 0.87 (0.82-0.92) | \naSherrington, 202015 | 0.76 (0.70-0.82) | NR | Update of Sherrington, 2019\nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Dennett, 201572",
+          "NR",
+          "0.19 (−0.450.83) (note that this is a SMD, not a risk ratio)",
+          "Clinical technology for balance training vs traditional balance training."
+        ],
+        [
+          "Finnegan, 201956",
+          "0.45 (0.28-0.74)",
+          "0.66 (0.33-1.12)",
+          "Long term followup"
+        ],
+        [
+          "aGillespie, 201234",
+          "0.72 (0.55-0.94)",
+          "0.81 (0.62-1.07)",
+          "Group exercise only"
+        ],
+        [
+          "Mansfield, 201573",
+          "0.54 (0.34-0.85)",
+          "0.71 (0.52-0.96)",
+          "Perturbation training, some studies with people with Parkinson’s disease"
+        ],
+        [
+          "aNorgaard, 202171",
+          "0.58 (0.43-0.79)",
+          "0.57 (0.40-0.80)",
+          "Gait adaptability (volitional) training"
+        ],
+        [
+          "aOkubo, 201769",
+          "0.48 (0.36-0.65)",
+          "0.51 (0.38-0.68)",
+          "Step training"
+        ],
+        [
+          "",
+          "0.43 (0.27-0.68)",
+          "0.48 (0.36-0.65)",
+          "Volitional step training"
+        ],
+        [
+          "",
+          "0.42 (0.28-0.64)",
+          "0.60 (0.40-0.90)",
+          "Reactive step (perturbation) training"
+        ],
+        [
+          "aPapadimitriou, 201770",
+          "NR",
+          "0.89 (0.70-1.12)",
+          "Perturbation training"
+        ],
+        [
+          "aSherrington, 201928",
+          "0.76 (0.70-0.81)",
+          "0.87 (0.82-0.91)",
+          "Gait, balance and functional training"
+        ],
+        [
+          "",
+          "Not selected for high risk",
+          "Not selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "0.80 (0.72-0.90)",
+          "0.88 (0.80-0.97)",
+          ""
+        ],
+        [
+          "",
+          "Selected for high risk",
+          "Selected for high risk",
+          ""
+        ],
+        [
+          "",
+          "0.72 (0.65-0.80)",
+          "0.86 (0.81-0.91)",
+          ""
+        ],
+        [
+          "",
+          "HP delivered",
+          "HP delivered",
+          ""
+        ],
+        [
+          "",
+          "0.67 (0.58-0.76)",
+          "0.82 (0.75-0.90)",
+          ""
+        ],
+        [
+          "",
+          "Non-HP delivered",
+          "Non-HP delivered",
+          ""
+        ],
+        [
+          "",
+          "0.82 (0.76-0.88)",
+          "0.89 (0.84-0.94)",
+          ""
+        ],
+        [
+          "",
+          "Group",
+          "Group",
+          ""
+        ],
+        [
+          "",
+          "0.73 (0.65-0.82)",
+          "0.87 (0.80-0.95)",
+          ""
+        ],
+        [
+          "",
+          "Individual",
+          "Individual",
+          ""
+        ],
+        [
+          "",
+          "0.77 (0.70-0.85)",
+          "0.87 (0.82-0.92)",
+          ""
+        ],
+        [
+          "aSherrington, 202015",
+          "0.76 (0.70-0.82)",
+          "NR",
+          "Update of Sherrington, 2019"
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_348ea16979afc8ba",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 19,
+      "table_index": 0,
+      "bbox": [
+        35.97,
+        92.18,
+        519.55,
+        216.33
+      ],
+      "section_id": "91b9bcfdc423d797",
+      "section_path": [
+        "Table 11. Estimates of Risk and Rate Ratios for Programs that Include Resistance Training"
+      ],
+      "heading_level": 1,
+      "caption": "Table 11. Estimates of Risk and Rate Ratios for Programs that Include Resistance Training",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.1429,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCaristia, 202148 | 0.60 (0.37-0.99) | NR | Community dwelling without comorbidity or frailty\nClaudino, 202176 | NR | 1.00 (0.77-1.3) | Included both community-dwelling and institutionalized and with and without comorbidity and frailty\naManas, 202175 | 0.99 (0.68-1.45) | 0.83 (0.48-1.44) | Unsupervised home-based Resistance training\naSherrington, 201928 | 1.14 (0.67-1.97) | 0.81 (0.57-1.15) | \naSherrington, 202015 | 1.14 (0.67-1.97) | NR | Update of Sherrington, 2019\nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Caristia, 202148",
+          "0.60 (0.37-0.99)",
+          "NR",
+          "Community dwelling without comorbidity or frailty"
+        ],
+        [
+          "Claudino, 202176",
+          "NR",
+          "1.00 (0.77-1.3)",
+          "Included both community-dwelling and institutionalized and with and without comorbidity and frailty"
+        ],
+        [
+          "aManas, 202175",
+          "0.99 (0.68-1.45)",
+          "0.83 (0.48-1.44)",
+          "Unsupervised home-based Resistance training"
+        ],
+        [
+          "aSherrington, 201928",
+          "1.14 (0.67-1.97)",
+          "0.81 (0.57-1.15)",
+          ""
+        ],
+        [
+          "aSherrington, 202015",
+          "1.14 (0.67-1.97)",
+          "NR",
+          "Update of Sherrington, 2019"
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_19f5d70cb9b1e865",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 21,
+      "table_index": 0,
+      "bbox": [
+        35.37,
+        92.18,
+        519.55,
+        538.7
+      ],
+      "section_id": "91b9bcfdc423d797",
+      "section_path": [
+        "Table 11. Estimates of Risk and Rate Ratios for Programs that Include Resistance Training"
+      ],
+      "heading_level": 1,
+      "caption": "Table 12. Estimates of Rate and Risk Reduction in Studies that Included 3D exercise-Tai Chi and Dance",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 28,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.3661,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCaristia, 202148 | 0.51 (0.32-0.80) | NR | 3D exercise (includes Tai Chi)\naGillespie, 201234 | 0.72 (0.52-1.00) | 0.71 (0.57-0.87) | Tai Chi\n | Selected for high risk of falls | Selected for high risk of falls | \n | 0.95 (0.62-1.46) | 0.85 (0.71-1.01) | \n | Not selected for high risk of falls | Not selected for high risk of falls | \n | 0.59 (0.45-0.76) | 0.58 (0.46-0.74) | \naHuang 201781 | 0.69 (0.60-0.80) | 0.80 (0.72-0.88) | \n | Yang type | Yang type | \n | 0.54 (0.42-0.70) | 0.61 (0.46-0.80) | \n | Sun type | Sun type | \n | 0.91 (0.75-1.11) | 0.88 (0.80-0.98) | \n | High risk | High risk | Unclear how low and high risk was defined\n | 0.90 (0.75-1.07) | 0.83 (0.70-0.98) | \n | Low risk | Low risk | \n | 0.62 (0.50-0.76) | 0.78 (0.68-0.88) | \nLogghe, 201084 | Exercise control | Exercise control | Larger effect in community as compared to congregate living facilities, and larger effects with higher doses\n | 0.51 (0.38-0.68) | NR | \n | Non-exercise control | Non-exercise control | \n | 0.79 (0.60-1.03) | NR | \naLomas-Vega, 201782 | Short-term follow-up (<12 months) | Short-term follow-up (<12 months) | Tai Chi\n | NR | 0.57 (0.48-0.70) | \n | Long-term follow-up (≥12 months) | Long-term follow-up (≥12 months) | \n | NR | 0.87 (0.77-0.99) | \naMattle, 202084 | 0.69 (0.53-0.89) | 0.63 (0.49-0.80) | Tai Chi (six studies) and Dance (2 studies) together Participants were communitydwelling, no comorbidity, high risk of falls\naSherrington, 201925 | 0.81 (0.67-0.99) | 0.80 (0.70-0.91) | \naSherrington, 202010 | 0.81 (0.67-0.99) | NR | \nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Caristia, 202148",
+          "0.51 (0.32-0.80)",
+          "NR",
+          "3D exercise (includes Tai Chi)"
+        ],
+        [
+          "aGillespie, 201234",
+          "0.72 (0.52-1.00)",
+          "0.71 (0.57-0.87)",
+          "Tai Chi"
+        ],
+        [
+          "",
+          "Selected for high risk of falls",
+          "Selected for high risk of falls",
+          ""
+        ],
+        [
+          "",
+          "0.95 (0.62-1.46)",
+          "0.85 (0.71-1.01)",
+          ""
+        ],
+        [
+          "",
+          "Not selected for high risk of falls",
+          "Not selected for high risk of falls",
+          ""
+        ],
+        [
+          "",
+          "0.59 (0.45-0.76)",
+          "0.58 (0.46-0.74)",
+          ""
+        ],
+        [
+          "aHuang 201781",
+          "0.69 (0.60-0.80)",
+          "0.80 (0.72-0.88)",
+          ""
+        ],
+        [
+          "",
+          "Yang type",
+          "Yang type",
+          ""
+        ],
+        [
+          "",
+          "0.54 (0.42-0.70)",
+          "0.61 (0.46-0.80)",
+          ""
+        ],
+        [
+          "",
+          "Sun type",
+          "Sun type",
+          ""
+        ],
+        [
+          "",
+          "0.91 (0.75-1.11)",
+          "0.88 (0.80-0.98)",
+          ""
+        ],
+        [
+          "",
+          "High risk",
+          "High risk",
+          "Unclear how low and high risk was defined"
+        ],
+        [
+          "",
+          "0.90 (0.75-1.07)",
+          "0.83 (0.70-0.98)",
+          ""
+        ],
+        [
+          "",
+          "Low risk",
+          "Low risk",
+          ""
+        ],
+        [
+          "",
+          "0.62 (0.50-0.76)",
+          "0.78 (0.68-0.88)",
+          ""
+        ],
+        [
+          "Logghe, 201084",
+          "Exercise control",
+          "Exercise control",
+          "Larger effect in community as compared to congregate living facilities, and larger effects with higher doses"
+        ],
+        [
+          "",
+          "0.51 (0.38-0.68)",
+          "NR",
+          ""
+        ],
+        [
+          "",
+          "Non-exercise control",
+          "Non-exercise control",
+          ""
+        ],
+        [
+          "",
+          "0.79 (0.60-1.03)",
+          "NR",
+          ""
+        ],
+        [
+          "aLomas-Vega, 201782",
+          "Short-term follow-up (<12 months)",
+          "Short-term follow-up (<12 months)",
+          "Tai Chi"
+        ],
+        [
+          "",
+          "NR",
+          "0.57 (0.48-0.70)",
+          ""
+        ],
+        [
+          "",
+          "Long-term follow-up (≥12 months)",
+          "Long-term follow-up (≥12 months)",
+          ""
+        ],
+        [
+          "",
+          "NR",
+          "0.87 (0.77-0.99)",
+          ""
+        ],
+        [
+          "aMattle, 202084",
+          "0.69 (0.53-0.89)",
+          "0.63 (0.49-0.80)",
+          "Tai Chi (six studies) and Dance (2 studies) together Participants were communitydwelling, no comorbidity, high risk of falls"
+        ],
+        [
+          "aSherrington, 201925",
+          "0.81 (0.67-0.99)",
+          "0.80 (0.70-0.91)",
+          ""
+        ],
+        [
+          "aSherrington, 202010",
+          "0.81 (0.67-0.99)",
+          "NR",
+          ""
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_204eb58905a2127f",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 22,
+      "table_index": 0,
+      "bbox": [
+        36.15,
+        101.26,
+        268.43,
+        325.71
+      ],
+      "section_id": "91b9bcfdc423d797",
+      "section_path": [
+        "Table 11. Estimates of Risk and Rate Ratios for Programs that Include Resistance Training"
+      ],
+      "heading_level": 1,
+      "caption": "Table 13. Estimates of Rate and Risk Reduction Related to\nIntensity and Duration of Tai Chi Interventions",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 16,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.4688,
+      "header_row": [
+        "",
+        "",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)"
+      ],
+      "header_signature": "a0b1ef82cad3",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "|  | Rate ratio (95% CI) | Risk ratio (95% CI)\naHuang, 201781 | Dose | Dose <30 hours | Dose <30 hours\n |  | 0.84 (0.64-1.07) | 0.85 (0.73-0.99)\n |  | Dose 30-60 hours | Dose 30-60 hours\n |  | 0.58 (0.35-0.94) | 0.81 (0.65-1.00)\n |  | Dose >60 hours | Dose >60 hours\n |  | 0.64 (0.49-0.84) | 0.80 (0.67-0.94)\n | Frequency | 1 time/week | 1 time/week\n |  | 0.95 (0.84-1.07) | 0.84 (0.63-1.13)\n |  | 2 times/week | 2 times/week\n |  | 0.83 (0.76-0.92) | 0.73 (0.57-0.95)\n |  | 3 times/week | 3 times/week\n |  | 0.62 (0.71-0.95) | 0.48 (0.36-0.64)\n |  | >3 times/week | >3 times/week\n |  | 0.36 (0.13-0.98) | 0.38 (0.18-0.65)\nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis. |  |  |",
+      "rows": [
+        [
+          "",
+          "",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)"
+        ],
+        [
+          "aHuang, 201781",
+          "Dose",
+          "Dose <30 hours",
+          "Dose <30 hours"
+        ],
+        [
+          "",
+          "",
+          "0.84 (0.64-1.07)",
+          "0.85 (0.73-0.99)"
+        ],
+        [
+          "",
+          "",
+          "Dose 30-60 hours",
+          "Dose 30-60 hours"
+        ],
+        [
+          "",
+          "",
+          "0.58 (0.35-0.94)",
+          "0.81 (0.65-1.00)"
+        ],
+        [
+          "",
+          "",
+          "Dose >60 hours",
+          "Dose >60 hours"
+        ],
+        [
+          "",
+          "",
+          "0.64 (0.49-0.84)",
+          "0.80 (0.67-0.94)"
+        ],
+        [
+          "",
+          "Frequency",
+          "1 time/week",
+          "1 time/week"
+        ],
+        [
+          "",
+          "",
+          "0.95 (0.84-1.07)",
+          "0.84 (0.63-1.13)"
+        ],
+        [
+          "",
+          "",
+          "2 times/week",
+          "2 times/week"
+        ],
+        [
+          "",
+          "",
+          "0.83 (0.76-0.92)",
+          "0.73 (0.57-0.95)"
+        ],
+        [
+          "",
+          "",
+          "3 times/week",
+          "3 times/week"
+        ],
+        [
+          "",
+          "",
+          "0.62 (0.71-0.95)",
+          "0.48 (0.36-0.64)"
+        ],
+        [
+          "",
+          "",
+          ">3 times/week",
+          ">3 times/week"
+        ],
+        [
+          "",
+          "",
+          "0.36 (0.13-0.98)",
+          "0.38 (0.18-0.65)"
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_758c2d07c5cfd815",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 22,
+      "table_index": 1,
+      "bbox": [
+        36.15,
+        536.67,
+        268.43,
+        725.8
+      ],
+      "section_id": "d6d7a00a6d82ab76",
+      "section_path": [
+        "Table 14. Estimates of Risk and Rate Reduction in Studies\nIncluding Educational Intervention"
+      ],
+      "heading_level": 1,
+      "caption": "Table 14. Estimates of Risk and Rate Reduction in Studies\nIncluding Educational Intervention",
+      "context_before": "Evidence Synthesis\nEstimates of risk and rate reduction in studies including\neducational intervention are summarized in Table 14.",
+      "footnote_candidates": [
+        "A high-quality SR with meta-analysis34 and a moderate\nquality NMA46 of fall prevention interventions in older\npeople living in the community found no significant fall\nrisk or rate reduction for education when provided as the\nsole intervention. However, in multiple SRs of multifactorial interventions, education was included as a part of\neffective interventions.37-40,48,49,91"
+      ],
+      "n_rows": 9,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.3889,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCheng 201846 | NR | Education: 0.81 (0.61-1.03) | NMA – reported as odds ratio\naDautzenberg 202139 | 1.01 (0.95-1.08) | 0.94 (0.89-1.01) | NMA\n | NR | People over 75: | \n |  | 0.96 (0.78-1.17) | \n | NR | People with multimorbidity: | \n |  | 0.80 (0.39-1.63) | \naGillespie 201234 | Too few studies | 0.88 (0.75-1.03) | \nAbbreviations: NMA, network meta-analysis; NR, not reported. aHigh-quality SR/meta-analysis. |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Cheng 201846",
+          "NR",
+          "Education: 0.81 (0.61-1.03)",
+          "NMA – reported as odds ratio"
+        ],
+        [
+          "aDautzenberg 202139",
+          "1.01 (0.95-1.08)",
+          "0.94 (0.89-1.01)",
+          "NMA"
+        ],
+        [
+          "",
+          "NR",
+          "People over 75:",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.96 (0.78-1.17)",
+          ""
+        ],
+        [
+          "",
+          "NR",
+          "People with multimorbidity:",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.80 (0.39-1.63)",
+          ""
+        ],
+        [
+          "aGillespie 201234",
+          "Too few studies",
+          "0.88 (0.75-1.03)",
+          ""
+        ],
+        [
+          "Abbreviations: NMA, network meta-analysis; NR, not reported. aHigh-quality SR/meta-analysis.",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_30661369ec0d72f4",
+      "doc_name": "2025 APTA-Geriatrics,Management of Fall Risk.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 23,
+      "table_index": 0,
+      "bbox": [
+        35.97,
+        103.14,
+        268.53,
+        500.73
+      ],
+      "section_id": "54509159a38f4459",
+      "section_path": [
+        "ENVIRONMENTAL ASSESSMENT AND\nMODIFICATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "Table 15. Estimates of Risk and Rate Reduction in Studies that\nIncluded Environmental Assessment and Modification (EAM)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 18,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.3889,
+      "header_row": [
+        "Study",
+        "Rate ratio (95% CI)",
+        "Risk ratio (95% CI)",
+        "Comments"
+      ],
+      "header_signature": "cacc0d8f396d",
+      "continues_table_id": "tbl_758c2d07c5cfd815",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "Study | Rate ratio (95% CI) | Risk ratio (95% CI) | Comments\nCheng, 201846 | NR | 0.73 (0.57-0.94) | NMA\nClemson, 200892 | NR | All studies: 0.79 (0.65-0.97) | \n |  | Selected for high risk: 0.61 (0.470.79) | \naDautzenberg, 202139 | 0.94 (95% CI: 0.85-1.03) | 1.01 (0.92-1.11) | NMA\n | NR | >75 years: 0.85 (0.72-1.00) | \n | NR | People with multimorbidity: | \n |  | 0.76 (0.32-1.85) | \naGillespie, 201234 | 0.81 (95% CI: 0.68-0.97) | 0.88 (0.80-0.96) | Cochrane review\n | Selected for high risk: | Selected for high risk: | \n | 0.52 (95% CI: 0.50-0.77) | 0.85 (0.75-0.97) | \n | Not selected for high risk: | Not selected for high risk: | \n | 0.94 (95% CI: 0.84-1.05) | 0.90 (0.80-1.00) | \naLee, 202038 | Included EAM: | Included EAM: | Environmental assessment modification as part of multifactorial\n | 0.65 (95% CI: 0.54-0.79) | 0.80 (0.68-0.95) | \n | Did not include EAM: | Did not include EAM: | \n | 0.82 (95% CI: 0.55-1.21) | 0.96 (0.81-1.14) | \nAbbreviation: NR, not reported. aHigh-quality SR/meta-analysis |  |  |",
+      "rows": [
+        [
+          "Study",
+          "Rate ratio (95% CI)",
+          "Risk ratio (95% CI)",
+          "Comments"
+        ],
+        [
+          "Cheng, 201846",
+          "NR",
+          "0.73 (0.57-0.94)",
+          "NMA"
+        ],
+        [
+          "Clemson, 200892",
+          "NR",
+          "All studies: 0.79 (0.65-0.97)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Selected for high risk: 0.61 (0.470.79)",
+          ""
+        ],
+        [
+          "aDautzenberg, 202139",
+          "0.94 (95% CI: 0.85-1.03)",
+          "1.01 (0.92-1.11)",
+          "NMA"
+        ],
+        [
+          "",
+          "NR",
+          ">75 years: 0.85 (0.72-1.00)",
+          ""
+        ],
+        [
+          "",
+          "NR",
+          "People with multimorbidity:",
+          ""
+        ],
+        [
+          "",
+          "",
+          "0.76 (0.32-1.85)",
+          ""
+        ],
+        [
+          "aGillespie, 201234",
+          "0.81 (95% CI: 0.68-0.97)",
+          "0.88 (0.80-0.96)",
+          "Cochrane review"
+        ],
+        [
+          "",
+          "Selected for high risk:",
+          "Selected for high risk:",
+          ""
+        ],
+        [
+          "",
+          "0.52 (95% CI: 0.50-0.77)",
+          "0.85 (0.75-0.97)",
+          ""
+        ],
+        [
+          "",
+          "Not selected for high risk:",
+          "Not selected for high risk:",
+          ""
+        ],
+        [
+          "",
+          "0.94 (95% CI: 0.84-1.05)",
+          "0.90 (0.80-1.00)",
+          ""
+        ],
+        [
+          "aLee, 202038",
+          "Included EAM:",
+          "Included EAM:",
+          "Environmental assessment modification as part of multifactorial"
+        ],
+        [
+          "",
+          "0.65 (95% CI: 0.54-0.79)",
+          "0.80 (0.68-0.95)",
+          ""
+        ],
+        [
+          "",
+          "Did not include EAM:",
+          "Did not include EAM:",
+          ""
+        ],
+        [
+          "",
+          "0.82 (95% CI: 0.55-1.21)",
+          "0.96 (0.81-1.14)",
+          ""
+        ],
+        [
+          "Abbreviation: NR, not reported. aHigh-quality SR/meta-analysis",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+Intervention           Description of the intervention
+
+Physical exercise     A variety of physical exercises (e.g. aerobic or strengthening exercises, balance or
+training                coordination exercises, mind–body exercises), with or without weight-bearing, are
+                          suitable to improve exercise capacity, muscle strength, joint mobility, voluntary
+                     movement, balance, gait and walking, as well as helping to reduce pain and
+                           fatigue. Regular physical exercise training (including education and advice on
+                          exercises) is planned according to an individual’s need, guided or assisted and, if
+                            feasible, performed self-directed following education and advice on the appropriate
+                           exercises.
+
+Positioning for         Elevated positioning is one approach to oedema management. The swollen limb
+oedema control        should be positioned above the level of the heart. Devices (pillows, rollers) may
+                       help to keep the limb in a stable position. Elevated positioning can be combined
+                        with other means, such as compression bandages or range of motion exercises.
+                       Education and advice are provided to the person to facilitate the self-directed
+                          positioning. Positioning is performed by a health worker and, if feasible, performed
+                           self-directed following education and advice on the appropriate positioning.
+
+Provision and            Assistive products for compression therapy comprise stockings (pieces of clothes
+training in the use of    that fit tightly around a body part), garments or bandages. Compression therapy
+assistive products for   supports blood vessel functions (e.g. to maintain blood pressure), and also helps to
+compression therapy   reduce oedema and scarring. Provision includes identification of the specific needs,
+                           selection, manufacture or modification, and adjustment of the compression garment.
+                       Following provision, the user will be trained in the garment’s use and care.
+
+Provision and         The provision of assistive mobility devices (e.g. walking aids, transfer aids, manual
+training in the use of    or electrical wheelchairs with pressure cushions) support people to mobilize in
+assistive products for   different environments. Provision includes identification of the specific needs of the
+mobility                  individual, as well as the selection, manufacture or modification, and adjustment of
+                        the appropriate device. Following provision, the patient will be trained in the use and
+                        care of the products.
+
+Provision and         The provision of assistive products (e.g. products for sports, handicrafts) that support
+training in the use of    people to improve and maintain their level of functioning and independence in
+assistive products       recreational and leisure activities. Provision includes identification of the specific
+for recreation and      needs of the individual, as well as the selection, manufacture or modification, and
+leisure                adjustment of the appropriate product. Following provision, the patient will be
+                         trained in the use and care of the products.
+
+Provision and         The provision of assistive products for self-care (e.g. products for toileting, washing,
+training in the use of    grooming, dressing, eating) that support people to improve and maintain their level
+assistive products for   of functioning and independence in daily living. Provision includes the identification
+self-care                 of the specific needs of the individual, as well as the selection, manufacture or
+                          modification, and adjustment of the appropriate product. Following provision, the
+                          patient will be trained in the use and care of the products.
+
+Provision and         The provision of assistive products (e.g. products to adapt the workstation)
+training in the use of    that support people to improve and maintain their level of functioning and
+assistive products for   independence in work and employment. Provision includes the identification
+work                     of the specific needs of the individual, as well as the selection, manufacture or
+                          modification, and adjustment of the appropriate product. Following provision, the
+                          patient will be trained in the use and care of the products.
+
+Provision and         The provision of a lower limb prosthesis contributes to the improvement of
+training in the use of    functioning related to walking or may also address cosmetic aspects. The provision
+lower limb prosthesis   includes identification of the specific needs of the individual, as well as the selection,
+                      manufacture or modification, and adjustment of the prosthesis. Following provision,
+                        the person will be taught and trained in the use and care of the prosthesis.
+
+
+
+
+
+                                           89

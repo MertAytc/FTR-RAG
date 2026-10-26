@@ -1,0 +1,950 @@
+{
+  "schema_version": "2.3",
+  "document": "2022 APTA, Vestibular Rehabilitation_.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2022,
+  "table_count": 8,
+  "tables": [
+    {
+      "table_id": "tbl_4c64295eea918c57",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        42.48,
+        430.21,
+        516.5,
+        540.45
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "The grade of recommendation reflects the overall\nstrength of the evidence available to support the action\nstatement. The criteria for the grades of recommendation\nassigned to each action statement were stated in the previ\nously established methods for the original guideline and are\nprovided in Table 2. Throughout the guideline, each action\nstatement is preceded by a letter grade (A-D) indicating the\nstrength of the recommendation, followed by the statement\nand summary of the supporting evidence.",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0833,
+      "header_row": [
+        "TABLE 1. Levels of Evidence for Studies",
+        ""
+      ],
+      "header_signature": "739dd4f2cc59",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "TABLE 1. Levels of Evidence for Studies | \nI | Evidence obtained from high-quality (≥50% critical appraisal score and >80% follow-up, blinding, and appropriate randomization) randomized controlled trials\nII | Evidence obtained from high-quality cohort (>80% follow-up) study or lesser quality (<50% critical appraisal score or the study does not meet requirements for high quality) randomized controlled trials\nIII | Evidence obtained from case-control study, lower-quality cohort study, or retrospective studies\nIV | Evidence obtained from case series\nV | Expert opinion",
+      "rows": [
+        [
+          "TABLE 1. Levels of Evidence for Studies",
+          ""
+        ],
+        [
+          "I",
+          "Evidence obtained from high-quality (≥50% critical appraisal score and >80% follow-up, blinding, and appropriate randomization) randomized controlled trials"
+        ],
+        [
+          "II",
+          "Evidence obtained from high-quality cohort (>80% follow-up) study or lesser quality (<50% critical appraisal score or the study does not meet requirements for high quality) randomized controlled trials"
+        ],
+        [
+          "III",
+          "Evidence obtained from case-control study, lower-quality cohort study, or retrospective studies"
+        ],
+        [
+          "IV",
+          "Evidence obtained from case series"
+        ],
+        [
+          "V",
+          "Expert opinion"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b72b15714f3adeab",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 7,
+      "table_index": 1,
+      "bbox": [
+        42.48,
+        578.69,
+        516.5,
+        725.0
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 2. Definition of Grades of Recommendationsa",
+      "context_before": "The grade of recommendation reflects the overall\nstrength of the evidence available to support the action\nstatement. The criteria for the grades of recommendation\nassigned to each action statement were stated in the previ\nously established methods for the original guideline and are\nprovided in Table 2. Throughout the guideline, each action\nstatement is preceded by a letter grade (A-D) indicating the\nstrength of the recommendation, followed by the statement\nand summary of the supporting evidence.",
+      "footnote_candidates": [],
+      "n_rows": 6,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.1111,
+      "header_row": [
+        "GRADE",
+        "RECOMMENDATION",
+        "STRENGTH OF EVIDENCE"
+      ],
+      "header_signature": "210fc4cf0f65",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "GRADE | RECOMMENDATION | STRENGTH OF EVIDENCE\nA | Strong evidence | A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study directly on the topic that supports the recommendation. Rec ommendation obligation: “should” or “should not.”\nB | Moderate evidence | A single high-quality randomized controlled trial or a preponderance of level II studies sup port the recommendation. Recommendation obligation: “may” or “may not.”\nC | Weak evidence | A single level II study or a preponderance of level III and IV studies support the recommen dation. Recommendation obligation: “may” or “may not.”\nD | Expert opinion | Best practice based on the clinical experience of the guideline development team and guid ed by the evidence, which may be conflicting. Recommendation obligation: “may consider.”\naEach action statement is preceded by a bolded letter grade (A-D) indicating the strength of the recommendation. This table is available in color online (www.jnpt. org). |  |",
+      "rows": [
+        [
+          "GRADE",
+          "RECOMMENDATION",
+          "STRENGTH OF EVIDENCE"
+        ],
+        [
+          "A",
+          "Strong evidence",
+          "A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study directly on the topic that supports the recommendation. Rec ommendation obligation: “should” or “should not.”"
+        ],
+        [
+          "B",
+          "Moderate evidence",
+          "A single high-quality randomized controlled trial or a preponderance of level II studies sup port the recommendation. Recommendation obligation: “may” or “may not.”"
+        ],
+        [
+          "C",
+          "Weak evidence",
+          "A single level II study or a preponderance of level III and IV studies support the recommen dation. Recommendation obligation: “may” or “may not.”"
+        ],
+        [
+          "D",
+          "Expert opinion",
+          "Best practice based on the clinical experience of the guideline development team and guid ed by the evidence, which may be conflicting. Recommendation obligation: “may consider.”"
+        ],
+        [
+          "aEach action statement is preceded by a bolded letter grade (A-D) indicating the strength of the recommendation. This table is available in color online (www.jnpt. org).",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_03bc18291109afec",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 9,
+      "table_index": 0,
+      "bbox": [
+        42.5,
+        80.34,
+        269.5,
+        706.44
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 3. List of Abbreviations (Continued)",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 35,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "ABBREVIATION",
+        "DEFINITION"
+      ],
+      "header_signature": "ebe7fbb2da48",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "ABBREVIATION | DEFINITION\nm/l | Medial-lateral\nMCI | Mild cognitive impairment\nMCID | Minimal clinically important difference\nmCTSIB | modified Clinical Test of Sensory Inter action on Balance\nmini-BEST | mini-Balance Evaluation Systems Test\nMST | Motion Sensitivity Test\nNHANES | National Health and Nutrition Examina tion Survey\nOFI | Oscillopsia Functional Impact Scale\nOKS | Optokinetic stimulus\nOSQ | Oscillopsia Severity Questionnaire\nPANAS | Positives Affect Negative Affect Scale\nPICO | Patient, Intervention, Comparison, Outcome\nPOD | Postoperative day\nPOMA | Performance-Oriented Mobility Assessment\nPPPD | Persistent postural-perceptual dizziness\nPSFS | Patient Specific Functional Scale\nPRO | Patient-reported outcomes\nQoL | Quality of life\nRCT | Randomized controlled/clinical trial\nSF-36 | 36-Item Short Form Health Survey\nSIG | Special Interest Group\nSIGN | Scottish Intercollegiate Guidelines Network\nSLS | Single leg stance\nSOT | Sensory organization test\nTUG | Timed Up and Go\nTUG Dual Task | TUG with cognitive and motor dual tasks\nUCLADQ | UCLA Dizziness Questionnaire\nUVH | Unilateral vestibular hypofunction, including partial and complete loss of function\nUVL | Unilateral vestibular loss\nVADL | Vestibular Disorders Activities of Daily Living Scale\nVAP | Vestibular Activities and Participation Scale\nVAS | Visual analog scale\nVeDA | Vestibular Disorders Association\nVEMP | Vestibular-evoked myogenic potential",
+      "rows": [
+        [
+          "ABBREVIATION",
+          "DEFINITION"
+        ],
+        [
+          "m/l",
+          "Medial-lateral"
+        ],
+        [
+          "MCI",
+          "Mild cognitive impairment"
+        ],
+        [
+          "MCID",
+          "Minimal clinically important difference"
+        ],
+        [
+          "mCTSIB",
+          "modified Clinical Test of Sensory Inter action on Balance"
+        ],
+        [
+          "mini-BEST",
+          "mini-Balance Evaluation Systems Test"
+        ],
+        [
+          "MST",
+          "Motion Sensitivity Test"
+        ],
+        [
+          "NHANES",
+          "National Health and Nutrition Examina tion Survey"
+        ],
+        [
+          "OFI",
+          "Oscillopsia Functional Impact Scale"
+        ],
+        [
+          "OKS",
+          "Optokinetic stimulus"
+        ],
+        [
+          "OSQ",
+          "Oscillopsia Severity Questionnaire"
+        ],
+        [
+          "PANAS",
+          "Positives Affect Negative Affect Scale"
+        ],
+        [
+          "PICO",
+          "Patient, Intervention, Comparison, Outcome"
+        ],
+        [
+          "POD",
+          "Postoperative day"
+        ],
+        [
+          "POMA",
+          "Performance-Oriented Mobility Assessment"
+        ],
+        [
+          "PPPD",
+          "Persistent postural-perceptual dizziness"
+        ],
+        [
+          "PSFS",
+          "Patient Specific Functional Scale"
+        ],
+        [
+          "PRO",
+          "Patient-reported outcomes"
+        ],
+        [
+          "QoL",
+          "Quality of life"
+        ],
+        [
+          "RCT",
+          "Randomized controlled/clinical trial"
+        ],
+        [
+          "SF-36",
+          "36-Item Short Form Health Survey"
+        ],
+        [
+          "SIG",
+          "Special Interest Group"
+        ],
+        [
+          "SIGN",
+          "Scottish Intercollegiate Guidelines Network"
+        ],
+        [
+          "SLS",
+          "Single leg stance"
+        ],
+        [
+          "SOT",
+          "Sensory organization test"
+        ],
+        [
+          "TUG",
+          "Timed Up and Go"
+        ],
+        [
+          "TUG Dual Task",
+          "TUG with cognitive and motor dual tasks"
+        ],
+        [
+          "UCLADQ",
+          "UCLA Dizziness Questionnaire"
+        ],
+        [
+          "UVH",
+          "Unilateral vestibular hypofunction, including partial and complete loss of function"
+        ],
+        [
+          "UVL",
+          "Unilateral vestibular loss"
+        ],
+        [
+          "VADL",
+          "Vestibular Disorders Activities of Daily Living Scale"
+        ],
+        [
+          "VAP",
+          "Vestibular Activities and Participation Scale"
+        ],
+        [
+          "VAS",
+          "Visual analog scale"
+        ],
+        [
+          "VeDA",
+          "Vestibular Disorders Association"
+        ],
+        [
+          "VEMP",
+          "Vestibular-evoked myogenic potential"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_61096ab03529abc5",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 9,
+      "table_index": 1,
+      "bbox": [
+        288.5,
+        80.34,
+        515.5,
+        290.15
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 3. List of Abbreviations (Continued)",
+      "context_before": "(continues)",
+      "footnote_candidates": [],
+      "n_rows": 12,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "ABBREVIATION",
+        "DEFINITION"
+      ],
+      "header_signature": "ebe7fbb2da48",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "ABBREVIATION | DEFINITION\nVHQ | Vertigo Handicap Questionnaire\nVOR | Vestibulo-ocular reflex\nVORx1 | VOR times 1 viewing paradigm exercise\nVORx2 | VOR times 2 viewing paradigm exercise\nVPT | Vestibular physical therapy\nVR | Virtual reality\nVRBQ | Vestibular Rehabilitation Benefits Questionnaire\nVSR | Vestibulo-spinal reflex\nVSS | Vertigo Symptom Scale\nVVAS | Visual Vertigo Analog Scale\nvHIT | video head impulse test",
+      "rows": [
+        [
+          "ABBREVIATION",
+          "DEFINITION"
+        ],
+        [
+          "VHQ",
+          "Vertigo Handicap Questionnaire"
+        ],
+        [
+          "VOR",
+          "Vestibulo-ocular reflex"
+        ],
+        [
+          "VORx1",
+          "VOR times 1 viewing paradigm exercise"
+        ],
+        [
+          "VORx2",
+          "VOR times 2 viewing paradigm exercise"
+        ],
+        [
+          "VPT",
+          "Vestibular physical therapy"
+        ],
+        [
+          "VR",
+          "Virtual reality"
+        ],
+        [
+          "VRBQ",
+          "Vestibular Rehabilitation Benefits Questionnaire"
+        ],
+        [
+          "VSR",
+          "Vestibulo-spinal reflex"
+        ],
+        [
+          "VSS",
+          "Vertigo Symptom Scale"
+        ],
+        [
+          "VVAS",
+          "Visual Vertigo Analog Scale"
+        ],
+        [
+          "vHIT",
+          "video head impulse test"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_6fd8ce2b605d931f",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 10,
+      "table_index": 0,
+      "bbox": [
+        42.5,
+        80.84,
+        516.5,
+        700.87
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 4. Definition of Common Terms",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 16,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "TERM AND ABBREVIATION",
+        "DEFINITION"
+      ],
+      "header_signature": "9edd2442add4",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "TERM AND ABBREVIATION | DEFINITION\nUnilateral vestibular hypofunction | Partial or complete loss of one of the peripheral vestibular sensory organs and/or vestibular nerves\nBilateral vestibular hypofunction | Partial or complete loss of both peripheral vestibular sensory organs and/or vestibular nerves\nAcute | First 2 wk following the onset of symptoms\nSubacute | After the first 2 wk and up to 3 mo following the onset of symptoms\nChronic | The presence of symptoms >3 mo\nVestibulo-ocular reflex | Mechanism to maintain stable vision during head movement. Two components: angular VOR, mediated by the semicircular canals, compensates for head/body rotation; linear VOR, mediated by the otoliths, compensates for translation motion.\nHead impulse test | Test of VOR function using high acceleration, small amplitude head rotation in the plane of the semicircular canals being tested.\nGaze stabilization exercises VOR adaptation exercises \u0007VOR substitution exercises | Exercises designed to promote gaze stability and developed based on the concepts of VOR adaptation and substitution Exercises developed to induce long-term changes in the neuronal response to head movements with the goal of reducing symptoms and normalizing gaze and postural stability during head movement. Examples of adaptation exercises include VORx1 and VORx2. Exercises developed to promote alternative strategies (eg, central preprogramming of eye move ments including saccades) to substitute for impaired vestibular function to enable gaze stability. Examples of substitution exercises include eye-head movements between targets and remembered target exercises.\nVSR substitution exercises | Exercises developed to promote alternative strategies (eg, increased reliance on visual and so matosensory cues) to substitute for impaired or lost vestibular function to improve postural and gait stability\nHabituation exercises | Exercises or movements that systematically expose the individual to a provocative stimulus that over time with repeated exposure leads to a reduction in symptoms\nBalance exercises Low technology | Static (quiet stance) or dynamic exercises to optimize functioning of the systems underlying postural control. These exercises may include center of gravity control training, anticipatory and reactive balance control training, multisensory training, and gait training. Progression of exercises may involve altering visual (eg, visual cues altered—reduced, absent, or moving) and/or so matosensory input (eg, firm, uneven, or moving surfaces), and/or base of support (eg, Romberg, tandem, and single leg stance), and/or head movements, and/or a cognitive task to increase the balance challenge. Examples of dynamic activities include weight shifting, walking with head turns, and performing a secondary task (eg, arm movements) while standing or walking as ap propriate based on the individual’s capabilities.\nHigh technology | Virtual reality: computer-generated simulation of real or imagined environments within which individuals interact using their own movements, such as Wii Fit Balance Board, Biodex, Cave Automatic Virtual Environments, and head-mounted displays. Optokinetic stimuli: the use of repetitive moving visual patterns provided by optokinetic discs, moving rooms or lower-tech equipment, such as busy screen savers on a computer or videos of busy visual environments.\n\u0007Augmented sensory feedback | Sensory information delivered via an alternate sensory channel to replace or augment a deficient sense. Vibrotactile feedback: tactile cues provided to an individual when they are leaning/tilting away from vertical more than a predetermined amount. Haptic cues: transmission of information through the sense of touch, such as information pro vided by a cane. Platform oscillations: horizontal sinusoidal movement combined with oscillations\nCompensation | Compensation for a vestibular disorder is a gradual process that is most likely of central origin. The process may involve adaptation of residual VOR gain, substitution of alternative strategies, habituation of symptoms, and regaining postural control\nVertigo | Specific term meaning an illusion of self-motion or of motion of the surrounding environment; typically, a spinning sensation of the body but can also be nonspinning",
+      "rows": [
+        [
+          "TERM AND ABBREVIATION",
+          "DEFINITION"
+        ],
+        [
+          "Unilateral vestibular hypofunction",
+          "Partial or complete loss of one of the peripheral vestibular sensory organs and/or vestibular nerves"
+        ],
+        [
+          "Bilateral vestibular hypofunction",
+          "Partial or complete loss of both peripheral vestibular sensory organs and/or vestibular nerves"
+        ],
+        [
+          "Acute",
+          "First 2 wk following the onset of symptoms"
+        ],
+        [
+          "Subacute",
+          "After the first 2 wk and up to 3 mo following the onset of symptoms"
+        ],
+        [
+          "Chronic",
+          "The presence of symptoms >3 mo"
+        ],
+        [
+          "Vestibulo-ocular reflex",
+          "Mechanism to maintain stable vision during head movement. Two components: angular VOR, mediated by the semicircular canals, compensates for head/body rotation; linear VOR, mediated by the otoliths, compensates for translation motion."
+        ],
+        [
+          "Head impulse test",
+          "Test of VOR function using high acceleration, small amplitude head rotation in the plane of the semicircular canals being tested."
+        ],
+        [
+          "Gaze stabilization exercises VOR adaptation exercises \u0007VOR substitution exercises",
+          "Exercises designed to promote gaze stability and developed based on the concepts of VOR adaptation and substitution Exercises developed to induce long-term changes in the neuronal response to head movements with the goal of reducing symptoms and normalizing gaze and postural stability during head movement. Examples of adaptation exercises include VORx1 and VORx2. Exercises developed to promote alternative strategies (eg, central preprogramming of eye move ments including saccades) to substitute for impaired vestibular function to enable gaze stability. Examples of substitution exercises include eye-head movements between targets and remembered target exercises."
+        ],
+        [
+          "VSR substitution exercises",
+          "Exercises developed to promote alternative strategies (eg, increased reliance on visual and so matosensory cues) to substitute for impaired or lost vestibular function to improve postural and gait stability"
+        ],
+        [
+          "Habituation exercises",
+          "Exercises or movements that systematically expose the individual to a provocative stimulus that over time with repeated exposure leads to a reduction in symptoms"
+        ],
+        [
+          "Balance exercises Low technology",
+          "Static (quiet stance) or dynamic exercises to optimize functioning of the systems underlying postural control. These exercises may include center of gravity control training, anticipatory and reactive balance control training, multisensory training, and gait training. Progression of exercises may involve altering visual (eg, visual cues altered—reduced, absent, or moving) and/or so matosensory input (eg, firm, uneven, or moving surfaces), and/or base of support (eg, Romberg, tandem, and single leg stance), and/or head movements, and/or a cognitive task to increase the balance challenge. Examples of dynamic activities include weight shifting, walking with head turns, and performing a secondary task (eg, arm movements) while standing or walking as ap propriate based on the individual’s capabilities."
+        ],
+        [
+          "High technology",
+          "Virtual reality: computer-generated simulation of real or imagined environments within which individuals interact using their own movements, such as Wii Fit Balance Board, Biodex, Cave Automatic Virtual Environments, and head-mounted displays. Optokinetic stimuli: the use of repetitive moving visual patterns provided by optokinetic discs, moving rooms or lower-tech equipment, such as busy screen savers on a computer or videos of busy visual environments."
+        ],
+        [
+          "\u0007Augmented sensory feedback",
+          "Sensory information delivered via an alternate sensory channel to replace or augment a deficient sense. Vibrotactile feedback: tactile cues provided to an individual when they are leaning/tilting away from vertical more than a predetermined amount. Haptic cues: transmission of information through the sense of touch, such as information pro vided by a cane. Platform oscillations: horizontal sinusoidal movement combined with oscillations"
+        ],
+        [
+          "Compensation",
+          "Compensation for a vestibular disorder is a gradual process that is most likely of central origin. The process may involve adaptation of residual VOR gain, substitution of alternative strategies, habituation of symptoms, and regaining postural control"
+        ],
+        [
+          "Vertigo",
+          "Specific term meaning an illusion of self-motion or of motion of the surrounding environment; typically, a spinning sensation of the body but can also be nonspinning"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_5b51bc12404341f4",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 12,
+      "table_index": 0,
+      "bbox": [
+        42.5,
+        90.34,
+        517.8,
+        719.27
+      ],
+      "section_id": "4709ffa4b903b275",
+      "section_path": [
+        "LEVELS OF EVIDENCE AND GRADE OF RECOMMENDATIONS"
+      ],
+      "heading_level": 1,
+      "caption": "TABLE 5. Summary of Outcome Measures to Assess Individuals With Vestibular Hypofunction Organized Based on the ICF\nModela",
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 32,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0469,
+      "header_row": [
+        "MEASURE",
+        "WHAT IT MEASURES"
+      ],
+      "header_signature": "e7db5ee0ee00",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "MEASURE | WHAT IT MEASURES\nICF level: body structure/function | \n\u0007Dynamic visual acuity, instrumented | Computerized assessment of visual acuity during head movement relative to static visual acuity without head movement5,6\n\u0007Dynamic visual acuity, noninstrumented (clinical) | Clinical assessment of visual acuity during head movement relative to static visual acuity without head movement using an eye examination chart7,8\n\u0007Gaze stabilization test, instrumented | Computerized assessment of visual acuity that identifies the most rapid head rotation velocity at which an optotype of fixed size can be identified9\n\u0007Head impulse test, instrumented (video HIT) | VOR gain and presence of overt and covert saccades with a head impulse10\nHead shake nystagmus test | Clinical assessment of the VOR whereby the persons head is passively moved in the yaw plane to determine whether the person exhibits nystagmus when the head shaking has stopped11\nRomberg | Assesses static standing balance with feet together12,13\nSharpened Romberg | Assesses static standing balance with feet in tandem position (heel touching toe)12,13\nSensory organization test | Computerized assessment of postural control by measuring sway under conditions in which visual/somatosensory feedbacks are altered14,15\n\u0007Sensory organization test with head shake | Postural stability during head rotations compared with head still16\n\u0007Subject visual vertical—bucket and instrumented | Test of perceived verticality that can be done with the “bucket test” as a low-tech alterna tive and with a light bar for instrumented testing17\n\u0007(modified) Clinical Test of Sensory Interaction on Balance | Postural control under various sensory conditions, including eyes open and closed plus firm and foam surfaces18-20\n\u0007Visual analog scale | Symptoms of dizziness, disequilibrium, and vertigo are quantified on a 10-cm line 21,22\nVisual Vertigo Analog Scale | Intensity of visual vertigo in 9 challenging situations of visual motions using a visual analog scale23\nMotion Sensitivity Test | Motion-provoked dizziness during a series of 16 quick changes to head or body positions24\nVertigo Symptoms Scale | Symptoms of balance, somatic anxiety, and autonomic arousal problems25\nICF level: activity/participation | \n5 times sit-to-stand | A measure of lower extremity strength with published norms in older adults and individuals with vestibular disorders26-28\n30-s chair stand | A measure of lower extremity strength with published norms in older adults29\nFunctional Reach | A measure of the maximum forward reaching distance while standing in a fixed position30,31\nGait velocity (10-m walk test) | Walking at preferred speed32-34\n\u0007Balance Evaluation Systems Test (BESTest) | Assessment of 6 domains contributing to postural control35\nMini-BESTest | Abbreviated 14-item version of the BESTest to assess dynamic balance and validated in individuals with balance disorders36,37\nBerg Balance Scale | 14-item measure of static balance and fall risk during common activities38,39\nDynamic Gait Index | Postural stability during various walking tasks including change speed, turn head, walk over/around obstacles, and climb stairs40,41\nFunctional Gait Assessment | Postural stability during various walking tasks including tandem, backwards, and eyes closed42\nFour-Square Step Test | Ability to step over objects forward, sideways, and backwards43\nSingle-leg or unipedal stance test | Ability to maintain stance on 1 leg44\nTimed Up and Go | Mobility and fall risk45,46\nTimed Up and Go Dual Task | Mobility under dual-task conditions (cognitive and motor) and fall risk47,48\naDetails regarding recommendations from the Vestibular Evidence Database to Guide Effectiveness task force are available online at http://www.neuropt.org/professional-resources/neurology-section-outcome-measures-recommendations/vestibular-disorders (accessed August 31, 2020). |",
+      "rows": [
+        [
+          "MEASURE",
+          "WHAT IT MEASURES"
+        ],
+        [
+          "ICF level: body structure/function",
+          ""
+        ],
+        [
+          "\u0007Dynamic visual acuity, instrumented",
+          "Computerized assessment of visual acuity during head movement relative to static visual acuity without head movement5,6"
+        ],
+        [
+          "\u0007Dynamic visual acuity, noninstrumented (clinical)",
+          "Clinical assessment of visual acuity during head movement relative to static visual acuity without head movement using an eye examination chart7,8"
+        ],
+        [
+          "\u0007Gaze stabilization test, instrumented",
+          "Computerized assessment of visual acuity that identifies the most rapid head rotation velocity at which an optotype of fixed size can be identified9"
+        ],
+        [
+          "\u0007Head impulse test, instrumented (video HIT)",
+          "VOR gain and presence of overt and covert saccades with a head impulse10"
+        ],
+        [
+          "Head shake nystagmus test",
+          "Clinical assessment of the VOR whereby the persons head is passively moved in the yaw plane to determine whether the person exhibits nystagmus when the head shaking has stopped11"
+        ],
+        [
+          "Romberg",
+          "Assesses static standing balance with feet together12,13"
+        ],
+        [
+          "Sharpened Romberg",
+          "Assesses static standing balance with feet in tandem position (heel touching toe)12,13"
+        ],
+        [
+          "Sensory organization test",
+          "Computerized assessment of postural control by measuring sway under conditions in which visual/somatosensory feedbacks are altered14,15"
+        ],
+        [
+          "\u0007Sensory organization test with head shake",
+          "Postural stability during head rotations compared with head still16"
+        ],
+        [
+          "\u0007Subject visual vertical—bucket and instrumented",
+          "Test of perceived verticality that can be done with the “bucket test” as a low-tech alterna tive and with a light bar for instrumented testing17"
+        ],
+        [
+          "\u0007(modified) Clinical Test of Sensory Interaction on Balance",
+          "Postural control under various sensory conditions, including eyes open and closed plus firm and foam surfaces18-20"
+        ],
+        [
+          "\u0007Visual analog scale",
+          "Symptoms of dizziness, disequilibrium, and vertigo are quantified on a 10-cm line 21,22"
+        ],
+        [
+          "Visual Vertigo Analog Scale",
+          "Intensity of visual vertigo in 9 challenging situations of visual motions using a visual analog scale23"
+        ],
+        [
+          "Motion Sensitivity Test",
+          "Motion-provoked dizziness during a series of 16 quick changes to head or body positions24"
+        ],
+        [
+          "Vertigo Symptoms Scale",
+          "Symptoms of balance, somatic anxiety, and autonomic arousal problems25"
+        ],
+        [
+          "ICF level: activity/participation",
+          ""
+        ],
+        [
+          "5 times sit-to-stand",
+          "A measure of lower extremity strength with published norms in older adults and individuals with vestibular disorders26-28"
+        ],
+        [
+          "30-s chair stand",
+          "A measure of lower extremity strength with published norms in older adults29"
+        ],
+        [
+          "Functional Reach",
+          "A measure of the maximum forward reaching distance while standing in a fixed position30,31"
+        ],
+        [
+          "Gait velocity (10-m walk test)",
+          "Walking at preferred speed32-34"
+        ],
+        [
+          "\u0007Balance Evaluation Systems Test (BESTest)",
+          "Assessment of 6 domains contributing to postural control35"
+        ],
+        [
+          "Mini-BESTest",
+          "Abbreviated 14-item version of the BESTest to assess dynamic balance and validated in individuals with balance disorders36,37"
+        ],
+        [
+          "Berg Balance Scale",
+          "14-item measure of static balance and fall risk during common activities38,39"
+        ],
+        [
+          "Dynamic Gait Index",
+          "Postural stability during various walking tasks including change speed, turn head, walk over/around obstacles, and climb stairs40,41"
+        ],
+        [
+          "Functional Gait Assessment",
+          "Postural stability during various walking tasks including tandem, backwards, and eyes closed42"
+        ],
+        [
+          "Four-Square Step Test",
+          "Ability to step over objects forward, sideways, and backwards43"
+        ],
+        [
+          "Single-leg or unipedal stance test",
+          "Ability to maintain stance on 1 leg44"
+        ],
+        [
+          "Timed Up and Go",
+          "Mobility and fall risk45,46"
+        ],
+        [
+          "Timed Up and Go Dual Task",
+          "Mobility under dual-task conditions (cognitive and motor) and fall risk47,48"
+        ],
+        [
+          "aDetails regarding recommendations from the Vestibular Evidence Database to Guide Effectiveness task force are available online at http://www.neuropt.org/professional-resources/neurology-section-outcome-measures-recommendations/vestibular-disorders (accessed August 31, 2020).",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_f48c5f12695d8b63",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 32,
+      "table_index": 0,
+      "bbox": [
+        56.88,
+        66.46,
+        456.58,
+        725.5
+      ],
+      "section_id": "bf84bb1a3ba97d68",
+      "section_path": [
+        "Action Statement Profile"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 10,
+      "empty_cell_ratio": 0.2571,
+      "header_row": [
+        "OUTCOME",
+        "",
+        "EXP: BBS, mCTSIB improved (P < 0.05)",
+        "Gait speed, DGI improved (P < 0.001); 75%-88% with UVH improved significantly in outcome measures",
+        "Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo",
+        "EXP/CON: improved DGI and decreased subjects with fall risk: maintained at 3 mo",
+        "EXP: DGI and BBS improved (P < 0.05) EXP and CON: improved TUG (P < 0.05)",
+        "",
+        "",
+        "Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo"
+      ],
+      "header_signature": "8cbfdceb396a",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "OUTCOME |  | EXP: BBS, mCTSIB improved (P < 0.05) | Gait speed, DGI improved (P < 0.001); 75%-88% with UVH improved significantly in outcome measures | Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo | EXP/CON: improved DGI and decreased subjects with fall risk: maintained at 3 mo | EXP: DGI and BBS improved (P < 0.05) EXP and CON: improved TUG (P < 0.05) |  |  | Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo\n# OF WK | Low-technology (traditional) balance exercises | 4 | 5 | 6 | 8 | 6 | High-technology balance exercises | Virtual reality | 6\nHEP DOSAGE (D/WK, MIN/D) |  | EXP: 2x/d, 30-40 min/d Balance portion: 18-28 min/d | Total: 60-70 min/d GSE: 3-5x/d Balance: 2x/d Walking: 10-20 min/d | Balance: 5x/wk, 15 min/d GSE: 7x/wk; 2035 min/d Walking: 5x/wk 10-30 min/d | EXP/CON: 1x/d, 24-38 min/d | CON: 2x/d, 30 min/d |  |  | Balance: 15 min/d 5x/wk GSE: 20-35 min/d, 5x/w Walking: 10-30 min/d, 5x/wk\nCLINIC DOSAGE (VISITS/WK, MIN/ SESSION) |  | EXP: 2x/wk, 30-45 min CON: no treatment | 1x/wk, 60-70 min | EXP: 1x/wk, 30-40 min CON: 1x/wk, 30-40 min | EXP: 2x/wk, 50 min CON: 2x/wk, 50 min | EXP: 1x/wk, 90 min |  |  | EXP: 1x/wk, 30-40 min CON: 1x/wk, 30-40 min\nTYPE OF EXERCISES |  | EXP: standing/walking altering visual, vestibular and somatosensory inputs. GSE | GSE, balance, gait, endurance (walking) | EXP: Wii Fit + rocker board (SLS, weight shift), GSE, endurance (walking) CON: balance with foam pad, GSE, endurance (walking) | EXP: Cawthorne Cooksey with unstable surfaces and altered foot positions, with eye or head movements, walking with ankle weights including slopes | EXP: endurance, balance with/ without visual feedback, gait exercises, gaze stabilization exercises CON: Cawthorne-Cooksey |  |  | EXP: Wii Fit + rocker board (SLS, weight shift), GSE, endurance (walking) CON: balance with foam pad, GSE, endurance (walking)\nINTERVENTION |  | EXP: low-tech VPT CON: no treatment | EXP: low-tech VPT CON: none | EXP: Wii Fit virtual reality balance (nonimmersive) CON: low-tech VPT | “Multi-Modal” Cawthorne-Cooksey (EXP) Conventional CawthorneCooksey (CON) | EXP: VPT CON: Cawthorne-Cooksey HEP |  |  | EXP: Wii Fit virtual reality balance (nonimmersive VR) CON: low-tech VPT\nAUTHOR/LOE |  | Giray et al74; II | Herdman et al192; III | Meldrum et al113; I | Ricci et al135; I | Smółka et al117; II |  |  | \u0007Meldrum et al113; I",
+      "rows": [
+        [
+          "OUTCOME",
+          "",
+          "EXP: BBS, mCTSIB improved (P < 0.05)",
+          "Gait speed, DGI improved (P < 0.001); 75%-88% with UVH improved significantly in outcome measures",
+          "Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo",
+          "EXP/CON: improved DGI and decreased subjects with fall risk: maintained at 3 mo",
+          "EXP: DGI and BBS improved (P < 0.05) EXP and CON: improved TUG (P < 0.05)",
+          "",
+          "",
+          "Both groups improved in gait speed and SOT. No differences between groups at 8 wk and 6 mo"
+        ],
+        [
+          "# OF WK",
+          "Low-technology (traditional) balance exercises",
+          "4",
+          "5",
+          "6",
+          "8",
+          "6",
+          "High-technology balance exercises",
+          "Virtual reality",
+          "6"
+        ],
+        [
+          "HEP DOSAGE (D/WK, MIN/D)",
+          "",
+          "EXP: 2x/d, 30-40 min/d Balance portion: 18-28 min/d",
+          "Total: 60-70 min/d GSE: 3-5x/d Balance: 2x/d Walking: 10-20 min/d",
+          "Balance: 5x/wk, 15 min/d GSE: 7x/wk; 2035 min/d Walking: 5x/wk 10-30 min/d",
+          "EXP/CON: 1x/d, 24-38 min/d",
+          "CON: 2x/d, 30 min/d",
+          "",
+          "",
+          "Balance: 15 min/d 5x/wk GSE: 20-35 min/d, 5x/w Walking: 10-30 min/d, 5x/wk"
+        ],
+        [
+          "CLINIC DOSAGE (VISITS/WK, MIN/ SESSION)",
+          "",
+          "EXP: 2x/wk, 30-45 min CON: no treatment",
+          "1x/wk, 60-70 min",
+          "EXP: 1x/wk, 30-40 min CON: 1x/wk, 30-40 min",
+          "EXP: 2x/wk, 50 min CON: 2x/wk, 50 min",
+          "EXP: 1x/wk, 90 min",
+          "",
+          "",
+          "EXP: 1x/wk, 30-40 min CON: 1x/wk, 30-40 min"
+        ],
+        [
+          "TYPE OF EXERCISES",
+          "",
+          "EXP: standing/walking altering visual, vestibular and somatosensory inputs. GSE",
+          "GSE, balance, gait, endurance (walking)",
+          "EXP: Wii Fit + rocker board (SLS, weight shift), GSE, endurance (walking) CON: balance with foam pad, GSE, endurance (walking)",
+          "EXP: Cawthorne Cooksey with unstable surfaces and altered foot positions, with eye or head movements, walking with ankle weights including slopes",
+          "EXP: endurance, balance with/ without visual feedback, gait exercises, gaze stabilization exercises CON: Cawthorne-Cooksey",
+          "",
+          "",
+          "EXP: Wii Fit + rocker board (SLS, weight shift), GSE, endurance (walking) CON: balance with foam pad, GSE, endurance (walking)"
+        ],
+        [
+          "INTERVENTION",
+          "",
+          "EXP: low-tech VPT CON: no treatment",
+          "EXP: low-tech VPT CON: none",
+          "EXP: Wii Fit virtual reality balance (nonimmersive) CON: low-tech VPT",
+          "“Multi-Modal” Cawthorne-Cooksey (EXP) Conventional CawthorneCooksey (CON)",
+          "EXP: VPT CON: Cawthorne-Cooksey HEP",
+          "",
+          "",
+          "EXP: Wii Fit virtual reality balance (nonimmersive VR) CON: low-tech VPT"
+        ],
+        [
+          "AUTHOR/LOE",
+          "",
+          "Giray et al74; II",
+          "Herdman et al192; III",
+          "Meldrum et al113; I",
+          "Ricci et al135; I",
+          "Smółka et al117; II",
+          "",
+          "",
+          "\u0007Meldrum et al113; I"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_946124f86b8c8da9",
+      "doc_name": "2022 APTA, Vestibular Rehabilitation_.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2022,
+      "page": 33,
+      "table_index": 0,
+      "bbox": [
+        56.38,
+        66.46,
+        501.02,
+        725.5
+      ],
+      "section_id": "bf84bb1a3ba97d68",
+      "section_path": [
+        "Action Statement Profile"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 7,
+      "n_cols": 9,
+      "empty_cell_ratio": 0.0952,
+      "header_row": [
+        "OUTCOME",
+        "Both groups improved postural stability; no difference between groups at 1 mo postintervention",
+        "EXP: ABC, DHI, vHIT gain and some posturography measures improved",
+        "EXP: ABC, DHI, vHIT gain, and some posturography measures improved and maintained for 12 mo",
+        "EXP groups (with and without MCI): improved in VOR gain, DGI and static posturography measures compared with controls",
+        "Optokinetic stimulus",
+        "EXP: SOT SOT-4, SOT-6, and composite score improved; EXP significantly better on SOT-1, SOT-6, SOT composite than EXP",
+        "Composite SOT improved in both groups with greater improvements in EXP group",
+        "EXP: visual preference SOT scores improved; CON: vestibular and somatosensory preference SOT scores improved"
+      ],
+      "header_signature": "8d2a96364398",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "OUTCOME | Both groups improved postural stability; no difference between groups at 1 mo postintervention | EXP: ABC, DHI, vHIT gain and some posturography measures improved | EXP: ABC, DHI, vHIT gain, and some posturography measures improved and maintained for 12 mo | EXP groups (with and without MCI): improved in VOR gain, DGI and static posturography measures compared with controls | Optokinetic stimulus | EXP: SOT SOT-4, SOT-6, and composite score improved; EXP significantly better on SOT-1, SOT-6, SOT composite than EXP | Composite SOT improved in both groups with greater improvements in EXP group | EXP: visual preference SOT scores improved; CON: vestibular and somatosensory preference SOT scores improved\n# OF WK | 2 | 4 | 4 | 4 |  | 3 | 8 | 1\nHEP DOSAGE (D/WK, MIN/D) | Both groups: Cawthorne-Cooksey, 3x/d | EXP: HMD virtual reality 20 min/d EXP/CON: 2x/d, total 30-40 min/d | EXP: HMD VR 20 min/d EXP/CON: 2x/d, total 30-40 min/d | EXP: HMD VR 20 min/d EXP/CON: 2x/d, total 30-40 min/d |  | None | EXP: OKS 26 min/d CON: 12-30 min/d | None\nCLINIC DOSAGE (VISITS/WK, MIN/ SESSION) | 10 sessions over 10 d, 25-30 min/session | 2x/wk, 30-45 min | 2x/wk, 30-45 min | 2x/wk, 30-45 min |  | EXP: 3x/wk, 30 min CON: no treatment | EXP: 2x/wk, 60 min CON: 2x/wk, 60 min | EXP: 5x/wk, 5-15 min/d CON: 5x/wk, 15-20 min\nTYPE OF EXERCISES | EXP: virtual reality games; upper body movements while maintaining COP CON: static posturography with visual feedback | Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman (2003) GSE protocol | Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman 2003 GSE protocol | Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman 2003 GSE protocol |  | EXP: standing, reading randomly projected moving texts | EXP: OKS exposure while sitting, standing, walking, tandem walking CON: customized VPT | EXP: standing with OKS planetarium, varied stimulation planes CON: 10 CDP exercises: weight shifting, changing visual surround, moving platform\nINTERVENTION | EXP: virtual reality (nonimmersive VR) CON: posturography | EXP: low-tech VPT plus immersive VR CON: low-tech VPT | EXP: low-tech VPT plus immersive VR CON: low-tech VPT | EXP: low-tech VPT plus HMD immersive VR CON: low-tech VPT |  | EXP: OKS (standing) CON: no treatment | EXP: low-tech VPT plus OKS CON: VPT | EXP: OKS CON: CDP\nAUTHOR/LOE | \u0007Rosiak et al182; III | \u0007Micarelli et al164; II | \u0007Viziano et al169; I | \u0007Micarelli et al183; II |  | \u0007Loader et al171; I | \u0007Pavlou et al186; I | \u0007Rossi-Izquierdo et al194; I",
+      "rows": [
+        [
+          "OUTCOME",
+          "Both groups improved postural stability; no difference between groups at 1 mo postintervention",
+          "EXP: ABC, DHI, vHIT gain and some posturography measures improved",
+          "EXP: ABC, DHI, vHIT gain, and some posturography measures improved and maintained for 12 mo",
+          "EXP groups (with and without MCI): improved in VOR gain, DGI and static posturography measures compared with controls",
+          "Optokinetic stimulus",
+          "EXP: SOT SOT-4, SOT-6, and composite score improved; EXP significantly better on SOT-1, SOT-6, SOT composite than EXP",
+          "Composite SOT improved in both groups with greater improvements in EXP group",
+          "EXP: visual preference SOT scores improved; CON: vestibular and somatosensory preference SOT scores improved"
+        ],
+        [
+          "# OF WK",
+          "2",
+          "4",
+          "4",
+          "4",
+          "",
+          "3",
+          "8",
+          "1"
+        ],
+        [
+          "HEP DOSAGE (D/WK, MIN/D)",
+          "Both groups: Cawthorne-Cooksey, 3x/d",
+          "EXP: HMD virtual reality 20 min/d EXP/CON: 2x/d, total 30-40 min/d",
+          "EXP: HMD VR 20 min/d EXP/CON: 2x/d, total 30-40 min/d",
+          "EXP: HMD VR 20 min/d EXP/CON: 2x/d, total 30-40 min/d",
+          "",
+          "None",
+          "EXP: OKS 26 min/d CON: 12-30 min/d",
+          "None"
+        ],
+        [
+          "CLINIC DOSAGE (VISITS/WK, MIN/ SESSION)",
+          "10 sessions over 10 d, 25-30 min/session",
+          "2x/wk, 30-45 min",
+          "2x/wk, 30-45 min",
+          "2x/wk, 30-45 min",
+          "",
+          "EXP: 3x/wk, 30 min CON: no treatment",
+          "EXP: 2x/wk, 60 min CON: 2x/wk, 60 min",
+          "EXP: 5x/wk, 5-15 min/d CON: 5x/wk, 15-20 min"
+        ],
+        [
+          "TYPE OF EXERCISES",
+          "EXP: virtual reality games; upper body movements while maintaining COP CON: static posturography with visual feedback",
+          "Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman (2003) GSE protocol",
+          "Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman 2003 GSE protocol",
+          "Static/dynamic balance/ gait exercises altering visual, somatosensory and visual inputs, Herdman 2003 GSE protocol",
+          "",
+          "EXP: standing, reading randomly projected moving texts",
+          "EXP: OKS exposure while sitting, standing, walking, tandem walking CON: customized VPT",
+          "EXP: standing with OKS planetarium, varied stimulation planes CON: 10 CDP exercises: weight shifting, changing visual surround, moving platform"
+        ],
+        [
+          "INTERVENTION",
+          "EXP: virtual reality (nonimmersive VR) CON: posturography",
+          "EXP: low-tech VPT plus immersive VR CON: low-tech VPT",
+          "EXP: low-tech VPT plus immersive VR CON: low-tech VPT",
+          "EXP: low-tech VPT plus HMD immersive VR CON: low-tech VPT",
+          "",
+          "EXP: OKS (standing) CON: no treatment",
+          "EXP: low-tech VPT plus OKS CON: VPT",
+          "EXP: OKS CON: CDP"
+        ],
+        [
+          "AUTHOR/LOE",
+          "\u0007Rosiak et al182; III",
+          "\u0007Micarelli et al164; II",
+          "\u0007Viziano et al169; I",
+          "\u0007Micarelli et al183; II",
+          "",
+          "\u0007Loader et al171; I",
+          "\u0007Pavlou et al186; I",
+          "\u0007Rossi-Izquierdo et al194; I"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": "2.3",
+  "document": "2025 journal of orthopaedic & sports physical therapy,Rotator Cuff Tendinopathy.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2025,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl_80115422f5b41ed8",
+      "doc_name": "2025 journal of orthopaedic & sports physical therapy,Rotator Cuff Tendinopathy.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2025,
+      "page": 1,
+      "table_index": 0,
+      "bbox": [
+        36.08,
+        24.58,
+        543.3,
+        83.41
+      ],
+      "section_id": "8df51e573355c9af",
+      "section_path": [],
+      "heading_level": 0,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 4,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "[ clinical practice guidelines ]",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "544579d481eb",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "[ clinical practice guidelines ] |  |  | \n[ clinical practice guidelines ] |  |  |",
+      "rows": [
+        [
+          "[ clinical practice guidelines ]",
+          "",
+          "",
+          ""
+        ],
+        [
+          "[ clinical practice guidelines ]",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

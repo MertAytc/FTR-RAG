@@ -1,0 +1,98 @@
+{
+  "model": "gpt-6-luna",
+  "api_status": "not_run_missing_openai_api_key",
+  "api_called": false,
+  "pages": [
+    {
+      "source_pdf": "data\\input\\2025 European Respiratory Society,bronchiectasis.pdf",
+      "pdf_page_1based": 6,
+      "image": "pages/ERS_bronchiectasis_p006.png",
+      "page_text": "pages/ERS_bronchiectasis_p006.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2025 European Respiratory Society,bronchiectasis.pdf",
+      "pdf_page_1based": 7,
+      "image": "pages/ERS_bronchiectasis_p007.png",
+      "page_text": "pages/ERS_bronchiectasis_p007.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO Neurological conditions.pdf",
+      "pdf_page_1based": 29,
+      "image": "pages/WHO_neurological_p029.png",
+      "page_text": "pages/WHO_neurological_p029.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO Neurological conditions.pdf",
+      "pdf_page_1based": 78,
+      "image": "pages/WHO_neurological_p078.png",
+      "page_text": "pages/WHO_neurological_p078.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO Neurological conditions.pdf",
+      "pdf_page_1based": 106,
+      "image": "pages/WHO_neurological_p106.png",
+      "page_text": "pages/WHO_neurological_p106.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO Neurological conditions.pdf",
+      "pdf_page_1based": 131,
+      "image": "pages/WHO_neurological_p131.png",
+      "page_text": "pages/WHO_neurological_p131.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO Neurological conditions.pdf",
+      "pdf_page_1based": 170,
+      "image": "pages/WHO_neurological_p170.png",
+      "page_text": "pages/WHO_neurological_p170.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO, Cardiopulmonary conditions_.pdf",
+      "pdf_page_1based": 36,
+      "image": "pages/WHO_cardiopulmonary_p036.png",
+      "page_text": "pages/WHO_cardiopulmonary_p036.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO,Musculoskeletal conditions.pdf",
+      "pdf_page_1based": 28,
+      "image": "pages/WHO_musculoskeletal_p028.png",
+      "page_text": "pages/WHO_musculoskeletal_p028.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO,Musculoskeletal conditions.pdf",
+      "pdf_page_1based": 49,
+      "image": "pages/WHO_musculoskeletal_p049.png",
+      "page_text": "pages/WHO_musculoskeletal_p049.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO,Musculoskeletal conditions.pdf",
+      "pdf_page_1based": 64,
+      "image": "pages/WHO_musculoskeletal_p064.png",
+      "page_text": "pages/WHO_musculoskeletal_p064.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO,Musculoskeletal conditions.pdf",
+      "pdf_page_1based": 83,
+      "image": "pages/WHO_musculoskeletal_p083.png",
+      "page_text": "pages/WHO_musculoskeletal_p083.txt",
+      "printed_page_label_unverified": null
+    },
+    {
+      "source_pdf": "data\\input\\2023 WHO,Musculoskeletal conditions.pdf",
+      "pdf_page_1based": 95,
+      "image": "pages/WHO_musculoskeletal_p095.png",
+      "page_text": "pages/WHO_musculoskeletal_p095.txt",
+      "printed_page_label_unverified": null
+    }
+  ]
+}

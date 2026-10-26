@@ -1,0 +1,265 @@
+{
+  "schema_version": "2.3",
+  "document": "2021 APTA, Hip Fracture.pdf",
+  "doc_family": "JOSPT_APTA",
+  "doc_family_source": "filename_rule",
+  "organization": "JOSPT/APTA",
+  "year": 2021,
+  "table_count": 4,
+  "tables": [
+    {
+      "table_id": "tbl_8cb4e432cd55f92b",
+      "doc_name": "2021 APTA, Hip Fracture.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2021,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        298.62,
+        294.12,
+        533.74,
+        399.57
+      ],
+      "section_id": "d8d57c3b5fffb91e",
+      "section_path": [
+        "GRADES OF RECOMMENDATION\nLEVEL OF OBLIGATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "LEVELS OF EVIDENCE\nIndividual clinical research articles were graded according to\ncriteria adapted from the Centre for Evidence-Based Medi\ncine (Oxford, UK) for diagnostic, prospective, and therapeutic\nstudies.219 In teams of 2, each reviewer independently assigned\na level of evidence and evaluated the quality of each article\nusing a critical appraisal tool. See APPENDICES E and F (available\nat www.jospt.org) for the levels of evidence table and details on\nprocedures used for assigning levels of evidence (also available\nat www.orthopt.org). The evidence update was organized from\nthe highest to",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.0,
+      "header_row": [
+        "I",
+        "Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews"
+      ],
+      "header_signature": "f6e37d7c5f3c",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "I | Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews\nII | Evidence obtained from lesser-quality diagnostic studies, pro spective studies, systematic reviews, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)\nIII | Case-control studies or retrospective studies\nIV | Case series\nV | Expert opinion",
+      "rows": [
+        [
+          "I",
+          "Evidence obtained from high-quality diagnostic studies, prospec tive studies, randomized controlled trials, or systematic reviews"
+        ],
+        [
+          "II",
+          "Evidence obtained from lesser-quality diagnostic studies, pro spective studies, systematic reviews, or randomized controlled trials (eg, weaker diagnostic criteria and reference standards, improper randomization, no blinding, less than 80% follow-up)"
+        ],
+        [
+          "III",
+          "Case-control studies or retrospective studies"
+        ],
+        [
+          "IV",
+          "Case series"
+        ],
+        [
+          "V",
+          "Expert opinion"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8021491f9d00918a",
+      "doc_name": "2021 APTA, Hip Fracture.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2021,
+      "page": 7,
+      "table_index": 1,
+      "bbox": [
+        298.62,
+        536.12,
+        533.74,
+        702.21
+      ],
+      "section_id": "d8d57c3b5fffb91e",
+      "section_path": [
+        "GRADES OF RECOMMENDATION\nLEVEL OF OBLIGATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "STRENGTH OF EVIDENCE AND GRADES OF RECOMMENDATION\nThe strength of the evidence supporting the recommendations\nwas graded according to the previously established methods for\nthe original guideline and those provided below. Each team de\nveloped recommendations based on the strength of evidence,\nincluding how directly the studies addressed the question of\nmanagement of older adults with hip fracture. In developing\ntheir recommendations, the authors considered the strengths\nand limitations of the body of evidence and the health benefits,\nside effects, and risks of tests and interventions.",
+      "footnote_candidates": [],
+      "n_rows": 5,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.0667,
+      "header_row": [
+        "GRADES OF RECOMMENDATION",
+        "",
+        "STRENGTH OF EVIDENCE"
+      ],
+      "header_signature": "b8946b894c74",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "GRADES OF RECOMMENDATION |  | STRENGTH OF EVIDENCE\nA | Strong evidence | A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study\nB | Moderate evidence | A single high-quality randomized controlled trial or a preponderance of level II studies support the recommendation\nC | Weak evidence | A single level II study or a preponderance of level III and IV studies, including statements of consensus by content experts, support the recommendation\nD | Conflicting evidence | Higher-quality studies conducted on this top ic disagree with respect to their conclusions. The recommendation is based on these conflicting studies",
+      "rows": [
+        [
+          "GRADES OF RECOMMENDATION",
+          "",
+          "STRENGTH OF EVIDENCE"
+        ],
+        [
+          "A",
+          "Strong evidence",
+          "A preponderance of level I and/or level II studies support the recommendation. This must include at least 1 level I study"
+        ],
+        [
+          "B",
+          "Moderate evidence",
+          "A single high-quality randomized controlled trial or a preponderance of level II studies support the recommendation"
+        ],
+        [
+          "C",
+          "Weak evidence",
+          "A single level II study or a preponderance of level III and IV studies, including statements of consensus by content experts, support the recommendation"
+        ],
+        [
+          "D",
+          "Conflicting evidence",
+          "Higher-quality studies conducted on this top ic disagree with respect to their conclusions. The recommendation is based on these conflicting studies"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_e6cbe6aaf86fce81",
+      "doc_name": "2021 APTA, Hip Fracture.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2021,
+      "page": 8,
+      "table_index": 0,
+      "bbox": [
+        44.14,
+        76.42,
+        279.24,
+        154.52
+      ],
+      "section_id": "d8d57c3b5fffb91e",
+      "section_path": [
+        "GRADES OF RECOMMENDATION\nLEVEL OF OBLIGATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 3,
+      "empty_cell_ratio": 0.1111,
+      "header_row": [
+        "GRADES OF RECOMMENDATION",
+        "",
+        "STRENGTH OF EVIDENCE"
+      ],
+      "header_signature": "b8946b894c74",
+      "continues_table_id": "tbl_8021491f9d00918a",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "GRADES OF RECOMMENDATION |  | STRENGTH OF EVIDENCE\nE | Theoretical/ foundational evidence | A preponderance of evidence from animal or cadaver studies, from conceptual models/ principles, or from basic sciences/bench research support this conclusion\nF | Expert opinion | Best practice based on the clinical experi ence of the guideline development group",
+      "rows": [
+        [
+          "GRADES OF RECOMMENDATION",
+          "",
+          "STRENGTH OF EVIDENCE"
+        ],
+        [
+          "E",
+          "Theoretical/ foundational evidence",
+          "A preponderance of evidence from animal or cadaver studies, from conceptual models/ principles, or from basic sciences/bench research support this conclusion"
+        ],
+        [
+          "F",
+          "Expert opinion",
+          "Best practice based on the clinical experi ence of the guideline development group"
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8c022fdc82325676",
+      "doc_name": "2021 APTA, Hip Fracture.pdf",
+      "doc_family": "JOSPT_APTA",
+      "doc_family_source": "filename_rule",
+      "organization": "JOSPT/APTA",
+      "year": 2021,
+      "page": 10,
+      "table_index": 0,
+      "bbox": [
+        36.25,
+        66.75,
+        553.25,
+        719.75
+      ],
+      "section_id": "4e8f8d5bdc8b981f",
+      "section_path": [
+        "Tool\nStrategy"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": null,
+      "footnote_candidates": [],
+      "n_rows": 3,
+      "n_cols": 6,
+      "empty_cell_ratio": 0.7778,
+      "header_row": [
+        "CLINICAL PRACTICE GUIDELINES Impairment/Function-Based Diagnosis PREVALENCE/INCIDENCE Globally, hip fracture incidence rates vary by 10-fold.46,135 The highest rates have been reported in Northern Europe, and the lowest were found in Africa and Latin America. The United States was found to have moderate risk compared to age-adjusted global rates.135 Rates in the United States were 8.1 and 6.2 per 1000 for women and men, respectively, in 2012.44 The incidence of hip fracture also varies in the same geographic area over time. By 2030, women in the United States are projected to have a 3.5% decreased incidence, while men will experience a 51.8% increased incidence.250 This represents a projected rise of 11.9%, from 258 000 cas es in 2010 to 289 000 cases in 2030 for those 65 years of age and older. A reported decreased incidence in hip fracture in women 65 years of age and older in the United States between 1995 and 2005, similar to a decrease in incidence rates in Europe, is not fully understood but may relate to initiation of sys tematic medical osteoporosis treatment. The incidence of Medicare hip fractures in the United States showed a steady decline, from 830 per 100 000 in 1996 to 620 per 100 000 by 2012.44 Despite a general decline, some populations have shown increased incidence of hip fracture, with a higher incidence in African-American/Asian women in the Unit ed States.73,278 The incidence increases exponentially with age.233 In the United States, prevalence was about 75% in women and 25% in men in 2010 (n = 186 000 and 72 000, respectively).238 PATHOANATOMIC FEATURES Hip fractures are fractures of the proximal femur (FIGURE 1). They are classified by location: (1) intracapsular, including the femoral neck, and (2) extracapsular, including the tro chanteric area (intertrochanteric fractures) and just distal to it (subtrochanteric fractures).213 Surgical treatment is highly location specific, with specialized implant devices for many different fracture patterns. Fractures of the femoral head are typically the result of high-energy fracture dislocations and are not included in this CPG.9 About half of all hip fractures in the United States are intertrochanteric, 37% are femoral neck, and 14% are subtrochanteric.39 Intertrochanteric frac tures are associated with poorer health status compared with femoral neck fractures,86 and their relative incidence increas es with age.137 Hip fractures may be nondisplaced, displaced, stable, unstable, or mixed patterns. Older adults were more likely to have trochanteric than femoral neck fractures,80 and more likely to have more severe fracture types, such as dis placed femoral neck and unstable intertrochanteric fractures. Low bone mineral density (BMD) and hip geometries are associated with nondisplaced femoral neck and stable inter trochanteric fractures.42 It is hypothesized that for those with low BMD, less force may be required for fracture to occur, perhaps resulting in less displacement.42 RISK FACTORS FOR HIP FRACTURE Individual risk factors for hip fracture in individuals 65 years of age and older have been extensively explored. In addition to reduced BMD,62 a range of other factors have been iden tified,39 including older age,233 female sex,34 low body mass index (BMI),62 ethnicity,54 being postmenopausal without FIGURE 1. Classification of hip fractures. Fractures in the blue area are intracapsular and those in the red and orange areas are extracapsular. Reproduced with permission from Parker M, Johansen A. Hip fracture. BMJ. 2006;333:27-30. https://doi.org/10.1136/bmj.333.7557.27. Copyright ©2006 BMJ Publishing Group Ltd.",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "header_signature": "4d603b5c56a8",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "CLINICAL PRACTICE GUIDELINES Impairment/Function-Based Diagnosis PREVALENCE/INCIDENCE Globally, hip fracture incidence rates vary by 10-fold.46,135 The highest rates have been reported in Northern Europe, and the lowest were found in Africa and Latin America. The United States was found to have moderate risk compared to age-adjusted global rates.135 Rates in the United States were 8.1 and 6.2 per 1000 for women and men, respectively, in 2012.44 The incidence of hip fracture also varies in the same geographic area over time. By 2030, women in the United States are projected to have a 3.5% decreased incidence, while men will experience a 51.8% increased incidence.250 This represents a projected rise of 11.9%, from 258 000 cas es in 2010 to 289 000 cases in 2030 for those 65 years of age and older. A reported decreased incidence in hip fracture in women 65 years of age and older in the United States between 1995 and 2005, similar to a decrease in incidence rates in Europe, is not fully understood but may relate to initiation of sys tematic medical osteoporosis treatment. The incidence of Medicare hip fractures in the United States showed a steady decline, from 830 per 100 000 in 1996 to 620 per 100 000 by 2012.44 Despite a general decline, some populations have shown increased incidence of hip fracture, with a higher incidence in African-American/Asian women in the Unit ed States.73,278 The incidence increases exponentially with age.233 In the United States, prevalence was about 75% in women and 25% in men in 2010 (n = 186 000 and 72 000, respectively).238 PATHOANATOMIC FEATURES Hip fractures are fractures of the proximal femur (FIGURE 1). They are classified by location: (1) intracapsular, including the femoral neck, and (2) extracapsular, including the tro chanteric area (intertrochanteric fractures) and just distal to it (subtrochanteric fractures).213 Surgical treatment is highly location specific, with specialized implant devices for many different fracture patterns. Fractures of the femoral head are typically the result of high-energy fracture dislocations and are not included in this CPG.9 About half of all hip fractures in the United States are intertrochanteric, 37% are femoral neck, and 14% are subtrochanteric.39 Intertrochanteric frac tures are associated with poorer health status compared with femoral neck fractures,86 and their relative incidence increas es with age.137 Hip fractures may be nondisplaced, displaced, stable, unstable, or mixed patterns. Older adults were more likely to have trochanteric than femoral neck fractures,80 and more likely to have more severe fracture types, such as dis placed femoral neck and unstable intertrochanteric fractures. Low bone mineral density (BMD) and hip geometries are associated with nondisplaced femoral neck and stable inter trochanteric fractures.42 It is hypothesized that for those with low BMD, less force may be required for fracture to occur, perhaps resulting in less displacement.42 RISK FACTORS FOR HIP FRACTURE Individual risk factors for hip fracture in individuals 65 years of age and older have been extensively explored. In addition to reduced BMD,62 a range of other factors have been iden tified,39 including older age,233 female sex,34 low body mass index (BMI),62 ethnicity,54 being postmenopausal without FIGURE 1. Classification of hip fractures. Fractures in the blue area are intracapsular and those in the red and orange areas are extracapsular. Reproduced with permission from Parker M, Johansen A. Hip fracture. BMJ. 2006;333:27-30. https://doi.org/10.1136/bmj.333.7557.27. Copyright ©2006 BMJ Publishing Group Ltd. |  |  |  |  | \n | 99 Europe, n of sys dence of a steady 100 000 ons have a higher he Unit ally with t 75% in 72 000, FIGURE 1). ncluding the tro distal to is highly or many head are ions and fractures femoral i f |  | FIGURE 1. Classification of hip fractures. Fractures in the blue area are intracapsular |  | \n |  |  | i p p and those in the red and orange areas are extracapsular. Reproduced with permission from Parker M, Johansen A. Hip fracture. BMJ. 2006;333:27-30. https://doi.org/10.1136/bmj.333.7557.27. Copyright ©2006 BMJ Publishing Group Ltd. |  |",
+      "rows": [
+        [
+          "CLINICAL PRACTICE GUIDELINES Impairment/Function-Based Diagnosis PREVALENCE/INCIDENCE Globally, hip fracture incidence rates vary by 10-fold.46,135 The highest rates have been reported in Northern Europe, and the lowest were found in Africa and Latin America. The United States was found to have moderate risk compared to age-adjusted global rates.135 Rates in the United States were 8.1 and 6.2 per 1000 for women and men, respectively, in 2012.44 The incidence of hip fracture also varies in the same geographic area over time. By 2030, women in the United States are projected to have a 3.5% decreased incidence, while men will experience a 51.8% increased incidence.250 This represents a projected rise of 11.9%, from 258 000 cas es in 2010 to 289 000 cases in 2030 for those 65 years of age and older. A reported decreased incidence in hip fracture in women 65 years of age and older in the United States between 1995 and 2005, similar to a decrease in incidence rates in Europe, is not fully understood but may relate to initiation of sys tematic medical osteoporosis treatment. The incidence of Medicare hip fractures in the United States showed a steady decline, from 830 per 100 000 in 1996 to 620 per 100 000 by 2012.44 Despite a general decline, some populations have shown increased incidence of hip fracture, with a higher incidence in African-American/Asian women in the Unit ed States.73,278 The incidence increases exponentially with age.233 In the United States, prevalence was about 75% in women and 25% in men in 2010 (n = 186 000 and 72 000, respectively).238 PATHOANATOMIC FEATURES Hip fractures are fractures of the proximal femur (FIGURE 1). They are classified by location: (1) intracapsular, including the femoral neck, and (2) extracapsular, including the tro chanteric area (intertrochanteric fractures) and just distal to it (subtrochanteric fractures).213 Surgical treatment is highly location specific, with specialized implant devices for many different fracture patterns. Fractures of the femoral head are typically the result of high-energy fracture dislocations and are not included in this CPG.9 About half of all hip fractures in the United States are intertrochanteric, 37% are femoral neck, and 14% are subtrochanteric.39 Intertrochanteric frac tures are associated with poorer health status compared with femoral neck fractures,86 and their relative incidence increas es with age.137 Hip fractures may be nondisplaced, displaced, stable, unstable, or mixed patterns. Older adults were more likely to have trochanteric than femoral neck fractures,80 and more likely to have more severe fracture types, such as dis placed femoral neck and unstable intertrochanteric fractures. Low bone mineral density (BMD) and hip geometries are associated with nondisplaced femoral neck and stable inter trochanteric fractures.42 It is hypothesized that for those with low BMD, less force may be required for fracture to occur, perhaps resulting in less displacement.42 RISK FACTORS FOR HIP FRACTURE Individual risk factors for hip fracture in individuals 65 years of age and older have been extensively explored. In addition to reduced BMD,62 a range of other factors have been iden tified,39 including older age,233 female sex,34 low body mass index (BMI),62 ethnicity,54 being postmenopausal without FIGURE 1. Classification of hip fractures. Fractures in the blue area are intracapsular and those in the red and orange areas are extracapsular. Reproduced with permission from Parker M, Johansen A. Hip fracture. BMJ. 2006;333:27-30. https://doi.org/10.1136/bmj.333.7557.27. Copyright ©2006 BMJ Publishing Group Ltd.",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "99 Europe, n of sys dence of a steady 100 000 ons have a higher he Unit ally with t 75% in 72 000, FIGURE 1). ncluding the tro distal to is highly or many head are ions and fractures femoral i f",
+          "",
+          "FIGURE 1. Classification of hip fractures. Fractures in the blue area are intracapsular",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "i p p and those in the red and orange areas are extracapsular. Reproduced with permission from Parker M, Johansen A. Hip fracture. BMJ. 2006;333:27-30. https://doi.org/10.1136/bmj.333.7557.27. Copyright ©2006 BMJ Publishing Group Ltd.",
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}

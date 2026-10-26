@@ -1,0 +1,1094 @@
+{
+  "schema_version": "2.3",
+  "document": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+  "doc_family": "IWGDF",
+  "doc_family_source": "filename_rule",
+  "organization": "International Working Group on the Diabetic Foot",
+  "year": 2023,
+  "table_count": 20,
+  "tables": [
+    {
+      "table_id": "tbl_f9058e59d75cfd21",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 3,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "ce04f23829af99e8",
+      "section_path": [
+        "ABSTRACT"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "These recommendations should help healthcare professionals to provide better care for persons with\ndiabetes at risk of foot ulceration, to increase the number of ulcer-free days and reduce the patient and\nhealthcare burden of diabetes-related foot disease.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_646a140277d5bcad",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 4,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "412e2dbb12fdaf25",
+      "section_path": [
+        "8. In a person with diabetes who is at risk of foot ulceration"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "(IWGDF risk 1-3), educate to wear footwear that accommodates the shape of the feet and that\nfits properly. (Strong; Low)",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_f9058e59d75cfd21",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_1d9913a2add95d5f",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 6,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "0ab39eb181a60b07",
+      "section_path": [
+        "INTRODUCTION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "The aim of this guideline is to provide evidence-based state-of-the-art recommendations for the\nprevention of foot ulcers in people with diabetes and includes a rationale of how we came to each\nrecommendation. This guideline is targeted at clinicians and other healthcare professionals in the field.\nThis guideline is part of the IWGDF Guidelines on the prevention and management of diabetes-related\nfoot disease (10-15), and updates and replaces our previous guideline (16). The rationale provided is\nbased on two systematic reviews of the literature (8, 9), together with a consideration of the des",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_8566aa5b2e695b77",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 7,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "9589bc7d558d44c7",
+      "section_path": [
+        "METHODS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "First, a multidisciplinary working group of independent international experts in preventing diabetesrelated foot ulcers (the authors of this guideline) was invited by the IWGDF Editorial Board to develop\nand write this guideline. International experts were defined as those having significant experience in\nclinical practice and/or studying the prevention of diabetes-related foot ulcers and published on the\ntopic in the previous four years. The working group comprised members from exercise and human\nmovement science, podiatry, podiatric surgery, and physical therapy disciplines from Europe, Nort",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_1d9913a2add95d5f",
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_92757bec4153e722",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 8,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "9589bc7d558d44c7",
+      "section_path": [
+        "METHODS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Finally, all recommendations, with their rationales, were collated into a consultation (draft) guideline\nmanuscript that was reviewed by the same clinical experts and persons with lived experience who\nreviewed the clinical questions, as well as by members of the IWGDF Editorial Board. The working\ngroup then collated, reviewed and discussed all feedback on the consultation manuscript and revised\naccordingly to produce the final guideline.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_8566aa5b2e695b77",
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_defdcf8672dbe163",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 9,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "b7d0e07bb46bcb60",
+      "section_path": [
+        "RESULTS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "We refer readers to the glossary at the end of this guideline for the definitions of the interventions\ndiscussed. Furthermore, many of the interventions recommended require specific training, skills,\nmaterials and equipment to apply properly. These aspects are discussed to only a limited extent in this\nguideline as they are often not described in the studies performed and may differ between centres and\ncountries, and are beyond the scope of the guideline. We suggest that the person applying the\nintervention should be a properly trained healthcare professional who according to their national or",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_92757bec4153e722",
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_75543af5e48ac33f",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 10,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "b5c21b3f484e31af",
+      "section_path": [
+        "1. IDENTIFYING THE AT-RISK FOOT"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Based on a meta-analysis (7), the quality of the evidence that LOPS and PAD are predictive of foot\nulceration is high. We suggest there are no undesirable effects associated with yearly foot screenings, the\ndesirable effects of foot screening outweigh the undesirable effects. We also suggest persons with\ndiabetes will value such yearly screenings as part of their regular diabetes check-ups. While foot",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_defdcf8672dbe163",
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_23f0a90e056a440d",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 11,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "417ccced184bb915",
+      "section_path": [
+        "2. REGULARLY INSPECTING AND EXAMINING THE AT-RISK FOOT"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Notwithstanding the lack of evidence, other factors that we suggest taking a history of are: presence of\nsocial isolation, poor access to healthcare and financial constraints, depression or similar psychological\ncomorbidities, frailty, foot pain (with walking or at rest) and numbness or claudication. We also suggest\nexamining the presence of ill-fitting, inadequate, or lack of footwear; abnormal skin colour, temperature",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_75543af5e48ac33f",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_4892567d461e0211",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 12,
+      "table_index": 0,
+      "bbox": [
+        73.02,
+        363.78,
+        523.34,
+        514.38
+      ],
+      "section_id": "077d5d7b8979f30f",
+      "section_path": [
+        "IWGDF Risk Stratification"
+      ],
+      "heading_level": 1,
+      "caption": "Table 1: The IWGDF Risk Stratification System and corresponding foot screening and examination\nfrequency",
+      "context_before": "Based on the findings of the screening, a person with diabetes can be stratified according to their risk for\nfoot ulceration (Table 1). The risk categories defined are based on a meta-analysis and a systematic\nreview of prospective risk factor studies on foot ulceration (7).",
+      "footnote_candidates": [
+        "Note: LOPS = Loss of protective sensation; PAD = peripheral artery disease. *: Screening frequency is based on expert\nopinion, since no evidence is available to support these intervals. When the screening interval is close to a regular diabetes\ncheck-up, consider screening the foot at that check-up.",
+        "A person with either LOPS or PAD, but no additional risk factors, is stratified as IWGDF risk 1, and is\nconsidered at low risk. This person should be screened once every 6-12 months. When a combination\nof risk factors is present, a person is stratified as IWGDF risk 2 and is considered to be at moderate risk.\nAs their risk is higher, this person should be screened every 3-6 months. All persons with either LOPS\nor PAD and a history of foot ulcer or lower-extremity amputation are stratified as IWGDF risk 3 and\nconsidered to be at high risk of ulceration. These persons should be screened once every 1-3 months.\nWe also regard persons with LOPS or PAD in combination with end-stage renal disease (29-31) as"
+      ],
+      "n_rows": 7,
+      "n_cols": 12,
+      "empty_cell_ratio": 0.8095,
+      "header_row": [
+        "",
+        "Category",
+        "",
+        "",
+        "Ulcer risk",
+        "",
+        "",
+        "Characteristics",
+        "",
+        "",
+        "Frequency*",
+        ""
+      ],
+      "header_signature": "967275cd375d",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| Category |  |  | Ulcer risk |  |  | Characteristics |  |  | Frequency* | \n | 0 |  |  | Very low |  |  | No LOPS and No PAD |  |  | once a year | \n1 Low LOPS or PAD once every 6-12 months |  |  |  |  |  |  |  |  |  |  | \n2 |  |  | Moderate |  |  |  | LOPS + PAD, or |  | once every 3-6 months |  | \n |  |  |  |  |  |  | LOPS + foot deformity or |  |  |  | \n |  |  |  |  |  |  | PAD + foot deformity |  |  |  | \n3 High LOPS or PAD, and one or more of the following: • history of a foot ulcer • a lower-extremity amputation (minor or major) • end-stage renal disease once every 1-3 months |  |  |  |  |  |  |  |  |  |  |",
+      "rows": [
+        [
+          "",
+          "Category",
+          "",
+          "",
+          "Ulcer risk",
+          "",
+          "",
+          "Characteristics",
+          "",
+          "",
+          "Frequency*",
+          ""
+        ],
+        [
+          "",
+          "0",
+          "",
+          "",
+          "Very low",
+          "",
+          "",
+          "No LOPS and No PAD",
+          "",
+          "",
+          "once a year",
+          ""
+        ],
+        [
+          "1 Low LOPS or PAD once every 6-12 months",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "2",
+          "",
+          "",
+          "Moderate",
+          "",
+          "",
+          "",
+          "LOPS + PAD, or",
+          "",
+          "once every 3-6 months",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "LOPS + foot deformity or",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "PAD + foot deformity",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "3 High LOPS or PAD, and one or more of the following: • history of a foot ulcer • a lower-extremity amputation (minor or major) • end-stage renal disease once every 1-3 months",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_a4e7dc55db168d45",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 12,
+      "table_index": 1,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "077d5d7b8979f30f",
+      "section_path": [
+        "IWGDF Risk Stratification"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "A person with either LOPS or PAD, but no additional risk factors, is stratified as IWGDF risk 1, and is\nconsidered at low risk. This person should be screened once every 6-12 months. When a combination\nof risk factors is present, a person is stratified as IWGDF risk 2 and is considered to be at moderate risk.\nAs their risk is higher, this person should be screened every 3-6 months. All persons with either LOPS\nor PAD and a history of foot ulcer or lower-extremity amputation are stratified as IWGDF risk 3 and\nconsidered to be at high risk of ulceration. These persons should be screened once eve",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_bef5c4106d530e71",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 13,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "077d5d7b8979f30f",
+      "section_path": [
+        "IWGDF Risk Stratification"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Because we found no evidence in the literature on the effect of examining the foot and on screening\ninterval for preventing a diabetes-related foot ulceration, we did not complete summary of judgement\ntables for this question.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_a4e7dc55db168d45",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_c4a9bf5be60da08b",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 16,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "2932f51fd0758b28",
+      "section_path": [
+        "3. EDUCATING THE PERSON WITH DIABETES, FAMILY AND HEALTHCARE PROVIDERS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "The summary of judgements for this clinical question is shown in the supplemental information.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_286dda181a12996a",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 22,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "fb598d09c6df52f3",
+      "section_path": [
+        "5. TREATING RISK FACTORS FOR ULCERATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "•\nIn a person with diabetes at risk of foot ulceration, should foot-related exercises be done?",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_9b95ecad6f901edc",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 23,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "fb598d09c6df52f3",
+      "section_path": [
+        "5. TREATING RISK FACTORS FOR ULCERATION"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Advising people with diabetes at low to moderate risk of foot ulceration (IWGDF risk 1 or 2) to\nperform foot-related exercises is based on low certainty of evidence (8). Any potential for harm is\noutweighed by both general health benefits of exercise and specific improvements to the complex\nmusculoskeletal deficits that develop with diabetes. Foot-related exercises are relatively easy to perform\nautonomously, are acceptable to people with diabetes, and feasible to execute. Minimal exercise\nequipment is required, for example elastic bands or exercise balls. As adherence may be a challenge, we\na",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_286dda181a12996a",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_27ea9487b7a81cc8",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 25,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "b6881cb60bb59f6e",
+      "section_path": [
+        "6. INTEGRATED FOOT CARE"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "While integrated foot care programs have been directly investigated in the controlled and noncontrolled studies found in our systematic review (9), none included all potential components of\nintegrated foot care. The effect of a state-of-the-art integrated foot care program that combines all\nrecommendations from this guideline is expected to be much stronger than that achieved by the",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_b9980088c55f3128",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 27,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "c1c44dabb19b02ee",
+      "section_path": [
+        "CONSIDERATIONS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "4. Probably the three most common preventative actions in daily clinical foot practice globally are foot\nscreening (recommendations 1 and 2), foot self-care (recommendations 3 and 4), and (structured)\neducation (recommendation 5). Despite the widespread application of these recommendations in",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_23f08ce789964d89",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 30,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "2ee835ba438186f4",
+      "section_path": [
+        "CONCLUDING REMARKS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "As part of quality improvement, we encourage our colleagues, both those working in primary care and\nin diabetes-related foot clinics, to consider developing forms of surveillance (e.g., registries, pathways) to\nmonitor and track the foot health outcomes of people with diabetes at risk of foot ulceration. We also\nencourage our research colleagues to consider our future research agenda to conduct properlydesigned studies in collaboration with clinicians (20) to address the gaps identified in the evidence base\nto better guide policy and practice decisions on the most effective treatment to help p",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_225ba9f4e9e104df",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 31,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "8c48b5fb030ff04f",
+      "section_path": [
+        "GLOSSARY"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "Foot self-care: Foot care interventions the person with diabetes can do at home, consisting of but not\nlimited to: foot inspection, washing of feet, careful drying between the toes, nail cutting, using emollients\nto lubricate skin, not using chemical agents or plasters to remove callus, footwear inspection, avoidance\nof walking barefoot or on socks only or in thin-soled slippers, avoidance of wearing tight socks, avoiding\nexposure to excessive cold and heat.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_23f08ce789964d89",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_712d007c3db4293b",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 34,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "9b9430b837c28d90",
+      "section_path": [
+        "AUTHOR CONTRIBUTIONS"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "SAB acted as chair of the working group and JvN as secretary and they take full responsibility for the\ncontent of the manuscript.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": null,
+      "continued_on_next_page": true,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "table_id": "tbl_a1001162fb8e57c7",
+      "doc_name": "2023 IWGDF foot ulcers in persons with diabetes.pdf",
+      "doc_family": "IWGDF",
+      "doc_family_source": "filename_rule",
+      "organization": "International Working Group on the Diabetic Foot",
+      "year": 2023,
+      "page": 35,
+      "table_index": 0,
+      "bbox": [
+        430.87,
+        773.81,
+        473.39,
+        816.33
+      ],
+      "section_id": "af845da6b44cc3ad",
+      "section_path": [
+        "REFERENCES"
+      ],
+      "heading_level": 1,
+      "caption": null,
+      "context_before": "(19)\nBus SA, Game F, Monteiro-Soares M, Van Netten JJ, Apelqvist J, Fitridge R, et al. Standards for the development\nand methodology of the 2023 International Working Group on the Diabetic Foot guidelines. Diab Metab Res Rev.\n2023;in press.",
+      "footnote_candidates": [],
+      "n_rows": 2,
+      "n_cols": 2,
+      "empty_cell_ratio": 0.75,
+      "header_row": [
+        "",
+        "IW"
+      ],
+      "header_signature": "f851e1596f07",
+      "continues_table_id": "tbl_712d007c3db4293b",
+      "continued_on_next_page": false,
+      "synthetic_from_positioned_text": false,
+      "cell_extraction": "page_text_clip",
+      "emitted_as_recommendation_chunks": false,
+      "quality_flags": [],
+      "text": "| IW\n |",
+      "rows": [
+        [
+          "",
+          "IW"
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  ]
+}
