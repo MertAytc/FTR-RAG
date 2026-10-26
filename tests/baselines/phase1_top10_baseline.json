@@ -1,0 +1,95 @@
+{
+  "source": "FTR_RAG_100_Benchmark_Questions.json",
+  "questions": [
+    {
+      "question_id": "FTR-001",
+      "query": "What is the core exercise approach in physiotherapy for reducing falls among community-dwelling older adults?",
+      "dense_top5": [
+        "3486d2d8fa1e99804bef2931",
+        "bba11fdb23eb9340f17a3668",
+        "80233cd93c05ba53cea1c39c",
+        "f5883ee64ddd99a8821de504",
+        "7d2a800df6f8164c8520da17"
+      ],
+      "bm25_top5": [
+        "b2cf4839116d12d5887da4bd",
+        "5d5d6f7b28ce059ffe2d062a",
+        "e5ee7bada04946dd2c5dd8e7",
+        "c706cc91ce3d3a49aa54240c",
+        "32ab5fdb997dff9d108068af"
+      ],
+      "rrf_top10": [
+        "3486d2d8fa1e99804bef2931",
+        "bba11fdb23eb9340f17a3668",
+        "80233cd93c05ba53cea1c39c",
+        "f5883ee64ddd99a8821de504",
+        "7d2a800df6f8164c8520da17",
+        "d7c94d43237eeaac27f3849a",
+        "4d04c8c2e8184b09a2137dbf",
+        "025803a5081b095e8e820d03",
+        "43240551500e61aa20c40f82",
+        "5f94eaf96fca68ea73e55ec8"
+      ]
+    },
+    {
+      "question_id": "FTR-002",
+      "query": "What are the key criteria for the clinical diagnosis of patellofemoral pain?",
+      "dense_top5": [
+        "9e08dea80017109cf231adbf",
+        "c07b659fe1afea82ac2589f3",
+        "47c815336e52c6f5214d27cc",
+        "aa2800fbe9e616262e64d06e",
+        "bba11fdb23eb9340f17a3668"
+      ],
+      "bm25_top5": [
+        "8bf636336a83243e926dcf40",
+        "b3c1b697d1c731f08c1702a0",
+        "c0c547648af519da63112eab",
+        "7a00d0fd7a51d4e1d0c2b96b",
+        "007748ba7f80f0d3ece13dd8"
+      ],
+      "rrf_top10": [
+        "9e08dea80017109cf231adbf",
+        "c07b659fe1afea82ac2589f3",
+        "47c815336e52c6f5214d27cc",
+        "aa2800fbe9e616262e64d06e",
+        "bba11fdb23eb9340f17a3668",
+        "9064a5b4f1da8c4d485219e6",
+        "4cec630b35758d12f3faba12",
+        "d7c94d43237eeaac27f3849a",
+        "d257b03428da33d60ffb07ef",
+        "24db2e7dded997603c52fc42"
+      ]
+    },
+    {
+      "question_id": "FTR-003",
+      "query": "What should a physical therapist do to screen for serious pathology in a patient with neck pain?",
+      "dense_top5": [
+        "2127fcc6fbd30b861fa35c79",
+        "7b4c10cb387971e652b4be57",
+        "aa2800fbe9e616262e64d06e",
+        "fcf39bf64d1bf0da22adcc53",
+        "9feff582c83f07c0bafa90cf"
+      ],
+      "bm25_top5": [
+        "59f7d939a73fbce080b63b92",
+        "77cf6254b5cbe3565a05cb5a",
+        "70cb154f4d8d19155128d253",
+        "059ba45a9659dca9da8a6bbc",
+        "227603db20c615bc03d11ca2"
+      ],
+      "rrf_top10": [
+        "2127fcc6fbd30b861fa35c79",
+        "7b4c10cb387971e652b4be57",
+        "aa2800fbe9e616262e64d06e",
+        "fcf39bf64d1bf0da22adcc53",
+        "9feff582c83f07c0bafa90cf",
+        "9e08dea80017109cf231adbf",
+        "76beb46e752454c1e71e24fc",
+        "9064a5b4f1da8c4d485219e6",
+        "47c815336e52c6f5214d27cc",
+        "c07b659fe1afea82ac2589f3"
+      ]
+    }
+  ]
+}

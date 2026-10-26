@@ -1,24 +1,20 @@
 from __future__ import annotations
 
 import os
+import logging
 from pathlib import Path
 from typing import List
 
 import ollama
 import torch
+from src.retrieval.config import EMBEDDING_MODEL, PROJECT_ROOT
+
+logger = logging.getLogger(__name__)
 
 
 # ============================================================
 # EMBEDDING MODEL
 # ============================================================
-
-EMBEDDING_MODEL = os.getenv(
-    "FTR_EMBEDDING_MODEL",
-    "qwen3-embedding:0.6b",
-)
-
-PROJECT_ROOT = Path(__file__).resolve().parents[2]
-
 
 # ============================================================
 # LOCAL HUGGING FACE MODELS
@@ -96,33 +92,24 @@ def _get_sentence_transformer(model_name: str):
         from sentence_transformers import SentenceTransformer
     except ImportError as exc:
         raise ImportError(
-            "BGE-M3 veya multilingual-e5-large kullanmak için "
-            "sentence-transformers kurulmalı:\n"
-            "pip install sentence-transformers"
+            "Install sentence-transformers to use BGE-M3 or multilingual-e5-large."
         ) from exc
 
     model_path = _resolve_hf_model_path(model_name)
-
     device = EMBEDDING_DEVICE
-
     if device == "cuda" and not torch.cuda.is_available():
-        print(
-            "UYARI: CUDA seçildi fakat PyTorch CUDA kullanamıyor. "
-            "CPU'ya geçiliyor."
-        )
+        logger.warning("CUDA was requested but is unavailable in PyTorch; using CPU.")
         device = "cpu"
 
-    print(f"Local embedding modeli yükleniyor: {model_path}")
-    print(f"Embedding device: {device}")
-
+    logger.info("Loading local embedding model: %s", model_path)
+    logger.info("Embedding device: %s", device)
     if device == "cuda":
-        print(f"GPU: {torch.cuda.get_device_name(0)}")
-        print(
-            f"CUDA kullanılabilir: {torch.cuda.is_available()} | "
-            f"VRAM: "
-            f"{torch.cuda.get_device_properties(0).total_memory / (1024**3):.1f} GB"
+        logger.info("GPU: %s", torch.cuda.get_device_name(0))
+        logger.info(
+            "CUDA available: %s | VRAM: %.1f GB",
+            torch.cuda.is_available(),
+            torch.cuda.get_device_properties(0).total_memory / (1024**3),
         )
-
         torch.set_float32_matmul_precision("high")
 
     _ST_MODEL = SentenceTransformer(
@@ -130,13 +117,8 @@ def _get_sentence_transformer(model_name: str):
         device=device,
         local_files_only=True,
     )
-
     _ST_MODEL_KEY = model_name
-
-    print(
-        f"Local embedding modeli hazır. Device: {device}"
-    )
-
+    logger.info("Local embedding model loaded on %s.", device)
     return _ST_MODEL
 
 
@@ -144,7 +126,8 @@ def _get_sentence_transformer(model_name: str):
 # instruction while indexed passages are embedded without that instruction.
 # This exact format follows the model's official retrieval example.
 QWEN3_EMBEDDING_QUERY_TASK = (
-    "Given a web search query, retrieve relevant passages that answer the query"
+    "Given an English physiotherapy or rehabilitation clinical question, "
+    "retrieve relevant passages from clinical practice guidelines that answer the question"
 )
 
 

@@ -3,6 +3,8 @@ from __future__ import annotations
 import re
 from typing import Any, Dict
 
+from src.retrieval.config import REFERENCE_PENALTY
+
 
 # Only strong bibliography signals are used here. Clinical chunks can legitimately
 # mention trials, years, authors, or journals, so those signals alone must not
@@ -13,6 +15,11 @@ _REFERENCE_PATTERNS = (
     re.compile(r"\bpmid\s*[:.]?\s*\d+", re.I),
     re.compile(r"^\s*references\s*$", re.I | re.M),
 )
+
+
+def normalize_chunk_id(value: Any) -> str:
+    """Return a canonical string form for chunk IDs."""
+    return str(value).strip()
 
 
 def infer_chunk_role(text: str, metadata: Dict[str, Any] | None = None) -> str:
@@ -28,7 +35,6 @@ def infer_chunk_role(text: str, metadata: Dict[str, Any] | None = None) -> str:
 
     section = str(metadata.get("section") or "").strip().lower()
     subsection = str(metadata.get("subsection") or "").strip().lower()
-
     if section == "references" or subsection == "references":
         return "reference"
 
@@ -68,5 +74,5 @@ def annotate_result(result: Dict[str, Any]) -> Dict[str, Any]:
     metadata = result.get("metadata") or {}
     role = infer_chunk_role(result.get("document", ""), metadata)
     result["chunk_role"] = role
-    result["reference_penalty"] = 0.25 if role == "reference" else 1.0
+    result["reference_penalty"] = REFERENCE_PENALTY if role == "reference" else 1.0
     return result
