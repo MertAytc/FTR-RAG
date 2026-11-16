@@ -12,7 +12,12 @@ import numpy as np
 from rank_bm25 import BM25Okapi
 
 from src.retrieval.config import CHUNKS_DIR, REFERENCE_PENALTY
-from src.retrieval.retrieval_utils import annotate_result, normalize_chunk_id
+from src.retrieval.retrieval_utils import (
+    all_searchable_metadata_values,
+    annotate_result,
+    normalize_chunk_id,
+    retrieval_metadata_values,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -71,16 +76,23 @@ class BM25Retriever:
         use_stemming: bool = True,
         title_fields: Sequence[str] = ("section_title", "title"),
         title_repeat: int = 0,
+        metadata_mode: str = "current",
     ):
         """
         reference_penalty: multiplier for bibliography/reference chunks.
         title_repeat: number of times to prepend the title/section to indexed
             text; 0 disables this BM25F approximation.
+        metadata_mode: ``"off"`` indexes chunk text only, ``"current"`` keeps
+            the existing concise source/section/table terms, and ``"full"``
+            also indexes the compact structured guideline/chunk metadata.
+            ``"all"`` indexes all semantic metadata values, including free text.
         """
         if not 0.0 < reference_penalty <= 1.0:
             raise ValueError("reference_penalty must be in the range (0, 1].")
         if title_repeat < 0:
             raise ValueError("title_repeat must be >= 0.")
+        if metadata_mode not in {"off", "current", "full", "all"}:
+            raise ValueError("metadata_mode must be 'off', 'current', 'full', or 'all'.")
 
         self.chunks_dir = Path(chunks_dir)
         self.reference_penalty = reference_penalty
@@ -89,6 +101,7 @@ class BM25Retriever:
         self.use_stemming = use_stemming
         self.title_fields = tuple(title_fields)
         self.title_repeat = title_repeat
+        self.metadata_mode = metadata_mode
 
         self.ids: List[str] = []
         self.documents: List[str] = []
@@ -112,20 +125,44 @@ class BM25Retriever:
     # ------------------------------------------------------------------
     # Index construction
     # ------------------------------------------------------------------
-    def _index_text(self, text: str, metadata: Optional[Dict[str, Any]]) -> str:
-        """Return indexed text, optionally boosting title/section terms."""
-        if self.title_repeat <= 0:
-            return text
+    @staticmethod
+    def _retrieval_terms(metadata: Optional[Dict[str, Any]]) -> str:
+        """Collect concise per-chunk metadata terms for BM25 matching."""
         metadata = metadata or {}
+        values: List[str] = []
+        for field in ("doc_name", "section_path", "table_caption", "chunk_title", "title"):
+            value = metadata.get(field)
+            if isinstance(value, (list, tuple)):
+                values.extend(str(item).strip() for item in value if str(item).strip())
+            elif value:
+                values.append(str(value).strip())
+        # Preserve first occurrence order while avoiding duplicated title terms.
+        return " ".join(dict.fromkeys(values))
+
+    def _index_text(self, text: str, metadata: Optional[Dict[str, Any]]) -> str:
+        """Index chunk text together with the selected metadata ablation."""
+        metadata = metadata or {}
+        retrieval_terms = ""
+        if self.metadata_mode in {"current", "full"}:
+            retrieval_terms = metadata.get("retrieval_terms") or self._retrieval_terms(metadata)
+        if self.metadata_mode == "full":
+            retrieval_terms = " ".join(
+                part for part in (retrieval_terms, *retrieval_metadata_values(metadata)) if part
+            )
+        elif self.metadata_mode == "all":
+            retrieval_terms = " ".join(
+                part for part in (retrieval_terms, *all_searchable_metadata_values(metadata)) if part
+            )
         title = ""
         for field in self.title_fields:
             value = metadata.get(field)
             if value:
                 title = str(value)
                 break
-        if not title:
-            return text
-        return " ".join([title] * self.title_repeat + [text])
+        title_prefix = [title] * self.title_repeat if title else []
+        if self.metadata_mode == "off":
+            retrieval_terms = ""
+        return " ".join(part for part in title_prefix + [text, str(retrieval_terms)] if part)
 
     def _precompute_annotations(self) -> Tuple[np.ndarray, List[str]]:
         penalties = np.ones(len(self.ids), dtype=np.float64)
@@ -176,7 +213,17 @@ class BM25Retriever:
 
                 self.ids.append(chunk_id)
                 self.documents.append(text)
-                self.metadatas.append(chunk.get("metadata") or {})
+                metadata = chunk.get("metadata") or {}
+                metadata = dict(metadata)
+                commented_text = chunk.get("commented_text")
+                if commented_text:
+                    metadata["commented_text"] = str(commented_text)
+                curated_terms = str(metadata.get("retrieval_terms") or "").strip()
+                derived_terms = self._retrieval_terms(metadata)
+                metadata["retrieval_terms"] = " ".join(
+                    dict.fromkeys(term for term in (curated_terms, derived_terms) if term)
+                )
+                self.metadatas.append(metadata)
 
         logger.info("BM25 total chunks: %d", len(self.documents))
 

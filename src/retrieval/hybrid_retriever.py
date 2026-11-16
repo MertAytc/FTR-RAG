@@ -5,6 +5,7 @@ from typing import Any, Dict, List, Set
 from src.retrieval import embedding
 from src.retrieval.bm25_retriever import BM25Retriever
 from src.retrieval.embedding import embed_texts
+from src.retrieval.metadata_retriever import MetadataRetriever
 from src.retrieval.query_processor import process_query
 from src.retrieval.retrieval_utils import annotate_result, normalize_chunk_id
 from src.retrieval.vector_store import (
@@ -28,6 +29,8 @@ class HybridRetriever:
         bm25_weight: float = 0.85,
         bm25_apply_reference_penalty: bool = True,
         rrf_quality_penalty: bool = True,
+        metadata_retriever: MetadataRetriever | None = None,
+        metadata_top_n: int = 10,
     ):
         if dense_weight <= 0 or bm25_weight <= 0:
             raise ValueError("RRF weights must be positive.")
@@ -40,6 +43,10 @@ class HybridRetriever:
         self.bm25_weight = bm25_weight
         self.bm25_apply_reference_penalty = bm25_apply_reference_penalty
         self.rrf_quality_penalty = rrf_quality_penalty
+        if metadata_top_n <= 0:
+            raise ValueError("metadata_top_n must be positive.")
+        self.metadata = metadata_retriever or MetadataRetriever()
+        self.metadata_top_n = metadata_top_n
 
         dense_ids = {normalize_chunk_id(value) for value in get_indexed_ids()}
         bm25_ids = {normalize_chunk_id(value) for value in self.bm25.ids}
@@ -159,6 +166,10 @@ class HybridRetriever:
         processed = process_query(query)
         dense_results = self._dense_retrieve(processed["rewritten_query"])
         bm25_results = self._bm25_retrieve(processed["expanded_query"])
+        # Keep document-level metadata results as a parallel retrieval signal.
+        # They are not fused into chunk RRF because document IDs and chunk IDs
+        # are different retrieval units.
+        metadata_results = self.metadata.search(query, n_results=self.metadata_top_n)
         fused_results = self._rrf_fusion(
             dense_results,
             bm25_results,
@@ -231,7 +242,9 @@ class HybridRetriever:
                     "bm25_weight": self.bm25_weight,
                     "bm25_apply_reference_penalty": self.bm25_apply_reference_penalty,
                     "rrf_quality_penalty": self.rrf_quality_penalty,
+                    "metadata_top_n": self.metadata_top_n,
                 },
+                "metadata_top": metadata_results,
             }
 
         return {
@@ -241,6 +254,7 @@ class HybridRetriever:
             "bm25_query": processed["expanded_query"],
             "dense_results": dense_results,
             "bm25_results": bm25_results,
+            "metadata_results": metadata_results,
             "results": fused_results[:n_results],
             "debug": debug,
         }
