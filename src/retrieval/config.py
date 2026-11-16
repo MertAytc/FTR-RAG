@@ -18,13 +18,17 @@ def _configured_path(name: str, default: Path) -> Path:
 
 CHUNKS_DIR = _configured_path(
     "FTR_CHUNKS_DIR",
-    PROJECT_ROOT / "data" / "processed" / "chunks",
+    PROJECT_ROOT / "data" / "processed" / "chunks_source_corrected_20261028",
 )
 VECTOR_DB_PATH = _configured_path(
     "FTR_VECTOR_DB_DIR",
-    PROJECT_ROOT / "data" / "processed" / "vector_db",
+    PROJECT_ROOT / "data" / "processed" / "vector_db_source_corrected_20261028",
 )
-COLLECTION_NAME = os.getenv("FTR_VECTOR_COLLECTION", "ftr_chunks").strip() or "ftr_chunks"
+# This corrected-source collection matches the 13,894 IDs in CHUNKS_DIR.
+# Set FTR_VECTOR_COLLECTION when using another explicitly matched index.
+COLLECTION_NAME = os.getenv(
+    "FTR_VECTOR_COLLECTION", "ftr_chunks_source_corrected_20261028"
+).strip() or "ftr_chunks_source_corrected_20261028"
 EMBEDDING_MODEL = os.getenv("FTR_EMBEDDING_MODEL", "qwen3-embedding:0.6b").strip()
 BENCHMARK_PATH = _configured_path(
     "FTR_BENCHMARK_PATH",
