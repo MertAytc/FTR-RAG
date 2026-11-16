@@ -1,0 +1,849 @@
+{
+  "judge_model": "gpt-6-luna",
+  "judge_endpoint": "OpenAI Responses API",
+  "reasoning_effort": "low",
+  "embedding_model": "text-embedding-3-small",
+  "embedding_endpoint": "OpenAI Embeddings API",
+  "metric_definitions": {
+    "faithfulness": "Response claims supported by retrieved contexts.",
+    "answer_relevancy": "How relevant the answer is to the question.",
+    "llm_context_precision_with_reference": "Ranking quality of retrieved contexts against the reference.",
+    "context_recall": "Reference information supported by retrieved contexts.",
+    "context_entity_recall": "Reference entities present in retrieved contexts.",
+    "factual_correctness_f1": "RAGAS factual correctness F1 against the reference.",
+    "semantic_similarity": "Embedding similarity of answer and reference.",
+    "noise_sensitivity_relevant": "Whether irrelevant context affects the answer to relevant claims."
+  },
+  "inputs": [
+    {
+      "input": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\first50_raw_text_embedding\\ragas_input_generation.jsonl",
+      "summary": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\ragas_scores_openai_20261031\\first50_raw_text_embedding_ragas_summary.json",
+      "metrics": {
+        "overall": {
+          "faithfulness": {
+            "n": 50,
+            "mean": 0.840992784992785,
+            "ci95": [
+              0.7740264069264069,
+              0.8991088744588746
+            ]
+          },
+          "answer_relevancy": {
+            "n": 50,
+            "mean": 0.670295725570655,
+            "ci95": [
+              0.5750065609117554,
+              0.7580694800883536
+            ]
+          },
+          "llm_context_precision_with_reference": {
+            "n": 50,
+            "mean": 0.7094966946339314,
+            "ci95": [
+              0.6152166810734303,
+              0.8002223015597466
+            ]
+          },
+          "context_recall": {
+            "n": 50,
+            "mean": 0.65,
+            "ci95": [
+              0.5365833333333334,
+              0.76
+            ]
+          },
+          "context_entity_recall": {
+            "n": 50,
+            "mean": 0.14480952324331178,
+            "ci95": [
+              0.07499880919571143,
+              0.22328690349055108
+            ]
+          },
+          "factual_correctness_f1": {
+            "n": 50,
+            "mean": 0.32839999999999997,
+            "ci95": [
+              0.23920000000000002,
+              0.4202
+            ]
+          },
+          "semantic_similarity": {
+            "n": 50,
+            "mean": 0.7214137960737681,
+            "ci95": [
+              0.6823076940676408,
+              0.7559530842197143
+            ]
+          },
+          "noise_sensitivity_relevant": {
+            "n": 50,
+            "mean": 0.37574630924630925,
+            "ci95": [
+              0.2843097943722944,
+              0.4724091658341657
+            ]
+          }
+        },
+        "by_evaluation_track": {
+          "excluded_invalid_gold": {
+            "faithfulness": {
+              "n": 1,
+              "mean": 1.0,
+              "ci95": [
+                1.0,
+                1.0
+              ]
+            },
+            "answer_relevancy": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 1,
+              "mean": 0.9999999999,
+              "ci95": [
+                0.9999999999,
+                0.9999999999
+              ]
+            },
+            "context_recall": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "context_entity_recall": {
+              "n": 1,
+              "mean": 0.6666666644444444,
+              "ci95": [
+                0.6666666644444444,
+                0.6666666644444444
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "semantic_similarity": {
+              "n": 1,
+              "mean": 0.6710677298889822,
+              "ci95": [
+                0.6710677298889822,
+                0.6710677298889822
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "metadata_attribution": {
+            "faithfulness": {
+              "n": 5,
+              "mean": 0.7777777777777778,
+              "ci95": [
+                0.5333333333333333,
+                0.9777777777777779
+              ]
+            },
+            "answer_relevancy": {
+              "n": 5,
+              "mean": 0.4112053524752791,
+              "ci95": [
+                0.1583244618931608,
+                0.6640862430573973
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 5,
+              "mean": 0.3410621847172136,
+              "ci95": [
+                0.12934920634204794,
+                0.5527751630923794
+              ]
+            },
+            "context_recall": {
+              "n": 5,
+              "mean": 0.3666666666666666,
+              "ci95": [
+                0.16666666666666666,
+                0.5333333333333334
+              ]
+            },
+            "context_entity_recall": {
+              "n": 5,
+              "mean": 0.49476190325645125,
+              "ci95": [
+                0.19999999958333334,
+                0.8047619014614513
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 5,
+              "mean": 0.16,
+              "ci95": [
+                0.0,
+                0.39999999999999997
+              ]
+            },
+            "semantic_similarity": {
+              "n": 5,
+              "mean": 0.501278030570888,
+              "ci95": [
+                0.32854112696323756,
+                0.6184572511909399
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 5,
+              "mean": 0.45555555555555555,
+              "ci95": [
+                0.15,
+                0.7611111111111111
+              ]
+            }
+          },
+          "pending_gold": {
+            "faithfulness": {
+              "n": 5,
+              "mean": 0.6647619047619047,
+              "ci95": [
+                0.32,
+                0.9047619047619048
+              ]
+            },
+            "answer_relevancy": {
+              "n": 5,
+              "mean": 0.2792244038134647,
+              "ci95": [
+                0.0,
+                0.6442465684559605
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 5,
+              "mean": 0.11666666665499999,
+              "ci95": [
+                0.0,
+                0.24999999997499994
+              ]
+            },
+            "context_recall": {
+              "n": 5,
+              "mean": 0.1,
+              "ci95": [
+                0.0,
+                0.3
+              ]
+            },
+            "context_entity_recall": {
+              "n": 5,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 5,
+              "mean": 0.45199999999999996,
+              "ci95": [
+                0.18,
+                0.76
+              ]
+            },
+            "semantic_similarity": {
+              "n": 5,
+              "mean": 0.6926272834158771,
+              "ci95": [
+                0.5758412876845583,
+                0.7970768620040071
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 5,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "retrieval": {
+            "faithfulness": {
+              "n": 39,
+              "mean": 0.8676138676138677,
+              "ci95": [
+                0.8048226773226774,
+                0.9229052891552892
+              ]
+            },
+            "answer_relevancy": {
+              "n": 39,
+              "mean": 0.7708368588997189,
+              "ci95": [
+                0.6852463645366317,
+                0.8434100575243845
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 39,
+              "mean": 0.8252869352547564,
+              "ci95": [
+                0.7453763735978786,
+                0.8960113959718029
+              ]
+            },
+            "context_recall": {
+              "n": 39,
+              "mean": 0.7735042735042735,
+              "ci95": [
+                0.6538461538461539,
+                0.8760683760683762
+              ]
+            },
+            "context_entity_recall": {
+              "n": 39,
+              "mean": 0.1051282046522792,
+              "ci95": [
+                0.04102564090913462,
+                0.18205128099896725
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 39,
+              "mean": 0.3425641025641025,
+              "ci95": [
+                0.238198717948718,
+                0.451025641025641
+              ]
+            },
+            "semantic_similarity": {
+              "n": 39,
+              "mean": 0.754617833432451,
+              "ci95": [
+                0.7239530237566834,
+                0.7850327812961233
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 39,
+              "mean": 0.42332147909070994,
+              "ci95": [
+                0.32521950271950273,
+                0.5239763334955642
+              ]
+            }
+          }
+        },
+        "question_count": 50,
+        "metric_scored_counts": {
+          "faithfulness": 50,
+          "answer_relevancy": 50,
+          "llm_context_precision_with_reference": 50,
+          "context_recall": 50,
+          "context_entity_recall": 50,
+          "factual_correctness_f1": 50,
+          "semantic_similarity": 50,
+          "noise_sensitivity_relevant": 50
+        },
+        "metric_error_counts": {
+          "faithfulness": 0,
+          "answer_relevancy": 0,
+          "llm_context_precision_with_reference": 0,
+          "context_recall": 0,
+          "context_entity_recall": 0,
+          "factual_correctness_f1": 0,
+          "semantic_similarity": 0,
+          "noise_sensitivity_relevant": 0
+        }
+      }
+    },
+    {
+      "input": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\first50_commented_text_embedding\\ragas_input_generation.jsonl",
+      "summary": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\ragas_scores_openai_20261031\\first50_commented_text_embedding_ragas_summary.json",
+      "metrics": {
+        "overall": {
+          "faithfulness": {
+            "n": 50,
+            "mean": 0.8188689643689642,
+            "ci95": [
+              0.7499463203463202,
+              0.8834092532467532
+            ]
+          },
+          "answer_relevancy": {
+            "n": 50,
+            "mean": 0.6427317734134762,
+            "ci95": [
+              0.5443340256478915,
+              0.7332543472550659
+            ]
+          },
+          "llm_context_precision_with_reference": {
+            "n": 50,
+            "mean": 0.706616841861912,
+            "ci95": [
+              0.6005541841653529,
+              0.8045646549348303
+            ]
+          },
+          "context_recall": {
+            "n": 50,
+            "mean": 0.68,
+            "ci95": [
+              0.5666666666666668,
+              0.7833333333333334
+            ]
+          },
+          "context_entity_recall": {
+            "n": 50,
+            "mean": 0.19033333243850004,
+            "ci95": [
+              0.11166666605840278,
+              0.2786749988549068
+            ]
+          },
+          "factual_correctness_f1": {
+            "n": 50,
+            "mean": 0.32580000000000003,
+            "ci95": [
+              0.24480000000000005,
+              0.41060499999999994
+            ]
+          },
+          "semantic_similarity": {
+            "n": 50,
+            "mean": 0.7185236966600707,
+            "ci95": [
+              0.6795028927787364,
+              0.7530383388817605
+            ]
+          },
+          "noise_sensitivity_relevant": {
+            "n": 50,
+            "mean": 0.41823784059078173,
+            "ci95": [
+              0.32202731729055256,
+              0.5154418003565062
+            ]
+          }
+        },
+        "by_evaluation_track": {
+          "excluded_invalid_gold": {
+            "faithfulness": {
+              "n": 1,
+              "mean": 1.0,
+              "ci95": [
+                1.0,
+                1.0
+              ]
+            },
+            "answer_relevancy": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "context_recall": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "context_entity_recall": {
+              "n": 1,
+              "mean": 0.3333333322222222,
+              "ci95": [
+                0.3333333322222222,
+                0.3333333322222222
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "semantic_similarity": {
+              "n": 1,
+              "mean": 0.6710677298889822,
+              "ci95": [
+                0.6710677298889822,
+                0.6710677298889822
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 1,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            }
+          },
+          "metadata_attribution": {
+            "faithfulness": {
+              "n": 5,
+              "mean": 0.5916666666666667,
+              "ci95": [
+                0.3583333333333333,
+                0.825
+              ]
+            },
+            "answer_relevancy": {
+              "n": 5,
+              "mean": 0.412861793758282,
+              "ci95": [
+                0.15679324221595947,
+                0.6689303453006046
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 5,
+              "mean": 0.42537476807368685,
+              "ci95": [
+                0.20077777776990507,
+                0.6017398474277817
+              ]
+            },
+            "context_recall": {
+              "n": 5,
+              "mean": 0.39999999999999997,
+              "ci95": [
+                0.2,
+                0.5666666666666667
+              ]
+            },
+            "context_entity_recall": {
+              "n": 5,
+              "mean": 0.4066666652255556,
+              "ci95": [
+                0.229999999465,
+                0.7066666634755556
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 5,
+              "mean": 0.17400000000000002,
+              "ci95": [
+                0.0,
+                0.442
+              ]
+            },
+            "semantic_similarity": {
+              "n": 5,
+              "mean": 0.501315122103882,
+              "ci95": [
+                0.3285606461293725,
+                0.6185138618900686
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 5,
+              "mean": 0.5166666666666667,
+              "ci95": [
+                0.19999999999999998,
+                0.8333333333333333
+              ]
+            }
+          },
+          "pending_gold": {
+            "faithfulness": {
+              "n": 5,
+              "mean": 0.9714285714285715,
+              "ci95": [
+                0.9142857142857143,
+                1.0
+              ]
+            },
+            "answer_relevancy": {
+              "n": 5,
+              "mean": 0.2732171720273378,
+              "ci95": [
+                0.0,
+                0.6381475975597586
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 5,
+              "mean": 0.11666666666083332,
+              "ci95": [
+                0.0,
+                0.3499999999825
+              ]
+            },
+            "context_recall": {
+              "n": 5,
+              "mean": 0.3,
+              "ci95": [
+                0.1,
+                0.5
+              ]
+            },
+            "context_entity_recall": {
+              "n": 5,
+              "mean": 0.0,
+              "ci95": [
+                0.0,
+                0.0
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 5,
+              "mean": 0.32199999999999995,
+              "ci95": [
+                0.15,
+                0.472
+              ]
+            },
+            "semantic_similarity": {
+              "n": 5,
+              "mean": 0.6925907281721237,
+              "ci95": [
+                0.575731621953298,
+                0.7970768620040071
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 5,
+              "mean": 0.08571428571428572,
+              "ci95": [
+                0.0,
+                0.2571428571428571
+              ]
+            }
+          },
+          "retrieval": {
+            "faithfulness": {
+              "n": 39,
+              "mean": 0.8237941545633853,
+              "ci95": [
+                0.7448842823842824,
+                0.8923063688448303
+              ]
+            },
+            "answer_relevancy": {
+              "n": 39,
+              "mean": 0.736056252352454,
+              "ci95": [
+                0.6424507786102132,
+                0.8184368644644748
+              ]
+            },
+            "llm_context_precision_with_reference": {
+              "n": 39,
+              "mean": 0.8364265363954616,
+              "ci95": [
+                0.7427885887010478,
+                0.9155650945935874
+              ]
+            },
+            "context_recall": {
+              "n": 39,
+              "mean": 0.782051282051282,
+              "ci95": [
+                0.6623931623931624,
+                0.8888888888888888
+              ]
+            },
+            "context_entity_recall": {
+              "n": 39,
+              "mean": 0.18333333239935895,
+              "ci95": [
+                0.09273504243810542,
+                0.2846153830386752
+              ]
+            },
+            "factual_correctness_f1": {
+              "n": 39,
+              "mean": 0.35410256410256413,
+              "ci95": [
+                0.2566602564102564,
+                0.4523076923076923
+              ]
+            },
+            "semantic_similarity": {
+              "n": 39,
+              "mean": 0.7509125090188339,
+              "ci95": [
+                0.7195154102327508,
+                0.7816369926005016
+              ]
+            },
+            "noise_sensitivity_relevant": {
+              "n": 39,
+              "mean": 0.45897403250344426,
+              "ci95": [
+                0.35392379679144387,
+                0.5625047011811717
+              ]
+            }
+          }
+        },
+        "question_count": 50,
+        "metric_scored_counts": {
+          "faithfulness": 50,
+          "answer_relevancy": 50,
+          "llm_context_precision_with_reference": 50,
+          "context_recall": 50,
+          "context_entity_recall": 50,
+          "factual_correctness_f1": 50,
+          "semantic_similarity": 50,
+          "noise_sensitivity_relevant": 50
+        },
+        "metric_error_counts": {
+          "faithfulness": 0,
+          "answer_relevancy": 0,
+          "llm_context_precision_with_reference": 0,
+          "context_recall": 0,
+          "context_entity_recall": 0,
+          "factual_correctness_f1": 0,
+          "semantic_similarity": 0,
+          "noise_sensitivity_relevant": 0
+        }
+      }
+    }
+  ],
+  "judge_usage_this_process": {
+    "calls": 173,
+    "input_tokens": 217156,
+    "cached_input_tokens": 0,
+    "output_tokens": 71402,
+    "reasoning_tokens": 9285,
+    "estimated_cost_usd": 0.057416600000000005
+  },
+  "judge_usage_total_in_usage_log": {
+    "calls": 3475,
+    "input_tokens": 4512854,
+    "cached_input_tokens": 417403,
+    "output_tokens": 897331,
+    "reasoning_tokens": 179093,
+    "estimated_cost_usd": 0.862384629999999
+  },
+  "usage_log": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\ragas_scores_openai_20261031\\openai_usage.jsonl",
+  "embedding_usage_this_process": {
+    "calls": 0,
+    "input_tokens": 0,
+    "estimated_cost_usd": 0.0
+  },
+  "embedding_usage_total_in_usage_log": {
+    "calls": 404,
+    "input_count": 606,
+    "input_tokens": 25796,
+    "estimated_cost_usd": 0.0005159199999999996
+  },
+  "embedding_usage_log": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\ragas_scores_openai_20261031\\openai_embedding_usage.jsonl",
+  "confidence_intervals": {
+    "method": "question-level bootstrap mean, 95% percentile interval",
+    "repetitions": 10000,
+    "seed": 20261030
+  },
+  "paired_second_minus_first": {
+    "faithfulness": {
+      "n": 50,
+      "mean": -0.022123820623820633,
+      "ci95": [
+        -0.08174978354978354,
+        0.0436705697080697
+      ],
+      "comparison": "second input minus first input"
+    },
+    "answer_relevancy": {
+      "n": 50,
+      "mean": -0.027563952157178856,
+      "ci95": [
+        -0.06598723629788537,
+        -0.0026115200135430378
+      ],
+      "comparison": "second input minus first input"
+    },
+    "llm_context_precision_with_reference": {
+      "n": 50,
+      "mean": -0.0028798527720193313,
+      "ci95": [
+        -0.06444028790053928,
+        0.04816400931168987
+      ],
+      "comparison": "second input minus first input"
+    },
+    "context_recall": {
+      "n": 50,
+      "mean": 0.03,
+      "ci95": [
+        -0.01333333333333333,
+        0.07666666666666666
+      ],
+      "comparison": "second input minus first input"
+    },
+    "context_entity_recall": {
+      "n": 50,
+      "mean": 0.04552380919518821,
+      "ci95": [
+        -0.017572619258257965,
+        0.11719047551032712
+      ],
+      "comparison": "second input minus first input"
+    },
+    "factual_correctness_f1": {
+      "n": 50,
+      "mean": -0.0026000000000000034,
+      "ci95": [
+        -0.043600000000000014,
+        0.0388
+      ],
+      "comparison": "second input minus first input"
+    },
+    "semantic_similarity": {
+      "n": 50,
+      "mean": -0.002890099413697409,
+      "ci95": [
+        -0.006601520400727831,
+        0.00040402801034039945
+      ],
+      "comparison": "second input minus first input"
+    },
+    "noise_sensitivity_relevant": {
+      "n": 50,
+      "mean": 0.04249153134447252,
+      "ci95": [
+        -0.02108531321619557,
+        0.10697576867576866
+      ],
+      "comparison": "second input minus first input"
+    }
+  },
+  "paired_order": [
+    "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\first50_raw_text_embedding\\ragas_input_generation.jsonl",
+    "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\first50_commented_text_embedding\\ragas_input_generation.jsonl"
+  ]
+}

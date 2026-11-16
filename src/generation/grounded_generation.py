@@ -33,6 +33,7 @@ STRICT RULES:
 17. Answer in precise clinical English.
 18. Use at most 4 short bullets.
 19. Do not interpret corrupted or unclear extracted text as clinical fact.
+20. For document metadata sources, treat `catalog_year` only as the corpus-recorded year. Do not call it a publication, revision, or file date unless a passage explicitly makes that connection. Keep metadata attached to the document name shown in the same source.
 """
 SYSTEM_PROMPT = ENGLISH_SYSTEM_PROMPT
 INSUFFICIENT_EVIDENCE_TEXT = "The available sources do not contain enough information to answer this question reliably. I will not guess information that is not present in the sources."
@@ -56,10 +57,19 @@ def is_out_of_scope(query: str) -> bool:
     return any(re.search(pattern, normalized) for pattern in patterns)
 
 
-def build_english_prompt(english_query: str, context_text: str) -> str:
+def build_english_prompt(
+    english_query: str,
+    context_text: str,
+    expected_behavior: str | None = None,
+) -> str:
+    behavior_block = (
+        f"\n\nEXPECTED RESPONSE BEHAVIOR:\n{expected_behavior}"
+        if expected_behavior
+        else ""
+    )
     return (
         f"{ENGLISH_SYSTEM_PROMPT}\n\n"
-        f"CLINICAL QUESTION:\n{english_query}\n\n"
+        f"CLINICAL QUESTION:\n{english_query}{behavior_block}\n\n"
         f"CONTEXT:\n{context_text}\n\n"
         "Answer the clinical question using only the context."
     )
@@ -84,6 +94,7 @@ def generate_grounded_answer(
     context_result: Dict,
     model: str = GENERATION_MODEL,
     english_query: str | None = None,
+    expected_behavior: str | None = None,
 ) -> GenerationResult:
     sources = context_result.get("sources", [])
     context_text = context_result.get("context_text", "")
@@ -102,12 +113,17 @@ def generate_grounded_answer(
         # Questions are supplied in English by the benchmark/user.
         english_query = query.strip()
 
-    prompt = build_english_prompt(english_query, context_text)
+    prompt = build_english_prompt(english_query, context_text, expected_behavior)
+    behavior_block = (
+        f"\n\nEXPECTED RESPONSE BEHAVIOR:\n{expected_behavior}"
+        if expected_behavior
+        else ""
+    )
     response = ollama.chat(
         model=model,
         messages=[
             {"role": "system", "content": ENGLISH_SYSTEM_PROMPT},
-            {"role": "user", "content": f"CLINICAL QUESTION:\n{english_query}\n\nCONTEXT:\n{context_text}\n\nAnswer only from the context."},
+            {"role": "user", "content": f"CLINICAL QUESTION:\n{english_query}{behavior_block}\n\nCONTEXT:\n{context_text}\n\nAnswer only from the context."},
         ],
         think=False,
         options={"temperature": 0.0, "num_predict": 300},

@@ -20,6 +20,8 @@ BATCH_SIZE = int(os.getenv("FTR_INDEXER_BATCH_SIZE", "32"))
 
 METADATA_FIELDS = [
     "document_id",
+    "source_id",
+    "doc_name",
     "title",
     "organization",
     "year",
@@ -30,6 +32,50 @@ METADATA_FIELDS = [
     "subsection",
     "page",
     "source_type",
+    "guideline_metadata_attached",
+    "guideline_title",
+    "guideline_source_authority",
+    "guideline_filename_year",
+    "guideline_version",
+    "guideline_publication_date",
+    "guideline_last_updated",
+    "guideline_diseases_mentioned",
+    "guideline_diseases_covered",
+    "guideline_conditions_covered",
+    "guideline_target_population",
+    "guideline_age_group",
+    "guideline_clinical_phase",
+    "guideline_treatment_context",
+    "guideline_injury_context",
+    "guideline_summary",
+    "chunk_diseases",
+    "chunk_conditions",
+    "chunk_interventions",
+    "chunk_population",
+    "chunk_clinical_phase",
+    "chunk_recommendation_status",
+    "recommendation_id",
+    "recommendation_strength",
+    "evidence_level",
+    "chunk_contraindications",
+    "chunk_adverse_effects",
+    "chunk_clinical_warnings",
+    "table_id",
+    "table_chunk_group_id",
+    "table_part_index",
+    "table_part_count",
+    "table_origin_id",
+    "context_before_chunk_ids",
+    "context_after_chunk_ids",
+    "related_text_chunk_ids",
+    "parent_section_id",
+    "relation_evidence_pages",
+    "commented_text",
+    "section_path",
+    "section_id",
+    "page_start",
+    "page_end",
+    "chunk_type",
 ]
 
 
@@ -100,10 +146,14 @@ def load_chunks() -> List[Dict[str, Any]]:
                 continue
             seen_ids.add(chunk_id)
 
+            metadata = clean_metadata(chunk.get("metadata") or {})
+            commented_text = chunk.get("commented_text")
+            if commented_text:
+                metadata["commented_text"] = str(commented_text)
             all_chunks.append({
                 "id": chunk_id,
                 "text": text,
-                "metadata": clean_metadata(chunk.get("metadata") or {}),
+                "metadata": metadata,
             })
 
     logger.info("Unique chunks loaded: %d", len(all_chunks))

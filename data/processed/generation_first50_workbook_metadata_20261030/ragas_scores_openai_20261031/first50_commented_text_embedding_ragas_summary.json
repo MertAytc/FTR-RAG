@@ -1,0 +1,373 @@
+{
+  "input": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\first50_commented_text_embedding\\ragas_input_generation.jsonl",
+  "output": "C:\\Users\\merta\\FTR-RAG\\data\\processed\\generation_first50_workbook_metadata_20261030\\ragas_scores_openai_20261031\\first50_commented_text_embedding_ragas_scores.jsonl",
+  "judge_model": "gpt-6-luna",
+  "judge_endpoint": "OpenAI Responses API",
+  "reasoning_effort": "low",
+  "embedding_model": "text-embedding-3-small",
+  "metrics": [
+    "faithfulness",
+    "answer_relevancy",
+    "llm_context_precision_with_reference",
+    "context_recall",
+    "context_entity_recall",
+    "factual_correctness_f1",
+    "semantic_similarity",
+    "noise_sensitivity_relevant"
+  ],
+  "summary": {
+    "overall": {
+      "faithfulness": {
+        "n": 50,
+        "mean": 0.8188689643689642,
+        "ci95": [
+          0.7499463203463202,
+          0.8834092532467532
+        ]
+      },
+      "answer_relevancy": {
+        "n": 50,
+        "mean": 0.6427317734134762,
+        "ci95": [
+          0.5443340256478915,
+          0.7332543472550659
+        ]
+      },
+      "llm_context_precision_with_reference": {
+        "n": 50,
+        "mean": 0.706616841861912,
+        "ci95": [
+          0.6005541841653529,
+          0.8045646549348303
+        ]
+      },
+      "context_recall": {
+        "n": 50,
+        "mean": 0.68,
+        "ci95": [
+          0.5666666666666668,
+          0.7833333333333334
+        ]
+      },
+      "context_entity_recall": {
+        "n": 50,
+        "mean": 0.19033333243850004,
+        "ci95": [
+          0.11166666605840278,
+          0.2786749988549068
+        ]
+      },
+      "factual_correctness_f1": {
+        "n": 50,
+        "mean": 0.32580000000000003,
+        "ci95": [
+          0.24480000000000005,
+          0.41060499999999994
+        ]
+      },
+      "semantic_similarity": {
+        "n": 50,
+        "mean": 0.7185236966600707,
+        "ci95": [
+          0.6795028927787364,
+          0.7530383388817605
+        ]
+      },
+      "noise_sensitivity_relevant": {
+        "n": 50,
+        "mean": 0.41823784059078173,
+        "ci95": [
+          0.32202731729055256,
+          0.5154418003565062
+        ]
+      }
+    },
+    "by_evaluation_track": {
+      "excluded_invalid_gold": {
+        "faithfulness": {
+          "n": 1,
+          "mean": 1.0,
+          "ci95": [
+            1.0,
+            1.0
+          ]
+        },
+        "answer_relevancy": {
+          "n": 1,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "llm_context_precision_with_reference": {
+          "n": 1,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "context_recall": {
+          "n": 1,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "context_entity_recall": {
+          "n": 1,
+          "mean": 0.3333333322222222,
+          "ci95": [
+            0.3333333322222222,
+            0.3333333322222222
+          ]
+        },
+        "factual_correctness_f1": {
+          "n": 1,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "semantic_similarity": {
+          "n": 1,
+          "mean": 0.6710677298889822,
+          "ci95": [
+            0.6710677298889822,
+            0.6710677298889822
+          ]
+        },
+        "noise_sensitivity_relevant": {
+          "n": 1,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "metadata_attribution": {
+        "faithfulness": {
+          "n": 5,
+          "mean": 0.5916666666666667,
+          "ci95": [
+            0.3583333333333333,
+            0.825
+          ]
+        },
+        "answer_relevancy": {
+          "n": 5,
+          "mean": 0.412861793758282,
+          "ci95": [
+            0.15679324221595947,
+            0.6689303453006046
+          ]
+        },
+        "llm_context_precision_with_reference": {
+          "n": 5,
+          "mean": 0.42537476807368685,
+          "ci95": [
+            0.20077777776990507,
+            0.6017398474277817
+          ]
+        },
+        "context_recall": {
+          "n": 5,
+          "mean": 0.39999999999999997,
+          "ci95": [
+            0.2,
+            0.5666666666666667
+          ]
+        },
+        "context_entity_recall": {
+          "n": 5,
+          "mean": 0.4066666652255556,
+          "ci95": [
+            0.229999999465,
+            0.7066666634755556
+          ]
+        },
+        "factual_correctness_f1": {
+          "n": 5,
+          "mean": 0.17400000000000002,
+          "ci95": [
+            0.0,
+            0.442
+          ]
+        },
+        "semantic_similarity": {
+          "n": 5,
+          "mean": 0.501315122103882,
+          "ci95": [
+            0.3285606461293725,
+            0.6185138618900686
+          ]
+        },
+        "noise_sensitivity_relevant": {
+          "n": 5,
+          "mean": 0.5166666666666667,
+          "ci95": [
+            0.19999999999999998,
+            0.8333333333333333
+          ]
+        }
+      },
+      "pending_gold": {
+        "faithfulness": {
+          "n": 5,
+          "mean": 0.9714285714285715,
+          "ci95": [
+            0.9142857142857143,
+            1.0
+          ]
+        },
+        "answer_relevancy": {
+          "n": 5,
+          "mean": 0.2732171720273378,
+          "ci95": [
+            0.0,
+            0.6381475975597586
+          ]
+        },
+        "llm_context_precision_with_reference": {
+          "n": 5,
+          "mean": 0.11666666666083332,
+          "ci95": [
+            0.0,
+            0.3499999999825
+          ]
+        },
+        "context_recall": {
+          "n": 5,
+          "mean": 0.3,
+          "ci95": [
+            0.1,
+            0.5
+          ]
+        },
+        "context_entity_recall": {
+          "n": 5,
+          "mean": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "factual_correctness_f1": {
+          "n": 5,
+          "mean": 0.32199999999999995,
+          "ci95": [
+            0.15,
+            0.472
+          ]
+        },
+        "semantic_similarity": {
+          "n": 5,
+          "mean": 0.6925907281721237,
+          "ci95": [
+            0.575731621953298,
+            0.7970768620040071
+          ]
+        },
+        "noise_sensitivity_relevant": {
+          "n": 5,
+          "mean": 0.08571428571428572,
+          "ci95": [
+            0.0,
+            0.2571428571428571
+          ]
+        }
+      },
+      "retrieval": {
+        "faithfulness": {
+          "n": 39,
+          "mean": 0.8237941545633853,
+          "ci95": [
+            0.7448842823842824,
+            0.8923063688448303
+          ]
+        },
+        "answer_relevancy": {
+          "n": 39,
+          "mean": 0.736056252352454,
+          "ci95": [
+            0.6424507786102132,
+            0.8184368644644748
+          ]
+        },
+        "llm_context_precision_with_reference": {
+          "n": 39,
+          "mean": 0.8364265363954616,
+          "ci95": [
+            0.7427885887010478,
+            0.9155650945935874
+          ]
+        },
+        "context_recall": {
+          "n": 39,
+          "mean": 0.782051282051282,
+          "ci95": [
+            0.6623931623931624,
+            0.8888888888888888
+          ]
+        },
+        "context_entity_recall": {
+          "n": 39,
+          "mean": 0.18333333239935895,
+          "ci95": [
+            0.09273504243810542,
+            0.2846153830386752
+          ]
+        },
+        "factual_correctness_f1": {
+          "n": 39,
+          "mean": 0.35410256410256413,
+          "ci95": [
+            0.2566602564102564,
+            0.4523076923076923
+          ]
+        },
+        "semantic_similarity": {
+          "n": 39,
+          "mean": 0.7509125090188339,
+          "ci95": [
+            0.7195154102327508,
+            0.7816369926005016
+          ]
+        },
+        "noise_sensitivity_relevant": {
+          "n": 39,
+          "mean": 0.45897403250344426,
+          "ci95": [
+            0.35392379679144387,
+            0.5625047011811717
+          ]
+        }
+      }
+    },
+    "question_count": 50,
+    "metric_scored_counts": {
+      "faithfulness": 50,
+      "answer_relevancy": 50,
+      "llm_context_precision_with_reference": 50,
+      "context_recall": 50,
+      "context_entity_recall": 50,
+      "factual_correctness_f1": 50,
+      "semantic_similarity": 50,
+      "noise_sensitivity_relevant": 50
+    },
+    "metric_error_counts": {
+      "faithfulness": 0,
+      "answer_relevancy": 0,
+      "llm_context_precision_with_reference": 0,
+      "context_recall": 0,
+      "context_entity_recall": 0,
+      "factual_correctness_f1": 0,
+      "semantic_similarity": 0,
+      "noise_sensitivity_relevant": 0
+    }
+  }
+}
